@@ -1,0 +1,1807 @@
+[
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vương Lâm chế giễu Hồng Điệp rằng độc chú ở chỗ cụt tay của nàng hiện ra sao?",
+      "options": [
+        "Đã được sư phụ nàng hóa giải hẳn",
+        "Chưa giải, chỉ dùng linh lực áp chế",
+        "Đã lan khắp kinh mạch toàn thân",
+        "Đã chuyển hết sang người băng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vương Lâm nói độc chú chưa hóa giải được, nàng chỉ mượn linh lực để áp chế.",
+      "chapter": 364,
+      "source": "Tiên Nghịch ch.364"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Nhân lúc Hồng Điệp bị chú pháp hành hạ, Vương Lâm ném Khu Thú Quyển ra, nó hóa thành gì?",
+      "options": [
+        "Một tòa bảo tháp",
+        "Một chiếc la bàn",
+        "Một cái đỉnh lớn",
+        "Một chiếc chiến xa"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chiếc vòng hóa thành tàn ảnh rồi biến thành chiến xa, Thú Hồn trên đó rít gào lao ra.",
+      "chapter": 364,
+      "source": "Tiên Nghịch ch.364"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Chém lìa cánh tay phải của người băng khổng lồ, Vương Lâm làm gì với khúc tay ấy?",
+      "options": [
+        "Ném trả thẳng vào mặt Hồng Điệp",
+        "Cất ngay vào túi trữ vật",
+        "Làm vỡ liên tục cho nó nhỏ lại",
+        "Ném cho Lôi Oa nuốt mất"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Lâm thu cánh tay, dùng thanh quang rồi bạch quang làm nó vỡ vụn nhiều lần, mỗi lần nhỏ đi một nửa.",
+      "chapter": 364,
+      "source": "Tiên Nghịch ch.364"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng văn bản (xích sắt từ chiến xa khóa Hồn Thú).",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Vừa được thả ra, Hồn Thú quay sang định nuốt nguyên thần Vương Lâm. Hắn chặn nó lại bằng cách nào?",
+      "options": [
+        "Gọi Lôi Oa ra cắn trả",
+        "Dùng tiên kiếm chém cho lùi lại",
+        "Bấm quyết cho xích sắt khóa lại",
+        "Cho Băng Viêm thiêu đốt nó"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Lâm bấm quyết, xích sắt từ trong chiến xa lao ra khóa chặt Hồn Thú rồi kéo nó về.",
+      "chapter": 364,
+      "source": "Tiên Nghịch ch.364"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng fact với gd06-verify-326-344 ch.344 (Hứa Lập Quốc là kiếm hồn trong tiên kiếm), chương sau nên bỏ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Thân xác nằm trơ trước nắm đấm người băng khổng lồ, Vương Lâm gọi ai trong tiên kiếm ra đỡ đòn?",
+      "options": [
+        "Chu Dật",
+        "Hứa Lập Quốc",
+        "Tư Đồ Nam",
+        "Tôn Thái"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên thần Vương Lâm thét gọi Hứa Lập Quốc, hắc khí trên tiên kiếm điều khiển kiếm chắn trước thân thể.",
+      "chapter": 364,
+      "source": "Tiên Nghịch ch.364"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.365; bank ch.299 ghi 'Vô tình' nhưng phương án không có 'Vô tình' nên không lẫn.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "de",
+      "question": "Phân thân Hồng Điệp, nơi tích tụ cảm ngộ thiên đạo cả đời nàng, thi triển ý cảnh nào?",
+      "options": [
+        "Si ý cảnh",
+        "Tuế nguyệt ý cảnh",
+        "Tuyệt tình ý cảnh",
+        "Điên cuồng ý cảnh"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chân thân và phân thân cùng hô 'Tuyệt tình chi cảnh', ý cảnh tuyệt tình tích lũy nhiều lần trong phân thân.",
+      "chapter": 365,
+      "source": "Tiên Nghịch ch.365"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Cây nhuyễn tiên giấu trong người băng khổng lồ là trọng bảo tông môn do ai lén đưa cho Hồng Điệp?",
+      "options": [
+        "Tông chủ Băng Tuyết Thần Điện",
+        "Sư huynh của nàng",
+        "Thất trưởng lão Tuyết Vực",
+        "Một trưởng lão Chu Tước sơn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sư huynh của Hồng Điệp lặng lẽ đem Côn Cực Tiên ra để lấy lòng nàng.",
+      "chapter": 365,
+      "source": "Tiên Nghịch ch.365"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Phân thân mà Hồng Điệp liều gọi ra vốn được nàng dày công chuẩn bị cho việc gì?",
+      "options": [
+        "Giúp nàng đột phá Anh Biến",
+        "Thay nàng ứng kiếp",
+        "Giữ lại sau khi nhục thân chết",
+        "Mọc lại cánh tay đã mất"
+      ],
+      "correctIndex": 0,
+      "explanation": "Phân thân được tẩm bổ bằng bí thuật để giảm khó khăn khi nàng đột phá Anh Biến.",
+      "chapter": 365,
+      "source": "Tiên Nghịch ch.365"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Trong ảo cảnh \"Hận ý\" do phân thân Hồng Điệp tạo ra, ai xuất hiện tay cầm hồn phách người Vương gia?",
+      "options": [
+        "Đằng Hóa Nguyên",
+        "Tôn Thái",
+        "Khâu Tứ Bình",
+        "Lăng Thiên Hậu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ở cảnh Hận ý, Đằng Hóa Nguyên cười dữ tợn bước ra, tay phất vô số hồn phách người Vương gia.",
+      "chapter": 365,
+      "source": "Tiên Nghịch ch.365"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "kho",
+      "question": "Đáp lại đòn ý cảnh của phân thân Hồng Điệp, Vương Lâm khiến thứ gì hiện ra trong khe nứt trên trời?",
+      "options": [
+        "Một biển lửa đỏ ngập trời",
+        "Một vòng xoáy máu khổng lồ",
+        "Bức tranh sơn thủy đen trắng",
+        "Hàng vạn tượng gỗ tuế nguyệt"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Lâm niệm 'Luân hồi chi hạ, sinh tử thiên đạo', khe nứt mở ra bức tranh sơn thủy đen trắng sinh tử luân hồi.",
+      "chapter": 365,
+      "source": "Tiên Nghịch ch.365"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Thay phương án 'Nửa thân mộc linh' để không lộ đáp án câu ch.393 ở file khác.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Trước khi mở quang môn rời đi, vị trưởng lão Chu Tước quốc bắt Vương Lâm giao nộp vật gì?",
+      "options": [
+        "Cấm Phiên",
+        "Côn Cực Tiên",
+        "Tinh La Bàn",
+        "Băng Thần"
+      ],
+      "correctIndex": 1,
+      "explanation": "Công Tôn Phá đòi Vương Lâm trả lại Côn Cực Tiên vừa cướp của Hồng Điệp.",
+      "chapter": 366,
+      "source": "Tiên Nghịch ch.366"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Khi Hồng Điệp ra lệnh cho tam linh tự nổ để đồng quy vu tận, ai bất ngờ xuất hiện ngăn lại?",
+      "options": [
+        "Lý Nguyên Phong",
+        "Kiền Phong",
+        "Công Tôn Phá",
+        "Tôn Thái"
+      ],
+      "correctIndex": 2,
+      "explanation": "Một tầng kim quang chặn tam linh tự nổ và Công Tôn Phá hiện ra trước Hồng Điệp.",
+      "chapter": 366,
+      "source": "Tiên Nghịch ch.366"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ chữ 'mộc linh' khỏi stem vì là đáp án của câu ch.393 file khác.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vì vẫn chém lấy một phần linh thể của Hồng Điệp làm chiến lợi phẩm, Vương Lâm bị vị trưởng lão Chu Tước quốc hủy bỏ điều gì?",
+      "options": [
+        "Một nguyện vọng được ban",
+        "Thân phận ngoại triệu đệ tử",
+        "Ngọc giản bản đồ Chu Tước Sơn",
+        "Quyền vào cấm địa sau núi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ngoại triệu đệ tử được thỏa mãn một nguyện vọng, nhưng vì Vương Lâm chém lấy nửa thân linh thể, Công Tôn Phá tuyên bố hủy nguyện vọng của hắn.",
+      "chapter": 366,
+      "source": "Tiên Nghịch ch.366"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Văn bản tả lão tổ toàn thân phát hồng quang, không nói 'áo đỏ'.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lão tổ toàn thân tỏa hồng quang trong cấm địa Chu Tước Sơn sai Kiền Phong làm gì với Hồng Điệp?",
+      "options": [
+        "Truyền công giúp nàng đột phá",
+        "Áp giải nàng về Tuyết Vực",
+        "Thu nàng làm ngoại triệu đệ tử",
+        "Nuốt linh lực và ý cảnh của nàng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão tổ ra lệnh Kiền Phong cắn nuốt linh lực và ý cảnh của Hồng Điệp trước khi nàng minh ngộ hoàn toàn.",
+      "chapter": 366,
+      "source": "Tiên Nghịch ch.366"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "kho",
+      "question": "Hàn đàm trong cấm địa Chu Tước Sơn được tạo từ nước đá ba vạn năm của tinh cầu nào?",
+      "options": [
+        "Hỏa Viêm Tinh",
+        "Thiên Lôi Tinh",
+        "Toái Ngân tinh",
+        "Thiên Sương Tinh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hàn đàm làm từ nước đá của Thiên Sương Tinh, còn viêm đàm từ lửa bất diệt của Hỏa Viêm Tinh.",
+      "chapter": 366,
+      "source": "Tiên Nghịch ch.366"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Liễu Mi nhớ lại Vương Lâm năm xưa ở Hằng Nhạc phái là một thiếu niên như thế nào?",
+      "options": [
+        "Gầy gò, luôn cúi đầu",
+        "Đeo đại kiếm, mắt sáng nhất",
+        "Ôm hồ lô rượu, hay cười",
+        "Cưỡi hạc trắng, kiêu ngạo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Liễu Mi nhớ hắn là thiếu niên đeo thanh đại kiếm sau lưng, có đôi mắt sáng ngời nhất.",
+      "chapter": 367,
+      "source": "Tiên Nghịch ch.367"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Thay phương án lạc 'Ven bờ Tu Ma hải' bằng phương án hợp ngữ cảnh hơn.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Trận đồ 'Đấu chuyển' giữa không trung hút Vương Lâm tới nơi nào?",
+      "options": [
+        "Cấm địa Chu Tước Sơn",
+        "Chiến trường ngoại vực",
+        "Cực bắc đại lục Chu Tước",
+        "Sơn môn Thiên Ngọc Tông"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trận đồ đưa hắn tới một vùng hoang vắng ở cực bắc đại lục Chu Tước, nơi Tông chủ Tuyết Vực chờ sẵn.",
+      "chapter": 367,
+      "source": "Tiên Nghịch ch.367"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lão tổ Chu Tước Sơn giao cho Liễu Mi nhiệm vụ gì khi tiếp xúc với Tằng Ngưu?",
+      "options": [
+        "Lưu bóng mình trong đạo tâm hắn",
+        "Dẫn hắn về cấm địa sau núi",
+        "Giết hắn trước khi hắn Anh Biến",
+        "Thu hắn làm sư đệ đồng môn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Liễu Mi phải lưu thân ảnh trong đạo tâm hắn, lấy hắn làm lò luyện để đoạt sinh tử luân hồi ý cảnh.",
+      "chapter": 367,
+      "source": "Tiên Nghịch ch.367"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Trước Tằng Ngưu, lão tổ Chu Tước Sơn từng định chọn ai có si tình ý cảnh hiếm thấy cho Liễu Mi?",
+      "options": [
+        "Sất Hổ",
+        "Kiền Phong",
+        "Lăng Thiên Hậu",
+        "Chu Dật"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão tổ vốn chuẩn bị Chu Dật của Ngũ Tông, nhưng người này mất tích ở tiên giới.",
+      "chapter": 367,
+      "source": "Tiên Nghịch ch.367"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng lời lão già lôi thôi: danh hiệu Chu Tước năm đó lão thua sư huynh.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Lão già lôi thôi gặm chân gà nhắc rằng năm xưa mình đã thua sư huynh trong việc tranh giành gì?",
+      "options": [
+        "Ngôi tông chủ Thiên Ngọc Tông",
+        "Danh hiệu Chu Tước",
+        "Một kiện tiên khí",
+        "Vị trí lão tổ Tuyết Vực"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lão già lôi thôi than rằng năm đó lão thua, để danh hiệu Chu Tước về tay sư huynh.",
+      "chapter": 367,
+      "source": "Tiên Nghịch ch.367"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Lão tổ Cự Ma tộc cách không đoạt từ tay Vương Lâm pháp bảo nào?",
+      "options": [
+        "Tiên kiếm",
+        "Cấm Phiên",
+        "Tinh La Bàn",
+        "Xạ Thần Xa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lão già áo đen chụp một cái, tiên kiếm của Vương Lâm bay vào tay lão.",
+      "chapter": 368,
+      "source": "Tiên Nghịch ch.368"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Khi hai lão Anh Biến chia phần, Tông chủ Tuyết Vực đòi giữ pháp bảo nào của Vương Lâm?",
+      "options": [
+        "Tinh La Bàn",
+        "Xạ Thần Xa",
+        "Cấm Phiên",
+        "Côn Cực Tiên"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lý Nguyên Phong muốn cây tiểu kỳ dẫn phát được Tiên Kiếp, tức Cấm Phiên.",
+      "chapter": 368,
+      "source": "Tiên Nghịch ch.368"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Giả vờ ra tay giết Vương Lâm, Sất Hổ thực ra đã giúp hắn bằng cách nào?",
+      "options": [
+        "Ném cho hắn túi đan dược",
+        "Phá trận nhãn mở đường thoát",
+        "Lén truyền linh lực cho hắn",
+        "Chặn đòn của Lý Nguyên Phong"
+      ],
+      "correctIndex": 2,
+      "explanation": "Chưởng và cước của Sất Hổ không có lực công kích mà truyền linh lực làm Vương Lâm sung mãn trở lại.",
+      "chapter": 368,
+      "source": "Tiên Nghịch ch.368"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Sất Hổ truyền âm báo cho Vương Lâm biết đường sống nằm ở hướng nào?",
+      "options": [
+        "Góc tây bắc",
+        "Phía chính nam",
+        "Phía chính bắc",
+        "Góc đông nam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sất Hổ truyền âm rằng góc đông nam là đường sống, và Vương Lâm chạy về hướng đó.",
+      "chapter": 368,
+      "source": "Tiên Nghịch ch.368"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Vì sao lão tổ Cự Ma tộc không giết Sất Hổ dù hắn công khai giúp Vương Lâm?",
+      "options": [
+        "Mang nhiều Cự Ma Huyết nhất",
+        "Được thủy tổ Tập Ngữ chọn",
+        "Nắm bí mật kho báu của tộc",
+        "Là đệ tử thân truyền của lão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lão tổ nói chỉ vì Sất Hổ mang nhiều Cự Ma Huyết nhất trong đám tiểu bối nên mới tha, phạt bế quan trăm năm.",
+      "chapter": 368,
+      "source": "Tiên Nghịch ch.368"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng; liên quan gd06-verify-383-401 ch.394 (ý cảnh Trà) nhưng chương này sớm hơn.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Sau đòn ý cảnh của Lý Nguyên Phong, trên mặt Vương Lâm hiện ra hàng loạt dấu ấn hình gì?",
+      "options": [
+        "Bông tuyết",
+        "Lá trà",
+        "Cánh hoa hồng",
+        "Tia sét"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ý cảnh của Lý Nguyên Phong bắt nguồn từ trà, để lại dấu ấn hình lá trà làm hắn suy yếu dần.",
+      "chapter": 369,
+      "source": "Tiên Nghịch ch.369"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng; cùng fact với gd06-verify-383-401 ch.396, chương này sớm hơn nên giữ.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Theo truyện, thứ lão tổ Cự Ma tộc thực sự nhắm tới khi truy sát Vương Lâm là gì?",
+      "options": [
+        "Tinh La Bàn",
+        "Tiên kiếm có kiếm hồn",
+        "Nghịch Thiên châu",
+        "Cấm Phiên"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tinh La Bàn chỉ là cái cớ; mục đích thật của lão là viên châu thiên nghịch.",
+      "chapter": 369,
+      "source": "Tiên Nghịch ch.369"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lần đầu lão tổ Cự Ma tộc nói ra yêu cầu nào khiến Lý Nguyên Phong ngẩn người?",
+      "options": [
+        "Giữ thi thể Vương Lâm",
+        "Phải bắt sống Vương Lâm",
+        "Muốn giữ cả Cấm Phiên",
+        "Đòi Tuyết Vực trả công bày trận"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lão tổ đòi thi thể Vương Lâm để dùng bí thuật tra ra nơi giấu bảo vật.",
+      "chapter": 369,
+      "source": "Tiên Nghịch ch.369"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Tôn Thái khinh thường Lý Nguyên Phong là Anh Biến sơ kỳ nhỏ mọn, lại còn ra sao?",
+      "options": [
+        "Chưa lĩnh ngộ ý cảnh",
+        "Bị cưỡng ép thăng cấp",
+        "Thọ nguyên sắp cạn",
+        "Dựa vào trận pháp người khác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tôn Thái mắng hắn mới Anh Biến sơ kỳ, lại do cưỡng ép thăng cấp nên không đủ tư cách nói chuyện.",
+      "chapter": 369,
+      "source": "Tiên Nghịch ch.369"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Lão tổ Cự Ma tộc định dâng bảo vật cho tu chân liên minh để đổi lấy điều gì cho tộc?",
+      "options": [
+        "Một mỏ tiên ngọc",
+        "Ghế trưởng lão liên minh",
+        "Quyền cai quản Chu Tước tinh",
+        "Thân phận lục cấp"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão mong được ban thân phận lục cấp, rời Chu Tước tinh lập Cự Ma Tinh, giúp chi nhánh đứng đầu toàn tộc.",
+      "chapter": 369,
+      "source": "Tiên Nghịch ch.369"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Hóa thân cao hơn mười trượng để truy đuổi, lão tổ Cự Ma tộc cầm trong tay vũ khí gì?",
+      "options": [
+        "Trường thương",
+        "Thiết côn",
+        "Búa khai thiên",
+        "Đại đao"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thân lão hóa cao hơn mười trượng, một chiếc búa khai thiên lớn xuất hiện trong tay.",
+      "chapter": 370,
+      "source": "Tiên Nghịch ch.370"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng; liên quan gd06-verify-383-401 ch.390 (phong ấn Tôn Thái), chương này sớm hơn.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Bị lão tổ Cự Ma bám đuổi gắt gao, Tôn Thái xử lý Vương Lâm thế nào?",
+      "options": [
+        "Nhét hắn vào trong quan tài đỏ",
+        "In phong ấn lên trán, ném xuống",
+        "Giao cho thây khô canh giữ hắn",
+        "Thu hắn vào túi linh thú"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tôn Thái in một đạo phong ấn lên trán Vương Lâm rồi ném hắn xuống khu rừng rậm bên dưới.",
+      "chapter": 370,
+      "source": "Tiên Nghịch ch.370"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "vua",
+      "question": "Tôn Thái kể mình lĩnh ngộ lôi chi ý cảnh sau trăm năm bế quan ở tinh cầu nào?",
+      "options": [
+        "Thiên Lôi Tinh",
+        "Thiên Sương Tinh",
+        "Hỏa Viêm Tinh",
+        "Toái Ngân tinh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tôn Thái trả giá rất lớn để bế quan trăm năm ở Thiên Lôi Tinh mà ngộ ra lôi ý cảnh.",
+      "chapter": 370,
+      "source": "Tiên Nghịch ch.370"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Lần trọng thương này nặng nhất đời Vương Lâm, chỉ sau lần thân thể hắn bị ai hủy diệt?",
+      "options": [
+        "Tôn Lôi",
+        "Đằng Lệ",
+        "Lăng Thiên Hậu",
+        "Đằng Hóa Nguyên"
+      ],
+      "correctIndex": 3,
+      "explanation": "Truyện nói ngoại trừ lần bị Đằng Hóa Nguyên hủy thân thể, đây là lần bị thương nặng nhất.",
+      "chapter": 370,
+      "source": "Tiên Nghịch ch.370"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Lão tổ Cự Ma xin mang Vương Lâm đi bảy ngày rồi trả lại. Vì sao Tôn Thái dứt khoát từ chối?",
+      "options": [
+        "Sợ bị Chu Tước quốc truy cứu tội",
+        "Đã hứa với Sất Hổ sẽ bảo vệ hắn",
+        "Như tự giao nguyên thần cho địch",
+        "Muốn tự mình đoạt bảo vật của hắn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vì liên quan nguyên thần của lão, để đối phương mang Vương Lâm đi chẳng khác gì giao nguyên thần mình.",
+      "chapter": 370,
+      "source": "Tiên Nghịch ch.370"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng; gần fact với gd06-verify-402-421 ch.402 (thần thông tống ra khỏi Chu Tước tinh), chương này sớm hơn.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Thiên phú thần thông mà lão tổ Cự Ma tộc thi triển đã làm gì với Tôn Thái?",
+      "options": [
+        "Tống ra khỏi Chu Tước tinh",
+        "Hút cạn tiên khí trong người",
+        "Nghiền nát nhục thân",
+        "Phong ấn nguyên thần lão"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thần thông không gây thương tổn mà đưa người bị chỉ định ra khỏi Chu Tước tinh, tới một ngôi sao rất xa.",
+      "chapter": 371,
+      "source": "Tiên Nghịch ch.371"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ai đã cứu Vương Lâm về nhà chữa trị khi hắn ngất lịm bên ngoài khu rừng?",
+      "options": [
+        "Một thợ săn trong sơn thôn",
+        "Một tiêu đầu đi ngang qua",
+        "Một lang trung đi hái thuốc",
+        "Một tán tu tình cờ qua đường"
+      ],
+      "correctIndex": 2,
+      "explanation": "Người đàn ông trung niên đi núi hái thuốc bắt gặp hắn nguy kịch và đem về nhà cứu chữa.",
+      "chapter": 371,
+      "source": "Tiên Nghịch ch.371"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Sau trận chiến với Hồng Điệp, tin đồn khắp Chu Tước tinh xếp Tằng Ngưu ở vị trí nào?",
+      "options": [
+        "Đệ nhất tán tu Chu Tước tinh",
+        "Đệ nhất ngoại triệu đệ tử",
+        "Đệ nhất Hóa Thần sơ kỳ",
+        "Đệ nhất chỉ dưới Anh Biến kỳ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sứ giả các nước loan tin, cái tên Tằng Ngưu trở thành đệ nhất chỉ dưới Anh Biến kỳ.",
+      "chapter": 371,
+      "source": "Tiên Nghịch ch.371"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Vì nguyên thần Vương Lâm tan nát, bản tôn của hắn ở nơi xa bị ảnh hưởng ra sao?",
+      "options": [
+        "Tu vi tụt xuống Nguyên Anh",
+        "Chìm vào giấc ngủ say",
+        "Bị Cự Ma tộc tìm ra",
+        "Mất hết ký ức"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bản tôn cũng bị ảnh hưởng, chìm vào giấc ngủ say nên không thể tới đón hắn.",
+      "chapter": 371,
+      "source": "Tiên Nghịch ch.371"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng và nhất quán (ch.339 mười chín năm, đã qua mười năm; ch.375, ch.380 nhắc lại chín năm).",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Thành phàm nhân, Vương Lâm vẫn tự nhắc mình còn bao lâu nữa Lý Mộ Uyển lại phải nhập thiên đạo luân hồi?",
+      "options": [
+        "Ba năm",
+        "Chín năm",
+        "Mười hai năm",
+        "Một trăm năm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn nhẩm rằng chín năm sau Uyển nhi lại phải nhập luân hồi, nên quyết tâm khôi phục tu vi.",
+      "chapter": 371,
+      "source": "Tiên Nghịch ch.371"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Tên tiêu cục chỉ xuất hiện thoáng qua, quá vụn vặt.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Đoàn xe bị bọn cướp phục kích ở cốc khẩu là của tiêu cục nào?",
+      "options": [
+        "Trấn Viễn tiêu cục",
+        "Long Môn tiêu cục",
+        "Thiên Hổ tiêu cục",
+        "Thiên Uy tiêu cục"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bọn cướp hét lớn rằng Thiên Uy tiêu cục đi đường vòng cũng không thoát.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Thứ độc dược bọn cướp rắc lên người Vương Lâm phát tán khi gặp thứ gì?",
+      "options": [
+        "Nước mưa",
+        "Ánh lửa đuốc",
+        "Mùi máu tanh",
+        "Ánh trăng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hỏa Vân độc lấy máu trữ độc, lấy lửa dẫn phát; ánh đuốc vừa sáng là độc tản ra.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Cướp xong đoàn tiêu, vì sao bọn cướp mang cả Vương Lâm về sơn trại?",
+      "options": [
+        "Nuôi để lần sau dùng lại",
+        "Bán hắn làm nô lệ ở thành",
+        "Bắt làm lâu la trong trại",
+        "Đòi gia đình hắn tiền chuộc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hán tử mặt sẹo đề nghị đem hắn theo nuôi vài ngày để lần sau lại dùng chặn đường.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Trong hộp gấm cướp được của đoàn tiêu, đại đương gia sơn trại thấy vật gì?",
+      "options": [
+        "Một khối ngọc bội cổ chạm rồng",
+        "Một tấm bản đồ kho báu cũ",
+        "Viên dạ minh châu cỡ nắm tay",
+        "Một thanh đoản kiếm sắc bén"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trong hộp là viên dạ minh châu to bằng nắm tay, hắn tham lam định bán giá cao.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Chỉ là lời đoán bâng quơ của tên cướp về chất liệu túi, quá vụn vặt.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Không xé được cái túi xám lấy từ Vương Lâm, đại đương gia sơn trại lúc đầu đoán nó làm từ gì?",
+      "options": [
+        "Kim tàm sa",
+        "Long cân",
+        "Băng tằm ti",
+        "Thiên Tằm ti"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn đoán đó là Thiên Tằm ti trong truyền thuyết rồi đem lửa đốt thử, nhưng túi không hề hấn gì.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Vừa thoát khỏi nơi giam, Vương Lâm xử đại đương gia sơn trại đang bỏ chạy thế nào?",
+      "options": [
+        "Văn thú hút thành xương khô",
+        "Bàn tay vô hình bóp nát",
+        "Đốt bằng một ngọn lửa",
+        "Chém bằng phi kiếm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đại hán chạy được hai bước đã bị bàn tay khổng lồ vô hình tóm lấy, xiết thành thịt nát.",
+      "chapter": 373,
+      "source": "Tiên Nghịch ch.373"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Văn sĩ trong sơn trại cho Vương Lâm biết nơi này thuộc nước nào?",
+      "options": [
+        "Bì Lô quốc",
+        "Tuyết Vực quốc",
+        "Sở quốc",
+        "Thiên Hồn quốc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Văn sĩ trả lời đây là Bì Lô quốc ở phương bắc đại lục Chu Tước.",
+      "chapter": 373,
+      "source": "Tiên Nghịch ch.373"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Khống chế sơn trại xong, Vương Lâm bắt mọi người trong trại làm việc gì?",
+      "options": [
+        "Thả hết các nữ quyến bị bắt về",
+        "Nộp hết của cải đã cướp được",
+        "Đào nơi giam lên, tìm nguồn nước",
+        "Lập tức giải tán cả sơn trại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn ra lệnh đào địa lao lên để xem nước bên trong từ đâu chảy tới.",
+      "chapter": 373,
+      "source": "Tiên Nghịch ch.373"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Rửa sạch lớp bùn dưới đáy thủy lao, Vương Lâm thấy nguồn linh lực trong nước đến từ đâu?",
+      "options": [
+        "Một mạch linh tuyền",
+        "Ba khối cực phẩm linh thạch",
+        "Một viên nội đan yêu thú",
+        "Một khối tiên ngọc lớn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dưới đáy có trận đồ tròn đặt ba khối cực phẩm linh thạch, nên nước có linh lực dù không phải linh mạch.",
+      "chapter": 373,
+      "source": "Tiên Nghịch ch.373"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Thay phương án nhắc 'trà ý cảnh' (lộ đáp án câu ch.369) bằng phương án sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Vì sao Vương Lâm chưa thể lấy Nghịch Thiên châu ra để tích lũy linh lực giúp hồi phục?",
+      "options": [
+        "Châu bị Cự Ma tộc đoạt mất",
+        "Châu đã vỡ trong trận chiến",
+        "Túi trữ vật vẫn chưa mở được",
+        "Nguyên thần tan nát, ẩn sâu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nguyên thần tan nát ẩn sâu trong cơ thể nên hắn không lấy được châu ra, phải khôi phục nguyên thần trước.",
+      "chapter": 373,
+      "source": "Tiên Nghịch ch.373"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Bên trong trận đồ phong ấn ở đáy thủy lao có thứ gì bị đóng đầy đinh đen?",
+      "options": [
+        "Một thanh cổ kiếm",
+        "Hài cốt một nữ tử",
+        "Xác một yêu thú",
+        "Một cỗ quan tài"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đó là bộ hài cốt của một nữ tử trong tư thế quỷ dị, bị hàng loạt đinh đen đóng xuống.",
+      "chapter": 374,
+      "source": "Tiên Nghịch ch.374"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Vật nào tự lao ra khỏi túi trữ vật của Vương Lâm, hút lấy quầng sáng tím dưới đáy nước?",
+      "options": [
+        "Bức tranh cũ",
+        "Cấm Phiên",
+        "Chiếc mũ rơm",
+        "Chiếc hồ lô xanh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Bức tranh hắn vô tình có được năm xưa tự bay ra, mở ra hút quầng sáng tím rồi khép lại.",
+      "chapter": 374,
+      "source": "Tiên Nghịch ch.374"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Theo lời người trong sơn trại, nơi giam người dưới nước hình thành sau sự kiện gì?",
+      "options": [
+        "Đại đương gia cho người đào",
+        "Tu sĩ giao chiến làm sập núi",
+        "Sét đánh nứt đôi ngọn núi",
+        "Một cơn lốc làm núi vỡ vụn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Văn sĩ kể nhiều năm trước một cơn lốc làm ngọn núi hoang vỡ vụn, thủy lao mới lộ ra.",
+      "chapter": 374,
+      "source": "Tiên Nghịch ch.374"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Để 'dĩ độc công độc' phá phong ấn trên người, Vương Lâm ngậm vào miệng vật gì?",
+      "options": [
+        "Cực phẩm linh thạch",
+        "Vấn Đỉnh Chi Tinh",
+        "Tiên ngọc",
+        "Kim tử thạch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn ngậm một khối tiên ngọc, dùng tiên lực khổng lồ đánh vào phong ấn và vết sẹo trà ý cảnh.",
+      "chapter": 374,
+      "source": "Tiên Nghịch ch.374"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Canh giữ bên Vương Lâm, Văn thú nhìn về hướng Sở quốc vì nhớ con vật nào hay tranh đấu với nó?",
+      "options": [
+        "Giao long đỏ",
+        "Lôi Oa",
+        "Kỳ Lân tiên thú",
+        "Thú hồn chiến xa"
+      ],
+      "correctIndex": 1,
+      "explanation": "Văn thú nhớ Lôi Oa, dù hai con thường xuyên tranh đấu.",
+      "chapter": 374,
+      "source": "Tiên Nghịch ch.374"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "de",
+      "question": "Khi vết sẹo trên mặt tiêu đi một phần mười, tu vi Vương Lâm hồi phục tới cảnh giới nào?",
+      "options": [
+        "Ngưng Khí tầng chín",
+        "Trúc Cơ sơ kỳ",
+        "Kết Đan sơ kỳ",
+        "Nguyên Anh sơ kỳ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phong ấn lơi lỏng, tu vi hắn khôi phục tới Trúc Cơ sơ kỳ, đủ miễn cưỡng dùng nhiều pháp bảo.",
+      "chapter": 375,
+      "source": "Tiên Nghịch ch.375"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Cần nơi linh lực sung túc để tu luyện, Vương Lâm nhắm tới tông môn nào ở phía nam?",
+      "options": [
+        "Thi Âm tông",
+        "Vân Thiên tông",
+        "Luyện Hồn tông",
+        "Hằng Nhạc phái"
+      ],
+      "correctIndex": 2,
+      "explanation": "Theo ngọc giản bản đồ, hắn chọn Luyện Hồn tông, một trong tam đại môn phái của nước này.",
+      "chapter": 375,
+      "source": "Tiên Nghịch ch.375"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Ở tông môn Vương Lâm nhắm tới, muốn có thân phận đệ tử ngoại vi chỉ cần làm gì?",
+      "options": [
+        "Thắng cuộc thi ba năm một lần",
+        "Được trưởng lão tiến cử",
+        "Qua thử thách cột hắc vụ",
+        "Nộp đủ một số linh thạch"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chỉ cần nộp đủ linh thạch là có thân phận ngoại vi một thời gian, giống như thuê động phủ.",
+      "chapter": 375,
+      "source": "Tiên Nghịch ch.375"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Bị hồng phát lão giả bảo đã quá ngày thu đệ tử, Vương Lâm dâng vật gì để được phá lệ?",
+      "options": [
+        "Một thanh phi kiếm",
+        "Một khối tiên ngọc",
+        "Ba khối cực phẩm linh thạch",
+        "Một viên dạ minh châu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn dâng hộp gấm đựng một thanh phi kiếm, nói là được tu sĩ Kết Đan tặng khi hộ pháp trị thương.",
+      "chapter": 375,
+      "source": "Tiên Nghịch ch.375"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Thường Đại Vĩ là nhân vật phụ chỉ xuất hiện một lần, quá vụn vặt.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Hồng phát lão giả giao Vương Lâm cho ai nhận làm đệ tử ngoại vi?",
+      "options": [
+        "Lâm Dịch",
+        "Vệ Tam",
+        "Thường Đại Vĩ",
+        "Tôn Hữu Tài"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lão giả gọi Thường Đại Vĩ, một nam tử tóc tai bù xù, giao Vương Lâm cho hắn nhận làm ngoại vi.",
+      "chapter": 375,
+      "source": "Tiên Nghịch ch.375"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ tên 'Luyện Hồn tông' khỏi stem vì là đáp án câu ch.375.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Khi nhận động phủ ở tông môn vừa gia nhập, Vương Lâm xưng tên mình là gì?",
+      "options": [
+        "Thanh Mộc",
+        "Lâm Dịch",
+        "Vương Chấn",
+        "Quách Đông Kiện"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vương Lâm giấu tên thật, tự xưng là đệ tử Thanh Mộc.",
+      "chapter": 376,
+      "source": "Tiên Nghịch ch.376"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Trận pháp chằng chịt trên nền động phủ số 803 thực chất là loại trận gì?",
+      "options": [
+        "Truyền tống trận",
+        "Mê huyễn trận",
+        "Tụ linh trận",
+        "Hộ sơn đại trận"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trông phức tạp nhưng đó chỉ là tụ linh trận đơn giản, lớp ngoài để chống học trộm.",
+      "chapter": 376,
+      "source": "Tiên Nghịch ch.376"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Stem cũ lộ việc tiên kiếm bị lão tổ Cự Ma đoạt (đáp án câu ch.368).",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Bị ép hiện hình và bị uy hiếp, kiếm hồn trong thanh tiên kiếm của Vương Lâm đã đối phó ra sao?",
+      "options": [
+        "Tự bạo để thoát khỏi kiếm",
+        "Giả vờ quy phục lão tổ",
+        "Im lặng chống cự tới cùng",
+        "Bỏ trốn về tìm Vương Lâm"
+      ],
+      "correctIndex": 1,
+      "explanation": "Kiếm hồn cầu xin lão tổ Cự Ma tộc tha mạng, chửi Vương Lâm và thề trung thành, nhưng trong lòng vẫn chờ Vương Lâm tới cứu.",
+      "chapter": 376,
+      "source": "Tiên Nghịch ch.376"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Ngọc giản Chu Tước lão tổ gửi cho Liễu Mi có công dụng gì?",
+      "options": [
+        "Chỉ đường vào nội môn Luyện Hồn tông",
+        "Truyền tin thẳng về Chu Tước quốc",
+        "Hóa giải trà ý cảnh trên người",
+        "Báo khi Tằng Ngưu ở trong trăm dặm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Ngọc giản không tìm ra Tằng Ngưu nhưng sẽ phát sáng nếu hắn ở trong vòng một trăm dặm.",
+      "chapter": 376,
+      "source": "Tiên Nghịch ch.376"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "kho",
+      "question": "Bị ma đồng của Tôn Thái truy đuổi, lão tổ Cự Ma tộc cắt đuôi nó bằng cách dẫn nó tới đâu?",
+      "options": [
+        "Vùng biển Tu Ma hải",
+        "Băng nguyên Tuyết Vực quốc",
+        "Bắc cực Chu Tước tinh",
+        "Rừng núi quanh Hỏa Vân trại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lão dẫn ma đồng tới bắc cực, lợi dụng cấm chế tự nhiên của Chu Tước tinh để thoát.",
+      "chapter": 376,
+      "source": "Tiên Nghịch ch.376"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Để phá tiểu trận trong trận nhãn, Vương Lâm dùng phương pháp độc môn do chính hắn sáng tạo nào?",
+      "options": [
+        "Tàn ảnh cấm chế",
+        "Cực cảnh thần thức",
+        "Cổ thần phá",
+        "Dẫn lực thuật"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn dung hợp vô số tàn ảnh thành một tàn ảnh cấm chế rồi đánh vào trận pháp.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng với gd06-verify-345-363 ch.359 (Băng Tuyết Thần Điện thuộc Tuyết Vực quốc) và bị stem câu Tông chủ Tuyết Vực lộ đáp án.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Sau khi thoát thân, Lý Nguyên Phong ngồi dưỡng thương trong thần điện thuộc nước nào?",
+      "options": [
+        "Chu Tước quốc",
+        "Bì Lô quốc",
+        "Sở quốc",
+        "Tuyết Vực quốc"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lý Nguyên Phong ngồi giữa năm khối băng trong băng tuyết thần điện của Tuyết Vực quốc.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lý Nguyên Phong bị thương khi định nhân lúc hỗn chiến giết Vương Lâm. Đòn nào đã đánh trúng hắn?",
+      "options": [
+        "Quyền ấn của ma đồng",
+        "Tiên lôi của Tôn Thái",
+        "Cấm Phiên của Vương Lâm",
+        "Thông thiên thuật Cự Ma tộc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tôn Thái phóng một đạo tiên lôi truy kích, Lý Nguyên Phong trăm cay ngàn đắng mới thoát.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Nhờ đâu Lý Nguyên Phong đạt được Anh Biến sơ kỳ?",
+      "options": [
+        "Nuốt tiên ngọc ở Tiên Giới",
+        "Bí thuật của Chu Tước quốc",
+        "Đoạt xá một lão quái Anh Biến",
+        "Bế quan trăm năm tự đột phá"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn được Chu Tước quốc trợ giúp, dùng bí thuật miễn cưỡng nâng tu vi, cả đời không thể tiến thêm.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Tên khôn tinh nham chỉ dùng một lần, câu gốc lỗi; stem còn lộ đáp án 'tụ linh trận' của câu ch.376.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Gỡ tụ linh trận, Vương Lâm thấy bên dưới là khối linh thạch đỏ nào, trời sinh hấp thu được linh lực?",
+      "options": [
+        "Kim tử thạch",
+        "Mặc Gian thạch",
+        "Toái Tinh Thiết",
+        "Khôn tinh nham"
+      ],
+      "correctIndex": 3,
+      "explanation": "Viên linh thạch đỏ cỡ nắm tay dưới trận pháp là khôn tinh nham.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Người đàn ông đang chiếm động phủ số 743 có dáng vẻ ra sao?",
+      "options": [
+        "Như một tên đồ tể",
+        "Như một thư sinh yếu ớt",
+        "Như một lão ăn mày",
+        "Như một đạo sĩ tiên phong"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn mặc hắc y, mặt đầy thịt, trông như đồ tể chứ không giống tu sĩ.",
+      "chapter": 378,
+      "source": "Tiên Nghịch ch.378"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Khi nam tử trung niên đánh lén ban đêm, Vương Lâm dùng pháp bảo nào đánh vỡ cả phi kiếm của hắn?",
+      "options": [
+        "Tinh La Bàn",
+        "Xạ Thần xa",
+        "Cấm Phiên",
+        "Bảo tháp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Cấm khí từ Cấm Phiên phá tan thanh quang rồi đánh vỡ phi kiếm luyện bằng kim đan.",
+      "chapter": 378,
+      "source": "Tiên Nghịch ch.378"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vì sao Vương Lâm nhất định đòi đổi sang động phủ số 743?",
+      "options": [
+        "Có tụ linh trận mạnh nhất",
+        "Xa tầm mắt của quản sự",
+        "Sát động phủ của Liễu Mi",
+        "Ở gần linh nhãn thật sự"
+      ],
+      "correctIndex": 3,
+      "explanation": "Từ cách phân bố ngụy linh nhãn, hắn đoán động phủ 743 đã ở gần linh nhãn chính thức.",
+      "chapter": 378,
+      "source": "Tiên Nghịch ch.378"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Đêm đó nam tử trung niên lẻn vào động phủ Vương Lâm định làm gì?",
+      "options": [
+        "Đòi thêm trung phẩm linh thạch",
+        "Bắt tra hỏi bí quyết tu luyện",
+        "Đuổi hắn khỏi Luyện Hồn tông",
+        "Dẫn hắn đi gặp trưởng lão"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tham lam tốc độ tu luyện của Vương Lâm, hắn định bắt sống tra hỏi rồi mới giết.",
+      "chapter": 378,
+      "source": "Tiên Nghịch ch.378"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Theo truyện, Liễu Mi mà Vương Lâm gặp ở Huyền Đạo Tông năm xưa thật ra là gì?",
+      "options": [
+        "Một con rối khôi lỗi giống hệt",
+        "Thân xác bị người khác đoạt xá",
+        "Phân thân do thiên huyễn thuật",
+        "Chị em song sinh với bản thể"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liễu Mi ở Huyền Đạo Tông chỉ là phân thân, khác với bản thể nên Vương Lâm không nhận ra.",
+      "chapter": 378,
+      "source": "Tiên Nghịch ch.378"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Nam tử trung niên định tự bạo kim đan, Vương Lâm xử lý viên kim đan đó thế nào?",
+      "options": [
+        "Lôi ra rồi nuốt vào bụng",
+        "Bóp nát ngay trong tay",
+        "Phong ấn vào trong Cấm Phiên",
+        "Ném sâu xuống linh mạch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cấm khí chui vào cơ thể lôi kim đan ra, Vương Lâm nhìn qua rồi nuốt luôn.",
+      "chapter": 379,
+      "source": "Tiên Nghịch ch.379"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Sau khi Vương Lâm hấp thu, linh mạch cả ngọn núi của ngoại vi đệ tử biến thành gì?",
+      "options": [
+        "Phế mạch",
+        "Linh nhãn mới",
+        "Hỏa mạch",
+        "Băng mạch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chỉ trong mười lần hô hấp linh mạch cạn sạch, cây cối héo rũ.",
+      "chapter": 379,
+      "source": "Tiên Nghịch ch.379"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Linh uy khổng lồ trong linh mạch giúp Vương Lâm điều quan trọng nào?",
+      "options": [
+        "Mọi vết sẹo trên mặt biến mất",
+        "Phong ấn của Tôn Thái tan hẳn",
+        "Nguyên thần vỡ bắt đầu liền lại",
+        "Thân thể hóa thành cổ thần"
+      ],
+      "correctIndex": 2,
+      "explanation": "Dưới uy áp ấy, các mảnh nguyên thần tan nát dần thu lại như gương vỡ ghép lại.",
+      "chapter": 379,
+      "source": "Tiên Nghịch ch.379"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Muốn tăng linh uy trong linh mạch lên gấp bội, Vương Lâm đã làm gì?",
+      "options": [
+        "Phá trận nhãn tụ linh trận",
+        "Cho nổ cực phẩm linh thạch",
+        "Thả Văn thú ra hút linh lực",
+        "Đốt cháy một phần nguyên thần"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn cho vỡ năm khối cực phẩm linh thạch, khiến linh uy tăng vọt.",
+      "chapter": 379,
+      "source": "Tiên Nghịch ch.379"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng; là tu vi Vương Lâm khôi phục được khi bị phong ấn, stem rõ chủ thể.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "kho",
+      "question": "Lần hấp thu linh mạch ấy giúp tu vi Vương Lâm khôi phục tới mức nào?",
+      "options": [
+        "Kết Đan hậu kỳ đỉnh",
+        "Nguyên Anh sơ kỳ đỉnh",
+        "Hóa Thần sơ kỳ đỉnh",
+        "Nguyên Anh trung kỳ đỉnh"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tu vi phá liền mấy tầng từ Trúc Cơ, dừng ở đỉnh Nguyên Anh trung kỳ.",
+      "chapter": 379,
+      "source": "Tiên Nghịch ch.379"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ tên 'Tiểu Bạch' khỏi stem vì là đáp án câu ch.360 file khác.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ở Sở quốc, Tiểu Chu đòi con hổ cưỡi của mình học kêu như con vật nào?",
+      "options": [
+        "Con chó",
+        "Con gà",
+        "Con mèo",
+        "Con ếch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tiểu Chu nghĩ ra trò vui là bắt con hổ Tiểu Bạch kêu như mèo.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng câu ch.374 (ngậm tiên ngọc phá phong ấn), bị lộ đáp án.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Trong động phủ mới ở ngọn núi bên cạnh, Vương Lâm nuốt thứ gì để công phá trà ý cảnh và phong ấn?",
+      "options": [
+        "Một miếng tiên ngọc",
+        "Huyết tinh sát khí",
+        "Một khối cực phẩm linh thạch",
+        "Vấn Đỉnh chi tinh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn nuốt một miếng tiên ngọc để mạnh mẽ tấn công trà ý cảnh và phong ấn.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Tên quản sự Lưu Phúc Lâm chỉ nêu một lần, quá vụn vặt.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Quản sự ngoại vi đệ tử từng nổi lòng tham với Vương Lâm rồi bị hắn giết tên là gì?",
+      "options": [
+        "Vương Chấn",
+        "Quách Đông Kiện",
+        "Lâm Dịch",
+        "Lưu Phúc Lâm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão giả nội môn gọi tên Lưu Phúc Lâm, chính là nam tử trung niên kia.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ tên tông khỏi stem và chữ 'luyện hồn' khỏi đáp án để không lộ đáp án câu ch.375.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vương Lâm quyết giành suất vào nội môn tông môn mình đang ở chủ yếu vì điều gì?",
+      "options": [
+        "Tránh sự truy lùng của Cự Ma tộc",
+        "Hút chủ mạch, học công pháp hồn phiên",
+        "Tìm Liễu Mi dò xét ý đồ",
+        "Gặp Độn Thiên thủy tổ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chủ mạch linh mạch nằm ở nội môn, lại có công pháp luyện hồn phiên hắn muốn học.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng fact với câu ch.373 (không lấy được Nghịch Thiên châu) và bị stem câu đó lộ đáp án.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Dù nguyên thần đã hồi phục một phần, Vương Lâm thử và thấy mình vẫn chưa làm được việc gì?",
+      "options": [
+        "Gọi Văn thú ra khỏi túi",
+        "Lấy Nghịch Thiên châu ra",
+        "Thi triển lại ý cảnh",
+        "Che giấu tu vi trước Nguyên Anh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên thần chưa thu lại hoàn toàn nên hắn chưa thể lấy Nghịch Thiên châu ra.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ tên 'Luyện Hồn tông' khỏi stem vì là đáp án câu ch.375.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Theo luật đại hội ngoại vi đệ tử ở tông môn Vương Lâm gia nhập, người thắng có được giết kẻ thua không?",
+      "options": [
+        "Không, sẽ bị trục xuất",
+        "Chỉ khi kẻ thua đồng ý",
+        "Chỉ ở trận chung kết",
+        "Được, không ai quan tâm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đại hội chỉ cần phân thắng thua, không kể sinh tử; giết hết cũng không ai quản.",
+      "chapter": 381,
+      "source": "Tiên Nghịch ch.381"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Trong các trận đấu ở đại hội, Vương Lâm xử lý đối thủ của mình thế nào?",
+      "options": [
+        "Phất tay khiến họ hôn mê",
+        "Giết sạch để hút hồn phách",
+        "Dùng Cấm Phiên trói chặt lại",
+        "Đánh văng xuống bằng hỏa cầu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn không muốn giết vãn bối nên chỉ phất tay làm đối thủ ngất đi.",
+      "chapter": 381,
+      "source": "Tiên Nghịch ch.381"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng câu ch.367 (Liễu Mi nhớ thiếu niên đeo đại kiếm).",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Để gợi nhớ, Liễu Mi nhắc tới hình ảnh nào của Vương Lâm thời còn ở Hằng Nhạc phái?",
+      "options": [
+        "Thiếu niên cưỡi hạc trắng",
+        "Thiếu niên luyện đan bên lò",
+        "Thiếu niên lưng đeo đại kiếm",
+        "Thiếu niên ôm hồ lô rượu"
+      ],
+      "correctIndex": 2,
+      "explanation": "Liễu Mi gọi hắn là sư huynh và nhắc hình ảnh thiếu niên đeo đại kiếm năm xưa.",
+      "chapter": 381,
+      "source": "Tiên Nghịch ch.381"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.381; khác fact bank ch.314 (Hồng Điệp dùng vòng ngọc chứng tỏ thân phận).",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Vương Lâm chắc chắn Liễu Mi là người Chu Tước quốc vì từng thấy vật nào của nàng trên người kẻ khác?",
+      "options": [
+        "Cây trâm cài tóc",
+        "Miếng ngọc bội",
+        "Chiếc nhẫn trữ vật",
+        "Chiếc vòng đeo tay"
+      ],
+      "correctIndex": 3,
+      "explanation": "Gió thổi lộ chiếc vòng trên tay nàng, thứ hắn từng thấy trên người Hồng Diệp.",
+      "chapter": 381,
+      "source": "Tiên Nghịch ch.381"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "kho",
+      "question": "Vương Lâm cho rằng Chu Tước quốc sắp mạt vận vì cảm nhận trong nước này có thứ gì?",
+      "options": [
+        "Sát khí ngút trời",
+        "Một luồng tử khí",
+        "Oán khí của oan hồn",
+        "Ma khí của Cự Ma tộc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn thấy trong Chu Tước quốc có tử khí như mất đi sinh khí, nên đoán nước này sắp suy.",
+      "chapter": 381,
+      "source": "Tiên Nghịch ch.381"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Lần đầu thấy Tử chú thuật ở đại hội, Vương Lâm thoạt tiên ngỡ đó là thần thông nào?",
+      "options": [
+        "Cổ thần phá",
+        "Thôn hồn",
+        "Cực Cảnh",
+        "Thông thiên thuật"
+      ],
+      "correctIndex": 2,
+      "explanation": "Pháp thuật ấy giống Cực Cảnh nên hắn liên tưởng ngay, nhìn kỹ mới thấy khác hẳn.",
+      "chapter": 382,
+      "source": "Tiên Nghịch ch.382"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Đối thủ ở trận đấu cuối cùng của Vương Lâm trong đại hội ngoại vi là ai?",
+      "options": [
+        "Lão giả họ Tư Mã",
+        "Gã béo phóng hỏa cầu",
+        "Lưu Phúc Lâm",
+        "Vương Chấn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sau vòng loại chỉ còn Vương Lâm và lão giả họ Tư Mã đấu trận cuối.",
+      "chapter": 382,
+      "source": "Tiên Nghịch ch.382"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Thiếu niên gầy gò Kết Đan sơ kỳ gây chú ý ở đại hội nhờ điều gì?",
+      "options": [
+        "Trực giác như dã thú",
+        "Thân thể đao thương bất nhập",
+        "Kiếm pháp nhanh như chớp",
+        "Thôn phệ hồn phách đối thủ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Cậu cảm nhận được dao động pháp thuật trước khi đối phương thi triển.",
+      "chapter": 382,
+      "source": "Tiên Nghịch ch.382"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vì sao mãng hán từng ở động phủ 743 vội nhận thua khi gặp Vương Lâm trên đài?",
+      "options": [
+        "Được trưởng lão dặn nhường",
+        "Bị trọng thương từ trận trước",
+        "Trong người có cấm chế của hắn",
+        "Muốn lấy lòng Liễu Mi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn sợ Vương Lâm chỉ động tâm niệm là cấm chế trong người sẽ lấy mạng mình.",
+      "chapter": 382,
+      "source": "Tiên Nghịch ch.382"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp văn bản chương, phương án rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "kho",
+      "question": "Muốn luyện Tử chú thuật phải hợp nhất ba loại khí nào?",
+      "options": [
+        "Linh khí, tiên khí, ma khí",
+        "Tử khí, âm khí, sát khí",
+        "Sát khí, oán khí, hồn khí",
+        "Âm khí, dương khí, ma khí"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tử chú thuật đòi tam khí quy nhất: tử khí, âm khí và sát khí.",
+      "chapter": 382,
+      "source": "Tiên Nghịch ch.382"
+    }
+  }
+]

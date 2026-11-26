@@ -1,0 +1,594 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Kẻ rao bán Tạo Hóa Đan đòi tới 2000 Đoạt Linh Đan, Vương Lâm nghe giọng mà đoán đó là ai?",
+    "options": [
+      "Vương Hạo",
+      "Vương Trác",
+      "Trương Cuồng",
+      "Tôn Hạo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm thấy giọng điệu cuồng ngạo quen thuộc, đoán tám chín phần là Vương Trác.",
+    "chapter": 33,
+    "source": "Tiên Nghịch ch.33",
+    "evidence": "Nghe ngữ khí kẻ bán Tạo Hóa Đan, hắn thầm nghĩ \"tên này tám chín phần mười là Vương Trác\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Giao dịch hội vừa tan, Vương Lâm thoát thân thật nhanh bằng cách nào?",
+    "options": [
+      "Ngự phi kiếm bay về núi",
+      "Nấp sau lưng Vương Hạo",
+      "Dán chồng hàng chục tấm tiên phù lên chân",
+      "Dùng Dẫn Lực Thuật nâng mình lên"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tiên phù dán chồng lên nhau giúp tăng tốc, nên hắn chạy biến mất trong chớp mắt.",
+    "chapter": 33,
+    "source": "Tiên Nghịch ch.33",
+    "evidence": "Hắn dán nhiều tiên phù lên chân; tiên phù \"có thể chồng lên nhau để tăng tốc độ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao câu \"có thêm chất lỏng thì đến hậu sơn tìm ta\" của nam tử tử y lại nguy hiểm cho Vương Lâm?",
+    "options": [
+      "Khiến hắn bị buộc nộp hết cho môn phái",
+      "Làm lộ mặt thật của hắn trước mọi người",
+      "Khiến Tôn Đại Trụ nghi ngờ hắn",
+      "Khiến kẻ tham lam nhắm vào hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Câu nói ngầm báo cho ai cũng biết chất lỏng đáng giá, đẩy Vương Lâm vào tầm ngắm.",
+    "chapter": 33,
+    "source": "Tiên Nghịch ch.33",
+    "evidence": "Vương Lâm hiểu chỉ một câu ấy \"đã đẩy Vương Lâm tới bờ vực nguy hiểm\", có người để ý tới hắn."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Các đệ tử tu vi cao không dám công khai đuổi giết Vương Lâm sau giao dịch hội vì sợ ai biết chuyện?",
+    "options": [
+      "Phương sư phụ",
+      "Tôn Đại Trụ",
+      "Trương sư huynh",
+      "Sư thúc Đạo Hư"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giết người đoạt bảo ngay giữa giao dịch hội, nếu Phương sư phụ biết thì chắc chắn không xong.",
+    "chapter": 33,
+    "source": "Tiên Nghịch ch.33",
+    "evidence": "Dám giết người đoạt bảo tại giao dịch hội thì \"bị Phương sư phụ biết được thì chắc chắn sẽ không xong\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Chưởng môn lấy trọng bảo nào của Hằng Nhạc phái làm phần thưởng cho người đứng đầu tỷ thí cuối năm?",
+    "options": [
+      "Tử Nhạc Tiên Kiếm",
+      "Tạo Hóa Đan",
+      "Song Nguyệt Hoàn",
+      "Cự Phú phi kiếm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Song Nguyệt Hoàn, di vật vừa công vừa thủ của một tiền bối, là phần thưởng hạng nhất.",
+    "chapter": 34,
+    "source": "Tiên Nghịch ch.34",
+    "evidence": "Chưởng môn xuất ra \"trọng bảo bản phái - Song Nguyệt Hoàn\" cho người giành vị trí đứng đầu."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai trở thành tân nhân vương trong cuộc tỷ thí của đệ tử mới năm ấy?",
+    "options": [
+      "Vương Trác",
+      "Vương Hạo",
+      "Vương Lâm",
+      "Nữ tử họ Chu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đúng như dự đoán, Vương Trác đoạt danh tân nhân vương và càng thêm ngông cuồng.",
+    "chapter": 34,
+    "source": "Tiên Nghịch ch.34",
+    "evidence": "Về phần Vương Trác, không ngoài dự đoán, hắn đã trở thành tân nhân vương."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao chưởng môn ra lệnh cho phần lớn đệ tử nội môn tập huấn suốt bốn năm?",
+    "options": [
+      "Để chuẩn bị tranh đoạt Song Nguyệt Hoàn",
+      "Trăm năm qua toàn thua Huyền Đạo Tông",
+      "Để chống lại một ma đầu sắp tới",
+      "Vì hậu sơn sắp đóng cửa vĩnh viễn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hai phái giao lưu hai mươi năm một lần, mấy lần gần đây Hằng Nhạc đều thua nên mới tập huấn.",
+    "chapter": 34,
+    "source": "Tiên Nghịch ch.34",
+    "evidence": "Tôn Đại Trụ nói mấy lần luận bàn trong trăm năm \"chúng ta đều thua đối phương\", vì thế mới có tập huấn."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trong đệ tử nội môn, ai đoạt giải nhất tỷ thí cuối năm, được cho là nhờ nhị sư huynh tử y không tham gia?",
+    "options": [
+      "Trương Cuồng",
+      "Vương Trác",
+      "Tôn Hạo",
+      "Trương sư huynh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm nghe tin Trương sư huynh đứng nhất, vì người mặc tử y không dự thi.",
+    "chapter": 34,
+    "source": "Tiên Nghịch ch.34",
+    "evidence": "Trong đệ tử môn nội thì Trương sư huynh đoạt giải nhất, vì \"không có tên tử y lúc trước tham gia\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao Vương Lâm không nghe tiếng chuông triệu tập, khiến Tôn Đại Trụ phải đá tung cửa khu tạp vụ?",
+    "options": [
+      "Hắn đang luyện đan trong Dược Viên",
+      "Đang ở trong mộng cảnh của hạt châu",
+      "Hắn đã lén xuống núi",
+      "Hắn đang uống hồ lô linh khí và ngất đi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đang tu luyện trong mộng cảnh của hạt châu nên hắn không nghe thấy chuông.",
+    "chapter": 34,
+    "source": "Tiên Nghịch ch.34",
+    "evidence": "Vương Lâm \"đang ở trong không gian mộng cảnh nên không nghe được\", tỉnh lại thì vội thu hạt châu."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Nhị sư huynh mặc tử y quản hậu sơn, người từng đổi Linh Khí Tuyền Thủy với Vương Lâm, tên là gì?",
+    "options": [
+      "Tôn Hạo",
+      "Đạo Hư",
+      "Trương Cuồng",
+      "Vương Hạo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm nhận ra người ấy chính là nhị sư huynh Trương Cuồng, Ngưng Khí tầng sáu.",
+    "chapter": 35,
+    "source": "Tiên Nghịch ch.35",
+    "evidence": "Thanh niên tử y chính là người trao đổi Linh Khí Tuyền Thủy với hắn, \"nhi sư huynh Trương Cuồng\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Sơn cốc tập huấn ở hậu sơn Hằng Nhạc phái có cảnh tượng thế nào?",
+    "options": [
+      "Rừng linh thảo bạt ngàn",
+      "Một hồ nước lớn giữa núi tuyết",
+      "Mấy tòa lầu các san sát",
+      "Vách đá trơ trụi chi chít cửa động như tổ ong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trong cốc không có cây cỏ, chỉ có vách đá khổng lồ với vô số cửa động.",
+    "chapter": 35,
+    "source": "Tiên Nghịch ch.35",
+    "evidence": "Trên vách đá dựng đứng có vô số cửa động \"chi chít như tổ ong\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo chưởng môn, đệ tử được mặc tử y ở Hằng Nhạc phái mang thân phận gì?",
+    "options": [
+      "Đệ tử nòng cốt, vượt xa đệ tử nội môn",
+      "Đệ tử ký danh mới nhập môn",
+      "Đệ tử phụ trách Kiếm Linh các",
+      "Đệ tử bị phạt diện bích"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chưởng môn mong sau bốn năm có người được mặc tử y, đại biểu đệ tử nòng cốt.",
+    "chapter": 35,
+    "source": "Tiên Nghịch ch.35",
+    "evidence": "Người mặc tử y \"đại biểu cho đệ tử nòng cốt Hằng Nhạc Phái, vượt xa nội môn đệ tử\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Huyệt động tu luyện của Vương Lâm ở hậu sơn thiếu thứ gì mà hắn cần cho cách tu luyện riêng?",
+    "options": [
+      "Giường đá",
+      "Nước",
+      "Cửa đá đóng mở",
+      "Linh khí nồng đậm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn tu luyện chủ yếu nhờ linh khí dịch thể nên thiếu nước là bất tiện, may còn nước tuyết dự trữ.",
+    "chapter": 35,
+    "source": "Tiên Nghịch ch.35",
+    "evidence": "Chỉ có một điểm không tốt, \"trong huyệt động không có nước\"; hắn còn tích nước tuyết trong túi."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Theo Trương Cuồng, hậu sơn tu luyện của đệ tử nội môn được ai mở ra?",
+    "options": [
+      "Chưởng môn đời này một mình khai phá",
+      "Huyền Đạo Tông tặng lại",
+      "Các thủy tổ hợp sức các tiền bối Nguyên Anh kỳ",
+      "Một tán tu Kết Đan kỳ để lại"
+    ],
+    "correctIndex": 2,
+    "explanation": "Từ ngàn năm trước, thủy tổ tập hợp các tiền bối Nguyên Anh kỳ mở ra nơi này.",
+    "chapter": 35,
+    "source": "Tiên Nghịch ch.35",
+    "evidence": "Ngàn năm trước các thủy tổ \"tập trung tất cả các vị tiền bối Nguyên Anh Kỳ\" mở nơi này."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thanh niên bạch y cùng Vương Trác chế giễu, ném bình bắt Vương Lâm đi lấy nước tên là gì?",
+    "options": [
+      "Tôn Hạo",
+      "Vương Hạo",
+      "Trương Cuồng",
+      "Lưu sư huynh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trương sư huynh quát đích danh Vương Trác và Tôn Hạo vì tội khi dễ sư đệ.",
+    "chapter": 36,
+    "source": "Tiên Nghịch ch.36",
+    "evidence": "Trương sư huynh quát: \"Vương Trác, Tôn Hạo, hai người các ngươi không đi tu luyện\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai từ vách núi lao xuống quát dừng Vương Trác và đồng bọn đang ức hiếp Vương Lâm?",
+    "options": [
+      "Trương Cuồng",
+      "Tôn Đại Trụ",
+      "Chưởng môn áo lam",
+      "Trương sư huynh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trương sư huynh hạ xuống như hắc ảnh, khiến hai kẻ kia sợ hãi im miệng.",
+    "chapter": 36,
+    "source": "Tiên Nghịch ch.36",
+    "evidence": "Một đạo hắc ảnh bắn xuống, \"mới lộ ra thân ảnh Trương sư huynh\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Ngưng Khí kỳ tầng ba của Vương Lâm có điểm gì cổ quái?",
+    "options": [
+      "Linh khí liên tục tiêu tán",
+      "Không có cực hạn, linh khí cứ tăng mãi",
+      "Thần thức bị phong bế hoàn toàn",
+      "Không thể dùng Dẫn Lực Thuật"
+    ],
+    "correctIndex": 1,
+    "explanation": "Khác hai tầng trước, tầng ba dường như vô hạn, thổ nạp vẫn tăng linh khí.",
+    "chapter": 36,
+    "source": "Tiên Nghịch ch.36",
+    "evidence": "Tầng thứ ba \"giống như không có cực hạn vậy\", linh khí vẫn không ngừng gia tăng."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Sau nhiều năm khổ luyện trong mộng cảnh, Vương Lâm dùng thuật gì để bay xuống cốc mà vẫn khống chế được thân hình?",
+    "options": [
+      "Khu Vật Thuật",
+      "Ngự Kiếm Thuật",
+      "Dẫn Lực Thuật",
+      "Ẩn nấp thuật"
+    ],
+    "correctIndex": 2,
+    "explanation": "Luyện Dẫn Lực Thuật hơn chục năm đến lô hỏa thuần thanh, hắn dùng nó để điều khiển thân mình bay.",
+    "chapter": 36,
+    "source": "Tiên Nghịch ch.36",
+    "evidence": "Hắn đang bay trên không lúc này \"chính là dùng Dẫn Lực Thuật khống chế thân hình\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vì sao Vương Lâm chưa dám dùng hồ lô lộ thủy cuối cùng trong ba hồ lô hắn chôn năm xưa?",
+    "options": [
+      "Vì đã hứa để dành cho Vương Hạo",
+      "Vì sợ Trương Cuồng phát hiện",
+      "Vì hồ lô đã bị nứt vỡ",
+      "Vì từng suýt mất mạng khi uống liền hai hồ lô"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lần trước uống một hơi hai hồ lô suýt chết, nên hắn đợi tu vi cao hơn mới dùng.",
+    "chapter": 36,
+    "source": "Tiên Nghịch ch.36",
+    "evidence": "Từng dùng hai cái nhưng \"uống liền một hơi nên suýt nữa toi mạng\", nên vẫn kiêng kị hồ lô này."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo Trương sư huynh, điều then chốt để vượt bình cảnh tam tiến tứ là gì?",
+    "options": [
+      "Lĩnh ngộ đại đạo, chặt đứt phàm trần",
+      "Có linh căn thượng hạng",
+      "Nuốt thật nhiều Đoạt Linh Đan",
+      "Được trưởng lão truyền công"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bình cảnh này không liên quan thiên tư, cốt ở lĩnh ngộ đại đạo, chặt đứt phàm trần.",
+    "chapter": 37,
+    "source": "Tiên Nghịch ch.37",
+    "evidence": "Mấu chốt \"cùng thiên tư không quan hệ\", trọng điểm ở lĩnh ngộ đại đạo; người tu tiên phải chặt đứt phàm trần."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Vì sao bình cảnh ngũ tiến lục chặn bước phần lớn tu sĩ Ngưng Khí kỳ?",
+    "options": [
+      "Phải chặt đứt hết thân tình",
+      "Thân thể biến đổi bản chất, tốn linh khí cực lớn",
+      "Phải có sư phụ dùng sưu hồn thuật dẫn dắt",
+      "Cần một viên Tạo Hóa Đan mới qua được"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đây là biến hóa bản chất, thân thể cải tạo cần hao tổn linh khí rất lớn.",
+    "chapter": 37,
+    "source": "Tiên Nghịch ch.37",
+    "evidence": "Ngũ tiến lục là \"ngưng khí kỳ biến hóa vê bản chất\", linh khí cần hao tổn thật lớn."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lúc Vương Lâm múc đầy hồ lô nước sông trong cốc, ai lặng lẽ đứng sau lưng hắn từ lâu?",
+    "options": [
+      "Vương Trác",
+      "Trương sư huynh",
+      "Nữ tử họ Từ",
+      "Nhị sư huynh Trương Cuồng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trương Cuồng như u linh đứng sau, hỏi vì sao hắn chuẩn bị nhiều hồ lô thế.",
+    "chapter": 37,
+    "source": "Tiên Nghịch ch.37",
+    "evidence": "Quay lại thì thấy nhị sư huynh \"như u linh đứng ở phía sau hắn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Cô gái hỏi Trương sư huynh về bình cảnh tam tiến tứ là người mà Vương Trác đang theo đuổi. Nàng là ai?",
+    "options": [
+      "Liễu Mi",
+      "Nữ tử họ Từ",
+      "Nữ tử họ Chu",
+      "Đệ tử nữ Huyền Đạo Tông"
+    ],
+    "correctIndex": 2,
+    "explanation": "Người lên tiếng là nữ tử họ Chu, đang ở Ngưng Khí tầng ba.",
+    "chapter": 37,
+    "source": "Tiên Nghịch ch.37",
+    "evidence": "Người nói chuyện \"đúng là nữ tử họ Chu mà Vương Trác đau khổ theo đuổi\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bị Trương Cuồng hỏi sao mang nhiều hồ lô ra sông, Vương Lâm viện cớ gì?",
+    "options": [
+      "Sư phụ từng nói nước sông giúp tu luyện",
+      "Hắn định đem nước đi bán ở giao dịch hội",
+      "Vương Hạo nhờ hắn lấy hộ",
+      "Hắn muốn tưới thảo dược trong Dược Viên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn nói gia sư cho biết nước sông có ích, Trương Cuồng thấy hợp lý nên bỏ qua.",
+    "chapter": 37,
+    "source": "Tiên Nghịch ch.37",
+    "evidence": "Vương Lâm đáp: \"Gia sư từng nói cho sư đệ nước sông nơi đây có trợ giúp tu luyện\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Tôn Đại Trụ đưa lệnh bài, bảo Vương Lâm đến đâu chọn một thanh phi kiếm?",
+    "options": [
+      "Tàng Kinh các",
+      "Kiếm Linh các",
+      "Hậu sơn",
+      "Đại điện Hằng Nhạc phái"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tôn Đại Trụ dặn cầm lệnh bài tới Kiếm Linh các tùy ý chọn phi kiếm.",
+    "chapter": 38,
+    "source": "Tiên Nghịch ch.38",
+    "evidence": "\"Ngươi cầm rồi đi kiếm linh các, tùy ý chọn một phi kiếm\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thấy Vương Lâm đã lên Ngưng Khí tầng ba, Tôn Đại Trụ quyết định thế nào?",
+    "options": [
+      "Trục xuất hắn khỏi sư môn",
+      "Gửi hắn sang Huyền Đạo Tông",
+      "Nhận làm đệ tử chân chính duy nhất",
+      "Bắt hắn tiếp tục bế quan ở hậu sơn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tôn Đại Trụ tuyên bố cả đời chỉ thu một đồ đệ là Vương Lâm và cho hắn ở lại Dược Viên.",
+    "chapter": 38,
+    "source": "Tiên Nghịch ch.38",
+    "evidence": "\"Vi sư cả đời chỉ thu nhận một đồ đệ, đó là ngươi\", từ nay ở lại chỗ của ta."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Tôn Đại Trụ bỏ ý định dùng sưu hồn thuật lên Vương Lâm?",
+    "options": [
+      "Bị chưởng môn cấm",
+      "Sợ Vương Lâm phát hiện và bỏ trốn",
+      "Vương Lâm đã nộp lại hồ lô",
+      "Việc đã lâu, tổn tu vi thì không đáng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sự việc đã qua nhiều năm, thi triển sưu hồn sẽ hao tổn tu vi nên hắn thấy không đáng.",
+    "chapter": 38,
+    "source": "Tiên Nghịch ch.38",
+    "evidence": "Sự việc cách nhiều năm, \"liều mạng tu vi sẽ rơi xuống\", hắn thấy rất không đáng."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo Tôn Đại Trụ, phi kiếm được điều khiển chủ yếu bằng tiên thuật nào?",
+    "options": [
+      "Khu Vật Thuật",
+      "Dẫn Lực Thuật",
+      "Sưu Hồn Thuật",
+      "Hóa Hình thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luyện thuần Dẫn Lực Thuật rồi mới học Khu Vật Thuật, thứ dùng để thi triển phi kiếm.",
+    "chapter": 38,
+    "source": "Tiên Nghịch ch.38",
+    "evidence": "\"Phi kiếm này chính là dựa vào Khu Vật Thuật thi triển\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Mỗi lần ở trong mộng cảnh của hạt châu, Vương Lâm cảm thấy thứ gì từ vật sáng xung quanh chui vào người?",
+    "options": [
+      "Những sợi tơ máu",
+      "Những quang ban cổ quái",
+      "Luồng hàn khí băng giá",
+      "Những phù văn màu tím"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vật sáng bốn phía tản ra quang ban cổ quái nhập vào thân thể, hắn chưa rõ tác dụng.",
+    "chapter": 38,
+    "source": "Tiên Nghịch ch.38",
+    "evidence": "Bốn phía vật sáng tản ra \"một loại quang ban cổ quái chui vào thân thể\" của hắn."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Tưởng trận pháp Kiếm Linh các đã hỏng, đệ tử mập bước vào theo Vương Lâm thì gặp chuyện gì?",
+    "options": [
+      "Bị hất văng ra xa, hộc máu",
+      "Cũng đi vào dễ dàng",
+      "Bị phi kiếm đâm trọng thương",
+      "Bị nhốt lại trong trận"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vừa vào năm thước, áp lực khổng lồ hất văng hắn, hộc máu, kêu \"vẫn chưa hỏng\".",
+    "chapter": 39,
+    "source": "Tiên Nghịch ch.39",
+    "evidence": "Áp lực như trời sập đập tới, hắn văng đi, \"miệng hộc máu\", thất thanh nói \"Vẫn chưa hỏng!\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vì sao đệ tử mập ở Kiếm Linh các nhịn cười không nổi khi thấy lệnh bài của Tôn Đại Trụ?",
+    "options": [
+      "Lệnh bài đó là đồ giả",
+      "Tôn Đại Trụ nợ Kiếm Linh các linh thạch",
+      "Tôn Đại Trụ hay mượn kiếm để làm màu",
+      "Vương Lâm cầm ngược lệnh bài"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mỗi lần giao lưu với môn phái khác, Tôn Đại Trụ đều mượn phi kiếm để giữ thể diện.",
+    "chapter": 39,
+    "source": "Tiên Nghịch ch.39",
+    "evidence": "Tôn sư thúc mỗi lần trao đổi \"đều phải dùng phi kiếm đặt lên mặt trước của cửa hàng\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Tấm bảng đặt cạnh thanh Cự Phú cảnh cáo người giữ kiếm điều gì?",
+    "options": [
+      "Không được mang ra khỏi Hằng Nhạc phái",
+      "Không được đem bán, nếu không bị trục xuất sư môn",
+      "Phải tu đến Kết Đan mới được dùng",
+      "Phải trả lại sau mười năm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Di ngôn sư tổ kèm lời răn: kiếm không được buôn bán, vi phạm sẽ bị đuổi khỏi môn.",
+    "chapter": 39,
+    "source": "Tiên Nghịch ch.39",
+    "evidence": "Tấm bảng ghi: \"không thể buôn bán nếu không trục xuất sư môn!\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Kiếm quang tím của chưởng môn Hằng Nhạc phái hóa thành gì khiến con rết Huyền Đạo Tông phải dừng lại?",
+    "options": [
+      "Một con phượng hoàng lửa",
+      "Một con bạch hổ",
+      "Một bức tường kiếm khí",
+      "Một con cự long màu tím"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tử Nhạc Tiên Kiếm chứa Long Hồn, hóa thành rồng tím gầm lên với con rết.",
+    "chapter": 40,
+    "source": "Tiên Nghịch ch.40",
+    "evidence": "Kiếm quang tím bỗng lớn ra, \"hóa thành một con màu tím cự long\" quay quanh Hằng Nhạc Phái."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Chưởng môn Hằng Nhạc phái, chủ nhân Tử Nhạc Tiên Kiếm, có đạo hiệu là gì?",
+    "options": [
+      "Đạo Hư chân nhân",
+      "Hoàng Long chân nhân",
+      "Vô Vi chân nhân",
+      "Tần Cổ Lôi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phía Huyền Đạo Tông gọi chưởng môn là Hoàng Long đạo hữu; truyện gọi ông là Hoàng Long chân nhân.",
+    "chapter": 40,
+    "source": "Tiên Nghịch ch.40",
+    "evidence": "Phi kiếm tím trở lại \"trong tay chưởng môn Hoàng Long chân nhân\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Nếu Huyền Đạo Tông thua lần giao lưu này, chưởng môn Hằng Nhạc phái đòi họ giao ra thứ gì?",
+    "options": [
+      "Phương pháp khống chế linh thú",
+      "Con rết Thiên Túc Ngô Công",
+      "Hơn trăm thanh phi kiếm",
+      "Một vạn viên Đoạt Linh Đan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hằng Nhạc thiếu hộ sơn linh thú nên muốn lấy phương pháp khống chế linh thú của đối phương.",
+    "chapter": 40,
+    "source": "Tiên Nghịch ch.40",
+    "evidence": "Nếu thua thì \"hãy giao ra phương pháp khống chế linh thú của Huyền Đạo Tông\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Bị Đạo Hư chân nhân chê luyện mị thuật, lão giả Tần Cổ Lôi giải thích vẻ thu hút của đệ tử mình thế nào?",
+    "options": [
+      "Do uống một loại đan dưỡng nhan",
+      "Do mặc tử y được luyện đặc biệt",
+      "Họ trời sinh đã có sức hấp dẫn",
+      "Do luyện tâm pháp của Hợp Hoan Tông"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tần Cổ Lôi bảo họ trời sinh đã cuốn hút, đồng thời chê đệ tử Hằng Nhạc ngũ hành linh căn lẫn lộn.",
+    "chapter": 40,
+    "source": "Tiên Nghịch ch.40",
+    "evidence": "Họ không luyện mị thuật mà \"trời sinh ra đã có sức hấp đẫn như vậy\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vương Lâm để ý thấy điều kỳ lạ gì trong ánh mắt các đệ tử Huyền Đạo Tông?",
+    "options": [
+      "Họ đều sợ hãi con rết",
+      "Họ liên tục nhìn trộm Song Nguyệt Hoàn",
+      "Họ khinh thường Liễu Mi ra mặt",
+      "Họ ngầm kính nể một trung niên đứng cuối"
+    ],
+    "correctIndex": 3,
+    "explanation": "Các đệ tử thoáng lộ vẻ kính ý với một người trung niên đứng ở cuối đoàn.",
+    "chapter": 40,
+    "source": "Tiên Nghịch ch.40",
+    "evidence": "Họ dường như đối với một trung niên nam tử đứng sau cùng lộ ra \"một tia như ẩn như hiện kính ý\"."
+  }
+]

@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Người ngồi trên cỗ xe năm màu giữa đoàn Chiến Thần điện, sai Dương Hùng đón Vương Lâm tới gặp, là ai?",
+    "options": [
+      "Từ Tư",
+      "Phượng Loan",
+      "Chu Tử Hồng",
+      "Lý Mộ Uyển"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dương Hùng cho biết người trên ngũ thải phượng xa là Phượng Loan lão tổ.",
+    "chapter": 136,
+    "source": "Tiên Nghịch ch.136",
+    "evidence": "Dương Hùng nói nhỏ với Vương Lâm: \"Người ngồi trên ngũ thải phượng xa chính là lão tổ\", tức Phượng Loan."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Từ Tư, tiểu sư muội mà Mã Lương thầm thương, đã ném pháp bảo gì về phía Vương Lâm?",
+    "options": [
+      "Chiếc trùy tử vàng",
+      "Thanh tiễn đao",
+      "Cây hắc châm",
+      "Phiến lá phi hành"
+    ],
+    "correctIndex": 2,
+    "explanation": "Từ Tư lấy ra một cây hắc châm dài hai tấc ném về phía Vương Lâm, bị hắn chộp lấy.",
+    "chapter": 136,
+    "source": "Tiên Nghịch ch.136",
+    "evidence": "Từ Tư vỗ túi trữ vật lấy ra \"một cây hắc châm dài hai tấc\" ném về phía Vương Lâm; hắn xóa thần thức trên đó."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Để lão nhân bạch phát của Chiến Thần điện thôi đòi giết Vương Lâm, Phượng Loan đã làm gì?",
+    "options": [
+      "Nhận hắn làm đệ tử ký danh",
+      "Đuổi hắn khỏi Hỏa Phần quốc",
+      "Giao hắn cho Lạc Hà môn",
+      "Phong ấn tu vi của hắn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phượng Loan nhận Vương Lâm làm đệ tử ký danh nên lão nhân không truy cứu nữa.",
+    "chapter": 136,
+    "source": "Tiên Nghịch ch.136",
+    "evidence": "Phượng Loan hỏi Vương Lâm có nguyện làm đệ tử ký danh không; lão nhân nói đã nhận làm đồ đệ thì không truy cứu."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Dương Sâm, đạo lữ song tu của Phượng Loan, tặng Vương Lâm vật gì để bảo mệnh?",
+    "options": [
+      "Một phần bản đồ Hỏa Phần quốc",
+      "Một viên Thiên Ly đan",
+      "Một Kết Đan bảo",
+      "Ngọc phù cấp Nguyên Anh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dương Sâm đưa một ngọc phù do mình luyện thành pháp bảo cấp Nguyên Anh để Vương Lâm tế luyện bảo mệnh.",
+    "chapter": 136,
+    "source": "Tiên Nghịch ch.136",
+    "evidence": "Trung niên văn sĩ Dương Sâm bái tạ rồi ném ra ngọc phù: \"do ta luyện chế thành pháp bảo cấp Nguyên Anh\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Sau khi mười sáu con hỏa linh thú khổng lồ hòa vào hỏa hoàn, hỏa linh thú khắp Hỏa Phần quốc biến đổi ra sao?",
+    "options": [
+      "Tan thành đốm sáng hồng",
+      "Lột xác, cao hơn mười trượng",
+      "Quỳ rạp rồi rút hết về núi lửa",
+      "Hợp thành một con hỏa thú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mọi hỏa linh thú hiện chấm hồng trên trán, lột xác cao hơn mười trượng và mạnh hơn.",
+    "chapter": 136,
+    "source": "Tiên Nghịch ch.136",
+    "evidence": "Từng con hỏa linh thú hiện chấm hồng trên trán, thân bành trướng, \"đều cao lên hơn mười trượng\", thực lực tăng theo."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Để giam hỏa linh thú trong Hỏa Phần quốc, các tu sĩ Nguyên Anh đã mở trận pháp nào do tiền bối để lại?",
+    "options": [
+      "Cửu Ly thi cốt trận",
+      "Phệ Huyết Thiên Ma trận",
+      "Tỏa Quốc đại trận",
+      "Cửu Ly Giao long trận"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tiền bối Hỏa Phần quốc bố trí Tỏa Quốc đại trận để phòng núi lửa và hỏa linh thú.",
+    "chapter": 137,
+    "source": "Tiên Nghịch ch.137",
+    "evidence": "Tu sĩ Lạc Hà môn nói dựa vào \"Tỏa Quốc đại trận\" tiền bối để lại là có thể giam cầm hỏa linh thú."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Bốn đại phái liên kết thành một khối khi xâm nhập Tuyên Vũ quốc; khối đó mang tên gì?",
+    "options": [
+      "Hỏa Phần minh",
+      "Lạc Hà minh",
+      "Tứ Phái minh",
+      "Tuyên Vũ minh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tống lão tổ tuyên bố bốn phái lập liên minh gọi là Hỏa Phần minh.",
+    "chapter": 137,
+    "source": "Tiên Nghịch ch.137",
+    "evidence": "Tống lão tổ: Chiến Thần điện, Tà Ma tông, Lạc Hà môn, Thi Âm tông liên kết thành \"liên minh gọi là Hỏa Phần minh\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Ngoài hoa sen bốn đại phái đánh ra, các lão tổ gia tộc tu chân và tán tu phải làm gì để đại trận vận hành?",
+    "options": [
+      "Dâng bản mệnh tinh huyết",
+      "Tự bạo kim đan giữa trận",
+      "Nộp toàn bộ linh thạch của gia tộc",
+      "Xuất Nguyên Anh nhập vào vụ hoàn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Họ phải xuất Nguyên Anh dung nhập vào vụ hoàn thì trận mới vận chuyển không kẽ hở.",
+    "chapter": 137,
+    "source": "Tiên Nghịch ch.137",
+    "evidence": "Các tu sĩ gia tộc vỗ trán xuất nguyên anh bay lên; nguyên anh \"vọt vào trong vụ hoàn\" rồi dung nhập hoàn toàn."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Mỗi đệ tử Hỏa Phần minh được phát một ngọc phù để làm gì?",
+    "options": [
+      "Truyền âm cho Nguyên Anh",
+      "Ghi số địch nhân đã giết",
+      "Mở lối qua Tỏa Quốc đại trận",
+      "Hộ thân khi gặp hỏa linh thú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ngọc phù ghi lại số địch đã giết để đổi linh thạch và linh dược.",
+    "chapter": 137,
+    "source": "Tiên Nghịch ch.137",
+    "evidence": "Tu sĩ Lạc Hà môn nói mỗi người được phát ngọc phù, \"ghi lại số lượng địch nhân bị các ngươi giết\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Tại ngọn núi biên giới Tuyên Vũ quốc, ai một tay nghiền nát vòng sáng hộ sơn rồi truy sát lão bà tóc bạc?",
+    "options": [
+      "Tống lão tổ",
+      "Phượng Loan",
+      "Dương Sâm",
+      "Trương Tự Lực"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dương Sâm của Chiến Thần điện bóp nát vòng sáng rồi đuổi theo lão bà Nguyên Anh sơ kỳ.",
+    "chapter": 137,
+    "source": "Tiên Nghịch ch.137",
+    "evidence": "Dương Sâm xuất hiện trên vòng sáng, tay phải chộp một cái khiến vòng sáng bị nghiền nát, rồi \"cất bước đuổi theo\" lão bà."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Lão giả Lạc Hà môn tuyên bố mỗi tháng ai giết được nhiều địch nhân nhất sẽ được thưởng gì?",
+    "options": [
+      "Một viên Bổ Anh đan",
+      "Một viên Thiên Ly đan",
+      "Phần cuối của bản đồ",
+      "Một pháp bảo cấp Nguyên Anh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mỗi tháng người giết nhiều nhất được một viên Thiên Ly đan, trân phẩm hiếm của Hỏa Phần quốc.",
+    "chapter": 138,
+    "source": "Tiên Nghịch ch.138",
+    "evidence": "Lão giả khô gầy của Lạc Hà môn: \"Từng tháng ai giết được nhiều người nhất thì được lấy một viên Thiên Ly đan\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đội trưởng tiểu đội tám, nơi Vương Lâm được phân vào, là ai?",
+    "options": [
+      "Tang Mộc Nhai",
+      "Dương Hùng",
+      "Trương Tự Lực",
+      "Lưu Sâm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tiểu đội tám do Trương Tự Lực của Tà Ma tông dẫn đầu.",
+    "chapter": 138,
+    "source": "Tiên Nghịch ch.138",
+    "evidence": "Lão giả ngồi khoanh chân \"chính là đội trưởng tiểu đội thứ tám Trương Tự Lực\" của Tà Ma Tông."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Phượng Loan đặt điều kiện gì để trao cho Vương Lâm phần thứ hai của bản đồ?",
+    "options": [
+      "Giết năm mươi tu sĩ Trúc Cơ",
+      "Giết một tu sĩ Kết Đan trở lên",
+      "Đoạt được Thiên Ly đan",
+      "Chiếm một linh mạch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bản đồ có ba phần; giết năm mươi Trúc Cơ thì được thêm một phần.",
+    "chapter": 138,
+    "source": "Tiên Nghịch ch.138",
+    "evidence": "Phượng Loan: \"nếu ngươi có thể giết chết năm mươi Trúc Cơ tu sĩ, ta sẽ cho ngươi thêm một phần\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vốn không định dự chiến, vì sao Vương Lâm quyết tâm giành Thiên Ly đan?",
+    "options": [
+      "Nó giúp hồi phục thần thức",
+      "Nó giải hàn độc trong người",
+      "Nó giúp che giấu tu vi",
+      "Nó tăng tỷ lệ kết đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thiên Ly đan tăng tỷ lệ kết đan thành công, giúp hắn nắm chắc tám chín phần.",
+    "chapter": 138,
+    "source": "Tiên Nghịch ch.138",
+    "evidence": "Thiên Ly đan \"có thể gia tăng tỷ lệ kết đan thành công\"; cùng Hoàng Tuyền Thăng Khiếu Quyết hắn nắm chắc tám chín phần."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Khi đại đội thứ mười tấn công linh mạch trung cấp, tiểu đội tám được giao nhiệm vụ gì?",
+    "options": [
+      "Càn quét môn phái Tuyên Vũ",
+      "Ngăn viện binh tới gần",
+      "Hộ tống phượng xa",
+      "Canh giữ Tỏa Quốc đại trận"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tiểu đội tám phải chặn người trong phương viên năm trăm dặm tới tiếp viện.",
+    "chapter": 138,
+    "source": "Tiên Nghịch ch.138",
+    "evidence": "Trương Tự Lực nói nhiệm vụ là \"ngăn cản những người trong phương viên năm trăm dặm\" tiến lại gần linh mạch."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Vương Lâm dùng thi thể mười tu sĩ Trúc Cơ để bày trận pháp gì vây khốn tu sĩ Kết Đan đuổi theo mình?",
+    "options": [
+      "Cửu Ly thi cốt đại trận",
+      "Tỏa Quốc đại trận",
+      "Phệ Huyết Thiên Ma trận",
+      "Cửu Ly Giao long trận"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đó là Phệ Huyết Thiên Ma trận, cần huyết nhục tu sĩ do chính mình giết làm chủ.",
+    "chapter": 139,
+    "source": "Tiên Nghịch ch.139",
+    "evidence": "Trận pháp Vương Lâm thi triển là trận ác độc \"gọi là Phệ Huyết Thiên Ma trận\", lấy mười thi thể Trúc Cơ bố trí."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau khi đốt xác tu sĩ Kết Đan vừa giết, Vương Lâm làm gì với viên Kim Đan còn sót lại?",
+    "options": [
+      "Nuốt vào để hấp thu",
+      "Nộp cho Phượng Loan",
+      "Dung vào phi kiếm đen",
+      "Bóp nát cho tiêu tán"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn cho Kim Đan vào miệng rồi xuống lòng đất tiêu hóa, hấp thu linh lực.",
+    "chapter": 139,
+    "source": "Tiên Nghịch ch.139",
+    "evidence": "Vương Lâm \"cầm lấy Kim Đan không nghĩ ngợi gì cho vào trong miệng\", rồi xuống sâu lòng đất tiêu hóa."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Khi linh lực từ Kim Đan quá lớn khiến miệng mũi chảy máu, Vương Lâm vào đâu để tiếp tục hấp thu?",
+    "options": [
+      "Thiên Điện của Phượng Loan",
+      "Không gian trong hạt châu",
+      "Đáy một linh mạch",
+      "Lòng Tu Ma hải"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn điểm mi tâm lấy hạt châu ra, vào không gian bên trong, tới chỗ Nguyên Anh Tư Đồ Nam mà thổ nạp.",
+    "chapter": 139,
+    "source": "Tiên Nghịch ch.139",
+    "evidence": "Miệng mũi chảy máu, hắn gọi hạt châu ra, \"tiến vào bên trong không gian\" và bay tới nơi ở của Tư Đồ Nam."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Hấp thu một thành linh lực của Kim Đan sơ kỳ giúp Vương Lâm đạt tới cảnh giới nào?",
+    "options": [
+      "Trúc Cơ trung kỳ đỉnh phong",
+      "Kết Đan sơ kỳ",
+      "Trúc Cơ đại viên mãn",
+      "Kết Đan trung kỳ đỉnh phong"
+    ],
+    "correctIndex": 2,
+    "explanation": "Một thành linh lực Kim Đan giúp hắn từ Trúc Cơ trung kỳ lên Trúc Cơ hậu kỳ đại viên mãn (giả đan).",
+    "chapter": 139,
+    "source": "Tiên Nghịch ch.139",
+    "evidence": "Vương Lâm nghĩ: hấp thu một thành linh lực giúp \"đạt tới Trúc Cơ hậu kỳ đại viên mãn cảnh giới\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Bị hỏi vì sao tu vi tăng vọt, Vương Lâm nói dối rằng đã dùng công pháp nào để nuốt Kim Đan?",
+    "options": [
+      "Đại Tự Tại Tu La thuật",
+      "Hoàng Tuyền Thăng Khiếu Quyết",
+      "Tử Chú thuật",
+      "Thông Phệ đại pháp"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn bảo đoạt Kim Đan của kẻ sắp chết rồi dùng Thông Phệ đại pháp của Tà Ma Tông nuốt vào.",
+    "chapter": 139,
+    "source": "Tiên Nghịch ch.139",
+    "evidence": "Vương Lâm thong dong đáp: đoạt được Kim Đan \"rồi sử dụng Thông Phệ đại pháp của Tà Ma Tông nuốt vào\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Chu Tử Hồng tiết lộ Phượng Loan lão tổ có quan hệ gì với nàng?",
+    "options": [
+      "Sư phụ",
+      "Mẫu thân",
+      "Đại sư tỷ",
+      "Cô cô"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chu Tử Hồng nói Phượng Loan lão tổ là mẹ của nàng.",
+    "chapter": 140,
+    "source": "Tiên Nghịch ch.140",
+    "evidence": "Chu Tử Hồng mím môi nói: \"Phượng Loan lão tổ...là mẫu thân của ta\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Trưởng lão Song Tu môn truy đuổi Lý Mộ Uyển vì biết nàng đang giữ thứ gì?",
+    "options": [
+      "Bản đồ Tu Ma hải",
+      "Cây Ma Huyết đằng",
+      "Một viên Thiên Ly đan",
+      "Ngọc phù cấp Nguyên Anh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lý Mộ Uyển nói trưởng lão Song Tu môn biết nàng có một viên Thiên Ly đan (bán thành phẩm).",
+    "chapter": 140,
+    "source": "Tiên Nghịch ch.140",
+    "evidence": "Lý Mộ Uyển: hắn \"lại biết được ta có một viên Thiên Ly đan, nên mới tìm tới\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Để đổi lấy bản đồ, Chu Tử Hồng nhờ Vương Lâm giết những ai?",
+    "options": [
+      "Từ Tư và Chu An",
+      "Dương Hùng và Lâm Đào",
+      "Hứa Hạo và Cát Dương",
+      "Thanh Huyền và Từ Tư"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nàng muốn hắn giết Từ Tư và kẻ luôn quấn lấy Từ Tư là Chu An.",
+    "chapter": 140,
+    "source": "Tiên Nghịch ch.140",
+    "evidence": "Chu Tử Hồng: \"Ngươi giúp ta giết hai người\" – Từ Tư, sư muội của Mã Lương, và Chu An."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Đuổi tới bờ Tu Ma hải, đàn hỏa linh thú phản ứng ra sao?",
+    "options": [
+      "Ùa vào sương mù truy đuổi",
+      "Quay về đánh Tuyên Vũ quốc",
+      "Hợp lại thành một hỏa hoàn khổng lồ",
+      "Gầm rống trên bờ, không dám vào"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chúng chỉ đứng trên bờ gầm rống; con nào xông vào sương mù liền teo nhỏ, hóa xám.",
+    "chapter": 140,
+    "source": "Tiên Nghịch ch.140",
+    "evidence": "Hỏa linh thú \"chỉ dám đứng trên bờ biển\" gầm rống; một con vọt vào sương mù thì thân thể nhỏ lại, bốc khói trắng."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Theo bản đồ, vì sao Tu Ma hải chỉ còn sương mù bao phủ thay cho nước biển?",
+    "options": [
+      "Hỏa linh thú thiêu cạn",
+      "Âm khí Thi Cốc bốc lên",
+      "Thần thông thượng cổ làm bốc hơi",
+      "Ma tu bày đại trận hút cạn nước biển"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thời thượng cổ một tu sĩ dùng thần thông làm nước bốc hơi hết để giết địch.",
+    "chapter": 140,
+    "source": "Tiên Nghịch ch.140",
+    "evidence": "Bản đồ ghi: trong trận đại chiến thượng cổ, nó \"bị một vị tu sĩ sử dụng thần thông làm cho nước bốc hơi hết\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Ba nam tu sĩ chặn đường đòi Vương Lâm để lại nữ tu tự xưng thuộc thế lực nào ở Tu Ma hải?",
+    "options": [
+      "Song Tu môn",
+      "Đấu Tà phái",
+      "Tru Thiên giáo",
+      "Diệt Hồn môn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Họ nói nơi đó là phạm vi thế lực của Đấu Tà phái.",
+    "chapter": 141,
+    "source": "Tiên Nghịch ch.141",
+    "evidence": "Giọng the thé: \"Nơi đây là phạm vi thế lực của Đấu Tà phái chúng ta\"; cả ba bị cực cảnh thần thức giết."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Thấy ba tu sĩ chết không kịp phản kháng, Lý Mộ Uyển đoán Vương Lâm dùng pháp thuật nào?",
+    "options": [
+      "Tử Chú thuật",
+      "Thông Phệ đại pháp",
+      "Dẫn Lực thuật",
+      "Đại Tự Tại Tu La thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nàng nhớ ghi chép trong Tàng Kinh các Lạc Hà môn và cho rằng đó là Tử Chú thuật.",
+    "chapter": 141,
+    "source": "Tiên Nghịch ch.141",
+    "evidence": "Lý Mộ Uyển buột miệng hỏi: \"Pháp thuật ngươi vừa dùng có phải là Tử Chú thuật hay không?\""
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Lý Mộ Uyển dùng mười tám đoạn xương thú màu lam để bố trí thêm trận pháp gì cho động phủ?",
+    "options": [
+      "Phệ Huyết Thiên Ma trận",
+      "Tỏa Quốc đại trận",
+      "Ngũ Hành mê trận",
+      "Cửu Ly thi cốt trận"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nàng xếp xương thú thành Cửu Ly thi cốt trận, đủ cầm chân tu sĩ Kết Đan ít nhất một canh giờ.",
+    "chapter": 141,
+    "source": "Tiên Nghịch ch.141",
+    "evidence": "Lý Mộ Uyển: \"ta đã dùng thú cốt bố trí thêm một cái Cửu Ly thi cốt trận\", uy lực mới đạt ba thành."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Để chắc chắn Lý Mộ Uyển luyện đan không giở trò, Vương Lâm bắt nàng giao ra thứ gì?",
+    "options": [
+      "Viên Thiên Ly đan",
+      "Đan lô tùy thân",
+      "Bản mệnh tinh huyết",
+      "Ngọc giản đan phương"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn đòi bản mệnh tinh huyết; nàng bức một giọt máu ở mi tâm đưa cho hắn.",
+    "chapter": 141,
+    "source": "Tiên Nghịch ch.141",
+    "evidence": "Vương Lâm: \"ta muốn ngươi đưa ra bản mệnh tinh huyết\"; nàng bức giọt máu từ mi tâm thổi về phía hắn."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Trong đống dược liệu của Vương Lâm, Lý Mộ Uyển chỉ ra loại nào là chủ dược quan trọng nhất của Thiên Ly đan?",
+    "options": [
+      "Hoang Mộc căn",
+      "Ma Huyết đằng",
+      "Đan Hoàng thảo",
+      "Phần Kim căn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nàng nói Ma Huyết đằng là dược liệu quan trọng nhất để luyện Thiên Ly đan.",
+    "chapter": 141,
+    "source": "Tiên Nghịch ch.141",
+    "evidence": "Lý Mộ Uyển lấy ra đoạn gỗ màu hồng: Ma Huyết đằng là \"loại dược liệu quan trọng nhất\" để luyện Thiên Ly đan."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Lá Diện Hồn kỳ trong tay Vương Lâm phong ấn hơn trăm linh hồn, trong đó có hồn của ai vừa bị hắn giết?",
+    "options": [
+      "Lưu Sâm",
+      "Trương Tự Lực",
+      "Chu An",
+      "Tang Mộc Nhai"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diện Hồn kỳ chứa hơn trăm linh hồn, gồm cả Tang Mộc Nhai.",
+    "chapter": 142,
+    "source": "Tiên Nghịch ch.142",
+    "evidence": "Diện Hồn kỳ \"phong ấn hơn trăm linh hồn bao gồm cả Tang Mộc Nhai vừa nãy\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Để tìm xương linh thú gia cố trận pháp, Vương Lâm đi tới hiểm địa nào gần động phủ?",
+    "options": [
+      "Thi Cốc",
+      "Nam Đẩu thành",
+      "Quyết Minh cốc",
+      "Luyện Khí tông"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trong phương viên trăm dặm có Thi Cốc, một trong ba hiểm địa, nhiều xương ma thú.",
+    "chapter": 142,
+    "source": "Tiên Nghịch ch.142",
+    "evidence": "Vương Lâm biết trong phương viên trăm dặm có một trong ba hiểm địa \"chính là Thi Cốc\", nơi có nhiều xương ma thú."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Quả cầu sáng Vương Lâm tạo ra khi bước vào Thi Cốc dùng để làm gì?",
+    "options": [
+      "Dò tìm xương linh thú",
+      "Đo phẩm chất khí âm hàn",
+      "Xua tan sương mù",
+      "Báo động khi có kẻ địch đến gần"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đó là pháp thuật kiểm tra phẩm chất khí âm hàn qua màu sắc quang cầu.",
+    "chapter": 142,
+    "source": "Tiên Nghịch ch.142",
+    "evidence": "Đây là \"pháp thuật chuyên môn dùng để kiểm tra phẩm chất của khí âm hàn\", quang cầu đổi màu tím, lam, trắng, hồng."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Con linh thú trọng thương lao vào sơn cốc thứ mười bốn rồi chết, bị Vương Lâm vác về, là con gì?",
+    "options": [
+      "Nha Huyền thú",
+      "Hỏa linh thú",
+      "Giao long",
+      "Du hồn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Một con giao long bị thương ở bụng bay vào cốc thứ mười bốn rồi chết, hắn kéo xác ra mang đi.",
+    "chapter": 142,
+    "source": "Tiên Nghịch ch.142",
+    "evidence": "Một con giao long từ sương mù lao ra, chết ở cốc thứ mười bốn; Vương Lâm \"khiêng thi thể giao long lên\" rời Thi Cốc."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Chưởng môn Đấu Tà phái, sư tổ của Tang Mộc Nhai, tên là gì?",
+    "options": [
+      "Dương Sâm",
+      "Nam Đẩu",
+      "Tống lão tổ",
+      "Lưu Sâm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chưởng môn Đấu Tà phái là Lưu Sâm, tu vi Kết Đan trung kỳ đỉnh phong.",
+    "chapter": 142,
+    "source": "Tiên Nghịch ch.142",
+    "evidence": "Người có tu vi cao nhất Đấu Tà phái \"chính là chưởng môn Lưu Sâm, cũng là sư tổ của Tang Mộc Nhai\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Lý Mộ Uyển chế da giao long thành vật gì, chia cho Vương Lâm và mình mỗi người một?",
+    "options": [
+      "Hai túi trữ vật",
+      "Hai bộ nội giáp",
+      "Hai lá trận kỳ",
+      "Hai chiếc áo choàng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Da giao long được chế thành hai bộ nội giáp; bộ nữ tính hơn Vương Lâm đưa cho nàng.",
+    "chapter": 143,
+    "source": "Tiên Nghịch ch.143",
+    "evidence": "Dưới bàn tay khéo léo của Lý Mộ Uyển, da giao long \"được chế tạo thành hai bộ nội giáp\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Theo Tang Mộc Nhai, ở Tu Ma hải muốn mua khí cụ như dong lô thì phải tìm tới đâu?",
+    "options": [
+      "Luyện Khí tông",
+      "Đấu Tà phái",
+      "Song Tu môn",
+      "Thiên Nhất đạo giáo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mọi loại khí cụ ở Tu Ma hải đều có thể mua tại các chi nhánh của Luyện Khí tông.",
+    "chapter": 143,
+    "source": "Tiên Nghịch ch.143",
+    "evidence": "Vương Lâm biết từ Tang Mộc Nhai: các loại khí cụ \"đều có thể đến một nơi tên là Luyện Khí tông để mua sắm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Từ các bảo vật trên xác giao long, Vương Lâm chỉ giữ lại cho mình những thứ nào?",
+    "options": [
+      "Giao đan và da",
+      "Đầu lâu và giao đan",
+      "Da và giao cân",
+      "Cốt tủy và giao cân"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn giữ cốt tủy và giao cân, còn lại đưa hết cho Lý Mộ Uyển.",
+    "chapter": 143,
+    "source": "Tiên Nghịch ch.143",
+    "evidence": "\"Vương Lâm cũng chỉ lưu lại cốt tủy và giao cân\", tất cả vật còn lại đưa cho Lý Mộ Uyển."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm kiên nhẫn cho ma đầu nuốt dần hồn phách trong hồn kỳ nhằm mục đích gì?",
+    "options": [
+      "Giúp nó đột phá Kết Đan",
+      "Để nó canh chừng Lý Mộ Uyển ngoài động",
+      "Ngầm cài thần thức khống chế nó",
+      "Thả nó về Đấu Tà phái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Không thể trực tiếp khống chế, hắn nuôi dưỡng từ từ để ngưng kết một tia thần thức trong cơ thể ma đầu.",
+    "chapter": 143,
+    "source": "Tiên Nghịch ch.143",
+    "evidence": "Sau khi nuốt gần hết hồn phách, \"trong cơ thể ma đầu từ từ ngưng kết thành một tia thần thức của Vương Lâm\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Lý Mộ Uyển tiếc giao long đã chết, vì nếu nó còn sống nàng có thể lấy gì để trận có thêm sức công kích?",
+    "options": [
+      "Giao đan",
+      "Giao hồn",
+      "Long đan",
+      "Giao cân"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nếu lấy được giao hồn dung nhập vào trận, trận pháp sẽ có thêm tính công kích.",
+    "chapter": 143,
+    "source": "Tiên Nghịch ch.143",
+    "evidence": "Nàng tiếc: nếu giao long còn sống, \"có thể lấy giao hồn dung nhập vào trong trận\" để thêm tính công kích."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm ngất đi sau lần đầu dung hợp hàn đan, kẻ nào liều mạng đánh lén hắn?",
+    "options": [
+      "Lý Mộ Uyển",
+      "Tang Mộc Nhai",
+      "Ma đầu",
+      "Đệ tử Đấu Tà phái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ma đầu do dự hai ngày rồi lao vào cắn trả, nhưng bị tia thần thức Vương Lâm cài sẵn làm cho đau đớn.",
+    "chapter": 144,
+    "source": "Tiên Nghịch ch.144",
+    "evidence": "Ma đầu gào \"liều mạng\" rồi lao vào Vương Lâm, nhưng thân mình liền bốc khói, có dấu hiệu tiêu tán."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Vương Lâm tới đâu, chìm sâu xuống lòng đất ngồi tu luyện suốt ba năm để dung hợp tam đan?",
+    "options": [
+      "Đáy Tu Ma hải gần bờ",
+      "Cốc thứ mười bốn ở Thi Cốc",
+      "Linh mạch ở Tuyên Vũ quốc",
+      "Không gian bên trong hạt châu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn trở lại Thi Cốc, vào sơn cốc thứ mười bốn rồi độn thổ xuống ngồi tu luyện.",
+    "chapter": 144,
+    "source": "Tiên Nghịch ch.144",
+    "evidence": "Đứng trước sơn cốc mười bốn, hắn \"kiên định bước vào\", độn thổ xuống rồi khoanh chân; ba năm trôi qua."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vì sao Lý Mộ Uyển tái mặt lùi lại khi Vương Lâm gật đầu thừa nhận gặp bình cảnh?",
+    "options": [
+      "Sợ hắn bắt nàng thử đan",
+      "Sợ hắn bỏ mặc nàng giữa Tu Ma hải",
+      "Tưởng hắn sắp tẩu hỏa nhập ma",
+      "Tưởng hắn muốn thái bổ nguyên âm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nàng nghĩ người tu Tử Chú thuật cần hấp thu tam khí, sợ hắn đòi nguyên âm của mình.",
+    "chapter": 144,
+    "source": "Tiên Nghịch ch.144",
+    "evidence": "Nàng nghĩ người tu Tử Chú thuật \"thường am hiểu thái bổ nguyên âm\", nên tưởng hắn bị bình cảnh vì thiếu tam khí."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Thiên tai hỏa thú ở Hỏa Phần quốc cuối cùng được dẹp yên nhờ ai?",
+    "options": [
+      "Ba cao thủ Hóa Thần nước cấp bốn",
+      "Liên minh Hỏa Phần minh",
+      "Phượng Loan và Dương Sâm",
+      "Các tu sĩ Nguyên Anh của Tuyên Vũ quốc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tu chân quốc cấp bốn phái ba cao thủ Hóa Thần, mất chín ngày mới thu phục hết hỏa thú.",
+    "chapter": 144,
+    "source": "Tiên Nghịch ch.144",
+    "evidence": "Tứ cấp tu chân quốc phái người đến: \"ba Hóa Thần kỳ cao thủ, tiêu hao mất 9 ngày\" thu phục tất cả hỏa thú."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Nghe Lý Mộ Uyển nói giao long không bị độc của chính mình làm hại, Vương Lâm nảy ra cách gì để chịu nổi hàn khí?",
+    "options": [
+      "Dùng độc giao long luyện đan",
+      "Biến toàn thân thành hàn khí",
+      "Nuốt cốt tủy giao long",
+      "Mượn giao đan áp chế hàn khí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn ngộ ra: nếu toàn thân đều là hàn khí thì tự nhiên chịu đựng được, như giao long với độc.",
+    "chapter": 144,
+    "source": "Tiên Nghịch ch.144",
+    "evidence": "Vương Lâm: thân thể không chịu nổi hàn khí \"thì biến toàn thân chỗ nào cũng là hàn khí\", tự nhiên chịu được."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Ngọn lửa lam xuất hiện ở đầu ngón tay Vương Lâm sau khi tam đan hợp nhất có gì đặc biệt?",
+    "options": [
+      "Chỉ đốt được linh hồn",
+      "Tỏa ra hàn khí, không nóng",
+      "Cháy mãi không tắt",
+      "Nóng hơn cả lửa của hỏa linh thú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hoàng tuyền chi viêm không tỏa nhiệt mà tỏa hàn khí, làm tan cả lam tinh.",
+    "chapter": 145,
+    "source": "Tiên Nghịch ch.145",
+    "evidence": "Ngọn lửa \"tản mát ra không phải là nhiệt lượng mà là hàn khí\", là tinh túy Hoàng Tuyền Thăng Khiếu Quyết."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Theo luyện khí thuật Chiến Thần điện, Vương Lâm dùng xương đầu linh thú trong cốt hải để chế tạo vật gì?",
+    "options": [
+      "Thiên Địa dong lô",
+      "Diện Hồn kỳ",
+      "Phiên ưng lô",
+      "Giao long nội giáp"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yêu cầu trọng yếu nhất của luyện khí thuật Chiến Thần điện là phiên ưng lô, chế từ đầu lâu linh thú.",
+    "chapter": 145,
+    "source": "Tiên Nghịch ch.145",
+    "evidence": "Luyện khí thuật Chiến Thần điện \"yêu cầu trọng yếu nhất chính là phiên ưng lô\"; hắn dùng linh trù quấn đầu lâu thú."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Chiếc phiên ưng lô Vương Lâm luyện được trong cốt hải thuộc phẩm cấp nào?",
+    "options": [
+      "Thập phẩm",
+      "Lục phẩm",
+      "Tam phẩm",
+      "Cửu phẩm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đầu lâu đổi màu chín lần, tương ứng phiên ưng lô cửu phẩm.",
+    "chapter": 145,
+    "source": "Tiên Nghịch ch.145",
+    "evidence": "Đầu lâu đổi màu chín lần thành hình cái bát; Vương Lâm thì thào \"Cửu phẩm!\", tiếc không đạt thập phẩm."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Sau khi phi kiếm đen được luyện thành thủy tinh phi kiếm và bị nuốt vào, ma đầu được cho trú ngụ ở đâu?",
+    "options": [
+      "Giao long cân",
+      "Diện Hồn kỳ",
+      "Ngọc phù cấp Nguyên Anh",
+      "Phiên ưng lô"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm luyện giao long cân thành màu kim hoàng rồi cho ma đầu chui vào.",
+    "chapter": 145,
+    "source": "Tiên Nghịch ch.145",
+    "evidence": "Ma đầu hỏi nuốt kiếm thì nó ngụ đâu; Vương Lâm luyện long cân thành kim hoàng sắc, \"ma đầu lập tức chui vào\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vì sao chiếc phiên ưng lô của Vương Lâm đạt phẩm cấp cao hơn cả lò của điện chủ Luyện khí điện?",
+    "options": [
+      "Dùng đầu lâu giao long mới chết",
+      "Luyện từ xương của hoang thú",
+      "Nhờ Thiên Ly đan hỗ trợ",
+      "Có máu Tư Đồ Nam hòa vào"
+    ],
+    "correctIndex": 1,
+    "explanation": "Khúc xương trông bình thường kia là thú cốt của hoang thú cực hiếm trong cốt hải.",
+    "chapter": 145,
+    "source": "Tiên Nghịch ch.145",
+    "evidence": "Lò đạt cửu phẩm vì khúc thú cốt nhìn như bình thường kia \"là một khối hoang thú thú cốt cực kỳ hiếm thấy\"."
+  }
+]

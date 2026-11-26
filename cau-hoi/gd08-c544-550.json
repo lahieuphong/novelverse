@@ -1,0 +1,562 @@
+[
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Ngộ ra sức mạnh của niềm tin sau lần sụp đổ thứ tư, Vương Lâm lần đầu phát huy uy lực thật của thần thông nào?",
+    "options": [
+      "Dẫn Lực thuật",
+      "Hóa Ma chỉ",
+      "Thần Đạo thuật",
+      "Đại Tự Tại Tu La thuật"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn dung nhập niềm tin vào Hóa Ma chỉ, lần đầu hiện ra uy lực chân chính.",
+    "chapter": 544,
+    "source": "Tiên Nghịch ch.544",
+    "evidence": "Vương Lâm hiểu thần thông cần niềm tin, giơ ngón trỏ thi triển; \"Uy lực chân chính của Hóa Ma chỉ lần đầu tiên xuất hiện\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi ma khí chiếm trọn cơ thể lúc chống Thập Băng Quyền Ý, ngoại hình Vương Lâm biến đổi ra sao?",
+    "options": [
+      "Mắt hóa đỏ như máu",
+      "Da mọc vảy đen",
+      "Tóc dài quá đầu gối",
+      "Thân cao gấp mười lần"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tóc hắn bỗng dài quá hai đầu gối, mi tâm hiện ma văn xanh bạc.",
+    "chapter": 544,
+    "source": "Tiên Nghịch ch.544",
+    "evidence": "Ma khí tung hoành; \"Tóc Vương Lâm chợt dài quá hai đầu gối một cách quái dị\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo Vương Lâm, Thập Băng Quyền Ý của Tả dực Yêu tướng càng mạnh lên khi nào?",
+    "options": [
+      "Đánh bại càng nhiều người",
+      "Người thi triển tu vi càng cao",
+      "Hấp thu càng nhiều yêu lực",
+      "Trăng tím càng sáng rực"
+    ],
+    "correctIndex": 0,
+    "explanation": "Niềm tin của quyền ý tập hợp từ tâm niệm những kẻ bại dưới nó, nên đánh bại càng nhiều càng mạnh.",
+    "chapter": 544,
+    "source": "Tiên Nghịch ch.544",
+    "evidence": "Quyền ý mạnh vì có niềm tin; \"Nó đánh bại càng nhiều người, uy lực của nó sẽ càng mạnh!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Tả dực Yêu tướng thử sức Vương Lâm còn vì đang phụng mệnh ai đi tìm người?",
+    "options": [
+      "Huyết Tổ",
+      "Thiên Vận Tử",
+      "Hữu dực Yêu tướng",
+      "Yêu đế"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn đang tìm người theo lệnh Yêu đế.",
+    "chapter": 544,
+    "source": "Tiên Nghịch ch.544",
+    "evidence": "Yêu tướng nghĩ nếu Vương Lâm dừng ở lần thứ tư thì không phải \"người mà hắn phụng mệnh yêu đế tìm kiếm\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Không phải giết chóc hay tất thắng, Vương Lâm dồn loại ý niệm nào vào đòn đánh để đối kháng Thập Băng Quyền Ý?",
+    "options": [
+      "Ý niệm sinh tử",
+      "Sát niệm",
+      "Ma niệm",
+      "Niệm tất thắng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ý niệm hắn dùng là Ma niệm: nghịch thiên, tự đi con đường riêng.",
+    "chapter": 544,
+    "source": "Tiên Nghịch ch.544",
+    "evidence": "Văn bản nói rõ ý niệm ấy \"không phải giết chóc, không phải tất thắng, mà là Ma niệm\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Tả dực Yêu tướng, người phong chức cho Vương Lâm sau trận thử quyền, có tên là gì?",
+    "options": [
+      "La Vân",
+      "Vân Lệ Hải",
+      "Thiên Vận Tử",
+      "Huyết Tổ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn tự xưng là Tả dực Yêu tướng Vân Lệ Hải.",
+    "chapter": 545,
+    "source": "Tiên Nghịch ch.545",
+    "evidence": "Yêu tướng nói: \"Tả dực Yêu tương Vân Lệ Hải phong ngươi làm Thống lĩnh Cổ Yêu thành\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Với chức Thống lĩnh Cổ Yêu thành, Vương Lâm được nắm trong tay bao nhiêu yêu binh?",
+    "options": [
+      "Một nghìn",
+      "Ba nghìn",
+      "Mười vạn",
+      "Một vạn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Yêu tướng phong hắn làm Thống lĩnh, nắm một vạn yêu binh.",
+    "chapter": 545,
+    "source": "Tiên Nghịch ch.545",
+    "evidence": "Lời phong chức: Thống lĩnh Cổ Yêu thành, \"nắm trong tay một vạn yêu binh\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm chủ động lùi lại trước lần sụp đổ thứ tám và thứ chín?",
+    "options": [
+      "Tiên lực trong cơ thể đã cạn kiệt",
+      "Đánh tiếp sẽ hại tới đạo tâm",
+      "Sợ bị lộ Nghịch Thiên châu",
+      "Lo Thập Tam bị trọng thương"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn vẫn đánh được nhưng nhập ma lâu sẽ làm đạo tâm bị ma niệm ảnh hưởng.",
+    "chapter": 545,
+    "source": "Tiên Nghịch ch.545",
+    "evidence": "Hắn lùi \"không phải không thể đánh, mà là nếu đánh tiếp đạo tâm sẽ bị ảnh hưởng\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Quán rượu có vò rượu cao hai trượng mà Vương Lâm ghé vào ở Cổ Yêu thành tên là gì?",
+    "options": [
+      "Túy Tiên lâu",
+      "Thanh Mai lâu",
+      "Trúc Thanh lâu",
+      "Vọng Nguyệt lâu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn ngẩng nhìn tấm biển: Trúc Thanh lâu.",
+    "chapter": 545,
+    "source": "Tiên Nghịch ch.545",
+    "evidence": "Thấy vò rượu lớn, Vương Lâm nhìn tên quán: \"Trúc Thanh lâu!\", nổi tiếng rượu Trúc Thanh trong Cửu quận."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Theo lời đồn Vương Lâm nhớ lại, vùng đất Yêu Linh ở Đông Hải có thể vốn là gì?",
+    "options": [
+      "Ngoại phủ của một tiên đế",
+      "Lãnh địa cổ của Cổ Thần tộc",
+      "Một mảnh vỡ của Chu Tước tinh",
+      "Chiến trường ngoại vực cổ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lời đồn nói đó là ngoại phủ của một tiên đế hùng mạnh khi tiên giới chưa vỡ.",
+    "chapter": 545,
+    "source": "Tiên Nghịch ch.545",
+    "evidence": "Hắn nghĩ tới lời đồn: lúc tiên giới chưa phá nát, nơi này \"là một ngoại phủ của tiên đế\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Uống rượu ở tửu lâu, Vương Lâm trào dâng ý muốn rời Yêu Linh chi địa để trở về đâu?",
+    "options": [
+      "Thiên Vận tinh",
+      "Phong Loan tinh",
+      "Huyền Vũ tinh",
+      "Chu Tước tinh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn muốn về Chu Tước, nơi mình sinh ra.",
+    "chapter": 546,
+    "source": "Tiên Nghịch ch.546",
+    "evidence": "Hắn muốn rời Yêu Linh chi địa, rời Thiên Vận tinh \"mà trở lại Chu Tước - Nơi mà hắn đã sinh ra\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đưa tay bắt chiếc vò rượu bị ném thẳng tới bàn Vương Lâm và bị chấn thương?",
+    "options": [
+      "Thập Tam",
+      "Hổ Bào",
+      "Điếm tiểu nhị",
+      "Một yêu binh hắc giáp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thập Tam bắt vò rượu, ghế vỡ vụn, hắn phải nuốt ngụm máu xuống.",
+    "chapter": 546,
+    "source": "Tiên Nghịch ch.546",
+    "evidence": "Thập Tam \"giơ tay bắt lấy vò rượu\" rồi biến sắc lùi lại, máu trào lên miệng."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Thủ lĩnh nhóm yêu binh hắc giáp ở tửu lâu căm ghét người ngoài đến vì kẻ đó đã làm gì?",
+    "options": [
+      "Giết một thống đội thân tín của hắn",
+      "Cướp lệnh bài của Yêu tướng",
+      "Giành chức Nghiêu Lĩnh chính",
+      "Trọng thương em trai hắn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Người ngoài đến được Yêu tướng phá lệ cho làm Nghiêu Lĩnh chính, đẩy hắn xuống làm phó.",
+    "chapter": 546,
+    "source": "Tiên Nghịch ch.546",
+    "evidence": "Đám yêu binh hỏi vì sao Yêu tướng để kẻ kia \"vượt qua vị trí Nghiêu Lĩnh phó, trở thành Ngiêu Lĩnh chính\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi đám yêu binh đồng loạt phóng yêu lực trong tửu lâu, sáu đạo yêu lực ấy cuối cùng ra sao?",
+    "options": [
+      "Bị hồn phiên của Hổ Bào nuốt",
+      "Chui vào mi tâm Vương Lâm",
+      "Dội ngược đánh trọng thương chủ",
+      "Tan biến vào hư không"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sáu đạo yêu lực mất khống chế, bay vào cơ thể Vương Lâm qua mi tâm.",
+    "chapter": 546,
+    "source": "Tiên Nghịch ch.546",
+    "evidence": "Sáu đạo yêu lực \"bay thẳng về phía Vương Lâm rồi chui vào cơ thể hắn qua vị trí mi tâm\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Nếu người ngoài đến mạnh mẽ, thủ lĩnh yêu binh ở tửu lâu định dùng trận gì dù có thể bị Yêu tướng trách phạt?",
+    "options": [
+      "Khốn Tiên trận",
+      "Vạn Hồn trận",
+      "Thiên Yêu trận",
+      "Tru Tiên trận"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn định thi triển Tru Tiên trận, khiến thuộc hạ lo bị trách phạt.",
+    "chapter": 546,
+    "source": "Tiên Nghịch ch.546",
+    "evidence": "Hắn nói nếu đối phương mạnh \"thì thi triển Tru Tiên trận\"; thuộc hạ can vì Yêu tướng sẽ phạt."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Tu sĩ thượng cổ gọi thứ xâm nhập khi tu sĩ giao cảm thiên địa, thiêu đốt Nguyên Thần, là gì?",
+    "options": [
+      "Tâm ma kiếp",
+      "Thiên ma ngoại vực",
+      "Cửu U âm hỏa",
+      "Oán linh cổ chiến trường"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tu sĩ thượng cổ sợ thiên ma ngoại vực nhập thể, đốt Nguyên Thần, phá đạo pháp.",
+    "chapter": 547,
+    "source": "Tiên Nghịch ch.547",
+    "evidence": "Thiên ma ngoại vực nhập thể \"thiêu đốt Nguyên Thần từ đó mà có thể đoạt mạng, phá hoại đạo pháp\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Ở Yêu Linh chi địa, yêu lực có tác dụng gì với tu sĩ đến từ bên ngoài?",
+    "options": [
+      "Áp chế ma niệm trong cơ thể",
+      "Mở lối thoát khỏi Yêu Linh chi địa",
+      "Thay tiên lực, giúp tiên lực tăng",
+      "Chữa thương cho Nguyên Anh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yêu lực là vật thay thế tiên lực, có thể khiến tiên lực gia tăng.",
+    "chapter": 547,
+    "source": "Tiên Nghịch ch.547",
+    "evidence": "Với tu sĩ bên ngoài, \"yêu lực chính là vật thay thế tiên lực, có thể khiến cho tiên lực gia tăng\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Quản sự tham quân đưa Vương Lâm từ khách sạn tới quân doanh bằng cách nào?",
+    "options": [
+      "Trận truyền tống vẽ bằng máu",
+      "Cưỡi cự thú một sừng",
+      "Ngồi phi thuyền yêu tộc",
+      "Đi bộ qua cổng thành phía đông"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn cắn ngón tay vẽ ra một trận pháp máu để truyền tống.",
+    "chapter": 547,
+    "source": "Tiên Nghịch ch.547",
+    "evidence": "Quản sự cắn đầu ngón tay vẽ vào không trung, hiện ra trận pháp bằng máu; Vương Lâm nhận ra là Truyền Tống trận."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Quân doanh Hắc Giáp quân mà Vương Lâm được đưa tới được xây bằng gì?",
+    "options": [
+      "Gỗ thiết mộc",
+      "Xương yêu thú",
+      "Băng tinh",
+      "Đá đen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Quân doanh dùng đá đen xây, rộng chừng trăm dặm, có tường thành bao quanh.",
+    "chapter": 547,
+    "source": "Tiên Nghịch ch.547",
+    "evidence": "Vương Lâm nhìn quanh, \"thấy được nơi đây sử dụng đá đen để xây dựng\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Khu trừ ma niệm khỏi cơ thể thành ba quả cầu đen, Vương Lâm xử lý chúng thế nào?",
+    "options": [
+      "Đốt sạch bằng tiên hỏa",
+      "Cất vào túi trữ vật để dùng",
+      "Phong ấn vào hồn phiên",
+      "Ném xuống vực sâu nơi thủy triều"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn thấy bỏ thì tiếc vì có thể dùng làm loạn đạo pháp người khác, nên cất đi.",
+    "chapter": 547,
+    "source": "Tiên Nghịch ch.547",
+    "evidence": "Hắn nghĩ ma niệm vận dụng hợp lý có thể ảnh hưởng đạo pháp người ta, rồi \"thu hồi ba quả cầu vào trong túi trữ vật\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Phó thống lĩnh Hắc Giáp quân, cũng là kẻ ném vò rượu ở tửu lâu, tên là gì?",
+    "options": [
+      "Chu Khải",
+      "La Vân",
+      "Tư Mã Viêm",
+      "Tư Mã Lăng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tư Mã Viêm tháo mũ, lộ ra chính là người mặt âm trầm ở tửu lâu.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "\"Tư Mã Viêm ra mắt thống lĩnh\"; hắn tháo mũ, đúng là người có vẻ mặt âm trầm trong tửu lâu."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Không có chỗ ở trong quân doanh và bị yêu binh khinh thường, Vương Lâm làm gì?",
+    "options": [
+      "Ngồi xếp bằng thổ nạp ngoài trời",
+      "Đuổi phó thống lĩnh ra khỏi phòng",
+      "Quay về khách sạn trong thành",
+      "Đến ở nhờ trại một thống đội"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn bảo không có chỗ thì ngồi ngoài trời, tìm chỗ trống khoanh chân thổ nạp.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "Vương Lâm nói \"ngồi ngoài trời cũng được\" rồi tìm chỗ trống trải khoanh chân thổ nạp."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm hiểu rõ quy tắc trong Cửu quận yêu binh nhờ đâu?",
+    "options": [
+      "Lời kể của Diêu Tích Tuyết",
+      "Ngọc giản Yêu tướng ban",
+      "Sưu hồn một yêu binh",
+      "Ghi chép tổ tiên La Vân"
+    ],
+    "correctIndex": 3,
+    "explanation": "La Vân đã đưa cho hắn xem ghi chép của tổ tiên.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "Sự hiểu biết đó \"chính là nhờ La Vân đưa cho xem ghi chép của tổ tiên\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Ngồi bên phải Vương Lâm trong quân doanh, Thập Tam tu luyện thần thông luyện thể của tộc nào?",
+    "options": [
+      "Cổ Thần tộc",
+      "Cự Ma tộc",
+      "Tiên Di tộc",
+      "Cửu Tinh tộc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thập Tam nhắm mắt tu thần thông luyện thể của tộc Cự Ma.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "Thập Tam ngồi bên phải, \"tu hành thần thông luyện thể của tộc Cự Ma\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Tu sĩ ngoại lai ở Yêu Linh chi địa không có chiến công sẽ mất cơ hội gì?",
+    "options": [
+      "Diện kiến Yêu Đế",
+      "Rời Yêu Linh chi địa",
+      "Dung hợp Cổ yêu",
+      "Lĩnh Huyết Hồn đan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Không có chiến công thì không có cơ hội dung hợp Cổ yêu.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "Kẻ chỉ bế quan tiềm tu thì \"không có chiến công không thể có được cơ hội dung hợp Cổ yêu\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thống đội nào nhổ nước bọt, gọi Vương Lâm là phế vật rồi bị hắn bóp nát cổ?",
+    "options": [
+      "Từ thống đội",
+      "Tôn thống đội",
+      "Chu thống đội",
+      "Lý thống đội"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tôn thống đội khiêu khích nên bị Vương Lâm giết ngay.",
+    "chapter": 549,
+    "source": "Tiên Nghịch ch.549",
+    "evidence": "Tôn thống đội phun nước bọt nói \"Phế vật!\"; Vương Lâm bóp nát cổ hắn, phá hủy tu vi."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đã học thuộc ngọc giản quân quy để đọc lên từng điều khi Vương Lâm ra tay lập uy?",
+    "options": [
+      "Hổ Bào",
+      "Quản sự tham quân",
+      "Thập Tam",
+      "Một lão thống đội"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thập Tam chăm chú ghi nhớ ngọc giản rồi đọc quân quy theo lệnh Vương Lâm.",
+    "chapter": 549,
+    "source": "Tiên Nghịch ch.549",
+    "evidence": "\"Trong mấy ngày qua, Thập Tam chăm chú ghi nhớ nội dung ngọc giản\" và đọc điều thứ tám khi được gọi."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo điều thứ tám quân quy được đọc lên, kẻ dưới xúc phạm cấp trên bị xử thế nào?",
+    "options": [
+      "Chém",
+      "Phế tu vi, đuổi khỏi quân",
+      "Giáng làm yêu binh thường",
+      "Giam vào ngục tối"
+    ],
+    "correctIndex": 0,
+    "explanation": "Điều thứ tám quy định người dưới xúc phạm cấp trên thì chém.",
+    "chapter": 549,
+    "source": "Tiên Nghịch ch.549",
+    "evidence": "Quân quy Thiên Yêu quận điều thứ tám: \"Người dưới xúc phạm cấp trên. Chém.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo điều thứ mười ba quân quy, kẻ náo loạn quân doanh, vây khốn cấp trên phải rút lui trong bao lâu?",
+    "options": [
+      "Mười nhịp thở",
+      "Một nén nhang",
+      "Một trăm nhịp thở",
+      "Ba mươi nhịp thở"
+    ],
+    "correctIndex": 3,
+    "explanation": "Điều mười ba buộc phải lùi trong vòng ba mươi nhịp hô hấp.",
+    "chapter": 549,
+    "source": "Tiên Nghịch ch.549",
+    "evidence": "\"Náo loạn quân doanh, vây khốn cấp trên, trong vòng ba mươi nhịp hô hấp phải lùi.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Nghe tin quân doanh hỗn loạn, phó thống lĩnh làm gì trước khi ra mặt?",
+    "options": [
+      "Bày đại trận vây hãm chờ sẵn",
+      "Lén báo cho quản sự tham quân",
+      "Báo thẳng cho Tả dực Yêu tướng",
+      "Triệu tập mười thống đội"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn dùng bí thuật báo quản sự tham quân, đợi Vương Lâm bị vây mới xuất hiện.",
+    "chapter": 549,
+    "source": "Tiên Nghịch ch.549",
+    "evidence": "Tư Mã Viêm không ra mặt mà \"sử dụng bí thật để báo cho quản sự tham quân\", chờ Vương Lâm bị vây."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Luyện hóa số yêu lực dung nhập với tiên lực, Vương Lâm ổn định tu vi ở cảnh giới nào?",
+    "options": [
+      "Anh Biến sơ kỳ",
+      "Anh Biến trung kỳ",
+      "Hóa Thần hậu kỳ",
+      "Anh Biến hậu kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn luyện hóa yêu lực, ổn định tu vi mà tiến tới Anh Biến hậu kỳ.",
+    "chapter": 550,
+    "source": "Tiên Nghịch ch.550",
+    "evidence": "Hắn luyện hóa yêu lực dung nhập tiên lực, \"ổn định tu vi mà tiến tới Anh Biến hậu kỳ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau khi lập uy, Vương Lâm có chỗ ở trong quân doanh bằng cách nào?",
+    "options": [
+      "Chiếm phòng của phó thống lĩnh",
+      "Dựng lầu hai tầng từ bùn đất",
+      "Mượn trại của một thống đội",
+      "Hóa pháp bảo thành cung điện"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn ấn tay xuống đất, làm một tòa lầu hai tầng bằng bùn đất trồi lên.",
+    "chapter": 550,
+    "source": "Tiên Nghịch ch.550",
+    "evidence": "Vương Lâm nhấn tay xuống đất, \"một ngôi lầu bằng bùn đất chui lên\", có hai tầng."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bị tố giết thuộc hạ vô cớ, Vương Lâm chứng minh mình đúng trước quản sự tham quân bằng gì?",
+    "options": [
+      "Ngọc giản ghi lại sự việc",
+      "Lời làm chứng của thống đội",
+      "Lời thề tâm ma",
+      "Lệnh bài của Yêu tướng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn ném ra ngọc giản; quản sự xem thấy lại toàn bộ sự việc vừa diễn ra.",
+    "chapter": 550,
+    "source": "Tiên Nghịch ch.550",
+    "evidence": "Vương Lâm vung tay, một miếng ngọc giản bay ra; trong đó hiện \"sự việc vừa diễn ra\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Hổ Bào say mê nữ thống đội nào trong quân doanh của Vương Lâm?",
+    "options": [
+      "Diêu Tích Tuyết",
+      "Hồng Điệp",
+      "Từ U",
+      "Liễu Mi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thống đội Từ U là con gái; Hổ Bào vừa gặp đã rung động.",
+    "chapter": 550,
+    "source": "Tiên Nghịch ch.550",
+    "evidence": "Có \"một vị thống đội tên là Từ U. Người này là con gái\"; Hổ Bào thấy nàng liền rung động."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Theo Diêu Tích Tuyết, mỗi viên Huyết Hồn đan phụ thân luyện cho nàng có công dụng gì?",
+    "options": [
+      "Tăng thêm một tầng tu vi",
+      "Che giấu khí tức",
+      "Hóa giải ma niệm",
+      "Giúp hồi sinh một lần"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mỗi viên Huyết Hồn đan cho nàng một lần hồi sinh.",
+    "chapter": 550,
+    "source": "Tiên Nghịch ch.550",
+    "evidence": "Nàng nghĩ: \"Mỗi một viên Huyết Hồn đan là một lần có thể hồi sinh.\""
+  }
+]

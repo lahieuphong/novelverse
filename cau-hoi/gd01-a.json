@@ -1,0 +1,101 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đã nhường danh ngạch tiến cử vào Hằng Nhạc Phái của con mình cho Thiết Trụ?",
+    "options": ["Tứ thúc của Thiết Trụ", "Vương Thiên Sơn (đại bá)", "Tam tổ phụ", "Tiên sinh dạy học trong thôn"],
+    "correctIndex": 0,
+    "explanation": "Tứ thúc được gia tộc chia một danh ngạch, thấy con mình không hợp nên đem tặng cho Thiết Trụ thông minh, ham đọc sách.",
+    "chapter": 1,
+    "source": "Tiên Nghịch ch.1",
+    "evidence": "Tứ thúc kể gia tộc có ba danh ngạch tiến cử, phần của ông có một và ông quyết để Thiết Trụ đi thử; dân làng biết chuyện \"lão Tứ đem danh ngạch của con mình tặng cho Thiết Trụ\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Bị chê tư chất kém ở vòng trắc thí linh căn, Vương Hạo đã dâng vật gì để được nhận làm dược đồng?",
+    "options": ["Một khối hạ phẩm linh thạch", "Một tấm Thiên Lý Phù", "Hộp ngọc chứa linh chi 300 năm", "Một viên Đoạt Linh Đan"],
+    "correctIndex": 2,
+    "explanation": "Vương Hạo dâng hộp ngọc cha nhặt trong núi, bên trong là linh chi 300 năm, nên được nhận làm dược đồng luyện đan.",
+    "chapter": 3,
+    "source": "Tiên Nghịch ch.3",
+    "evidence": "Vương Hạo lấy ra hộp ngọc đập không vỡ; trung niên áo đen nhận ra là \"một gốc cây linh chi có 300 năm\" bị phong ấn rồi nhận hắn làm dược đồng."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Bị kẹt trong hang trên vách núi, Vương Lâm tìm thấy bảo vật gì trong xác con chim bị hút vào chết?",
+    "options": ["Một viên nội đan đỏ rực của yêu thú", "Thạch châu màu xám khắc năm đám mây trắng", "Một hộp ngọc bị phong ấn", "Một khối tinh thiết"],
+    "correctIndex": 1,
+    "explanation": "Hắn tưởng là nội đan, nhưng lau sạch ra thì đó là một hạt châu đá màu xám khắc năm đóa mây trắng.",
+    "chapter": 8,
+    "source": "Tiên Nghịch ch.8",
+    "evidence": "Moi từ xác phi điểu ra một hạt châu, lau sạch thì thấy \"một cái thạch châu màu xám, mặt trên khắc họa năm đóa mây trắng\"; sương đọng trên nó chữa lành tay hắn."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm được phá lệ nhận làm ký danh đệ tử một phần nhờ món quà nào mà Tứ thúc đã đưa cho một vị trưởng lão?",
+    "options": ["Một tấm Thiên Lý Phù", "Một viên Đoạt Linh Đan", "Một khối hạ phẩm linh thạch", "Một khối tinh thiết"],
+    "correctIndex": 3,
+    "explanation": "Vị trung niên trong đại điện lên tiếng giúp Vương Lâm vì đã nhận khối tinh thiết Tứ thúc mua được từ một thợ rèn.",
+    "chapter": 10,
+    "source": "Tiên Nghịch ch.10",
+    "evidence": "Vị trung niên thầm nghĩ đã giúp hết sức vì \"khối tinh thiết mà Tứ thúc ngươi cho ta\"; truyện nói chính khối tinh thiết đó đã thay đổi vận mệnh Vương Lâm."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi mới làm ký danh đệ tử, Vương Lâm bị Lưu sư huynh (kẻ bị gọi lén là 'con chồn') giao công việc gì mỗi ngày?",
+    "options": ["Chẻ củi đủ số mới được ăn cơm", "Trông lò trong đan phòng", "Gánh nước đổ đầy mười vại lớn", "Tưới vườn thuốc ở chính viện"],
+    "correctIndex": 2,
+    "explanation": "Hắn phải gánh nước từ con suối ngoài cửa Đông về đổ đầy mười vại lớn như căn phòng, không xong thì không có cơm ăn.",
+    "chapter": 11,
+    "source": "Tiên Nghịch ch.11",
+    "evidence": "Vương Lâm kể với Trương Hổ là phải \"mỗi ngày gánh đầy mười vại nước\"; Trương Hổ cho biết mỗi vại to gần bằng phòng ở, còn hắn thì làm việc chẻ củi."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trong đêm mưa giông, thạch châu hút hết hơi nước trong phòng khiến ai suýt bị đông cứng mà chết?",
+    "options": ["Lưu sư huynh", "Vương Hạo", "Vương Trác", "Trương Hổ"],
+    "correctIndex": 3,
+    "explanation": "Người ở chung phòng là Trương Hổ phủ đầy sương giá, tím tái, gần như tắt thở, đến khi Vương Lâm lấy hạt châu ra mới hồi lại.",
+    "chapter": 14,
+    "source": "Tiên Nghịch ch.14",
+    "evidence": "Vương Lâm tỉnh dậy thấy Trương Hổ \"toàn thân trên dưới đầy sương giá\", mặt tím tái; hắn lấy hạt châu ra thì hơi nước trong phòng bị hút hết vào nó."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vì muốn có thêm hồ lô chứa nước đầy linh khí, ai đã nhận Vương Lâm làm đệ tử và đưa hắn vào hàng nội môn?",
+    "options": ["Tôn Đại Trụ", "Đạo Hư", "Lý trưởng lão", "Mã trưởng lão"],
+    "correctIndex": 0,
+    "explanation": "Tôn trưởng lão phát hiện hồ lô nước suối của Vương Lâm đầy linh khí, bèn nhận hắn làm đệ tử để moi thêm hồ lô.",
+    "chapter": 17,
+    "source": "Tiên Nghịch ch.17",
+    "evidence": "Tôn trưởng lão tuyên bố \"ngươi chính là đệ tử của Tôn Đại Trụ ta\" rồi đưa túi trữ vật làm dấu hiệu nội môn đệ tử."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Tôn Đại Trụ định đợi Vương Lâm đạt Ngưng Khí tầng một rồi dùng thuật gì để dò xét bí mật trong đầu hắn?",
+    "options": ["Hóa Thần Thuật", "Sưu Hồn thuật", "Ngưng Khí tam thiên", "Thất Thải Tường Vân"],
+    "correctIndex": 1,
+    "explanation": "Lão định chịu tụt một tầng tu vi để dùng Sưu Hồn thuật, vì chưa tới Kết Đan thì không được dùng thuật này lên phàm nhân.",
+    "chapter": 19,
+    "source": "Tiên Nghịch ch.19",
+    "evidence": "Tôn Đại Trụ tính khi Vương Lâm luyện thành tầng một sẽ liều mạng rút tu vi xuống một tầng để \"sử dụng Sưu Hồn thuật với hắn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Lúc chờ lĩnh linh thạch ở đan phòng, Vương Hạo đã lén dúi vào tay Vương Lâm thứ gì?",
+    "options": ["Một khối hạ phẩm linh thạch", "Một tấm Thiên Lý Phù", "Ba viên linh đan", "Một hồ lô sương sớm"],
+    "correctIndex": 2,
+    "explanation": "Vương Hạo, dược đồng của đan phòng, lén đưa Vương Lâm ba viên dược hoàn, tức là linh đan.",
+    "chapter": 21,
+    "source": "Tiên Nghịch ch.21",
+    "evidence": "Vương Hạo nhân lúc không ai để ý nhét vào tay Vương Lâm một vật; hắn nhìn thì thấy \"đó là ba viên dược hoàn\", về sau truyện nói rõ đó là linh đan."
+  }
+]

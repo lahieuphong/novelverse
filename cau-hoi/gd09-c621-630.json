@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Người đàn ông nhỏ con ngoài tòa thành trắng, từng theo Vương Lâm vào Yêu Linh chi địa, là đệ tử hệ nào của Thiên Vận Tông?",
+    "options": [
+      "Tử hệ",
+      "Hoàng hệ",
+      "Lam hệ",
+      "Xích hệ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Người này là đệ tử Lam hệ của Thiên Vận Tông.",
+    "chapter": 621,
+    "source": "Tiên Nghịch ch.621",
+    "evidence": "Trong đám tu sĩ có người đàn ông trung niên nhỏ người áo lam, 'đệ tử Lam hệ của Thiên Vận Tông'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trong ba nữ tử đứng trước Lão Tổ trong tòa thành trắng, ai là người nhận ra Vương Lâm?",
+    "options": [
+      "Tôn Nhược Nam",
+      "Liễu Mi",
+      "Diêu Tích Tuyết",
+      "Triệu Hân Mộng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tôn Nhược Nam, muội muội Tôn Vân Sơn, nói khẽ rằng người tới hẳn là Vương Lâm.",
+    "chapter": 621,
+    "source": "Tiên Nghịch ch.621",
+    "evidence": "Một trong ba nữ tử trước lão già, 'Tôn Nhược Nam, muội muội của Tôn Vân Sơn' nói hắn hẳn là Vương Lâm."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Năm xưa Lão Tổ tự xưng đến từ Tiên giới đã động tâm muốn bắt Vương Lâm để làm gì?",
+    "options": [
+      "Làm lô đỉnh tu luyện",
+      "Làm tế phẩm cho yêu linh",
+      "Đoạt lấy ý cảnh",
+      "Luyện thành Tiên vệ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão từng muốn bắt Vương Lâm để luyện thành Tiên vệ.",
+    "chapter": 621,
+    "source": "Tiên Nghịch ch.621",
+    "evidence": "Lão già thấp bé nhớ năm đó 'muốn bắt người này để luyện thành Tiên vệ'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Lúc đầu Lão Tổ đề nghị hai bên coi như hòa, viện cớ Vương Lâm đã làm gì?",
+    "options": [
+      "Phá hủy tòa thành trắng",
+      "Giết hai Tiên vệ của lão",
+      "Cướp đi ba nữ tử của lão",
+      "Giải Tiên chủng cho mọi người"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão nói Vương Lâm đã giết hai Tiên vệ của lão nên coi như hòa.",
+    "chapter": 621,
+    "source": "Tiên Nghịch ch.621",
+    "evidence": "Lão già nói: 'Ngươi đã giết hai Tiên vệ của ta, cũng coi như hoà'."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Thấy Vương Lâm đã nắm giữ đạo của chính mình, đệ tử Thiên Vận Tông hiểu rằng người như vậy có tư cách làm gì?",
+    "options": [
+      "Khai tông lập phái",
+      "Bước vào Toái Niết",
+      "Dung hợp cổ yêu chi linh",
+      "Được ban Tiên thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Theo truyện, ai chân chính nắm được đạo niệm của mình thì có tư cách khai tông lập phái.",
+    "chapter": 621,
+    "source": "Tiên Nghịch ch.621",
+    "evidence": "Người nắm giữ đạo niệm của chính mình 'chính là nắm giữ tư cách có thể khai tông lập phái'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Tám Tiên vệ ngồi kết ấn, hợp tiên lực thành hư ảnh người cầm kiếm xanh. Đám tu sĩ quỳ xuống gọi hư ảnh đó là gì?",
+    "options": [
+      "Cổ Yêu",
+      "Tiên Quân",
+      "Kiếm Tôn",
+      "Tiên Đế"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đám tu sĩ quỳ xuống hô 'Hạ giới tu sĩ tham kiến Tiên Đế'.",
+    "chapter": 622,
+    "source": "Tiên Nghịch ch.622",
+    "evidence": "Hư ảnh hóa người trung niên mặc tiên bào cầm kiếm xanh; tu sĩ quỳ hô 'tham kiến Tiên Đế'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm dùng thần thông nào đánh tan hư ảnh do tám Tiên vệ tạo ra, rồi xuyên qua thân thể cả tám?",
+    "options": [
+      "Tịch Diệt chỉ",
+      "Hoàng tuyền",
+      "Hóa Ma chỉ",
+      "Sát Lục khí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hoàng tuyền quét ngang làm hư ảnh tan biến, rồi hắn theo Hoàng tuyền xuyên qua tám Tiên vệ.",
+    "chapter": 622,
+    "source": "Tiên Nghịch ch.622",
+    "evidence": "'Hoàng tuyền quét ngang, hư ảnh... tan biến'; hắn dung nhập Hoàng tuyền xuyên qua tám Tiên vệ."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Khối ngọc xanh lão già thấp bé tung ra hóa thành vô số sợi tơ xanh. Vương Lâm gọi đúng tên thứ đó là gì?",
+    "options": [
+      "Cửu U hồn ti",
+      "Tiên thú chi lương",
+      "Thanh Mộc tiên ti",
+      "Phệ Linh cổ trùng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm nhận ra đám tơ xanh là Tiên thú chi lương (Tiên lương).",
+    "chapter": 622,
+    "source": "Tiên Nghịch ch.622",
+    "evidence": "Nhìn vô số sợi tơ xanh, Vương Lâm chậm rãi nói: 'Tiên thú chi lương!'"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm từng gặp loại tơ xanh này năm xưa, khi cùng đệ tử của tông môn nào tiến vào một động phủ?",
+    "options": [
+      "Thiên Vận Tông",
+      "Huyền Uyên phái",
+      "Đại La Kiếm Tông",
+      "Thi Âm Tông"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đó là Tiên lương hắn gặp khi cùng đệ tử Đại La Kiếm Tông vào một động phủ năm xưa.",
+    "chapter": 622,
+    "source": "Tiên Nghịch ch.622",
+    "evidence": "Sợi tơ xanh 'chính là Tiên lương khi hắn và đệ tử của Đại La Kiếm Tông gặp phải khi tiến vào động phủ'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao việc lão già thấp bé tung Tiên lương ra được xem là đã định liều mạng?",
+    "options": [
+      "Phải hiến tế tuổi thọ của lão",
+      "Chỉ dùng được một lần",
+      "Chưa từng khống chế trọn vẹn",
+      "Sẽ tổn thương nguyên thần"
+    ],
+    "correctIndex": 2,
+    "explanation": "Từ khi có Tiên lương, lão vẫn không thể khống chế hoàn toàn nên tung ra là liều mạng.",
+    "chapter": 622,
+    "source": "Tiên Nghịch ch.622",
+    "evidence": "Lão 'vẫn thuỷ chung không thể hoàn toàn khống chế', xuất ra hiển nhiên là đã định liều mạng."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Phù văn do cây bút lông của lão già thấp bé vẽ ra giống hệt phù văn Vương Lâm từng thấy ở đâu?",
+    "options": [
+      "Đỉnh Linh Sơn trong Chu Tước Mộ",
+      "Hố sâu của Tiên Di tộc",
+      "Bảo tháp bảy màu của Thiên Vận Tử",
+      "Tôn Long chi lộ ngoài Tiên phủ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phù văn ấy giống như đúc phù văn trên Tôn Long chi lộ ngoài Tiên phủ.",
+    "chapter": 623,
+    "source": "Tiên Nghịch ch.623",
+    "evidence": "Phù văn 'giống như đúc với phù văn hắn gặp trên Tôn Long chi lộ ngoài Tiên phủ'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Vương Lâm chỉ vào Xạ Thần xa, gọi ra con thú nào để đánh tan phù văn của lão già?",
+    "options": [
+      "Văn Thú",
+      "Lôi thú",
+      "Hắc Viêm thú",
+      "Thu Hác"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn quát 'Lôi thú!', một con Lôi thú hai sừng bạc hiện ra dẫn thiên lôi đánh vào phù văn.",
+    "chapter": 623,
+    "source": "Tiên Nghịch ch.623",
+    "evidence": "Trong lôi điện 'biến ảo ra một con Lôi thú', thiên lôi liên tục đánh vào phù văn đến sụp đổ."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Vương Lâm vạch trần bí mật lớn nhất của lão già: dù là Vấn Đỉnh trung kỳ nhưng giống Tiên vệ, lão không có gì?",
+    "options": [
+      "Nguyên lực",
+      "Thần thức",
+      "Tiên căn",
+      "Linh căn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm nói lão cũng như Tiên vệ, đều không có nguyên lực.",
+    "chapter": 623,
+    "source": "Tiên Nghịch ch.623",
+    "evidence": "Vương Lâm: 'ngươi dù là Vấn Đỉnh trung kỳ nhưng cũng giống như Tiên vệ, đều không có nguyên lực!'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lão già ném cây bút lông vào hư vô. Ai cưỡi thanh hắc đao, được Vương Lâm thả ra đuổi theo nó?",
+    "options": [
+      "Thập Tam",
+      "Hổ Bào",
+      "Hứa Lập Quốc",
+      "Độn Thiên"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hứa Lập Quốc hiện ra từ tiên kiếm, thúc thanh hắc đao đuổi theo cây bút vào hư vô.",
+    "chapter": 623,
+    "source": "Tiên Nghịch ch.623",
+    "evidence": "Hứa Lập Quốc quát hắc đao đuổi theo bút lông; thanh đao 'mang theo thân ảnh của Hứa Lập Quốc' vào hư vô."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Lão già thấp bé vốn nhát gan, nhưng bắt đầu liên tục ra tay bắt tu sĩ từ khi nào?",
+    "options": [
+      "Khi lên được Vấn Đỉnh trung kỳ",
+      "Khi có được tấm lưới xanh",
+      "Khi Cổ Yêu thành mở cửa",
+      "Khi số Tiên vệ đạt tới mười"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sự cẩn thận của lão dần mất khi số Tiên vệ đạt mười, lão bắt đầu liên tiếp ra tay.",
+    "chapter": 623,
+    "source": "Tiên Nghịch ch.623",
+    "evidence": "Sự cẩn thận bị bỏ quên 'khi số lượng Tiên vệ đạt tới mười người', lão bắt đầu liên tiếp ra tay."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Lão già thấp bé tung tấm lưới xanh ra để vây Vương Lâm. Kết quả thế nào?",
+    "options": [
+      "Vương Lâm bị trói ba ngày",
+      "Lưới bị Lôi thú đánh rách",
+      "Lưới trói luôn chính lão",
+      "Lưới bị Hồn Phiên hút mất"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thanh mang của Khốn Tiên võng co rút lại trói chặt chính lão già rồi đưa lão tới trước mặt Vương Lâm.",
+    "chapter": 624,
+    "source": "Tiên Nghịch ch.624",
+    "evidence": "Mục tiêu nó co rút 'không phải là Vương Lâm mà là lão già'; lão bị trói đưa tới trước Vương Lâm."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Trước đây lão già thử Khốn Tiên võng: hai lần đầu bị nó trói. Lần thứ ba nó trói được thứ gì?",
+    "options": [
+      "Một con yêu thú",
+      "Một khúc gỗ",
+      "Một Tiên vệ",
+      "Một tảng đá"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lần thứ ba tấm lưới mới trói được khúc gỗ lão dùng làm thí nghiệm.",
+    "chapter": 624,
+    "source": "Tiên Nghịch ch.624",
+    "evidence": "Chỉ khi dùng lần thứ ba 'nó mới trói trụ một khối đầu gỗ hắn dùng làm thí nghiệm'."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Theo ngọc giản của lão già, ngoài Vấn Đỉnh hậu kỳ đại viên mãn, loại tu sĩ nào cũng cho tỉ lệ luyện Tiên vệ một phần vạn?",
+    "options": [
+      "Tu sĩ có đạo niệm riêng",
+      "Tu sĩ mang huyết Cổ Thần",
+      "Tu sĩ có Tiên căn",
+      "Tu sĩ từng dung hợp cổ yêu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngọc giản ghi tu sĩ có đạo niệm của chính mình cũng đạt tỉ lệ thành công một phần vạn.",
+    "chapter": 624,
+    "source": "Tiên Nghịch ch.624",
+    "evidence": "'Nếu sử dụng tu sĩ có được đạo niệm của chính mình, đồng dạng cũng có thể đạt tới... một phần vạn.'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Bị Vương Lâm bắt đi, Tôn Nhược Nam cho rằng hắn bắt nàng để làm gì?",
+    "options": [
+      "Làm con tin ép Lão Tổ",
+      "Bắt làm nô bộc",
+      "Làm lô đỉnh",
+      "Luyện thành Tiên vệ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nàng cười lạnh nói biết hắn muốn đem nàng làm lô đỉnh; hắn đáp nàng không có tư cách.",
+    "chapter": 624,
+    "source": "Tiên Nghịch ch.624",
+    "evidence": "Tôn Nhược Nam: 'Là muốn đem ta thành Lô đỉnh đi'; Vương Lâm: nàng không có tư cách."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Thấy lão già bị chính pháp bảo của mình trói rồi đưa tới trước mặt, Vương Lâm phản ứng ra sao?",
+    "options": [
+      "Lập tức giết lão",
+      "Không nhịn được bật cười",
+      "Thi triển Sưu Hồn thuật ngay",
+      "Bỏ mặc lão rồi rời đi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nghe lão già cáu kỉnh, Vương Lâm không nhịn được bật cười, nụ cười rất hiếm thấy trên mặt hắn.",
+    "chapter": 624,
+    "source": "Tiên Nghịch ch.624",
+    "evidence": "Vương Lâm 'không thể không bật cười. Loại tươi cười này cực kỳ hiếm thấy trên mặt hắn'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Kiếm trận Vương Lâm dùng canh giữ lão già thấp bé, cái tên hắn biết được nhờ sưu hồn Hợi Trư, là gì?",
+    "options": [
+      "Thiên Sát Thập nhị kiếm trận",
+      "Tru Tiên trận",
+      "Tam Tài kiếm trận",
+      "Tứ Tượng kiếm trận"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ba thanh kiếm lập thành Tam Tài kiếm trận của Kiếm Tôn Lăng Thiên Hậu.",
+    "chapter": 625,
+    "source": "Tiên Nghịch ch.625",
+    "evidence": "Vương Lâm hỏi: 'Tam Tài kiếm trận của Kiếm Tôn Lăng Thiên Hầu ngươi có từng nghe nói qua?'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Bị Thiên Ma âm khống chế, lão già thấp bé tự xưng từ Tiên giới khai ra tên thật của mình là gì?",
+    "options": [
+      "Hoàng Long",
+      "Hoàng Ngọc",
+      "Thạch Phương",
+      "Tào Nhất Đấu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão khai là tu sĩ Huyền Vũ Phái, tên Hoàng Ngọc.",
+    "chapter": 625,
+    "source": "Tiên Nghịch ch.625",
+    "evidence": "Lão già: 'Ta là tu sĩ của Huyền Vũ Phái, tên là Hoàng Ngọc.'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Ngọc giản trong túi lão già là quà một vị Tiên Đế tặng con gái vừa thành Tiên Quân. Nàng tên gì?",
+    "options": [
+      "Liễu Mi",
+      "Hồng Điệp",
+      "Diêu Tích Tuyết",
+      "Thanh Sương"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ngọc giản mở đầu bằng lời người cha gửi Thanh Sương, Tiên Quân của Vũ chi Tiên giới.",
+    "chapter": 625,
+    "source": "Tiên Nghịch ch.625",
+    "evidence": "'Thanh Sương, ngươi vừa trở thành Tiên Quân của Vũ chi Tiên giới, đây là vật vi phụ đưa cho ngươi.'"
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Theo ngọc giản, cây bút Tiên gia mà lão già thấp bé có được ẩn chứa loại lực gì?",
+    "options": [
+      "Thái âm lực",
+      "Luân hồi lực",
+      "Phù Văn lực",
+      "Lôi đình lực"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngọc giản ghi Điểm Tiên bút ẩn chứa Thái âm lực, mười hai phù văn hóa từ mười hai tinh thần.",
+    "chapter": 625,
+    "source": "Tiên Nghịch ch.625",
+    "evidence": "'Điểm Tiên bút, pháp bảo này ẩn chứa Thái âm lực.'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Đọc ngọc giản người cha viết tặng con gái, Vương Lâm suy ra người viết là ai?",
+    "options": [
+      "Thiên Vận Tử",
+      "Chu Tước Tử",
+      "Tiên Đế Thanh Lâm",
+      "Kiếm Tôn Lăng Thiên Hậu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Từ tên người nhận, Vương Lâm suy ra phụ thân nàng là Tiên Đế Thanh Lâm.",
+    "chapter": 625,
+    "source": "Tiên Nghịch ch.625",
+    "evidence": "Vương Lâm hạ giọng nói phụ thân của nàng là '- Tiên Đế Thanh Lâm!'"
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo ngọc giản Tiên gia, Hạ phẩm Tiên vệ có tu vi tương đương cảnh giới nào?",
+    "options": [
+      "Vấn Đỉnh sơ kỳ",
+      "Anh Biến hậu kỳ đại viên mãn",
+      "Vấn Đỉnh trung kỳ",
+      "Vấn Đỉnh hậu kỳ đại viên mãn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ngọc giản ghi Hạ phẩm Tiên vệ tương đương Vấn Đỉnh hậu kỳ đại viên mãn, cực hạn bước thứ nhất.",
+    "chapter": 626,
+    "source": "Tiên Nghịch ch.626",
+    "evidence": "'Tu vi của Hạ phẩm Tiên vệ tương đương với Vấn Đỉnh hậu kỳ đại viên mãn.'"
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Phần thứ ba của ngọc giản, chỉ mở được bằng máu người nhận, hóa ra ghi chép thứ gì?",
+    "options": [
+      "Cách luyện chế Tiên vệ",
+      "Bản đồ một động phủ",
+      "Khẩu quyết một bộ Tiên thuật",
+      "Cách dùng ba Tiên bảo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bộ phận thứ ba là bản đồ địa hình của một động phủ.",
+    "chapter": 626,
+    "source": "Tiên Nghịch ch.626",
+    "evidence": "'Còn bộ phận thứ ba của ngọc giản không ngờ lại là một bộ bản đồ... của một Động phủ!'"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau khi luyện ra một khối Toái ngọc từ nguyên thần lão già thấp bé, Vương Lâm xử lý nguyên thần ấy thế nào?",
+    "options": [
+      "Phong ấn vào bảo tháp",
+      "Đánh cho hồn phi phách tán",
+      "Cho Tôn Hồn Phiên nuốt",
+      "Luyện thành Tiên vệ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nguyên thần lão bị ném ra, bị màn sương Tôn Hồn Phiên nuốt và thành một phần trong đó.",
+    "chapter": 626,
+    "source": "Tiên Nghịch ch.626",
+    "evidence": "Nguyên thần lão 'bị màn sương Tôn Hồn Phiên giữa không trung cắn nuốt, trở thành một thành viên'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Tiên thuật hạ phẩm ghi trong ngọc giản mà Vương Lâm bế quan nghiên cứu suốt mấy chục năm tên là gì?",
+    "options": [
+      "Định Thân thuật",
+      "Na Di thuật",
+      "Sưu Hồn thuật",
+      "Dẫn Lực thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn chìm đắm nghiên cứu Định Thân thuật, Tiên thuật hạ phẩm trong ngọc giản.",
+    "chapter": 626,
+    "source": "Tiên Nghịch ch.626",
+    "evidence": "Vương Lâm thở sâu, 'Định Thân thuật!', rồi chìm vào Tiên thuật này hơn hai mươi năm."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Ở Thiên Vận Tông, đệ tử phải làm gì mới được ban một bộ Tiên thuật?",
+    "options": [
+      "Đánh bại Đại sư huynh tông môn",
+      "Giữ phong hiệu Thất tử nhiều năm",
+      "Đạt tới Vấn Đỉnh kỳ trong tông",
+      "Lập đại công ở Đông Hải Yêu Linh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phải nắm giữ phong hiệu Thiên Vận Thất tử liên tục vô số năm mới được ban Tiên thuật.",
+    "chapter": 626,
+    "source": "Tiên Nghịch ch.626",
+    "evidence": "'Chỉ có liên tục vô số năm nắm giữ phong hiệu Thiên Vận Thất tử, mới được ban cho một bộ Tiên thuật.'"
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Ngoài Thủy Yêu Quận, quận nào cũng cử một phó soái dẫn quân vây Luyện Hồn bộ lạc?",
+    "options": [
+      "Lôi Yêu Quận",
+      "Hỏa Yêu Quận",
+      "Cửu Tuyệt Quận",
+      "Thiên Yêu Quận"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thủy Yêu Quận và Lôi Yêu Quận mỗi bên cử một phó soái vây Luyện Hồn bộ lạc.",
+    "chapter": 627,
+    "source": "Tiên Nghịch ch.627",
+    "evidence": "'Dẫn đầu Thuỷ Yêu Quận và Lôi Yêu Quận đều là một vị phó soái', vây lấy Luyện Hồn bộ lạc."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Phó soái Lôi Yêu Quận muốn đoạt thứ gì của Luyện Hồn bộ lạc để dâng lên Yêu Đế?",
+    "options": [
+      "Tộc nhân bộ lạc",
+      "Khối yêu tinh",
+      "Cây bút Tiên gia",
+      "Màn sương đen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn coi màn sương đen là dị bảo, định lấy về dâng Yêu Đế; Thủy Yêu Quận lấy người.",
+    "chapter": 627,
+    "source": "Tiên Nghịch ch.627",
+    "evidence": "Đại hán: lấy 'dị bảo này về dâng lên Yêu Đế'; hai bên ước định hắn lấy màn sương đen."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Ai hô 'Hồn, tán!' để toàn bộ tộc nhân Luyện Hồn bộ lạc tung hồn phách đánh vào phó soái Lôi Yêu Quận?",
+    "options": [
+      "Thập Tam",
+      "Âu Dương Hoa",
+      "Hổ Bào",
+      "Tôn Vân Sơn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Âu Dương Hoa ra lệnh, tộc nhân phóng hồn phách hóa thành trường hồng đen đánh đại hán.",
+    "chapter": 627,
+    "source": "Tiên Nghịch ch.627",
+    "evidence": "'Âu Dương Hoa hét lớn một tiếng', toàn bộ tộc nhân phát ra những hồn phách mình thu được."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi phó soái Lôi Yêu Quận tung quyền vào tòa tháp, một giọng nói khẽ từ trong tháp khiến hắn ra sao?",
+    "options": [
+      "Bị Hoàng tuyền cuốn đi",
+      "Bị sét đánh bật ngược",
+      "Bất động giữa không trung",
+      "Bị Kỳ Lân thú nuốt mất"
+    ],
+    "correctIndex": 2,
+    "explanation": "Một chữ từ trong tháp khiến thân hắn dừng giữa không trung, chỉ còn đôi mắt cử động được.",
+    "chapter": 627,
+    "source": "Tiên Nghịch ch.627",
+    "evidence": "'Thân thể hắn dừng lại giữa không trung, không chút cử động!' chỉ còn đôi mắt động được."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao phó soái Lôi Yêu Quận nhắm thẳng vào tòa tháp giữa Luyện Hồn bộ lạc?",
+    "options": [
+      "Nhận ra khí tức Vương Lâm trong đó",
+      "Muốn đoạt Tiên bảo cất trong tháp",
+      "Đoán đó là mắt trận của màn sương",
+      "Tưởng đó là nơi bộ lạc thờ phụng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn đoán bộ lạc thờ phụng tòa tháp, phá nó sẽ làm tộc nhân hết trấn định.",
+    "chapter": 627,
+    "source": "Tiên Nghịch ch.627",
+    "evidence": "Bộ lạc này 'thờ phụng hiển nhiên chính là toà tháp này'; hắn muốn hủy tháp để họ mất trấn định."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Nữ phó soái Thủy Yêu Quận thoát khỏi Tiên thuật của Vương Lâm rồi bỏ chạy. Nàng chết dưới thứ gì?",
+    "options": [
+      "Ba thanh kiếm hồn thú",
+      "Lôi thú của Xạ Thần xa",
+      "Tộc nhân Luyện Hồn bộ lạc",
+      "Tịch Diệt chỉ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ba thanh kiếm Tử Thử, Hợi Trư, Mạt Dương đuổi kịp và xuyên qua thân nàng.",
+    "chapter": 628,
+    "source": "Tiên Nghịch ch.628",
+    "evidence": "Ba hồn thú Tử Thử, Hợi Trư, Mạt Dương lao ra, 'ba thanh kiếm đã xuyên qua thân thể nàng'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trước khi tới Hỏa Yêu Quận, Vương Lâm ghé lại động phủ cũ để làm gì?",
+    "options": [
+      "Tìm kiện Tiên bảo còn thiếu",
+      "Ghi nhớ hơn mười phù văn ở đó",
+      "Lấy bản đồ trong động phủ",
+      "Đón Hứa Lập Quốc về"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn tới động phủ, cẩn thận ghi nhớ toàn bộ hơn mười phù văn rồi rời đi.",
+    "chapter": 628,
+    "source": "Tiên Nghịch ch.628",
+    "evidence": "Tại Tôn Long chi lộ, hắn 'cẩn thẩn đem toàn bộ hơn mười cái phù văn nhớ kỹ, sau đó rời khỏi'."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Kinh đô Hỏa Yêu Quận đã trống trơn, ngay cả Yêu Đế cũng ra trận. Ngoài nơi nào ra thì khắp thành trống trải?",
+    "options": [
+      "Long Đàm",
+      "Trúc Thanh lâu",
+      "Yêu Cốc",
+      "Cổ Yêu thành"
+    ],
+    "correctIndex": 2,
+    "explanation": "Toàn bộ kinh đô ngoại trừ Thánh địa Yêu Cốc là một mảnh trống trải.",
+    "chapter": 628,
+    "source": "Tiên Nghịch ch.628",
+    "evidence": "'Toàn bộ kinh đô ngoại trừ Thánh địa Yêu Cốc thì là một mảnh trống trải.'"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Cổ Yêu Hỏa Yêu Quận dùng thần thức quát 'Cút!' như sấm. Vương Lâm hóa giải tiếng quát ấy bằng gì?",
+    "options": [
+      "Thiên Ma âm phản kích",
+      "Tiếng rống của Cổ Thần",
+      "Một tầng Sinh chi lạc ấn",
+      "Một ấn quyết đầy yêu khí"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn kết một ấn quyết quỷ dị tràn ngập yêu khí, tiếng quát vừa tới liền tan biến; Cổ Yêu nhận ra Bối La.",
+    "chapter": 628,
+    "source": "Tiên Nghịch ch.628",
+    "evidence": "Tay phải Vương Lâm kết ấn quyết quỷ dị, 'ấn quyết này lại tràn ngập yêu khí'; tiếng gào tan thành mây khói."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Sát Lục khí tụ về Vương Lâm ở Hỏa Yêu Quận vốn được nuôi dưỡng suốt trăm năm trong cơ thể ai?",
+    "options": [
+      "Hồn phách trong Tôn Hồn Phiên",
+      "Tộc nhân Luyện Hồn bộ lạc",
+      "Các Tiên vệ của lão già",
+      "Đệ tử Thiên Vận Tông"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tộc nhân Luyện Hồn bộ lạc trà trộn khắp chiến trường, nuôi sát khí trong người rồi trả về cho hắn.",
+    "chapter": 628,
+    "source": "Tiên Nghịch ch.628",
+    "evidence": "Tộc nhân Luyện Hồn bộ lạc ẩn trong yêu binh, người áo đen và cả tướng lĩnh; sát khí từ họ thoát ra."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Theo truyện, muốn phá phong ấn Yêu mạc của Cổ Yêu thì phải tấn công theo cách nào?",
+    "options": [
+      "Dồn hết sức vào một điểm",
+      "Đánh khắp mọi chỗ cùng lúc",
+      "Đánh thẳng vào mắt trận",
+      "Vẽ phù văn bằng Tiên bút"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phá phong ấn Cổ Yêu cần phân tán, đồng loạt công kích mọi vị trí chứ không dồn vào một điểm.",
+    "chapter": 629,
+    "source": "Tiên Nghịch ch.629",
+    "evidence": "Phá phong ấn 'không phải là ngưng tụ vào một điểm mà cần phân tán ra'... công kích tất cả vị trí."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khi Sát Lục khí có chút thành tựu, nó đã thay thế chiêu nào để thành sát chiêu của Vương Lâm?",
+    "options": [
+      "Hóa Ma chỉ",
+      "Đạo hóa Hoàng tuyền",
+      "Tịch Diệt chỉ",
+      "Dẫn Lực thuật"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sát Lục khí thay thế Tịch Diệt chỉ, đứng cùng Hóa Ma chỉ và Đạo hóa Hoàng tuyền.",
+    "chapter": 629,
+    "source": "Tiên Nghịch ch.629",
+    "evidence": "Khi Sát Lục khí có chút thành tựu, 'nó đã thay thế được Tịch Diệt chỉ, trở thành một sát chiêu'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau hai lần thử, Vương Lâm quyết định dùng Tiên thuật học từ ngọc giản như thế nào?",
+    "options": [
+      "Truyền cho Luyện Hồn bộ lạc",
+      "Giấu kỹ để bảo mệnh",
+      "Dùng để phá Yêu mạc",
+      "Đổi lấy truyền thừa Cổ Yêu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn để dành Tiên thuật làm thần thông bảo mệnh, quyết che giấu thật kỹ.",
+    "chapter": 629,
+    "source": "Tiên Nghịch ch.629",
+    "evidence": "Tiên thuật là cái Vương Lâm 'để dành làm thần thông bảo mệnh', quyết che dấu thật kỹ."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Cổ Yêu Hỏa Yêu Quận đối phó luồng ma phong từ Hóa Ma chỉ của Vương Lâm ra sao?",
+    "options": [
+      "Há miệng nuốt mất",
+      "Dùng trảo bóp nát",
+      "Lấy dung nham chặn lại",
+      "Né sang một bên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cổ Yêu há miệng nuốt ma phong, còn liếm môi khen ma khí khá tinh thuần.",
+    "chapter": 629,
+    "source": "Tiên Nghịch ch.629",
+    "evidence": "Cổ Yêu 'trực tiếp há mồm ra, lập tức nuốt lấy ma phong này vào trong miệng'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Cổ Yêu Hỏa Yêu Quận chê bộ giáp đen Vương Lâm mặc là lãng phí vì hắn không có thứ gì?",
+    "options": [
+      "Sát tâm",
+      "Đạo tâm",
+      "Tiên cốt",
+      "Ma tâm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cổ Yêu nói đó là Ma giáp của Cổ Ma, nhưng Vương Lâm không có ma tâm nên mặc là lãng phí.",
+    "chapter": 629,
+    "source": "Tiên Nghịch ch.629",
+    "evidence": "Cổ Yêu: 'Ma giáp của Cổ Ma! Tuy nhien ngươi không có ma tâm, mặc trên người ngươi thật là lãng phí!'"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vào trong năm mươi trượng quanh Cổ Yêu, Vương Lâm thi triển ấn quyết được ban. Máu hắn phun ra ngưng thành gì?",
+    "options": [
+      "Một Huyết long",
+      "Một tấm huyết võng",
+      "Một thanh huyết kiếm",
+      "Một Huyết nhân"
+    ],
+    "correctIndex": 3,
+    "explanation": "Máu tươi ngưng tụ thành một Huyết nhân, thần thức của Bối La giáng xuống nhập vào.",
+    "chapter": 630,
+    "source": "Tiên Nghịch ch.630",
+    "evidence": "Máu tươi 'phút chốc đã hoá thành một Huyết nhân', một cỗ thần thức ngang tàng tiến vào."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Nhìn đám sương máu trước người Vương Lâm, Cổ Yêu Hỏa Yêu Quận nhận ra trong máu ấy có khí tức của ai?",
+    "options": [
+      "Cổ Ma",
+      "Cổ Thần",
+      "Tiên nhân",
+      "Thiên Đạo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cổ Yêu nói máu huyết này có khí tức của Cổ Thần.",
+    "chapter": 630,
+    "source": "Tiên Nghịch ch.630",
+    "evidence": "Cổ Yêu trầm giọng: 'Bên trong máu huyết này có khí tức của Cổ Thần…'"
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm đập vỡ pho tượng trong Yêu Cốc. Hắn chộp lấy thứ gì từ pho tượng vỡ nát?",
+    "options": [
+      "Một đoạn xương tay",
+      "Một viên yêu đan",
+      "Một khối yêu tinh",
+      "Một chiếc sừng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trong pho tượng vỡ có một cái xương tay, hắn chụp lấy và bị kéo vào không gian kỳ dị.",
+    "chapter": 630,
+    "source": "Tiên Nghịch ch.630",
+    "evidence": "Hắn nhận ra 'từ trong pho tượng vỡ nát có một cái xương tay', liền bắt lấy."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Bối La tìm ra khí tức người bạn mà Vương Lâm muốn tìm ở một vực sâu. Tu sĩ gọi nơi đó là gì?",
+    "options": [
+      "Đông Hải Yêu Linh chi môn",
+      "Vực ngoại chiến trường",
+      "Triều Tịch thâm uyên",
+      "Long Đàm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bối La nói nơi đó là Triều Tịch thâm uyên, nên vào từ Thủy Yêu quận.",
+    "chapter": 630,
+    "source": "Tiên Nghịch ch.630",
+    "evidence": "'Nơi này, được tu sĩ các ngươi được gọi là Triều Tịch thâm uyên.'"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Bối La kể từng truyền thừa cho một tu sĩ thiên tư cực cao, người đã tự sáng tạo thần thông. Đó là ai?",
+    "options": [
+      "Kiền Phong",
+      "Tôn Vân Sơn",
+      "Côn Bằng Tử",
+      "Tôn Vân"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bối La nói tu sĩ thứ hai được truyền thừa, người tự sáng tạo thần thông, tên Tôn Vân.",
+    "chapter": 630,
+    "source": "Tiên Nghịch ch.630",
+    "evidence": "Cổ Yêu: 'Tên của hắn kêu là Tôn Vân, không biết ngươi nghe nói qua chưa…'"
+  }
+]

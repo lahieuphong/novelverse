@@ -1,0 +1,802 @@
+[
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Theo tam sư huynh Đại La kiếm tông, chiếc hồ lô giúp hấp thu tiên giới khí cực nhanh do ai luyện chế?",
+  "options": [
+   "Chưởng môn đương nhiệm",
+   "Thủy tổ của môn phái",
+   "Một trưởng lão luyện khí",
+   "Một tán tu ở tiên giới"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tam sư huynh khoe Tẩy Linh Hồ do chính thủy tổ môn phái luyện chế, cả phái chỉ ba người có.",
+  "chapter": 301,
+  "source": "Tiên Nghịch ch.301",
+  "evidence": "Tam sư huynh nói hồ lô \"là do thủy tổ đại nhân tự mình luyện chế\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Sợi tơ nhỏ lao ra từ bộ hài cốt trắng, suýt chui vào mi tâm lục sư đệ, được tam sư huynh gọi là gì?",
+  "options": [
+   "Phệ Hồn Huyết Trùng",
+   "Huyết Ti Cổ",
+   "Tiên Thú Chi Lương",
+   "Thôn Hồn Ti Trùng"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tam sư huynh nhận ra đó là Tiên Thú Chi Lương, thức ăn ưa thích của tiên thú.",
+  "chapter": 301,
+  "source": "Tiên Nghịch ch.301",
+  "evidence": "Hài cốt vỡ, tế ti lao tới mi tâm lục sư đệ; tam sư huynh nói \"vật ấy là Tiên Thú Chi Lương\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bị bầy tơ đuổi sát, tam sư huynh tung chưởng định đẩy sư đệ làm mồi. Kết cục thế nào?",
+  "options": [
+   "Sư đệ bị cắn nuốt chỉ còn xương",
+   "Cả hai cùng thoát ra cửa động",
+   "Vương Lâm ra tay cứu sư đệ",
+   "Chính hắn bị sư đệ ném vào bầy tơ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lục sư đệ chụp tay hắn, đoạt túi trữ vật và bảo kiếm rồi ném hắn về phía bầy tơ.",
+  "chapter": 301,
+  "source": "Tiên Nghịch ch.301",
+  "evidence": "Lục sư đệ tóm tay tam sư huynh, lấy túi trữ vật và bảo kiếm, ném ra sau; tam sư huynh bị tế ti nuốt chỉ còn xương."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Lục sư đệ vốn tỏ ra mới bước vào Hóa Thần, khi lật mặt sư huynh đã lộ thực lực cảnh giới nào?",
+  "options": [
+   "Hóa Thần trung kỳ",
+   "Hóa Thần hậu kỳ",
+   "Hóa Thần đại viên mãn",
+   "Anh Biến sơ kỳ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hơi thở hắn biến đổi, tu vi tăng vọt, lộ ra thực lực Hóa Thần trung kỳ.",
+  "chapter": 301,
+  "source": "Tiên Nghịch ch.301",
+  "evidence": "Từ tu sĩ mới vào Hóa Thần, hắn \"trong nháy mắt lộ ra thực lực Hóa Thần trung kỳ\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo tam sư huynh, loài tơ săn mồi kia chỉ biết cắn xé và cực kỳ sợ hãi thứ gì?",
+  "options": [
+   "Ánh sáng chói lọi",
+   "Mùi tiên dược",
+   "Linh thạch thượng phẩm",
+   "Pháp thuật thần thông"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tam sư huynh giải thích vật ấy không có thần thông và rất sợ pháp thuật thần thông.",
+  "chapter": 301,
+  "source": "Tiên Nghịch ch.301",
+  "evidence": "Vật ấy chỉ dựa vào công kích, \"cực kỳ sợ hãi đối với pháp thuật thần thông\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Lục sư đệ thẳng thắn thú nhận điều gì về thân phận của mình với Vương Lâm?",
+  "options": [
+   "Chỉ trà trộn vào Đại La kiếm tông",
+   "Là con trai chưởng môn Đại La",
+   "Là đệ tử chân truyền của thủy tổ",
+   "Là trưởng lão ẩn thân của tông"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tôn Lôi nói mình không phải người Đại La kiếm phái mà là trà trộn vào đó.",
+  "chapter": 302,
+  "source": "Tiên Nghịch ch.302",
+  "evidence": "Tôn Lôi: \"Tôn mỗ không phải là người của Đại La kiếm phái mà là trà trộn vào\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Lục sư đệ không dám ra tay với Vương Lâm vì tin rằng đối phương đang che giấu điều gì?",
+  "options": [
+   "Một đồng bọn mai phục",
+   "Thân phận đệ tử Chu Tước quốc",
+   "Tu vi thật sự",
+   "Một vết thương nặng"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thấy Vương Lâm quá bình tĩnh, Tôn Lôi khẳng định hắn ẩn giấu tu vi nên kiêng dè.",
+  "chapter": 302,
+  "source": "Tiên Nghịch ch.302",
+  "evidence": "Tôn Lôi nghĩ đối phương \"hiển nhiên là ẩn giấu tu vi\", nếu không vạn bất đắc dĩ sẽ không manh động."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Lần đầu lẻn vào động tơ, Vương Lâm buông phi kiếm và chỉ kịp chộp được vật gì?",
+  "options": [
+   "Thiết phiến màu vàng",
+   "Hồ lô màu xanh",
+   "Bộ ngân giáp",
+   "Khối ngọc thạch trắng"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bị uy áp phi kiếm đâm tay, hắn bỏ kiếm, chộp lấy khối ngọc thạch rồi bỏ thiết phiến mà chạy.",
+  "chapter": 302,
+  "source": "Tiên Nghịch ch.302",
+  "evidence": "Hắn buông phi kiếm, cách không chộp ngọc thạch, \"quyết định vứt bỏ thiết phiến trên ngực thi hài\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Lao vào động tơ lần đầu, Vương Lâm dùng pháp bảo nào phủ sương đen quanh thân để chắn bầy tơ?",
+  "options": [
+   "Vỏ kiếm cổ",
+   "Cấm Phiên",
+   "Hồn kỳ",
+   "Thanh Đồng cổ kính"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tế ti trên vách lao tới, Cấm Phiên rung lên bao thân hắn trong màn sương đen.",
+  "chapter": 302,
+  "source": "Tiên Nghịch ch.302",
+  "evidence": "\"Cấm Phiên trong tay run lên, thân thể lập tức bị màn sương đen vây kín\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Khi lục sư đệ nhường thanh kiếm tiên, Vương Lâm từ chối vì biết điều gì?",
+  "options": [
+   "Kiếm đã bị tơ đen ký sinh",
+   "Hắn vốn không tu luyện kiếm đạo",
+   "Kiếm có cấm chế, cần tế luyện lâu",
+   "Kiếm sẽ khiến Đại La truy sát"
+  ],
+  "correctIndex": 2,
+  "explanation": "Trên kiếm có cấm chế uy lực lớn, phải tế luyện lâu mới cầm được, nên hắn không cần.",
+  "chapter": 302,
+  "source": "Tiên Nghịch ch.302",
+  "evidence": "Kiếm tiên có cấm chế rất lớn, \"trừ khi tế luyện thời gian dài\" thì không cầm được."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Để mở lời hợp tác, Tôn Lôi tặng Vương Lâm ngọc giản ghi thần thông nào của Đại La kiếm tông?",
+  "options": [
+   "Ngự Phong Quyết",
+   "Thiên La Kiếm Trận",
+   "Di Tầm Quyết",
+   "Phá Không Kiếm Quyết"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tôn Lôi ném ngọc giản Di Tầm Quyết, thần thông thuật của Đại La kiếm tông, tặng Vương Lâm.",
+  "chapter": 303,
+  "source": "Tiên Nghịch ch.303",
+  "evidence": "\"Di Tầm Quyết, vật ấy là thần thông thuật của Đại La kiếm tông, tặng ngươi.\""
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Không chịu giao chiếc hồ lô xanh, Tôn Lôi hứa trả công Vương Lâm bằng vật gì?",
+  "options": [
+   "Một mảnh Tẩy Linh chi mộc",
+   "Một bình đan dược hồi phục",
+   "Một bộ ngân giáp",
+   "Một khối tiên ngọc nhỏ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn hứa đưa một mảnh Tẩy Linh chi mộc, kém hồ lô nhưng vẫn hấp thu được tiên giới khí.",
+  "chapter": 303,
+  "source": "Tiên Nghịch ch.303",
+  "evidence": "Tôn Lôi: giúp ta lấy bảo kiếm, \"ta có thể cho ngươi một Tẩy Linh chi mộc\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm ném Khu Thú Quyển ra, nó hóa thành linh thú nào để đối phó bầy tơ?",
+  "options": [
+   "Một con hỏa nha",
+   "Một con băng tằm",
+   "Một con lôi oa",
+   "Một con kim giáp thử"
+  ],
+  "correctIndex": 2,
+  "explanation": "Khu Thú Quyển hóa thành lôi oa (ếch sấm) phun lôi cầu diệt tế ti.",
+  "chapter": 303,
+  "source": "Tiên Nghịch ch.303",
+  "evidence": "Khu Thú Quyển bay ra, \"lập tức hóa thành lôi oa (con ếch)\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Theo Tôn Lôi, trước khi ẩn vào hài cốt, con tơ đen đã làm gì mà có đạo hạnh?",
+  "options": [
+   "Hút tiên khí từ khối tiên ngọc",
+   "Được thủy tổ Đại La nuôi dưỡng",
+   "Ký sinh trong thanh kiếm tiên",
+   "Nuốt thân xác lẫn nguyên thần"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lúc tiên giới gặp kiếp nạn, nó nuốt thân thể cùng nguyên thần người kia rồi ẩn trong thi hài.",
+  "chapter": 303,
+  "source": "Tiên Nghịch ch.303",
+  "evidence": "Tiên lương màu đen cắn nuốt thân thể, hợp với nguyên thần rồi \"chui vào trong thi hài ẩn nấp\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Sau khi linh thú phun liền mấy quả cầu sét, Khu Thú Quyển gây ra hậu quả gì cho Vương Lâm?",
+  "options": [
+   "Nứt vỡ, phải luyện lại",
+   "Hút mạnh linh lực của hắn",
+   "Tự bay đi không trở về",
+   "Phản phệ khiến hắn thổ huyết"
+  ],
+  "correctIndex": 1,
+  "explanation": "Linh thú tiêu hao quá mức nên vòng hút linh lực của hắn suốt nửa ngày.",
+  "chapter": 303,
+  "source": "Tiên Nghịch ch.303",
+  "evidence": "Trong Khu Thú Quyển truyền đến từng trận lực hút, \"tiêu hao mất nửa ngày hấp thụ linh lực\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Tôn Lôi dùng nguyên thần cầm pháp bảo nào thổi ra gió đen, đóng băng cả bầy tơ?",
+  "options": [
+   "Một chiếc chuông ngọc",
+   "Một tấm gương đồng",
+   "Một cây quạt đen",
+   "Một lá cờ trắng"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn lấy ra một chiếc hắc phiến; nguyên thần cầm nó quạt gió đen tạo băng đen.",
+  "chapter": 304,
+  "source": "Tiên Nghịch ch.304",
+  "evidence": "Tôn Lôi vỗ túi trữ vật, \"bay ra một chiếc hắc phiến (cây quạt màu đen)\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Nhờ vật gì Vương Lâm thoát khỏi lớp băng đen mà Tôn Lôi tưởng đã giam được hắn?",
+  "options": [
+   "Vỏ kiếm cổ",
+   "Thanh Đồng cổ kính",
+   "Hồn kỳ chứa ma đầu",
+   "Pho tượng gỗ cổ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tuế Nguyệt ý cảnh của tượng gỗ lão già áo xanh làm băng đen buông lỏng.",
+  "chapter": 304,
+  "source": "Tiên Nghịch ch.304",
+  "evidence": "Hắn đã sớm lấy tượng gỗ của lão già áo xanh; Tuế Nguyệt Ý Cảnh khiến hắc băng buông lỏng."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Tôn Lôi phong bế bầy tơ rồi chạy trước, thật ra hắn muốn biến Vương Lâm thành gì?",
+  "options": [
+   "Mồi nhử cho bầy tơ",
+   "Người canh cửa động",
+   "Kẻ thế mạng trước Đại La",
+   "Đồng minh lâu dài"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn tính để bầy tơ hồi phục đuổi giết Vương Lâm, còn mình lấy bảo rồi tẩu thoát.",
+  "chapter": 304,
+  "source": "Tiên Nghịch ch.304",
+  "evidence": "\"Mục đích của hắn là muốn dùng Vương Lâm làm mồi nhử\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Băng đen tan sớm một phần vì con tơ đen mang uy năng thiên địa. Nó có được uy năng đó từ đâu?",
+  "options": [
+   "Từ quả cầu sét đã nuốt",
+   "Từ khối tiên ngọc",
+   "Từ dung nham dưới đất",
+   "Từ thanh kiếm tiên"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tơ đen đã hấp thụ lôi cầu nên có chút thiên địa uy năng, rút ngắn phong ấn một hơi thở.",
+  "chapter": 304,
+  "source": "Tiên Nghịch ch.304",
+  "evidence": "\"Bởi vì hấp thụ lôi cầu khiến tế ti màu đen có một ít thiên địa uy năng\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Cho nổ hắc châu ngưng kết như nguyên thần thứ hai, Tôn Lôi phải chịu tu vi tụt xuống cảnh giới nào?",
+  "options": [
+   "Kết Đan kỳ",
+   "Hóa Thần sơ kỳ",
+   "Nguyên Anh kỳ",
+   "Trúc Cơ kỳ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mất hắc châu, tu vi hắn lập tức hạ xuống tới Nguyên Anh kỳ.",
+  "chapter": 304,
+  "source": "Tiên Nghịch ch.304",
+  "evidence": "Không có hạt châu, tu vi hắn \"lập tức hạ xuống tới Nguyên Anh kỳ\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Mảnh vỡ tiên giới sụp đổ, Vương Lâm liều nuốt vật gì để tăng tốc thoát khỏi hư vô?",
+  "options": [
+   "Một hạt tiên khí kết tinh",
+   "Một viên Anh Biến đan",
+   "Khối ngọc thạch trắng",
+   "Tinh huyết của linh thú"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn nuốt hạt tiên khí kết tinh to bằng hạt gạo, nguyên thần đau đớn nhưng tốc độ tăng vọt.",
+  "chapter": 305,
+  "source": "Tiên Nghịch ch.305",
+  "evidence": "Hắn lấy ra vật kết tinh to chừng hạt gạo do tiên giới khí cô đọng và nuốt vào."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Thấy Vương Lâm trọng thương ở bình đài, gã áo xám mũi khoằm ra tay bằng thứ gì đầu tiên?",
+  "options": [
+   "Một thanh phi kiếm",
+   "Một ngọn lửa đen",
+   "Một tấm lưới bạc",
+   "Một đạo kiếm khí"
+  ],
+  "correctIndex": 1,
+  "explanation": "Gã ngưng tụ một ngọn lửa màu đen trong tay rồi ném về phía Vương Lâm.",
+  "chapter": 305,
+  "source": "Tiên Nghịch ch.305",
+  "evidence": "\"Một ngọn lửa màu đen thành hình trong tay\", hắn ném về phía trước."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Bị du hồn vây, gã áo xám định dùng vật gì để trở về tu chân tinh thì bị Vương Lâm cách không đoạt mất?",
+  "options": [
+   "Một khối ngọc phù",
+   "Một ngọc giản truyền tống",
+   "Một lá truyền tống phù",
+   "Một chiếc tiểu đỉnh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Gã định mở tiểu đỉnh để quay về tu chân tinh, nhưng Vương Lâm mở mắt chộp nó bay đi.",
+  "chapter": 305,
+  "source": "Tiên Nghịch ch.305",
+  "evidence": "Gã lấy ra tiểu đỉnh định mở để về tu chân tinh; Vương Lâm cách không một trảo, tiểu đỉnh bay khỏi tay."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Khi du hồn chui vào người, gã áo xám làm gì để tạo vòng bảo vệ quanh thân?",
+  "options": [
+   "Phun máu hóa thành lửa",
+   "Tế ra một chiếc chuông",
+   "Dùng phi kiếm vẽ trận",
+   "Nuốt đan rồi độn thổ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Gã cắn lưỡi phun máu tươi, máu hóa thành lửa vây quanh bảo vệ hắn.",
+  "chapter": 305,
+  "source": "Tiên Nghịch ch.305",
+  "evidence": "Gã cắn chót lưỡi phun máu, \"lập tức hóa thành một mảnh lửa, vây quanh bảo vệ hắn\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo truyện, du hồn khác ma đầu ở điểm nào?",
+  "options": [
+   "Chỉ nuốt được kẻ đồng giới",
+   "Không sợ cả kẻ tu vi cao hơn",
+   "Chỉ nghe lệnh của thôn hồn",
+   "Không thể xuyên qua vách đá"
+  ],
+  "correctIndex": 1,
+  "explanation": "Du hồn mặc kệ tu vi đối phương, ngang ngược không sợ, kể cả bị luyện hóa.",
+  "chapter": 305,
+  "source": "Tiên Nghịch ch.305",
+  "evidence": "Khác ma đầu, du hồn \"mặc kệ tu vi đối phương như thế nào\", bị luyện hóa cũng không sợ."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Khi người Cự Ma tộc hỏi danh tính ở bình đài, Vương Lâm xưng mình là ai?",
+  "options": [
+   "Tằng Ngưu",
+   "Tằng Hạo",
+   "Ngưu Đại Lực",
+   "Lâm Phong"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm đáp \"tại hạ Tằng Ngưu\" để giấu tên thật.",
+  "chapter": 306,
+  "source": "Tiên Nghịch ch.306",
+  "evidence": "Vương Lâm lắc đầu: \"May mắn mà thôi, tại hạ Tằng Ngưu!\""
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Nghe họ Vương Lâm xưng, người Cự Ma tộc đoán hắn thuộc gia tộc ở tu chân quốc nào?",
+  "options": [
+   "Hỏa Phần quốc",
+   "Thanh Long quốc",
+   "Chu Tước quốc",
+   "Thiên Hồn quốc"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sất Hổ hỏi có phải hắn thuộc Tằng thị của ngũ cấp tu chân quốc Thiên Hồn quốc không.",
+  "chapter": 306,
+  "source": "Tiên Nghịch ch.306",
+  "evidence": "Sất Hổ hỏi về \"gia tộc Tằng thị trong ngũ cấp tu chân quốc Thiên Hồn Quốc\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Theo thiết phiến vàng, động phủ của vị luyện khí sư nằm dưới ngọn núi có hình gì?",
+  "options": [
+   "Hình kỳ lân",
+   "Hình rùa",
+   "Hình phượng",
+   "Hình hổ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Thiên Bảo thượng nhân mô tả động phủ ở phía dưới ngọn núi hình hổ.",
+  "chapter": 306,
+  "source": "Tiên Nghịch ch.306",
+  "evidence": "Động phủ của hắn \"hình như ở phía dưới ngọn núi có hình Hổ\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Thanh niên áo trắng cầm quạt truy đuổi thiếu niên đồng hương của Vương Lâm tự xưng thuộc phái nào?",
+  "options": [
+   "Đại La kiếm tông",
+   "Thiên Đạo môn",
+   "Quỳ Thủy phái",
+   "Chiến Thần điện"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn tự giới thiệu là Tư Mã Vân của Quỳ Thủy phái.",
+  "chapter": 306,
+  "source": "Tiên Nghịch ch.306",
+  "evidence": "\"Tại hạ là Tư Mã Vân của Quỳ Thuỷ phái\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo truyện, nguyên nhân chủ yếu khiến Chu Tước tinh có rất ít tu sĩ Anh Biến kỳ là gì?",
+  "options": [
+   "Thiếu công pháp đột phá",
+   "Tiên khí vô cùng thưa thớt",
+   "Chu Tước quốc cấm đột phá",
+   "Lôi kiếp Anh Biến quá mạnh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tiên khí cần cho việc trùng kích Anh Biến rất hiếm, không phải ai cũng vào được tiên giới.",
+  "chapter": 306,
+  "source": "Tiên Nghịch ch.306",
+  "evidence": "Ít Anh Biến kỳ, \"nguyên nhân trọng yếu chính là do tiên khí rất thưa thớt\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Trước khi chia tay, thanh niên áo trắng mời Vương Lâm ghé tinh cầu nào để được khoản đãi?",
+  "options": [
+   "Thiên Vận tinh",
+   "Toái Ngân tinh",
+   "Chu Tước tinh",
+   "Huyền Vũ tinh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn nói nếu có dịp đến Toái Ngân tinh, nhất định sẽ khoản đãi Vương Lâm.",
+  "chapter": 307,
+  "source": "Tiên Nghịch ch.307",
+  "evidence": "\"Nếu sau này có cơ hội đi đến Toái Ngân tinh, tại hạ nhất định sẽ khoản đãi!\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Nhờ đâu Vương Lâm cuối cùng tìm ra mảnh vỡ phía Tây có động phủ cần tìm?",
+  "options": [
+   "Bản đồ đổi với thanh niên áo trắng",
+   "Chỉ dẫn của người Cự Ma tộc",
+   "Du hồn dò khắp các mảnh vỡ",
+   "Bản đồ gốc lấy từ Đại La kiếm tông"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ngọn núi nằm trên mảnh thứ ba phía Tây trong ngọc giản trao đổi với thanh niên áo trắng.",
+  "chapter": 307,
+  "source": "Tiên Nghịch ch.307",
+  "evidence": "\"Ở trên mảnh nhỏ thứ ba thuộc về phía Tây trong ngọc giản của thanh niên áo trắng\" hắn tìm được núi."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Động phủ đã bị vét sạch từ lâu, vì sao chiến xa vẫn còn đó cho Vương Lâm?",
+  "options": [
+   "Kẻ đến trước không mang nổi",
+   "Được chôn sâu dưới chân núi",
+   "Ở gian thạch thất bị giấu kín",
+   "Bị thú hồn dọa kẻ trộm chạy"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chỉ thấy chín gian, gian thứ mười chứa Xạ Thần xa ẩn sau vách và phải mở bằng pháp quyết.",
+  "chapter": 307,
+  "source": "Tiên Nghịch ch.307",
+  "evidence": "Động phủ có mười gian; \"gian thạch thất thứ mười mới chính là gian chứa Xạ Thần xa\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Ném thiết phiến vàng ra trong động phủ, Vương Lâm thấy nó hóa thành gì rồi mở ra lối vào?",
+  "options": [
+   "Một con thú hồn dữ tợn",
+   "Một tấm bản đồ phát sáng",
+   "Một thanh kiếm tiên",
+   "Ảo ảnh chủ nhân động phủ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Thiết phiến tan thành khói hình nấm, hiện bóng người tiên phong đạo cốt bấm quyết mở cửa.",
+  "chapter": 307,
+  "source": "Tiên Nghịch ch.307",
+  "evidence": "Khói hình nấm ngưng thành người \"tiên phong đạo cốt\"; Vương Lâm đoán là bộ dáng Thiên Bảo thượng nhân."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Theo thiết phiến, thứ gì giữ thú hồn không thể rời chiến xa quá ba trượng?",
+  "options": [
+   "Khốn Thú Lung",
+   "Phong Hồn Trận",
+   "Hồn Liên Tỏa",
+   "Khu Thú Quyển"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thú hồn trên Xạ Thần xa bị Hồn Liên Tỏa khống chế, không thoát quá ba trượng.",
+  "chapter": 307,
+  "source": "Tiên Nghịch ch.307",
+  "evidence": "Thú hồn \"bị Hồn Liên Toả khống chế, không thể thoát ra quá ba trượng\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Theo Vương Lâm, Xạ Thần xa được kích phát bằng nguồn lực nào thay vì linh thạch?",
+  "options": [
+   "Hồn lực của thú hồn",
+   "Linh lực của chủ nhân",
+   "Sức mạnh lôi kiếp",
+   "Tinh huyết người dùng"
+  ],
+  "correctIndex": 0,
+  "explanation": "Chiến xa không cần linh thạch mà dựa hoàn toàn vào hồn lực của thú hồn.",
+  "chapter": 308,
+  "source": "Tiên Nghịch ch.308",
+  "evidence": "Nó \"không cần linh thạch để sử dụng mà hoàn toàn dựa vào hồn lực của thú hồn\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Người đàn ông trung niên đồng hương Chu Tước tinh âu yếm gọi nữ thi bằng tên gì?",
+  "options": [
+   "Tuyết nhi",
+   "Vân nhi",
+   "Điệp nhi",
+   "Đình nhi"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn gọi nàng là Đình nhi, cái tên do chính hắn đặt tặng.",
+  "chapter": 308,
+  "source": "Tiên Nghịch ch.308",
+  "evidence": "\"Cái tên Đình nhi này nàng có thích không!? Đây là danh tự ta dành tặng cho nàng\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Người đàn ông trung niên si tình lấy nữ thi ra từ pháp bảo nào?",
+  "options": [
+   "Một khối băng tinh",
+   "Một tòa bảo tháp",
+   "Một chiếc gương đồng",
+   "Một chiếc hồ lô"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn lấy ra một tòa bảo tháp, điểm nhẹ thì ánh sáng trắng chiếu ra, nữ thi hiện trong lòng.",
+  "chapter": 308,
+  "source": "Tiên Nghịch ch.308",
+  "evidence": "Hắn xuất ra \"một toà bảo tháp\", ánh sáng trắng qua đi thì thi thể cô gái xuất hiện."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Người đàn ông trung niên đi tìm tiên ngọc để làm gì cho người con gái ấy?",
+  "options": [
+   "Giúp hồn nàng nhập xác sống lại",
+   "Giữ xác nàng ngàn năm không đổi",
+   "Luyện đan tăng tu vi cho chính mình",
+   "Dựng lại tòa lầu các sắp sụp"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn hứa lấy tiên ngọc để thân thể nàng ngàn năm vẫn không thay đổi.",
+  "chapter": 308,
+  "source": "Tiên Nghịch ch.308",
+  "evidence": "\"Ta sẽ nhanh chóng lấy được tiên ngọc cho nàng, khiến cho thân thể của nàng ngàn năm vẫn không thay đổi\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Người đàn ông trung niên si tình kể rằng vì người con gái ấy mà mình đã từ bỏ điều gì?",
+  "options": [
+   "Cơ hội đột phá cảnh giới",
+   "Mối thù với Chu Tước quốc",
+   "Tình thân với phụ mẫu",
+   "Địa vị chưởng môn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn nói vì nàng đã từ bỏ địa vị chưởng môn và cả đồng môn.",
+  "chapter": 308,
+  "source": "Tiên Nghịch ch.308",
+  "evidence": "\"Vì nàng, ta từ bỏ địa vị chưởng môn. Vì nàng, ta không tiếc từ bỏ đồng môn.\""
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Vương Lâm muốn mang tiên thảo trong thủy đàm về cho ai luyện thành đan dược hiếm có?",
+  "options": [
+   "Vân Phi",
+   "Tư Đồ Nam",
+   "Lý Mộ Uyển",
+   "Hồng Điệp"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn nghĩ đưa tiên thảo cho Lý Mộ Uyển luyện đan sẽ giúp tu vi nàng tăng lên.",
+  "chapter": 309,
+  "source": "Tiên Nghịch ch.309",
+  "evidence": "\"Nếu đem những tiên thảo này cho Lý Mộ Uyển thì tất nhiên có thể luyện chế ra một số đan dược cực kỳ hiếm có\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Hồng Điệp, người đến chỗ hẹn trước Vương Lâm, là thiên chi kiêu nữ của tu chân quốc nào?",
+  "options": [
+   "Thanh Long quốc",
+   "Tuyết Vực quốc",
+   "Thiên Cương quốc",
+   "Chu Tước quốc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Truyện gọi nàng là thiên chi kiêu nữ của Tuyết Vực quốc.",
+  "chapter": 309,
+  "source": "Tiên Nghịch ch.309",
+  "evidence": "\"Người này đúng là thiên chi kiêu nữ của của Tuyết Vực quốc!\""
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Theo Sất Hổ, ngọc giản ghi hình ảnh nơi cất giấu bảo vật do vị nào của Cự Ma tộc lưu lại?",
+  "options": [
+   "Mạnh Đà Tử",
+   "Tổ ma Cự Ma tộc",
+   "Phụ thân Sất Hổ",
+   "Thủy tổ Tập Ngữ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Sất Hổ tiết lộ ngọc giản do Thủy tổ Tập Ngữ (Tập Tổ) của Cự Ma tộc ghi lại.",
+  "chapter": 309,
+  "source": "Tiên Nghịch ch.309",
+  "evidence": "\"Ngọc giản này chính là Thuỷ tổ Tập Ngữ của Cự Ma tộc ta ghi lại\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vừa đánh vừa kể tội bất hiếu, bất nhân, bất nghĩa, bất trung của Hồng Điệp, Vương Lâm nhằm mục đích gì?",
+  "options": [
+   "Kéo dài thời gian chờ Sất Hổ",
+   "Dụ nàng nói ra bí mật",
+   "Làm lay động đạo tâm nàng",
+   "Khiến Sất Hổ đứng về phe mình"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sất Hổ nhận ra Vương Lâm biết trước tiên phải hủy đạo tâm của Hồng Điệp.",
+  "chapter": 309,
+  "source": "Tiên Nghịch ch.309",
+  "evidence": "\"Đạo tâm của ngươi không yên\"; Sất Hổ thầm nghĩ hắn biết \"trước tiên huỷ đi đạo tâm của Hồng Điệp\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Bị trường thương cấm khí ép lui, Hồng Điệp phải dùng bản mạng pháp bảo nào để chặn?",
+  "options": [
+   "Một đóa hoa hồng",
+   "Tượng băng đầu người mình rắn",
+   "Một chiếc quạt băng",
+   "Một tấm gương lam"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nàng phun máu hóa ánh hồng thành đóa hoa hồng, tượng băng tan làm dưỡng chất cho hoa.",
+  "chapter": 309,
+  "source": "Tiên Nghịch ch.309",
+  "evidence": "Ánh sáng hồng \"biến thành một đoá hoa hồng\"; nàng nói ngươi là người đầu tiên buộc ta dùng bản mạng pháp bảo."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Sau khi ngừng tay, Hồng Điệp thách thức Vương Lâm điều gì?",
+  "options": [
+   "Tái đấu khi về Chu Tước tinh",
+   "Thi xem ai đoạt bảo trước",
+   "Giao lại pháp bảo vừa dùng",
+   "Rời khỏi đoàn của Sất Hổ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nàng hỏi hắn có dám đánh một trận khi quay lại Chu Tước tinh, hắn đáp phụng bồi.",
+  "chapter": 310,
+  "source": "Tiên Nghịch ch.310",
+  "evidence": "\"Tằng Ngưu, quay lại Chu Tước tinh, ngươi dám đánh một trận với ta không?!\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Dù chịu nể mặt Sất Hổ không giết Vương Lâm, Hồng Điệp vẫn đòi giữ cho mình vật nào?",
+  "options": [
+   "Ba thanh kiếm tiên",
+   "Tiên thảo trong đầm",
+   "Quan tài bạch ngọc",
+   "Bản đồ trong ngọc giản"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nàng tuyên bố quan tài bạch ngọc phải thuộc về mình.",
+  "chapter": 310,
+  "source": "Tiên Nghịch ch.310",
+  "evidence": "\"Nhưng quan tài bằng bạch ngọc kia phải thuộc về ta!\""
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Vì sao Sất Hổ chắc chắn nơi ghi trong ngọc giản chưa ai phát hiện ra?",
+  "options": [
+   "Nằm ngoài phạm vi tiên giới",
+   "Đã bị phong ấn suốt vạn năm",
+   "Nằm ở mảnh nhỏ trùng điệp",
+   "Chỉ người Cự Ma tộc thấy được"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đó là mảnh nhỏ trùng điệp nằm dưới mảnh khác, lốc xoáy không thể đưa người tới.",
+  "chapter": 310,
+  "source": "Tiên Nghịch ch.310",
+  "evidence": "Địa điểm \"không thể từ lốc xoáy tiến đến được\" vì là trùng điệp mảnh nhỏ."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Sất Hổ dẫn hai người tới đâu để vào truyền tống trận dẫn đến gần nơi ghi trong ngọc giản?",
+  "options": [
+   "Đáy một thủy đàm",
+   "Đỉnh núi hình rồng",
+   "Miệng núi lửa dung nham",
+   "Bình đài dưới lốc xoáy"
+  ],
+  "correctIndex": 1,
+  "explanation": "Truyền tống trận nằm trên đầu rồng, đỉnh ngọn núi hình rồng.",
+  "chapter": 310,
+  "source": "Tiên Nghịch ch.310",
+  "evidence": "Ba người hạ xuống trên đầu rồng của ngọn núi \"có hình dạng như con rồng\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Vương Lâm tin khi tu vi tiến thêm một tầng, ý cảnh nào của hắn đủ sức chống lại vô tình ý cảnh của Hồng Điệp?",
+  "options": [
+   "Tuế Nguyệt ý cảnh",
+   "Hủy diệt ý cảnh",
+   "Băng hàn ý cảnh",
+   "Sinh tử ý cảnh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Đạt Hóa Thần trung kỳ, sinh tử ý cảnh lên cấp cao hơn, đủ đối kháng vô tình ý cảnh.",
+  "chapter": 310,
+  "source": "Tiên Nghịch ch.310",
+  "evidence": "Đạt Hóa Thần trung kỳ thì \"sinh tử ý cảnh mới được đề thăng lên một cấp bậc cao hơn\"."
+ }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Lâm thả con thú nào ra để đuổi giết đám lục diệp Thuật Chú Sư đang bỏ chạy?",
+    "options": [
+      "Lôi Oa",
+      "Văn thú",
+      "Tiểu Bạch",
+      "Hắc Viêm thú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Văn thú theo Vương Lâm nhiều năm, tự hiểu ý hắn mà đuổi giết đám lục diệp.",
+    "chapter": 432,
+    "source": "Tiên Nghịch ch.432",
+    "evidence": "Vương Lâm mở túi trữ vật, Văn thú hiện ra, hóa tia chớp đen hút khô từng lục diệp Thuật Chú Sư."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Mặt đất tầng thứ năm của sào huyệt Tiên Di tộc phủ kín loại cây trông giống thứ gì?",
+    "options": [
+      "Tảo biển",
+      "Dây leo tím",
+      "Rễ Luân Hồi thụ",
+      "Cỏ máu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tầng năm mọc dày đặc thứ cây giống tảo biển Vương Lâm từng gặp ở Sở quốc.",
+    "chapter": 432,
+    "source": "Tiên Nghịch ch.432",
+    "evidence": "Tầng năm \"dày đặc những thứ cây như tảo biển\"; về sau chúng kết thành sinh vật hình người."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Lão bát diệp Thuật Chú Sư dùng thứ gì chặn chưởng rồi cả kiếm quang chứa tiên lực của Vương Lâm?",
+    "options": [
+      "Thọ phù",
+      "Cành Luân Hồi thụ",
+      "Phù long",
+      "Tổ phù"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão vỗ trán gọi tổ phù ra chắn trước người, nhưng nó bị kiếm quang đánh vỡ.",
+    "chapter": 432,
+    "source": "Tiên Nghịch ch.432",
+    "evidence": "Phù văn tang thương trên đầu lão chặn chưởng; sau đó lão quát \"Tổ phù!\" để đỡ kiếm quang."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Chém đầu lão bát diệp xong, Vương Lâm dò mi tâm và phát hiện điều gì lạ?",
+    "options": [
+      "Nguyên Anh đã thoát",
+      "Có một tia ý cảnh",
+      "Không có hồn phách",
+      "Có ấn ký của tam tổ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dù đã dùng bí thuật Luyện Hồn tông giữ hồn, hắn vẫn không thấy hồn phách nào.",
+    "chapter": 432,
+    "source": "Tiên Nghịch ch.432",
+    "evidence": "Vương Lâm điểm mi tâm lão rồi lẩm bẩm: \"Không có hồn phách sao?\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Lão bát diệp bị Vương Lâm giết ở tầng thứ tư vốn là thuộc hạ thân cận của ai trong Tiên Di tộc?",
+    "options": [
+      "Tam tổ",
+      "Ngũ tổ",
+      "Tứ tổ",
+      "Thiếu tộc trưởng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão là bát diệp Thuật Chú Sư bên cạnh ngũ tổ, một trưởng lão nắm quyền lớn.",
+    "chapter": 432,
+    "source": "Tiên Nghịch ch.432",
+    "evidence": "Lão \"vốn là bát diệp Thuật Chú Sư bên cạnh ngũ tổ đại nhân\", cũng là một trưởng lão."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Ngoài đầu lâu bát diệp, Vương Lâm còn vơ được rất nhiều thứ gì mà Tiên Di tộc cất giữ dù không dùng tới?",
+    "options": [
+      "Linh thạch",
+      "Tiên ngọc",
+      "Yêu đan",
+      "Hồn phách"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiên Di tộc dùng phù văn lực nên linh thạch vô dụng với họ, nhưng họ lại cất rất nhiều.",
+    "chapter": 433,
+    "source": "Tiên Nghịch ch.433",
+    "evidence": "Số linh thạch cướp được sánh với một tông phái ngàn năm ở tứ cấp tu chân quốc dành dụm."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trước khi nhảy xuống tầng mười một, Vương Lâm đặt sẵn thứ gì trên mặt đất để phòng bất trắc?",
+    "options": [
+      "Một tòa hộ sơn đại trận",
+      "Một tầng cấm chế tự bạo",
+      "Một mê trận ngũ hành nhỏ",
+      "Một truyền tống trận nhỏ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn dùng ngọc giản Độn Thiên đưa để dựng một truyền tống trận nhỏ, đặt tiên ngọc vào.",
+    "chapter": 433,
+    "source": "Tiên Nghịch ch.433",
+    "evidence": "Ngọc giản Độn Thiên đưa bay ra \"hình thành một tòa truyền tống trận nhỏ\", che giấu dao động."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Nữ tử lơ lửng ở tầng mười một cảm ơn Vương Lâm vì đã mang về thứ gì của nàng?",
+    "options": [
+      "Đầu lâu bát diệp",
+      "Thọ phù của tộc nhân",
+      "Tia ý cảnh từ tàn hồn",
+      "Cành Luân Hồi thụ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nàng nói Vương Lâm đã mang trả tia ý cảnh tàn hồn nàng đánh mất khi hóa thành tu sĩ.",
+    "chapter": 433,
+    "source": "Tiên Nghịch ch.433",
+    "evidence": "Nàng cảm ơn vì đã mang \"một tia ý cảnh do tàn hồn\" mà nàng mất năm xưa trở lại."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vì sao Độn Thiên năm xưa hiếm khi để hồn Vấn Đỉnh ngưng từ Hồn Phiên ra tay?",
+    "options": [
+      "Hồn ấy rất dễ phản lại chủ",
+      "Mỗi lần ngưng tụ hại hồn phách",
+      "Tốn quá nhiều tiên ngọc mỗi lần",
+      "Sợ tu chân liên minh để ý tới"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mỗi lần ngưng tụ gây tổn hại lớn cho hồn phách, phải rất lâu mới hồi phục.",
+    "chapter": 433,
+    "source": "Tiên Nghịch ch.433",
+    "evidence": "Mỗi lần ngưng tụ tổn hại rất lớn cho hồn phách, nên Độn Thiên chỉ ngưng hóa để chấn nhiếp."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Theo truyện, tu sĩ Vấn Đỉnh nào của Chu Tước tinh đã bị bức phải rời khỏi tinh cầu này?",
+    "options": [
+      "Sở Vân Phi",
+      "Lý Nguyên Phong",
+      "Chu Vũ Thái",
+      "Tô Kim Thế"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trong số tu sĩ Vấn Đỉnh còn lại có Sở Vân Phi, người đã bị bức rời Chu Tước tinh.",
+    "chapter": 433,
+    "source": "Tiên Nghịch ch.433",
+    "evidence": "Tu sĩ Vấn Đỉnh trên Chu Tước tinh gồm Chu Tước Tử, \"Sở Vân Phi đã bị bức phải rời khỏi Chu Tước tinh\"…"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Giao long và mãnh hổ do tam tổ phái đi đuổi theo Vương Lâm cuối cùng ra sao?",
+    "options": [
+      "Bị tiên kiếm chém tan",
+      "Quay về tranh của tam tổ",
+      "Tự nổ tung",
+      "Bay vào tranh của Vương Lâm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bóng nữ tử từ bức tranh của Vương Lâm vẫy tay, hai phù thú liền theo nàng vào tranh.",
+    "chapter": 434,
+    "source": "Tiên Nghịch ch.434",
+    "evidence": "Hai phù văn giao long, mãnh hổ đổi hướng bay tới nữ tử rồi cùng nàng tiến vào bức tranh."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Tinh thạch đỏ hình trái tim lơ lửng trước Chu Tước Tử khi hắn tĩnh tọa ở cấm địa là gì?",
+    "options": [
+      "Dùi Chu Tước",
+      "Tinh La Bàn",
+      "Tu Tinh Chi Tâm",
+      "Phong ấn chi kiếm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đó là Tu Tinh Chi Tâm, vật khống chế Tu Tinh Chi Tinh.",
+    "chapter": 434,
+    "source": "Tiên Nghịch ch.434",
+    "evidence": "Trước Chu Tước Tử là tinh thạch đỏ hình trái tim, \"chính là Tu Tinh Chi Tâm\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Theo tam tổ, nữ tử hiện ra từ bức tranh của Vương Lâm thực chất là ai?",
+    "options": [
+      "Tàn hồn tiên thi",
+      "Một tổ tiên Tiên Di tộc",
+      "Một tổ tiên Cự Ma tộc",
+      "Một nữ tu Thi Âm tông"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tam tổ nhận ra đó là một tổ tiên của tộc mình, tự phong ấn vào tranh làm phù thú.",
+    "chapter": 434,
+    "source": "Tiên Nghịch ch.434",
+    "evidence": "Tam tổ: \"Đây là một vị tổ tiên của tộc ta\", tự phong ấn mình vào Phù Thú Đồ Phổ."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trước khi chết, Chu Tước Tử đời trước Kiền Bình Hải đã chỉ định ai kế nhiệm?",
+    "options": [
+      "Vân Tước Tử",
+      "Kiền Phong",
+      "Lý Nguyên Phong",
+      "Độn Thiên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Kiền Bình Hải chọn Vân Tước Tử, nhưng Chu Tước Tử hiện tại đã lén đoạt Tu Tinh Chi Tâm.",
+    "chapter": 434,
+    "source": "Tiên Nghịch ch.434",
+    "evidence": "Kiền Bình Hải \"trước khi chết lại chỉ ra và xác nhận Vân Tước Tử là Chu Tước Tử đời tiếp theo\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao Chu Tước Tử nuôi Kiền Phong và truyền cho hắn Chu Tước Huyền Trận?",
+    "options": [
+      "Muốn Kiền Phong kế vị",
+      "Để giữ đại lục khỏi Tiên Di",
+      "Vì Kiền Phong thiên tư cao nhất",
+      "Trả thù Kiền Bình Hải qua hậu duệ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trận này hại nguyên thần; hắn truyền cho hậu nhân Kiền Bình Hải như lão từng làm với hắn.",
+    "chapter": 434,
+    "source": "Tiên Nghịch ch.434",
+    "evidence": "Hắn tìm Kiền Phong trong hậu nhân Kiền Bình Hải, truyền trận \"giống như năm đó ngươi đối xử với ta\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trước khi rời Chu Tước tinh, Vương Lâm nhất định phải rút mệnh hồn của mình ra khỏi đâu?",
+    "options": [
+      "Thập Ức Tôn Hồn Phiên",
+      "Chu Tước kỳ trận",
+      "Tu Tinh Chi Tinh",
+      "Phù Thú Đồ Phổ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mục tiêu duy nhất của hắn là lấy mệnh hồn khỏi Tu Tinh Chi Tinh rồi rời đi.",
+    "chapter": 435,
+    "source": "Tiên Nghịch ch.435",
+    "evidence": "Mục tiêu của hắn: \"rút mệnh hồn của mình ra khỏi Tu Tinh Chi Tinh\", rồi đi bái sư."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Bình nguyên cực tây Triệu quốc, nơi đặt Thi Âm tông, quanh năm bị thứ gì bao phủ khiến tu sĩ ít lui tới?",
+    "options": [
+      "Độc chướng đầm lầy dày đặc",
+      "Hàn khí và khí Cửu Địa",
+      "Sương đen của Tiên Di tộc",
+      "Lôi vân cuồn cuộn quanh năm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nơi này bị khí âm hàn và khí Cửu Địa bao phủ, dưới Nguyên Anh chạm vào là bị thương.",
+    "chapter": 435,
+    "source": "Tiên Nghịch ch.435",
+    "evidence": "Nơi này \"quanh năm bị khí âm hàn bao phủ\", lại \"còn có khí Cửu Địa\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm thu du hồn ở vực ngoại chiến trường để khôi phục Tôn Hồn Phiên; kết quả ra sao?",
+    "options": [
+      "Thất bại vì hai bên xung khắc",
+      "Phiên hồi phục được một nửa",
+      "Phiên hấp thu thành công",
+      "Du hồn hóa thành chủ hồn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Du hồn vào phiên liền phát cuồng cắn nuốt rồi bị vây diệt, phương pháp thất bại.",
+    "chapter": 435,
+    "source": "Tiên Nghịch ch.435",
+    "evidence": "Du hồn vào phiên phát cuồng, bị hồn phách vây công rồi tan biến, \"như nước với lửa\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Lý Thanh Bình, tông chủ phân tông Thi Âm tông ở Triệu quốc, có tu vi gì?",
+    "options": [
+      "Nguyên Anh trung kỳ",
+      "Nguyên Anh sơ kỳ",
+      "Kết Đan hậu kỳ",
+      "Nguyên Anh hậu kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Truyện nói rõ bản lãnh Lý Thanh Bình đã đạt Nguyên Anh hậu kỳ.",
+    "chapter": 435,
+    "source": "Tiên Nghịch ch.435",
+    "evidence": "Lý Thanh Bình là tông chủ phân tông, \"bản lãnh của hắn đã đạt tới Nguyên Anh Hậu Kỳ\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Nguyên thần hư ảnh trú sau lưng Lý Thanh Bình tự nhận mình là đệ tử của tông nào?",
+    "options": [
+      "Luyện Hồn tông",
+      "Thiên Đạo tông",
+      "Di Lặc tông",
+      "Hằng Nhạc phái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hư ảnh nói mình không phải người Chu Tước tinh mà là đệ tử Di Lặc tông.",
+    "chapter": 435,
+    "source": "Tiên Nghịch ch.435",
+    "evidence": "Hư ảnh: \"vãn bối… là đệ tử của Di Lặc Tông\", thân thể bị phá nát nên mua thân ở Thi Âm tông."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Lâm hứa gì nếu Tào Nhất Đấu chịu làm nô bộc cho mình một trăm năm?",
+    "options": [
+      "Một thân thể Hóa Thần",
+      "Một thân thể Anh Biến",
+      "Một trăm khối tiên ngọc",
+      "Một bộ công pháp Vấn Đỉnh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm hứa trăm năm sau sẽ cho hắn một thân thể Anh Biến kỳ.",
+    "chapter": 436,
+    "source": "Tiên Nghịch ch.436",
+    "evidence": "\"Ngươi làm nô bộc của ta một trăm năm, trăm năm sau ta sẽ cho ngươi một thân thể Anh Biến Kỳ!\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Trong hang động rộng lớn sâu dưới Thi Âm tông, chính giữa đặt vật gì tỏa ra âm hàn vô biên?",
+    "options": [
+      "Một cỗ quan tài lớn",
+      "Một tòa tế đàn",
+      "Một cột băng",
+      "Một chiếc đỉnh đồng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giữa động là cỗ quan tài lớn trông bình thường nhưng tràn âm hàn khí.",
+    "chapter": 436,
+    "source": "Tiên Nghịch ch.436",
+    "evidence": "\"Ở chính giữa động có một cỗ quan tài rất lớn\", không hoa văn nhưng tràn khí âm hàn."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm thu Tào Nhất Đấu làm nô bộc chủ yếu để dùng vào việc gì?",
+    "options": [
+      "Do thám sào huyệt Tiên Di tộc",
+      "Canh giữ Luyện Hồn tông",
+      "Luyện chế hồn phiên mới",
+      "Dẫn đường tới Thiên Vận tinh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm chỉ cần hiểu biết của hắn về Thiên Vận tinh, nơi hắn sắp tới.",
+    "chapter": 436,
+    "source": "Tiên Nghịch ch.436",
+    "evidence": "Vương Lâm cần \"những hiểu biết của ngươi về Thiên Vận Tinh\"; hắn nhận làm người dẫn đường."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm thu nguyên thần Tào Nhất Đấu vào vật gì?",
+    "options": [
+      "Cây Thập Ức Tôn Hồn Phiên",
+      "Tòa bảo tháp tiên ngọc",
+      "Hồn phiên thu Lý Nguyên Phong",
+      "Không gian Nghịch Thiên châu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn dùng cây hồn phiên tự chế để thu Lý Nguyên Phong mà thu Tào Nhất Đấu vào.",
+    "chapter": 436,
+    "source": "Tiên Nghịch ch.436",
+    "evidence": "Cây hồn phiên \"do chính hắn chế tác ra để thu Lý Nguyên Phong\" thu Tào Nhất Đấu vào trong."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vì sao Tào Nhất Đấu tới Chu Tước tinh để có thân thể mới?",
+    "options": [
+      "Bị tông môn trục xuất",
+      "Rẻ hơn nơi quê nhà",
+      "Trốn kẻ thù truy sát",
+      "Được Thi Âm tông mời tới"
+    ],
+    "correctIndex": 1,
+    "explanation": "Điều dưỡng ở quê tốn quá nhiều tiên ngọc, nên hắn chọn cách rẻ hơn ở Chu Tước tinh.",
+    "chapter": 436,
+    "source": "Tiên Nghịch ch.436",
+    "evidence": "Hắn \"không thể trả nổi một lượng lớn tiên ngọc như vậy nên mới phải tìm cách rẻ hơn\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Vương Lâm dùng pháp thuật bậc thấp nào, rót tiên lực vào, để thổi tan đám sương trắng quanh người khổng lồ?",
+    "options": [
+      "Phong động",
+      "Dẫn Lực thuật",
+      "Hỏa cầu thuật",
+      "Thủy độn thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phong động vốn là pháp thuật Trúc Cơ cũng dùng được, nhưng chứa tiên lực nên thành lốc xoáy.",
+    "chapter": 437,
+    "source": "Tiên Nghịch ch.437",
+    "evidence": "Vương Lâm nói \"Phong động!\"; pháp thuật bậc thấp này chứa tiên lực tạo cơn lốc cuốn sạch sương."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Vương Lâm hứng máu người khổng lồ vào vật gì?",
+    "options": [
+      "Hồ lô của Độn Thiên",
+      "Túi trữ vật lão tổ Cự Ma",
+      "Chén đồng của Thi Âm tông",
+      "Bình ngọc nhặt ở tiên giới"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đó là bình ngọc có được ở tiên giới, chứa được rất nhiều chất lỏng.",
+    "chapter": 437,
+    "source": "Tiên Nghịch ch.437",
+    "evidence": "Bình ngọc này hắn \"ở tiên giới tình cờ có được\", chỉ có điểm chứa được nhiều chất lỏng."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo hiểu biết của Vương Lâm, cửu diệp Thuật Chú Sư Tiên Di tộc tương đương tu sĩ cảnh giới nào?",
+    "options": [
+      "Anh Biến hậu kỳ",
+      "Anh Biến trung kỳ",
+      "Vấn Đỉnh sơ kỳ",
+      "Hóa Thần hậu kỳ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bát diệp tương đương Anh Biến, còn cửu diệp tương đương Vấn Đỉnh sơ kỳ.",
+    "chapter": 437,
+    "source": "Tiên Nghịch ch.437",
+    "evidence": "\"Bát diệp… tương đương với Anh Biến Kỳ, còn lại cửu diệp… tương đương với Vấn Đỉnh Sơ Kỳ.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm cẩn thận không làm hại cái cây ký sinh trên người khổng lồ?",
+    "options": [
+      "Muốn mang cây về trồng",
+      "Sợ phá giam cầm, hắn thoát ra",
+      "Cây là bảo vật Thi Âm tông",
+      "Cây có độc với tiên lực"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cây liên quan mật thiết tới cấm chế giam người khổng lồ; hủy cây có thể khiến hắn tự do.",
+    "chapter": 437,
+    "source": "Tiên Nghịch ch.437",
+    "evidence": "Hủy cây có thể làm giam cầm biến đổi, người khổng lồ \"có thể hoạt động trở lại\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Tiên kiếm không đâm thủng da người khổng lồ, Vương Lâm dùng gì để mở được vết thương?",
+    "options": [
+      "Đầu một cành cây bẻ ra",
+      "Búa của tổ tiên Cự Ma",
+      "Ngọn lửa chứa tiên lực",
+      "Cấm khí từ Cấm phiên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đầu cành cây có chất lỏng lục làm da người khổng lồ cháy xèo xèo và xuyên vào dễ dàng.",
+    "chapter": 437,
+    "source": "Tiên Nghịch ch.437",
+    "evidence": "Hắn đặt đỉnh cành cây lên da, nghe tiếng xèo xèo, rồi cành \"dễ dàng xâm nhập\" cơ thể."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Người khổng lồ bị giam dưới lòng đất Triệu quốc tự xưng tên là gì?",
+    "options": [
+      "Sất Hổ",
+      "Lăng Thiên Hậu",
+      "Đồ Ti",
+      "Lôi Cát"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn xưng là Vạn Phu Hậu của Cự Ma tộc, tên Lôi Cát.",
+    "chapter": 438,
+    "source": "Tiên Nghịch ch.438",
+    "evidence": "\"Ta là Vạn Phu Hậu của Cự Ma Tộc, Lôi Cát.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Người khổng lồ hứa nếu được cứu sẽ cam tâm làm gì cho Vương Lâm cả đời?",
+    "options": [
+      "Làm hộ pháp tông môn",
+      "Làm kiếm hồn",
+      "Làm vật cưỡi",
+      "Làm lô đỉnh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn hứa làm nô bộc vật cưỡi, nói tộc nhân đã nhận chủ thì không phản bội.",
+    "chapter": 438,
+    "source": "Tiên Nghịch ch.438",
+    "evidence": "Hắn nói sẽ \"cả cuộc đời này làm nô bộc tọa kỵ cho ngươi\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Theo người khổng lồ, gom đủ các miếng Khai Thiên Chi Thiết sẽ tạo ra thứ gì?",
+    "options": [
+      "Một chiếc Tinh La Bàn",
+      "Cổ thần chiến giáp",
+      "Một thanh tiên kiếm",
+      "Một tòa truyền tống trận"
+    ],
+    "correctIndex": 1,
+    "explanation": "Các miếng hợp lại thành cổ thần chiến giáp, mặc vào có sức mạnh cổ thần.",
+    "chapter": 438,
+    "source": "Tiên Nghịch ch.438",
+    "evidence": "Chín mươi chín miếng tập hợp \"có thể tạo ra một tấm cổ thần chiến giáp\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trước khi bị phong ấn, người khổng lồ bị trọng thương vì bị ai truy sát?",
+    "options": [
+      "Hai thập diệp Thuật Chú Sư",
+      "Chu Tước Tử đời thứ nhất",
+      "Lão tổ Cự Ma tộc",
+      "Tu sĩ Luyện Hồn tông"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sau trận đánh Tiên Di tộc, hắn bị hai thập diệp Thuật Chú Sư đuổi giết, trọng thương.",
+    "chapter": 438,
+    "source": "Tiên Nghịch ch.438",
+    "evidence": "Hắn \"bị hai thập diệp thuật chú sư của Tiên Di Tộc đuổi giết, tuy chạy thoát nhưng… trọng thương\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Người khổng lồ cố kéo dài việc Vương Lâm lấy máu nhằm mục đích gì?",
+    "options": [
+      "Chờ Thi Âm tông tới cứu",
+      "Hút ngược tiên lực đối phương",
+      "Đoạt xá Vương Lâm",
+      "Đẩy cái cây ra khỏi cơ thể"
+    ],
+    "correctIndex": 3,
+    "explanation": "Máu còn dưới một phần ba thì hắn đẩy được cây ra, rồi có cách cho nguyên thần xuất khiếu.",
+    "chapter": 438,
+    "source": "Tiên Nghịch ch.438",
+    "evidence": "Hắn tiếc: chỉ thêm nửa nén hương, máu ít hơn một phần ba là \"đưa đám cây kia ra khỏi cơ thể\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vì sao Tư Đồ Nam không thể vào Chu Tước tinh giúp Vương Lâm lấy lại mệnh hồn?",
+    "options": [
+      "Đang bị Chu Tước Tử truy nã",
+      "Sợ Tiên Di tộc phát hiện",
+      "Tu sĩ Vấn Đỉnh không vào được",
+      "Đã thề không trở lại"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sức mạnh của Tu Tinh Chi Tinh ngăn tu sĩ Vấn Đỉnh trừ Chu Tước Tử; chỉ Anh Biến vào được.",
+    "chapter": 440,
+    "source": "Tiên Nghịch ch.440",
+    "evidence": "\"Ngoại trừ Chu Tước Tử, Vấn Đỉnh tu sĩ không thể tiến vào, chỉ có Anh Biến tu sĩ… mới có thể vào\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Theo Tư Đồ Nam, Chu Tước Tử đương nhiệm đang ở cảnh giới nào?",
+    "options": [
+      "Vấn Đỉnh trung kỳ",
+      "Vấn Đỉnh hậu kỳ",
+      "Vấn Đỉnh sơ kỳ",
+      "Anh Biến hậu kỳ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tư Đồ Nam khinh thường nói Chu Tước Tử chỉ là Vấn Đỉnh hậu kỳ, chưa cảm thụ được âm dương.",
+    "chapter": 440,
+    "source": "Tiên Nghịch ch.440",
+    "evidence": "Tư Đồ Nam: \"Hắn à? Vấn Đỉnh Hậu Kỳ, sợ là không có tư cách cảm thụ âm dương\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo Tư Đồ Nam, muốn từ Vấn Đỉnh bước lên Khuy Niết phải trải qua thứ gì?",
+    "options": [
+      "Âm dương nhị ý",
+      "Cửu trọng thiên kiếp",
+      "Sinh tử luân hồi",
+      "Hư thực ý cảnh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Từ Vấn Đỉnh lên Khuy Niết có hai cửa ải là âm dương nhị ý, một biến hóa của ý cảnh.",
+    "chapter": 440,
+    "source": "Tiên Nghịch ch.440",
+    "evidence": "\"Từ Vấn Đỉnh lên Khuy Niết có hai cửa ải, phân làm âm dương nhị ý.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Ấn quyết tu chân liên minh ban, uy lực lớn nhưng hao tuổi thọ, được các đời Chu Tước Tử kế thừa, tên gì?",
+    "options": [
+      "Chu Tước Huyền Trận",
+      "Tỏa Thần thuật",
+      "Trừu Phách thuật",
+      "Chu Tước Ấn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đó là Chu Tước Ấn, một thần thông bậc thấp của tu chân liên minh.",
+    "chapter": 440,
+    "source": "Tiên Nghịch ch.440",
+    "evidence": "Đó là \"một ấn quyết tên gọi là Chu Tước Ấn\", dùng sẽ tiêu hao tuổi thọ."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Tư Đồ Nam đoán Nghịch Thiên châu thuộc loại bảo vật nào?",
+    "options": [
+      "Ngụy tiên bảo",
+      "Tiên bảo cấp thấp",
+      "Trên cả tiên bảo",
+      "Tiên bảo cấp trung"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn nghĩ Nghịch Thiên châu là loại bảo vật trên tiên bảo, chỉ tu sĩ Toái Niết mới có.",
+    "chapter": 440,
+    "source": "Tiên Nghịch ch.440",
+    "evidence": "Trên tiên bảo còn một loại bảo vật chỉ Toái Niết tu sĩ có; \"Ta nghĩ Thiên Nghịch Châu chính là loại bảo vật này\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đoạt xá thành công, Tư Đồ Nam hiện thân trước Vương Lâm trong hình dạng nào?",
+    "options": [
+      "Một lão giả tóc bạc",
+      "Một đồng tử áo đỏ",
+      "Một đại hán áo tím",
+      "Một thanh niên áo trắng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn đến giữa biển khí lam trong dáng một đồng tử mặc áo đỏ, mặt trắng như ngọc.",
+    "chapter": 441,
+    "source": "Tiên Nghịch ch.441",
+    "evidence": "\"Một đồng tử toàn thân mặc y phục màu đỏ, chắp tay sau lưng\" — chính là Tư Đồ Nam."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Nghe Tư Đồ Nam kể chuyện đời, Vương Lâm nhận ra mình theo đuổi điều gì khác hắn?",
+    "options": [
+      "Điểm tận cùng của tu luyện",
+      "Sống ẩn dật nơi phàm trần",
+      "Báo thù cho cha mẹ",
+      "Làm Chu Tước Tử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tư Đồ Nam tu tiên để hưởng lạc, còn Vương Lâm muốn biết tận cùng của tu luyện ở đâu.",
+    "chapter": 441,
+    "source": "Tiên Nghịch ch.441",
+    "evidence": "Vương Lâm \"muốn biết điểm tận cùng của việc tu luyện là ở chỗ nào\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Sau khi đoạt xá, Tư Đồ Nam đã nuốt ai để thân thể mới dung hợp nhanh hơn?",
+    "options": [
+      "Tam tổ Tiên Di tộc",
+      "Lão tổ Cự Ma tộc",
+      "Thiếu tộc trưởng Tiên Di",
+      "Tứ tổ Tiên Di tộc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn nuốt tứ tổ để rút ngắn thời gian dung hợp, tu vi đạt Vấn Đỉnh.",
+    "chapter": 441,
+    "source": "Tiên Nghịch ch.441",
+    "evidence": "Hắn đoạt xá thành công, \"sau đó nuốt luôn tứ tổ làm cho thời gian dung hợp thân thể nhanh hơn\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Có thân thể mới, Tư Đồ Nam muốn tới tinh cầu nào vì nghe nói nữ tu nơi đó nguyên âm dồi dào?",
+    "options": [
+      "Thiên Vận tinh",
+      "Tứ Thánh tinh",
+      "Phong Loan tinh",
+      "Chu Tước tinh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn nhắc mãi Phong Loan tinh và định tới đó sau khi rời đi.",
+    "chapter": 441,
+    "source": "Tiên Nghịch ch.441",
+    "evidence": "\"Nghe nói bọn nữ tu của Phong Loan Tinh nguyên âm dồi dào\", lần này nhất định phải tới."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vẻ kiêu ngạo trên mặt Vương Lâm khiến Tư Đồ Nam nhớ tới người nào khiến hắn vừa kính vừa giận?",
+    "options": [
+      "Độn Thiên",
+      "Diệp Vô Ưu",
+      "Vân Tước Tử",
+      "Kiền Bình Hải"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vẻ kiêu ngạo ấy hắn chỉ từng thấy ở đệ nhất Chu Tước Tử Diệp Vô Ưu.",
+    "chapter": 441,
+    "source": "Tiên Nghịch ch.441",
+    "evidence": "Người đó \"làm cho hắn vừa kính vừa giận, đó là đệ nhất Chu Tước Tử Diệp Vô Ưu!\""
+  }
+]

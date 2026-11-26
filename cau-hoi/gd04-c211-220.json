@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Khác các môn phái khác, Vân Thiên tông chọn đệ tử chủ yếu dựa vào yếu tố nào?",
+    "options": [
+      "Duyên pháp",
+      "Thiên tư linh căn",
+      "Tu vi cao thấp",
+      "Gia thế tu chân"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vân Thiên tông không chú trọng thiên tư linh căn mà chỉ chú ý đến duyên pháp.",
+    "chapter": 211,
+    "source": "Tiên Nghịch ch.211",
+    "evidence": "Không như các môn phái xem trọng linh căn, tông này thu đồ đệ \"chỉ chú ý chính đến một yếu tố đó là duyên pháp\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Dấu hiệu nào báo cho tu sĩ Sở quốc biết lễ thu đồ đệ của Vân Thiên tông đã bắt đầu?",
+    "options": [
+      "Tiên hạc bay kín trời",
+      "Ba chữ lớn hiện trên không",
+      "Chuông đồng vang ngàn dặm",
+      "Cột hắc vụ dâng lên"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ba chữ lớn \"Vân Thiên tông\" hiện trên không trung khi lễ bắt đầu và biến mất khi lễ kết thúc.",
+    "chapter": 211,
+    "source": "Tiên Nghịch ch.211",
+    "evidence": "Mỗi ba mươi năm, khi lễ mười ngày bắt đầu thì ba chữ to Vân Thiên tông lơ lửng trên trời, hết mười ngày thì biến mất."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Thiên Tổn đan do Vân Thiên tông luyện ra có công hiệu gì?",
+    "options": [
+      "Giúp Kết Đan đột phá Nguyên Anh",
+      "Kéo dài thọ nguyên thêm trăm năm",
+      "Tái tạo thân cũ cho Nguyên Anh",
+      "Chữa lành thần thức bị tổn thương"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thiên Tổn đan giúp Nguyên Anh đã mất thân thể tái sinh thân cũ mà không cần đoạt xá.",
+    "chapter": 211,
+    "source": "Tiên Nghịch ch.211",
+    "evidence": "Đan ngũ phẩm sơ khai này giúp Nguyên Anh mất thân thể \"không cần đoạt xá mà có tác dụng tái sinh thân thể cũ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm phải bỏ động phủ cũ để tìm nơi bế quan khác?",
+    "options": [
+      "Bị tu sĩ Vân Thiên tông dò ra",
+      "Linh khí nơi đó đã cạn kiệt",
+      "Cấm chế bảo vệ bị phá hỏng",
+      "Phân thân ra đời gây dị tượng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lúc phân thân xuất hiện, trời sinh dị tượng với những luồng sáng kéo dài nên hắn phải bỏ động phủ.",
+    "chapter": 211,
+    "source": "Tiên Nghịch ch.211",
+    "evidence": "Khi phân thân xuất hiện \"không ngờ trời sinh dị tượng\", ánh sáng kéo dài không tắt, nên hắn vứt bỏ động phủ."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Phân thân Vương Lâm rút ra nhờ Thần Đạo thuật chỉ tồn tại được bao lâu?",
+    "options": [
+      "Ba mươi năm",
+      "Mười năm",
+      "Một trăm năm",
+      "Năm mươi năm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phân thân có huyết nhục như bản thể nhưng chỉ tồn tại được ba mươi năm.",
+    "chapter": 211,
+    "source": "Tiên Nghịch ch.211",
+    "evidence": "Phân thân có huyết nhục giống bản thể, \"chẳng qua thời gian tồn tại chỉ có ba mươi năm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Trong cột hắc vụ khảo hạch, lấy được vật nào thì trở thành đệ tử của chưởng môn?",
+    "options": [
+      "Lệnh bài",
+      "Lò luyện đan",
+      "Ngọc giản",
+      "Đan dược"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ai lấy được lò luyện đan sẽ trở thành đệ tử của chưởng môn; tám ngàn năm chỉ có sáu người làm được.",
+    "chapter": 212,
+    "source": "Tiên Nghịch ch.212",
+    "evidence": "Chu Lâm nói nếu lấy được lò luyện đan thì \"ngươi đã trở thành một trong các đệ tử của chưởng môn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Người trung niên phụ trách khảo hạch, về sau nhận Vương Lâm làm đồ đệ, tên là gì?",
+    "options": [
+      "Tôn Trấn Vĩ",
+      "Lữ Tùng",
+      "Chu Lâm",
+      "Trình Hiền"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đó là Chu Lâm, cửu đại đệ tử của Vân Thiên tông.",
+    "chapter": 212,
+    "source": "Tiên Nghịch ch.212",
+    "evidence": "Người trung niên tự xưng \"Cửu đại đệ tử Chu Lâm bái kiến chưởng môn\" và xin nhận Vương Lâm làm đồ đệ."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Ngoài việc thành nội môn đệ tử, người lấy được lệnh bài trong cột hắc vụ còn được gì?",
+    "options": [
+      "Một lò luyện đan riêng biệt",
+      "Quyền tự chọn sư phụ mình",
+      "Lối vào Nam uyển tu luyện",
+      "Một viên tam phẩm linh đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cầm lệnh bài được vào nội môn và đến chỗ cất đan dược đổi một hạt tam phẩm linh đan.",
+    "chapter": 212,
+    "source": "Tiên Nghịch ch.212",
+    "evidence": "Cầm lệnh bài ngoài việc thành nội môn đệ tử \"có thể đến chỗ cất đan dược đổi lấy một hạt tam phẩm linh đan\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm lấy được đan dược trong cột hắc vụ bằng cách nào?",
+    "options": [
+      "Lén đánh cấm chế lôi ra",
+      "Dùng thần thức nhìn thấu",
+      "Tế pháp bảo phá màn sương",
+      "Được đan dược tự chọn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn lén đánh ra cấm chế thượng cổ để câu đan dược bay ra khỏi cột hắc vụ.",
+    "chapter": 212,
+    "source": "Tiên Nghịch ch.212",
+    "evidence": "Vương Lâm \"đánh ra một đạo cấm chế, câu xuất một đan dược\" màu thủy lam; chưởng môn không biết hắn dùng cấm chế cưỡng chế."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vương Lâm cố ý lấy đan dược thuộc tính thủy nhằm mục đích gì?",
+    "options": [
+      "Hợp với linh căn của phân thân",
+      "Làm người chủ khảo vui mà bớt nghi",
+      "Vì loại đan này dễ luyện hóa nhất",
+      "Tránh xung khắc với bổn tôn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn đoán Chu Lâm sở trường đan thuộc tính thủy, vui mừng sẽ giảm cảnh giác, không truy chuyện hai viên đan liên tiếp.",
+    "chapter": 212,
+    "source": "Tiên Nghịch ch.212",
+    "evidence": "Hắn phán đoán sở trường của người trung niên là đan thủy; nếu đúng thì người này vui mừng, \"tư tưởng cảnh giác có phần giảm xuống\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Trước khi tự dùng đan dược Chu Lâm tặng, Vương Lâm thử nó bằng cách nào?",
+    "options": [
+      "Nhờ sư tổ kiểm tra",
+      "Ngâm vào linh dịch",
+      "Cho tiểu thú ăn trước",
+      "Dùng thần thức soi xét"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn búng một viên cho tiểu thú có cánh ăn rồi quan sát vài ngày.",
+    "chapter": 213,
+    "source": "Tiên Nghịch ch.213",
+    "evidence": "Vương Lâm búng đan dược vào miệng tiểu thú, định quan sát vài ngày rồi mới nuốt; hai tháng sau nó mạnh hơn đồng loại."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Vân Thiên tông chia làm nội tông và ngoại tông; nội tông chuyên về việc gì?",
+    "options": [
+      "Đối địch",
+      "Trận pháp",
+      "Luyện khí",
+      "Luyện đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nội tông chuyên luyện đan, còn ngoại tông dùng để đối địch.",
+    "chapter": 213,
+    "source": "Tiên Nghịch ch.213",
+    "evidence": "\"Nội tông chuyên về luyện đan, còn ngoại tông để đối địch\"; Chu Lâm là đệ tử nội tông."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Để bổn tôn và phân thân liên lạc qua cấm chế chi môn, mỗi bên phải giữ vật gì?",
+    "options": [
+      "Một viên Mặc Gian thạch",
+      "Một giọt hồn huyết",
+      "Một ngọc giản truyền âm",
+      "Một mảnh Cấm phiên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cấm chế chi môn luyện từ Mặc Gian thạch; mỗi bên giữ một viên là liên lạc được.",
+    "chapter": 213,
+    "source": "Tiên Nghịch ch.213",
+    "evidence": "Dựa ký ức Cổ Thần, hắn dùng Mặc Gian thạch luyện cấm chế chi môn; \"mỗi bên giữ một viên Mặc Gian thạch\" là liên lạc được."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Lão phụ nhân hứa nhận tiểu nha đầu làm đệ tử ký danh nếu trong ba năm nàng làm được gì?",
+    "options": [
+      "Đạt tới Trúc Cơ kỳ",
+      "Thắng vòng khảo hạch thứ hai",
+      "Luyện ra nhị phẩm linh đan",
+      "Lấy được lò luyện đan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Bà ta hứa phá lệ nhận nàng làm đệ tử ký danh nếu trong ba năm luyện ra nhị phẩm linh đan.",
+    "chapter": 213,
+    "source": "Tiên Nghịch ch.213",
+    "evidence": "Lão phụ nhân nói \"nếu trong ba năm, ngươi có thể luyện ra nhị phẩm linh đan\" thì sẽ nhận làm đệ tử ký danh."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Thủ pháp dùng linh lực làm cầu nối giữa ngọn lửa và đan lô được gọi là gì?",
+    "options": [
+      "Anh hỏa",
+      "Khống hỏa quyết",
+      "Vi khống",
+      "Địa hỏa thuật"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ngọc giản của Chu Lâm gọi thủ pháp này là Vi khống, đòi hỏi linh lực ổn định và biến đổi theo lửa.",
+    "chapter": 213,
+    "source": "Tiên Nghịch ch.213",
+    "evidence": "Trên ngọc giản có thủ pháp \"gọi là Vi khống\", lấy linh lực bản thân làm cây cầu nối ngọn lửa với đan lô."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm tới lầu đá trắng ở Nam uyển, Lý Mộ Uyển đang làm gì?",
+    "options": [
+      "Luyện đan bên đỉnh",
+      "Tĩnh tọa thổ nạp",
+      "Đọc ngọc giản",
+      "Gảy đàn cổ tranh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nàng ngồi gảy cổ tranh sau rèm cửa sổ, tiếng nhạc dẫn đường cho Vương Lâm.",
+    "chapter": 214,
+    "source": "Tiên Nghịch ch.214",
+    "evidence": "Trong lầu đá trắng có bóng người ngồi ngay ngắn, \"trước mặt nàng có một cây cổ tranh\"; tiếng nhạc vọng ra."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm tới Nam uyển nhờ giúp, Lý Mộ Uyển tặng hắn vật gì?",
+    "options": [
+      "Một cái đan lô mới",
+      "Một bình Bồi Nguyên đan",
+      "Một ngọc giản đan phương",
+      "Một lệnh bài Nam uyển"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nàng tặng hắn một đan lô dùng được trăm lần không vỡ.",
+    "chapter": 214,
+    "source": "Tiên Nghịch ch.214",
+    "evidence": "Lý Mộ Uyển lấy ra một cái đan lô: dùng nó \"có thể giữ được trong vòng trăm lần sẽ không bị vỡ\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo Lý Mộ Uyển, vì sao đan lô của Vương Lâm liên tục bị vỡ?",
+    "options": [
+      "Dược thảo lẫn nhiều tạp chất",
+      "Đan lô trong viện kém phẩm chất",
+      "Linh lực tăng nhanh, lửa bất ổn",
+      "Dùng sai đan phương của sư phụ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Linh lực trong cơ thể hắn tăng quá nhanh khiến ngọn lửa không ổn định.",
+    "chapter": 214,
+    "source": "Tiên Nghịch ch.214",
+    "evidence": "Nàng nói đan lô vỡ là \"do linh lực trong cơ thể ngươi tăng lên quá nhanh khiến cho ngọn lửa không ổn định\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Lý trưởng lão từng luyện ra loại ngũ phẩm đan dược nào, một trong tam bảo của Vân Thiên tông?",
+    "options": [
+      "Trúc Cơ đan",
+      "Tạo Hóa đan",
+      "Thiên Ly đan",
+      "Tu Ma đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Theo Trình Hiền, Lý trưởng lão luyện ra Tu Ma đan, một trong tam bảo ngũ phẩm của tông.",
+    "chapter": 214,
+    "source": "Tiên Nghịch ch.214",
+    "evidence": "Trình Hiền kể nàng đã luyện ra \"một trong tam bảo ngũ phẩm đan dược\" của Vân Thiên tông, đó là Tu Ma đan."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vì sao Lý Mộ Uyển nghi nhưng chưa dám chắc Vương Lâm là người cũ?",
+    "options": [
+      "Hồn huyết ở mi tâm không phản ứng",
+      "Hắn không nhận ra tiếng đàn của nàng",
+      "Hắn tự nhận mình là người Sở quốc",
+      "Ánh mắt hắn hoàn toàn xa lạ với nàng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Giọng nói và ánh mắt giống, nhưng giọt hồn huyết người ấy để lại trong mi tâm nàng không hề phản ứng.",
+    "chapter": 214,
+    "source": "Tiên Nghịch ch.214",
+    "evidence": "Nàng tự hỏi nếu thật là hắn \"thì tại sao vừa rồi hồn huyết lại không có một chút phản ứng?\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Tiểu nha đầu cùng nhập môn Vân Thiên tông với Vương Lâm tên là gì?",
+    "options": [
+      "Trình Linh",
+      "La Nguyệt",
+      "Công Tôn Đồng",
+      "Vân Phi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nàng là La Nguyệt, được sư tỷ gọi là Nguyệt sư muội.",
+    "chapter": 215,
+    "source": "Tiên Nghịch ch.215",
+    "evidence": "La Nguyệt nói với sư tỷ: \"hắn đồng thời tiến nhập môn phái với muội\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Vương Lâm gửi tin hẹn Trình Hiền đến gặp bằng vật gì?",
+    "options": [
+      "Hạc giấy truyền thư",
+      "Phi kiếm truyền thư",
+      "Ngọc giản truyền âm",
+      "Truyền âm phù"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn lưu tin vào ngọc giản truyền âm Trình Hiền đưa cho rồi ném đi.",
+    "chapter": 215,
+    "source": "Tiên Nghịch ch.215",
+    "evidence": "Vương Lâm lấy \"ngọc giản truyền âm ngày đó Trình Hiền cho hắn\", lưu lại tin tức rồi ném đi."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Khi dược thảo cạn, Vương Lâm thêm thứ gì vào lúc luyện đan và thấy tỷ lệ thành công tăng vọt?",
+    "options": [
+      "Linh dịch",
+      "Nội đan linh thú",
+      "Long nham",
+      "Thủy linh đan"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thêm linh dịch vào, mười lần luyện đan hầu như thành công chín lần.",
+    "chapter": 215,
+    "source": "Tiên Nghịch ch.215",
+    "evidence": "Hết dược thảo, hắn lấy linh dịch thay thế; có linh dịch thì \"mười lần thì có chín lần thành công\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trình Hiền hứa kiếm phương thuốc Trúc Cơ đan cho Vương Lâm bằng cách nào?",
+    "options": [
+      "Đổi với Lý trưởng lão",
+      "Tự mày mò luyện thử",
+      "Mua lại ở Đông uyển",
+      "Trộm của sư phụ mình"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn không có phương thuốc nhưng sư phụ có, nên hứa trong ba ngày sẽ trộm được.",
+    "chapter": 215,
+    "source": "Tiên Nghịch ch.215",
+    "evidence": "Trình Hiền nói sư phụ hắn tất có: \"trong vòng ba ngày ta nhất định sẽ trộm được!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Khi linh viên mang ngọc giản của Trình Hiền tới, Vương Lâm thấy điều gì bất thường?",
+    "options": [
+      "Chân nó bị thương, đi gượng",
+      "Nó không chịu rời khỏi viện",
+      "Ngọc giản bị nứt một đường",
+      "Nó bị mất hẳn một con mắt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chân con linh viên rõ ràng bị thương, đi lại không tự nhiên.",
+    "chapter": 215,
+    "source": "Tiên Nghịch ch.215",
+    "evidence": "Hắn phát hiện \"chân con linh viên rõ ràng bị thương\", đi lại không tự nhiên, không dám dùng sức."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Vương Lâm tiến hành Trúc Cơ cho phân thân ở đâu?",
+    "options": [
+      "Mật thất dưới lòng Nam uyển",
+      "Không gian Nghịch Thiên châu",
+      "Động phủ bí mật của bổn tôn",
+      "Lầu đá trắng của Lý Mộ Uyển"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn điểm mi tâm, tiến vào không gian nghịch thiên rồi mới uống Trúc Cơ đan.",
+    "chapter": 216,
+    "source": "Tiên Nghịch ch.216",
+    "evidence": "Chuẩn bị xong, hắn \"tay phải điểm lên mi tâm, tiến nhập vào trong không gian nghịch thiên\" để Trúc Cơ."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Sau khi nuốt nốt năm viên Trúc Cơ đan cuối, tu vi phân thân đạt tới đâu?",
+    "options": [
+      "Trúc Cơ trung kỳ",
+      "Kết Đan sơ kỳ",
+      "Ngưng Khí đại viên mãn",
+      "Trúc Cơ đỉnh phong"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nhờ cổ thần quyết hấp thu hết linh lực, tu vi nhảy vọt lên Trúc Cơ đỉnh phong.",
+    "chapter": 216,
+    "source": "Tiên Nghịch ch.216",
+    "evidence": "Tu vi \"từ vừa đạt Trúc Cơ nhảy vọt lên Trúc Cơ đỉnh phong\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm luyện tới mười ba viên Trúc Cơ đan thay vì chỉ một viên?",
+    "options": [
+      "Thiên tư phân thân bình thường",
+      "Đan tự luyện có phẩm chất kém",
+      "Muốn chia bớt cho Trình Hiền",
+      "Để dành cho bổn tôn cùng dùng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thiên tư phân thân bình thường, một viên khó chắc thành công nên hắn chuẩn bị nhiều để dùng tiếp.",
+    "chapter": 216,
+    "source": "Tiên Nghịch ch.216",
+    "evidence": "Phân thân thiên tư \"đều là thuộc loại bình thường\" nên một viên không dám chắc thành công; thất bại thì dùng tiếp."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Đan lô lấy từ Vân Phi có thay đổi gì sau khi Vương Lâm ngưng kết phân thân?",
+    "options": [
+      "Phong ấn vàng tự bong ra",
+      "Cất được vào túi trữ vật",
+      "Tỏa ra mùi dược hương lạ",
+      "Hoa văn trên lò sáng lên"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trước kia không cho vào túi trữ vật được, sau khi có phân thân thì thu phóng dễ dàng.",
+    "chapter": 216,
+    "source": "Tiên Nghịch ch.216",
+    "evidence": "Trước đây không thể cho nó vào túi trữ vật, nhưng sau khi ngưng kết phân thân \"thử thu phóng nó thì... hoàn toàn dễ dàng\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Vì nhục thân khỏe mạnh, không cần trọng tổ thân thể, phân thân Vương Lâm tu theo con đường nào?",
+    "options": [
+      "Ngoại tu luyện thể",
+      "Nội luyện",
+      "Ma đạo đoạt cơ",
+      "Song tu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bổn tôn vô tình đi ngoại tu (cổ thần luyện thể), còn phân thân đi theo con đường nội luyện.",
+    "chapter": 216,
+    "source": "Tiên Nghịch ch.216",
+    "evidence": "Phân thân không trọng tổ thân thể, \"phân thân này tu luyện đều đi theo con đường nội luyện\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Lâm thu hồn phách con linh viên đã chết với ý định biến nó thành gì?",
+    "options": [
+      "Linh thú hộ pháp",
+      "Khí linh của Cấm phiên",
+      "Ma đầu thứ ba",
+      "Thú cưỡi cho phân thân"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn cứu hồn linh viên, định cho nó thành ma đầu thứ ba nếu nuốt được các hồn khác trong hồn kỳ.",
+    "chapter": 217,
+    "source": "Tiên Nghịch ch.217",
+    "evidence": "Vương Lâm nói với hồn linh viên: \"Từ nay về sau ngươi là ma đầu thứ ba của bổn tôn.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đã chặn Lý Mộ Uyển lại khi nàng vội vã lao ra khỏi viện?",
+    "options": [
+      "Tôn Trấn Vĩ",
+      "Chu Lâm",
+      "Lữ Tùng",
+      "Trình Hiền"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nam tử trung niên Tôn Trấn Vĩ chặn đường, hỏi nàng muốn đi đâu.",
+    "chapter": 217,
+    "source": "Tiên Nghịch ch.217",
+    "evidence": "Một bóng trắng chặn nàng; Lý Mộ Uyển lạnh lùng gọi tên \"Tôn Trấn Vĩ\" và dọa sẽ vô lễ nếu hắn không tránh."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Hồn phách linh viên khiến hoa cỏ quanh đó héo rũ vì mang thứ gì?",
+    "options": [
+      "Âm khí của hồn kỳ",
+      "Lệ khí trời sinh",
+      "Độc khí của nội đan",
+      "Ma khí Tu Ma hải"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đó là hồn phách có lệ khí trời sinh, giống lệ khí Vương Lâm từng có ở Triệu quốc.",
+    "chapter": 217,
+    "source": "Tiên Nghịch ch.217",
+    "evidence": "Vương Lâm nói: \"Không ngờ là hồn phách có lệ khí trời sinh\"; hoa cỏ xung quanh run rẩy rồi héo rũ."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Khi phân thân hợp nhất với bổn tôn, kim đan của bổn tôn xuất hiện dấu hiệu gì?",
+    "options": [
+      "Nứt ra một vết nhỏ",
+      "Chuyển hẳn sang vàng kim",
+      "Tỏa ra từng luồng hàn khí",
+      "Hiện một tia màu tím nhạt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kim đan có một tia tử khí nhạt, tức anh khí ban đầu báo hiệu sắp kết anh.",
+    "chapter": 217,
+    "source": "Tiên Nghịch ch.217",
+    "evidence": "Hắn phát hiện kim đan \"đã có một tia màu tím nhạt\"; tử khí này được gọi là anh khí ban đầu."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vương Lâm dùng vật gì vây khốn tu sĩ Nguyên Anh sơ kỳ đang bế quan dưới lòng Nam uyển?",
+    "options": [
+      "Cấm phiên",
+      "Hồn kỳ",
+      "Ngọc phù Đấu Long trận",
+      "Bách Thú linh lô"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn phóng Cấm phiên, một tiểu kỳ màu đen, bao vây nơi tu sĩ kia bế quan trong một khắc.",
+    "chapter": 217,
+    "source": "Tiên Nghịch ch.217",
+    "evidence": "Một cây tiểu kỳ màu đen bay ra bao vây chỗ bế quan; Cấm phiên dù thiếu hắn chủ trì vẫn vây khốn được \"trong một khắc\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trình Hiền tố cáo ai đã cố tình tiếp cận hắn để lấy linh viên?",
+    "options": [
+      "La Nguyệt",
+      "Lý Mộ Uyển",
+      "Công Tôn Đồng",
+      "Tôn Trấn Vĩ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trình Hiền nói Công Tôn Đồng ở Đông uyển tiếp xúc với hắn vì muốn đại viên và nhị viên.",
+    "chapter": 218,
+    "source": "Tiên Nghịch ch.218",
+    "evidence": "Trình Hiền: \"Công Tôn Đồng ở Đông uyển, là ả, tất cả đều do ả hại\", vì muốn đại viên và nhị viên."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Đệ tử của Mộc đại tiên sinh, kẻ nhiều lần đả thương Trình Hiền, là ai?",
+    "options": [
+      "Chu Lâm",
+      "Lữ Tùng",
+      "Tôn Trấn Vĩ",
+      "Đằng Lệ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trình Hiền kể Lữ Tùng, đệ tử Mộc đại tiên sinh, nhiều lần đánh hắn bị thương.",
+    "chapter": 218,
+    "source": "Tiên Nghịch ch.218",
+    "evidence": "Trình Hiền nói: \"đệ tử của Mộc đại tiên sinh là Lữ Tùng, chính hắn nhiều lần đả thương ta\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lý Mộ Uyển đe dọa sẽ làm gì nếu người nàng chờ đợi không chịu hiện thân?",
+    "options": [
+      "Rời bỏ Vân Thiên tông",
+      "Nhận lời song tu ngay",
+      "Đập vỡ ngọc giản cũ",
+      "Tự vẫn ngay lập tức"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nàng nói nếu hôm nay chàng không hiện thân, nàng sẽ tự vẫn để chấm dứt chấp niệm.",
+    "chapter": 218,
+    "source": "Tiên Nghịch ch.218",
+    "evidence": "Lý Mộ Uyển: \"Nếu hôm nay chàng không hiện thân, Uyển nhi sẽ tự vẫn ngay lập tức.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi Lý Mộ Uyển hỏi về tấm ngọc giản năm xưa, Vương Lâm trả lời thế nào?",
+    "options": [
+      "Bảo đã ném đi rồi",
+      "Bảo bị vỡ khi giao chiến",
+      "Bảo đã tặng người khác",
+      "Bảo để quên ở Tu Ma hải"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn lắc đầu nói đã ném đi, khiến nàng đau đớn vô cùng.",
+    "chapter": 218,
+    "source": "Tiên Nghịch ch.218",
+    "evidence": "Được hỏi còn giữ ngọc giản không, Vương Lâm lắc đầu: \"Ném đi rồi!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Kẻ thúc thủy tổ ép Lý Mộ Uyển song tu với mình thực chất muốn có được gì?",
+    "options": [
+      "Tu Ma đan của nàng",
+      "Nguyên âm của nàng",
+      "Đan phương ngũ phẩm",
+      "Chức trưởng lão Nam uyển"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn muốn nguyên âm hơn hai trăm năm của nàng, cộng với đan dược để đột phá Kết Đan.",
+    "chapter": 218,
+    "source": "Tiên Nghịch ch.218",
+    "evidence": "Trung niên nam tử thầm nghĩ: \"để có được nguyên âm hơn hai trăm năm của ngươi\", hắn thúc thủy tổ đáp ứng song tu."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ở Đông uyển, Vương Lâm thả ai từ mi tâm ra để tra hỏi tung tích linh viên?",
+    "options": [
+      "Tang Mộc Nhai",
+      "Trần Trùng",
+      "Đằng Hóa Nguyên",
+      "Hứa Lập Quốc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn thả ma đầu Hứa Lập Quốc vào sau bình phong để tra hỏi hai nữ tử.",
+    "chapter": 219,
+    "source": "Tiên Nghịch ch.219",
+    "evidence": "Vương Lâm điểm mi tâm, \"Hứa Lập Quốc từ trong đó bay ra\", được lệnh hỏi xem linh viên đang ở đâu."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Lâm tới Nam uyển xin Lý Mộ Uyển loại đan dược có tác dụng gì?",
+    "options": [
+      "Lên Nguyên Anh trong hai tháng",
+      "Kéo dài thời hạn của phân thân",
+      "Hồi phục thần thức bị tổn hại",
+      "Giúp ma đầu nuốt hồn nhanh hơn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn cần đan dược giúp tu vi đạt Nguyên Anh trong hai tháng, trước ngày nàng song tu.",
+    "chapter": 219,
+    "source": "Tiên Nghịch ch.219",
+    "evidence": "Vương Lâm nói: \"Ta cần đan dược có thể trong hai tháng đề cao tu vi lên tới Nguyên Anh kỳ!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Để cắt đuôi nữ tu Nguyên Anh đang truy đuổi, Vương Lâm đã làm gì với Đông uyển?",
+    "options": [
+      "Phóng hỏa thiêu lầu các",
+      "Làm cả uyển nghiêng đi",
+      "Thả ma đầu vào giữa uyển",
+      "Phá nát cầu vồng bảy sắc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cấm chế thượng cổ làm cấm chế nâng Đông uyển mất cân bằng, nữ tu phải quay về gia cố.",
+    "chapter": 219,
+    "source": "Tiên Nghịch ch.219",
+    "evidence": "Cấm chế khổng lồ mất cân bằng, \"Đông uyển đang tung bay giữa không trung lập tức bị nghiêng đi\"; nữ tử đành lui về gia cố."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm giải thích với Lý Mộ Uyển rằng thân thể Mã Lương năm xưa là gì?",
+    "options": [
+      "Một phân thân Thần Đạo",
+      "Thân thể có nhờ đoạt xá",
+      "Một khôi lỗi luyện chế",
+      "Thân thể dịch dung"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn nói Mã Lương chỉ là thân thể đoạt xá, thân hiện giờ mới thật là hắn.",
+    "chapter": 219,
+    "source": "Tiên Nghịch ch.219",
+    "evidence": "Vương Lâm: \"Mã Lương chỉ là thân thể do đoạt xá. Thân thể hiện giờ mới chân chính là ta.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Nữ tu Nguyên Anh ở Đông uyển dùng pháp bảo gì để chống lại cấm chế của Vương Lâm?",
+    "options": [
+      "Một làn hoa tung cánh hoa",
+      "Một chiếc trùy tử bảy màu",
+      "Một cây cổ tranh ngọc",
+      "Một chiếc gương băng tinh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nàng lấy ra một làn hoa, tung vô số cánh hoa bảy màu đánh vào cấm chế.",
+    "chapter": 219,
+    "source": "Tiên Nghịch ch.219",
+    "evidence": "Nữ tử vỗ túi trữ vật, \"trong tay liền xuất hiện một cái làn hoa\", vô số cánh hoa bảy màu bay ra."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Theo Lý Mộ Uyển, tờ giấy vàng niêm trên miệng đan lô của Vân Phi gọi là gì?",
+    "options": [
+      "Cấm phù",
+      "Đan phong",
+      "Kim phù",
+      "Linh chỉ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nàng gọi đó là đan phong, vừa phong ấn vừa bồi dưỡng đan dược, cách chế tạo đã thất truyền.",
+    "chapter": 220,
+    "source": "Tiên Nghịch ch.220",
+    "evidence": "Lý Mộ Uyển nói điển tịch miêu tả \"thứ đó gọi là đan phong\", hấp thu linh lực thiên địa và bồi dưỡng đan dược."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Lý Mộ Uyển dựa vào đâu để đoán phẩm chất đan lô của Vân Phi?",
+    "options": [
+      "Chất liệu dùng để đúc lò",
+      "Linh lực từ lò tỏa ra",
+      "Hoa văn dược tích trên lò",
+      "Sức nặng khác thường của lò"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hoa văn trên lò là dược tích để lại sau thời gian dài luyện đan, dùng để suy ra phẩm chất.",
+    "chapter": 220,
+    "source": "Tiên Nghịch ch.220",
+    "evidence": "Nàng chỉ hoa văn: do luyện đan lâu ngày lưu lại dược tích, \"chính là thứ để suy đoán ra phẩm chất của đan lô\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Theo Lý Mộ Uyển, ăn thứ linh dịch Vương Lâm tặng năm xưa còn giúp được gì?",
+    "options": [
+      "Tăng thần thức lên gấp bội",
+      "Nối lại kinh mạch đứt gãy",
+      "Giúp toái đan thành anh",
+      "Giữ dung nhan, kéo dài thọ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nàng nghiên cứu thấy linh dịch ăn vào giữ được dung mạo và kéo dài tuổi thọ.",
+    "chapter": 220,
+    "source": "Tiên Nghịch ch.220",
+    "evidence": "Lý Mộ Uyển nói linh dịch \"ăn vào còn có khả năng bảo trì dung mạo, kéo dài tuổi thọ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Theo Lý Mộ Uyển, vì sao Kỳ Hoàng Môn phải dời tới Tu Ma hải?",
+    "options": [
+      "Bị Ma Cung thôn tính",
+      "Trêu chọc phải cừu địch",
+      "Tìm dược thảo quý hiếm",
+      "Bị trục xuất khỏi nước"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kỳ Hoàng Môn vốn ở tứ cấp tu chân quốc, do trêu chọc cừu địch nên dời tới Tu Ma hải.",
+    "chapter": 220,
+    "source": "Tiên Nghịch ch.220",
+    "evidence": "Kỳ Hoàng Môn vốn thuộc tứ cấp tu chân quốc \"nhưng do trêu chọc cừu địch nên phải di chuyển tới Tu Ma hải\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vì sao Lý Mộ Uyển cho rằng chưa nên mở đan lô của Vân Phi lúc này?",
+    "options": [
+      "Sẽ kích hoạt cấm chế sát thương",
+      "Kỳ Hoàng Môn sẽ lần ra dấu vết",
+      "Đan bên trong chưa đủ thời hạn",
+      "Linh dịch chưa đủ để dưỡng đan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nàng cho rằng đan dược chưa đạt thời hạn, mở ra dù đúng cách phẩm chất cũng không như ý.",
+    "chapter": 220,
+    "source": "Tiên Nghịch ch.220",
+    "evidence": "Lý Mộ Uyển: \"vật ấy hẳn là chưa đạt tới thời hạn\"; mở bây giờ thì phẩm chất đan dược không như mong muốn."
+  }
+]

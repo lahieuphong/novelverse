@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo Tham Lang, Tu Chân Liên Minh từng treo thưởng gì cho người tìm được một hạt châu?",
+    "options": [
+      "Một thanh tiên kiếm hoàn chỉnh",
+      "Một tinh cầu tu chân riêng",
+      "Một bộ thượng phẩm tiên thuật",
+      "Mười khối kết tinh tiên lực"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tham Lang kể Liên Minh dùng một bộ thượng phẩm tiên thuật hoàn chỉnh làm phần thưởng.",
+    "chapter": 517,
+    "source": "Tiên Nghịch ch.517",
+    "evidence": "Tham Lang nói Liên Minh phát thông cáo tìm một hạt châu, \"dùng một bộ thượng phẩm tiên thuật hoàn chỉnh để làm phần thưởng\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Kiếm Tôn Lăng Thiên Hậu ra điều kiện gì trước khi chịu giúp Tham Lang?",
+    "options": [
+      "Bảo vệ mười hai đệ tử của lão",
+      "Giao nộp hạt châu cho lão",
+      "Làm nô bộc cho lão vạn năm",
+      "Giết đệ tử mới của Thiên Vận Tử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lăng Thiên Hậu bắt Tham Lang vào Đông Hải Yêu Linh bảo vệ mười hai đệ tử của mình.",
+    "chapter": 517,
+    "source": "Tiên Nghịch ch.517",
+    "evidence": "Lăng Thiên Hậu: vào cửa Đông Hải Yêu Linh \"bảo vệ cho mười hai tên đệ tử của ta được bình an\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lão lục Tử hệ Thiên Vận Tông, người từng tranh phong hào Thiên Vận Thất Tử với Vương Lâm, tên là gì?",
+    "options": [
+      "Tôn Vân Sơn",
+      "Trần Đào",
+      "Tôn Lôi",
+      "Mặc Trí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trần Đào là lão lục Tử hệ, từng tranh phong hào Thiên Vận Thất Tử với Vương Lâm.",
+    "chapter": 517,
+    "source": "Tiên Nghịch ch.517",
+    "evidence": "Trong nhóm theo Thiên Vận Tử có \"lão lục Trần Đào đệ tử Tử hệ\" từng tranh phong hào với Vương Lâm."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Ai đã dặn Diêu Tích Tuyết phải lưu ý tới đệ tử mới của Thiên Vận Tử?",
+    "options": [
+      "Sư tôn nàng",
+      "Kiếm Tôn Lăng Thiên Hậu",
+      "Chính Thiên Vận Tử",
+      "Phụ thân nàng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Diêu Tích Tuyết nhớ lời phụ thân bảo nàng chú ý tới người đệ tử mới này.",
+    "chapter": 517,
+    "source": "Tiên Nghịch ch.517",
+    "evidence": "Diêu Tích Tuyết thầm nghĩ: \"Phụ thân bảo ta phải lưu ý nhiều hơn tới tên đệ tử mới\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Khi đoàn của Thiên Vận Tử kéo tới, Tham Lang ẩn mình bằng cách nào?",
+    "options": [
+      "Trốn vào đám mây bảy màu",
+      "Hóa bóng ma đứng sau Kiếm Tôn",
+      "Nấp sau lưng Thiên Vận Tử",
+      "Chui vào khối huyết ngọc thạch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tham Lang biến mất, hóa thành một bóng ma đứng sát sau lưng Lăng Thiên Hậu.",
+    "chapter": 517,
+    "source": "Tiên Nghịch ch.517",
+    "evidence": "Thấy mây bảy màu tới, Tham Lang \"hóa thành một bóng ma đứng sát phía sau Kiếm Tôn Lăng Thiên Hậu\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trên đường tới Đông Hải Yêu Linh, ai đã kể cho Vương Lâm biết về nơi này?",
+    "options": [
+      "Tư Đồ Nam",
+      "Trần Đào",
+      "Lý Đan Nam",
+      "Tôn Vân Sơn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Những gì Vương Lâm biết về Đông Hải Yêu Linh phần lớn do Tôn Vân Sơn kể trên đường.",
+    "chapter": 518,
+    "source": "Tiên Nghịch ch.518",
+    "evidence": "Mọi điều Vương Lâm biết về nơi này \"được Tôn Vân Sơn nói cho hắn biết trên đường đi\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Khi thủy triều bắt đầu, thanh khí và mọi vật trôi nổi trên Đông Hải tụ lại thành hình gì?",
+    "options": [
+      "Một con mắt quỷ",
+      "Một cánh cửa đá",
+      "Một con rồng xanh",
+      "Một đóa sen khổng lồ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thanh khí cùng vật trôi nổi ngưng tụ thành một vật kỳ dị giống mắt quỷ, cao trên ngàn trượng.",
+    "chapter": 518,
+    "source": "Tiên Nghịch ch.518",
+    "evidence": "Tất cả thanh khí và vật trôi nổi tụ lại \"tạo thành một vật kỳ dị giống như mắt quỷ\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ở Chu Tước Tinh xa xôi, ai đang tĩnh tọa thì thấy cả bầu trời bỗng đỏ rực?",
+    "options": [
+      "Tư Đồ Nam",
+      "Vân Tước Tử",
+      "Chu Vũ Thái",
+      "Tử Tâm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hồng quang từ Đông Hải lan tới tận Chu Tước Tinh, khiến Chu Vũ Thái thấy trời đỏ rực.",
+    "chapter": 518,
+    "source": "Tiên Nghịch ch.518",
+    "evidence": "Trên Chu Tước Tinh, \"Chu Vũ Thái đang ngồi khoanh chân tĩnh tọa\" thấy bầu trời đỏ rực."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi hồng quang ngừng lan, những vật nào nằm trong phạm vi của nó đều rung động?",
+    "options": [
+      "Chỉ pháp bảo cấp tiên",
+      "Mọi vật vô chủ",
+      "Chỉ thi hài tu sĩ",
+      "Mọi vật có linh tính"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bất kể hư hại hay không, hễ là vật vô chủ trong hồng quang đều rung động.",
+    "chapter": 518,
+    "source": "Tiên Nghịch ch.518",
+    "evidence": "Mọi vật chất, của cải \"chỉ cần là vật vô chủ mà nằm trong phạm vi của hồng quang\" đều rung động."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Uy áp tỏa ra từ cột thanh khí khiến Vương Lâm thấy như bị thứ gì đè lên người?",
+    "options": [
+      "Chu Tước Sơn",
+      "Dãy núi tam sắc",
+      "Toàn bộ Linh Sơn",
+      "Thập Vạn Đại Sơn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chỉ một tia uy áp đã khiến Vương Lâm như bị Thập Vạn Đại Sơn đè lên, xương kêu răng rắc.",
+    "chapter": 518,
+    "source": "Tiên Nghịch ch.518",
+    "evidence": "Một tia uy áp khiến hắn \"cảm thấy giống như bị Thập Vạn Đại Sơn đè lên người\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm nhận ra các vật liệu luyện khí như Quỳnh Hoa Dịch trong hồng quang là nhờ ký ức của ai?",
+    "options": [
+      "Cổ Thần Đồ Ti",
+      "Tư Đồ Nam",
+      "Chu Tước Tử đời thứ nhất",
+      "Chu Dật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Các tài liệu ấy là vật luyện khí tốt trong ký ức của Cổ Thần Đồ Ti.",
+    "chapter": 519,
+    "source": "Tiên Nghịch ch.519",
+    "evidence": "Thiên Kim Thượng, Quỳnh Hoa Dịch... \"đều là một số vật luyện khí tương đối tốt trong ký ức của Cổ Thần Đồ Ti\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Con yêu thú khổng lồ xuyên thẳng qua người Vương Lâm trong hồng quang có đặc điểm gì?",
+    "options": [
+      "Ba đầu, miệng phun lửa xanh",
+      "Hai cánh, vảy vàng phủ kín",
+      "Một sừng, sấm sét đen quanh thân",
+      "Chín đuôi, lông trắng muốt như tuyết"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đó là con yêu thú một sừng, toàn thân phát ra sấm sét đen, tu vi ngang Vấn Đỉnh.",
+    "chapter": 519,
+    "source": "Tiên Nghịch ch.519",
+    "evidence": "Hắn thấy \"một con yêu thú một sừng toàn thân phát ra những tia sấm sét màu đen\" xuyên qua người."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Phá được con sóng hồng quang cuối cùng, Vương Lâm thấy sâu bên trong có vật gì?",
+    "options": [
+      "Một hạt châu đen",
+      "Một khối lệnh bài vàng",
+      "Một tấm ngọc giản cổ xưa",
+      "Một chiếc đỉnh đồng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ánh mắt hắn xuyên qua hồng quang, thấy một khối lệnh bài lấp lánh kim quang có khắc ký hiệu.",
+    "chapter": 519,
+    "source": "Tiên Nghịch ch.519",
+    "evidence": "Vật ở sâu bên trong là \"một khối lệnh bài lấp lánh kim quang, bên trên có khắc ký hiệu\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Cố nhìn xuyên con sóng hồng quang cuối cùng, Vương Lâm phải chịu hậu quả gì?",
+    "options": [
+      "Mất một phần tu vi",
+      "Nguyên thần bị nứt",
+      "Tóc bạc trắng cả đầu",
+      "Hai mắt chảy máu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hai mắt hắn đỏ bừng, chảy nước mắt lẫn máu, cuối cùng chảy ra hai dòng máu lớn.",
+    "chapter": 519,
+    "source": "Tiên Nghịch ch.519",
+    "evidence": "Khi nhìn rõ vật bên trong, \"trong hai mắt hắn lập tức chảy ra hai dòng máu lớn\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Để nhìn thấu con sóng hồng quang mà thần thức không dò được, Vương Lâm tạo ra thứ gì quanh hai mắt?",
+    "options": [
+      "Vòng sáng từ ba ấn ký khí xám",
+      "Một tấm gương cấm chế bằng phù văn",
+      "Một lớp yêu hỏa màu tím",
+      "Vòng hào quang bảy màu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ba đạo khí xám trên mi tâm hóa ba ấn ký rồi cuộn thành vòng tròn quanh mắt hắn.",
+    "chapter": 519,
+    "source": "Tiên Nghịch ch.519",
+    "evidence": "Ba đạo khí xám hóa ấn ký, đi theo hai mắt \"rồi lập tức cuộn lại tạo thành một vòng tròn rất mịn\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Kiếm Tôn Lăng Thiên Hậu mở lối vào cửa Đông Hải Yêu Linh bằng cách nào?",
+    "options": [
+      "Dùng một chiếc chìa khóa ngọc",
+      "Vẩy máu lên khối nước",
+      "Phóng bốn kiếm ảnh sau lưng",
+      "Cùng Thiên Vận Tử kết ấn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão điểm tay, bốn kiếm ảnh sau lưng hóa cầu vồng đánh vào cánh cửa, xé ra một lối vào.",
+    "chapter": 520,
+    "source": "Tiên Nghịch ch.520",
+    "evidence": "Lăng Thiên Hậu điểm một cái, \"bốn kiếm ảnh hư ảnh phía sau lưng\" lao đi mở ra lối vào."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Tham Lang lẻn vào cửa Đông Hải Yêu Linh bằng cách nào?",
+    "options": [
+      "Ẩn trong tay áo Thiên Vận Tử",
+      "Hóa thành đạo kiếm khí hộ mệnh",
+      "Đổi lốt thành một đệ tử kiếm tông",
+      "Trốn vào trong hồng quang"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lăng Thiên Hậu trao một đạo kiếm khí cho đệ tử cuối; Tham Lang chính là đạo kiếm khí đó.",
+    "chapter": 520,
+    "source": "Tiên Nghịch ch.520",
+    "evidence": "Thân ảnh Tham Lang \"hóa thành đạo kiếm khí vừa nãy\", theo Kiếm Tiếu Thập Nhị Tử vào trong."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Tinh cầu Lăng Thiên Hậu kéo từ tinh không về để đặt tông môn của lão được đặt tên là gì?",
+    "options": [
+      "Đại La tinh",
+      "Thiên Vận Tinh",
+      "Giao Dịch Tinh",
+      "Nguyệt Tinh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lăng Thiên Hậu đưa một đại tinh cầu từ tinh không tới, đặt kiếm tông ở đó và gọi là Đại La tinh.",
+    "chapter": 520,
+    "source": "Tiên Nghịch ch.520",
+    "evidence": "Tinh cầu đặt Đại La kiếm tông, \"Lăng Thiên Hậu đặt tên là Đại La tinh\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Lâm muốn tu Sát lục tiên quyết tới đại thành chủ yếu để có cách chống lại ai?",
+    "options": [
+      "Lăng Thiên Hậu",
+      "Tham Lang",
+      "Vân Tước Tử",
+      "Thác Sâm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn biết mình không thắng nổi Thác Sâm nên muốn có lạc ấn sinh mệnh để bảo mệnh.",
+    "chapter": 520,
+    "source": "Tiên Nghịch ch.520",
+    "evidence": "Sát lục tiên quyết đại thành ngưng nhiều lạc ấn sinh mệnh, \"đây là cơ hội để có thể chống lại Thác Sâm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Trở về bảo tháp bảy màu, Thiên Vận Tử dùng thứ gì để xem vận may của Vương Lâm?",
+    "options": [
+      "Một quẻ thẻ ngọc bảy màu",
+      "Mấy đồng tiền cổ bằng đồng",
+      "Mấy mẩu xương thú đen kịt",
+      "Một tấm la bàn tinh đồ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão tung mấy mẩu xương thú đen tỏa khí tà dị xuống quanh mình rồi quan sát mà mỉm cười.",
+    "chapter": 520,
+    "source": "Tiên Nghịch ch.520",
+    "evidence": "Thiên Vận Tử ngồi xuống, \"bên cạnh đặt vài mẩu xương thú đen kịt\", tung lên để xem."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Người thợ săn đầu tiên Vương Lâm gặp trong Đông Hải Yêu Linh ẩn mình bằng cách nào?",
+    "options": [
+      "Vùi cả người dưới lớp bùn đen",
+      "Bôi nhựa cây xanh khắp người",
+      "Khoác da thú lên lưng",
+      "Nấp trên ngọn cây cao"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn nửa thân xích lõa, vẽ nhựa cây xanh lên người, nằm im nên gần như vô hình.",
+    "chapter": 521,
+    "source": "Tiên Nghịch ch.521",
+    "evidence": "Người này \"lấy một ít nhựa cây vẽ loạn lên người, hiện lên một tầng sắc xanh nhàn nhạt\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Con dã thú bị người thợ săn trong rừng giết chết trông giống loài gì?",
+    "options": [
+      "Lợn rừng",
+      "Sói hoang",
+      "Hổ vằn",
+      "Gấu đen"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con thú lớn cỡ con chó, có răng nanh sắc, bề ngoài chẳng khác gì lợn rừng.",
+    "chapter": 521,
+    "source": "Tiên Nghịch ch.521",
+    "evidence": "\"Bề ngoài con thú này trông chẳng khác gì con lợn rừng\", nhưng mang hung khí."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Điều gì ở người thợ săn khiến Vương Lâm thầm kinh ngạc?",
+    "options": [
+      "Một mình vật ngã được con yêu thú",
+      "Biết nói tiếng của tu sĩ",
+      "Có thể thuấn di trong rừng",
+      "Không linh lực vẫn cảm thấy hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Người này không có linh lực nhưng linh tính kinh người, mơ hồ nhận ra có người quanh mình.",
+    "chapter": 521,
+    "source": "Tiên Nghịch ch.521",
+    "evidence": "\"Trong cơ thể người này không có linh lực nhưng lại có linh tính kinh người\", phát hiện ra hắn."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Trận pháp bao quanh sơn cốc của người thợ săn có tác dụng ẩn giấu thứ gì?",
+    "options": [
+      "Toàn bộ linh khí trong cốc",
+      "Lối vào các động phủ",
+      "Mọi khí tức sinh mạng",
+      "Mùi máu của con mồi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm nhận ra trận pháp thượng cổ ấy có thể ẩn dấu hết mọi khí tức sinh mạng.",
+    "chapter": 521,
+    "source": "Tiên Nghịch ch.521",
+    "evidence": "Ngoài sơn cốc có \"một trận pháp có thể ẩn dấu hết mọi khí tức sinh mạng\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Bốn người trong cốc lao ra tấn công; Vương Lâm hủy cây trường côn đen bị ném tới bằng cách nào?",
+    "options": [
+      "Búng nhẹ một ngón tay",
+      "Chỉ đảo mắt nhìn qua",
+      "Phóng phi kiếm chém gãy",
+      "Dùng Cấm Phiên quấn nát"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm thần sắc bình thản, chỉ đảo mắt qua một cái là cây côn tan nát.",
+    "chapter": 521,
+    "source": "Tiên Nghịch ch.521",
+    "evidence": "\"Ánh mắt Vương Lâm bình thản, đảo qua một cái, cây côn đang lao tới lập tức tan nát\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Hai người không bôi nhựa xanh vừa ra khỏi cốc đã phun máu xuống đất để tạo ra thứ gì?",
+    "options": [
+      "Một làn huyết vụ dày đặc",
+      "Một con huyết xà khổng lồ",
+      "Một vòng lửa đỏ bao quanh",
+      "Một bức tường máu đông"
+    ],
+    "correctIndex": 0,
+    "explanation": "Máu họ phun xuống mặt đất bốc lên sương mù đỏ, sôi trào phủ kín bên ngoài sơn cốc.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "Chỗ máu tươi \"đột nhiên dâng lên một làn sương mù đỏ như máu\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lão giả tóc bạc chống quải trượng đen, tự xưng là trưởng lão của sơn cốc, tên là gì?",
+    "options": [
+      "Mặc Vân Hải",
+      "Tang Mộc Nhai",
+      "Âu Dương Hoa",
+      "Công Tôn Phá"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão giả tự giới thiệu mình là Âu Dương Hoa, trưởng lão của sơn cốc.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "\"Lão phu tên là Âu Dương Hoa, chính là trưởng lão của sơn cốc\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Theo trưởng lão sơn cốc, cách đó ba ngàn dặm có nơi nào, cũng là nơi lão từng học tập?",
+    "options": [
+      "Minh Hồng thành",
+      "Phượng Hoàng thành",
+      "Đại La thành",
+      "Cổ yêu thành"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão kể ngoài ba ngàn dặm có một thành trì lớn là Cổ yêu thành, lão từng học ở đó.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "\"Ngoài ba ngàn dặm có một tòa thành trì rất lớn. Nơi đó là một Cổ yêu thành\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm sớm nhận ra trưởng lão ngồi nói chuyện với hắn ngoài cốc thật ra là gì?",
+    "options": [
+      "Một con rối gỗ",
+      "Một thế thân hư ảo",
+      "Một yêu linh đội lốt",
+      "Một phân hồn đoạt xá"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão giả hóa thành điểm sáng tan biến; Vương Lâm đã sớm biết đó chỉ là thế thân hư ảo.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "Hắn nhận ra Âu Dương Hoa trước mặt \"chỉ là một thế thân hư ảo mà thôi\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Thần thông Vương Lâm dùng để ngưng cấm khí thành cây trường mâu đen dài ba trượng tên là gì?",
+    "options": [
+      "Cấm pháp chi mâu",
+      "Cấm phiên hóa long",
+      "Hắc khí tỏa thiên",
+      "Cửu u cấm sát"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm khẽ niệm \"Cấm pháp chi mâu\", cấm khí ngưng thành trường mâu đen ba trượng.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "Hắn nói khẽ \"Cấm pháp chi mâu!\", cuối cùng \"một thanh trường mâu đen kịt dài ba trượng\" xuất hiện."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi thanh ảnh vừa tan nát, ánh sáng xanh quanh sơn cốc liền biến thành thứ gì vây lấy Vương Lâm?",
+    "options": [
+      "Một trận mưa kiếm xanh",
+      "Một con mãng xà xanh",
+      "Một biển lửa màu xanh lục",
+      "Một cái lồng thanh quang"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ánh sáng xanh trong phạm vi ngàn trượng kết lại thành một cái lồng thanh quang khổng lồ.",
+    "chapter": 523,
+    "source": "Tiên Nghịch ch.523",
+    "evidence": "Thanh quang dày đặc \"đã hình thành một cái lồng bằng thanh quang thật lớn\" vây hắn lại."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Mục đích chính khi Vương Lâm phóng trường mâu cấm khí vào thanh ảnh là gì?",
+    "options": [
+      "Câu thêm thời gian tính toán",
+      "Phá thẳng trung tâm trận pháp",
+      "Dụ trưởng lão sơn cốc lộ diện",
+      "Thử độ bền của thanh ảnh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn biết mâu không phá nổi trận, dùng nó chủ yếu để có thêm thời gian tính cách phá trận.",
+    "chapter": 523,
+    "source": "Tiên Nghịch ch.523",
+    "evidence": "Dùng trường mâu \"thực ra mục đích chính là để có thêm thời gian tính toán\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Đắc thế, trưởng lão sơn cốc đòi Vương Lâm làm gì mới chịu thả hắn đi?",
+    "options": [
+      "Giao nộp túi trữ vật",
+      "Dâng toàn bộ đan dược",
+      "Tự chặt một tay một chân",
+      "Quỳ lạy trước cửa sơn cốc"
+    ],
+    "correctIndex": 2,
+    "explanation": "Âu Dương Hoa đòi hắn tự cắt một tay một chân và nộp ba phần nguyên thần cho lão hấp thu.",
+    "chapter": 523,
+    "source": "Tiên Nghịch ch.523",
+    "evidence": "\"Chỉ cần tự cắt một tay một chân, lấy nguyên thần để ta hấp thu ba phần\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Tổng cộng Vương Lâm đánh ra bao nhiêu tổ hợp cấm chế để phá trận pháp sơn cốc?",
+    "options": [
+      "Bốn mươi chín",
+      "Tám mươi ba",
+      "Bảy mươi hai",
+      "Chín mươi chín"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sau thời gian dài quan sát, hắn tính ra và đánh ra tám mươi ba tổ hợp cấm chế.",
+    "chapter": 523,
+    "source": "Tiên Nghịch ch.523",
+    "evidence": "\"Đến giờ tổng cộng đã có tám mươi ba tổ hợp cấm chế được đánh ra\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Khi trận pháp bảo vệ bắt đầu tan rã, trưởng lão sơn cốc phản ứng thế nào?",
+    "options": [
+      "Cho trận pháp tự bạo cùng chết",
+      "Bỏ cốc chạy trốn",
+      "Gọi yêu linh tới cứu",
+      "Van xin thượng tiên lưu tình"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thấy trận vỡ, Âu Dương Hoa vội kêu xin thượng tiên lưu tình, nhận mình biết sai.",
+    "chapter": 523,
+    "source": "Tiên Nghịch ch.523",
+    "evidence": "\"Thượng tiên lưu tình, lưu tình...... Âu Dương Hoa biết sai rồi!!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao trưởng lão sơn cốc van xin Vương Lâm đừng phá hủy trận pháp bảo vệ?",
+    "options": [
+      "Trận pháp là di vật của tổ tiên",
+      "Tộc nhân sẽ thành mồi cho yêu linh",
+      "Phá trận sẽ làm sập cả sơn cốc",
+      "Trận pháp giam một đại yêu bên dưới"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão sợ không còn trận, tộc nhân bại lộ dưới yêu linh và thành thức ăn của chúng.",
+    "chapter": 524,
+    "source": "Tiên Nghịch ch.524",
+    "evidence": "Xin đừng phá trận \"khiến cho tất cả tộc nhân bại lộ dưới yêu linh, trở thành thức ăn của bọn chúng\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trưởng lão sơn cốc mở thông đạo dẫn vào cốc bằng cách nào?",
+    "options": [
+      "Vẩy máu lên vách đá bên cốc",
+      "Đọc chú vào quải trượng đen",
+      "Cắm quải trượng vào khe đá",
+      "Thổi một tiếng tù và xương"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lão cắn ngón tay vẩy máu lên vách đá, hai bên vách liền tách ra thành thông đạo.",
+    "chapter": 524,
+    "source": "Tiên Nghịch ch.524",
+    "evidence": "Lão \"cắn đầu ngón tay, vẩy một giọt máu lên vách đá ở một bên sơn cốc\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Thấy trong cốc toàn phụ nữ, trẻ nhỏ phàm nhân, Vương Lâm đã làm gì?",
+    "options": [
+      "Ra tay gia cố lại trận pháp",
+      "Truyền cho trưởng lão một công pháp",
+      "Tặng ba bình đan dược tạ lỗi",
+      "Xóa ký ức của cả bộ tộc"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn thấy xấu hổ, không vào cốc nữa, để lại ba bình ngọc chứa đan dược coi như tạ lỗi.",
+    "chapter": 524,
+    "source": "Tiên Nghịch ch.524",
+    "evidence": "Hắn lấy \"ba bình ngọc\" chứa đan dược cố bổn bồi nguyên: \"đây coi như là tạ lỗi\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Theo trưởng lão sơn cốc, người trong bức tranh cũ, kẻ đã dẫn tổ tiên lão tới định cư ở sơn cốc, tên là gì?",
+    "options": [
+      "Chu Dật",
+      "Đồ Ti",
+      "Chu Tước Tử",
+      "Hoàng Long"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão kể vô số năm trước Hoàng Long dẫn tộc nhân tổ tiên tới đây và người trong tranh chính là hắn.",
+    "chapter": 524,
+    "source": "Tiên Nghịch ch.524",
+    "evidence": "\"Có một người tên là Hoàng Long, mang theo tộc nhân tổ tiên ta đi tới nơi này\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Căn nhà của trưởng lão ở phía bắc sơn cốc có hình dáng thế nào?",
+    "options": [
+      "Tròn như một cây nấm",
+      "Vuông như một tòa tháp",
+      "Dài như một con thuyền",
+      "Nhọn như một mũi giáo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nhà lão hình tròn, màu chủ yếu là xanh, trông như một cây nấm trên mặt đất.",
+    "chapter": 524,
+    "source": "Tiên Nghịch ch.524",
+    "evidence": "\"Căn nhà này hình tròn, trông như một cây nấm trên mặt đất\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Theo trưởng lão sơn cốc, vùng đất nơi lão sống thuộc quận nào trong chín quận?",
+    "options": [
+      "Cổ Yêu quận",
+      "Thiên Yêu quận",
+      "Huyết Yêu quận",
+      "Hắc Yêu quận"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão nói thiên hạ nơi yêu linh có chín quận, nơi họ ở là Thiên Yêu quận.",
+    "chapter": 525,
+    "source": "Tiên Nghịch ch.525",
+    "evidence": "\"Trong thiên hạ có tổng cộng chín quận. Nơi chúng ta đang ở là Thiên Yêu quận!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đứa bé gan dạ trong cốc tò mò nhìn Vương Lâm khiến hắn nhớ tới ai lúc nhỏ?",
+    "options": [
+      "Đại Ngưu",
+      "Vương Trác",
+      "Tằng Ngưu",
+      "Hứa Lập Quốc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nhìn đứa bé không sợ hãi, Vương Lâm nhớ tới Đại Ngưu thuở nhỏ và xoa đầu nó.",
+    "chapter": 525,
+    "source": "Tiên Nghịch ch.525",
+    "evidence": "\"Vương Lâm nhìn thấy liền nhớ tới Đại Ngưu lúc nhỏ\", mỉm cười xoa đầu đứa bé."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Theo trưởng lão sơn cốc, yêu đế cai quản quận nơi họ sinh sống tên là gì?",
+    "options": [
+      "Kiền Phong",
+      "Thác Sâm",
+      "Tai Hư",
+      "Đồ Ti"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trong quận ấy có yêu đế Tai Hư, cùng bát đại yêu soái và hàng vạn yêu binh.",
+    "chapter": 525,
+    "source": "Tiên Nghịch ch.525",
+    "evidence": "\"Trong Thiên Yêu quận có yêu đế Tai Hư, ngoài ra còn có bát đại yêu soái\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Dân sơn cốc dùng khối thủy tinh trắng lục giác khảm trên vách đá vào việc gì?",
+    "options": [
+      "Duy trì trận pháp bảo vệ",
+      "Tế lễ yêu linh mỗi tháng",
+      "Soi đường trong đêm tối",
+      "Chữa thương cho tộc nhân"
+    ],
+    "correctIndex": 3,
+    "explanation": "Âu Dương Hoa nói ngọc yêu linh giúp chữa trị khi tộc nhân bị thương.",
+    "chapter": 525,
+    "source": "Tiên Nghịch ch.525",
+    "evidence": "\"Tác dụng của ngọc yêu linh chính là khi tộc nhân bị thương có thể chữa trị\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Khí tức lạnh lẽo từ khối thủy tinh trắng đi vào cơ thể Vương Lâm theo đường nào?",
+    "options": [
+      "Theo kinh mạch chính",
+      "Theo các khớp xương",
+      "Theo huyết quản",
+      "Theo thức hải"
+    ],
+    "correctIndex": 1,
+    "explanation": "Khí tức ấy không đi trong kinh mạch mà chạy theo các khớp xương rồi tụ ở đan điền.",
+    "chapter": 525,
+    "source": "Tiên Nghịch ch.525",
+    "evidence": "Khí tức trắng \"không đi trong kinh mạch mà chạy theo các khớp xương\", hóa tinh thể ở đan điền."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Ngay sau lần đầu hấp thu yêu lực, trong mắt Vương Lâm xuất hiện thứ gì?",
+    "options": [
+      "Hai đạo khí xám",
+      "Những sợi tơ máu",
+      "Một đoàn yêu hỏa",
+      "Một vầng trăng tròn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trong mắt hắn hiện một đoàn yêu hỏa chập chờn, quần áo phủ yêu khí lờ mờ.",
+    "chapter": 526,
+    "source": "Tiên Nghịch ch.526",
+    "evidence": "\"Trong mắt hắn, xuất hiện một đoàn yêu hỏa, nhấp nháy lúc sáng lúc tối\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Đêm yêu linh săn mồi, những ai trong sơn cốc cầm vũ khí tập trung ở cửa cốc?",
+    "options": [
+      "Toàn bộ đàn ông",
+      "Chỉ các trưởng lão",
+      "Phụ nữ và trẻ nhỏ",
+      "Mấy thợ săn giỏi nhất"
+    ],
+    "correctIndex": 0,
+    "explanation": "Phụ nữ và trẻ em được ngủ, còn tất cả đàn ông cầm vũ khí tụ ở cửa thung lũng.",
+    "chapter": 526,
+    "source": "Tiên Nghịch ch.526",
+    "evidence": "\"Chỉ có trẻ em và phụ nữ là được ngủ. Còn tất cả đàn ông\" cầm vũ khí tập trung ở cửa vào."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Hắc y nam tử hấp thu yêu lực trong làn yêu khí tím cầm vũ khí gì?",
+    "options": [
+      "Một cây quạt lông màu đỏ",
+      "Một thanh loan đao màu bạc",
+      "Một chiếc roi bằng xương trắng",
+      "Một thanh kiếm mỏng màu đen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thần thức Vương Lâm thấy gã áo đen cầm một thanh kiếm mỏng màu đen, múa kiếm hút yêu lực.",
+    "chapter": 526,
+    "source": "Tiên Nghịch ch.526",
+    "evidence": "\"Trong tay hắn ngăm cầm một thanh kiếm mỏng màu đen\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Hắc y nam tử tin rằng giết Vương Lâm lấy yêu tinh sẽ giúp hắn đủ tư cách vào đâu?",
+    "options": [
+      "Cổ yêu thành",
+      "Thiên Yêu Thành",
+      "Đại La tinh",
+      "Tiên Ấn Phủ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gã áo đen nghĩ thu yêu tinh của Vương Lâm là đủ tư cách tiến vào Thiên Yêu Thành.",
+    "chapter": 526,
+    "source": "Tiên Nghịch ch.526",
+    "evidence": "\"Thu lấy yêu tinh của hắn, ta hẳn đã đủ tư cách tiến vào Thiên Yêu Thành\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Theo Vương Lâm, hắc y nam tử trong làn yêu khí tím có tu vi gì?",
+    "options": [
+      "Anh Biến trung kỳ đại viên mãn",
+      "Anh Biến sơ kỳ đại viên mãn",
+      "Anh Biến hậu kỳ đại viên mãn",
+      "Hóa Thần hậu kỳ đại viên mãn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm nhận ra gã là tu sĩ Thiên Vận Tinh có tu vi Anh Biến (Ứng Biến) hậu kỳ đại viên mãn.",
+    "chapter": 526,
+    "source": "Tiên Nghịch ch.526",
+    "evidence": "Hắn là tu sĩ Thiên Vận Tinh đầu tiên Vương Lâm gặp \"có tu vi Ứng Biến hậu kỳ đại viên mãn\"."
+  }
+]

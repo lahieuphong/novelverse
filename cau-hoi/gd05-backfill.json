@@ -1,0 +1,194 @@
+[
+  {
+    "topic": "Sự kiện",
+    "difficulty": "de",
+    "question": "Rời cửa hàng bước ra đầu phố trong đêm tuyết, dáng vẻ Vương Lâm thay đổi thế nào?",
+    "options": [
+      "Còng lưng, già nua thêm nữa",
+      "Mờ dần như làn sương khói",
+      "Trẻ lại thành dáng tu sĩ",
+      "Tóc bạc trắng như tuyết rơi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Theo từng bước chân, thân hình hắn cao lên, nếp nhăn biến mất, từ lão già phàm nhân hóa lại thành tu sĩ.",
+    "chapter": 272,
+    "source": "Tiên Nghịch ch.272",
+    "evidence": "Ra khỏi cửa hàng còn là lão già sắp xuống mồ; tới đầu phố thì thân cao lên, nếp nhăn tan, từ phàm nhân chuyển hóa thành tu sĩ."
+  },
+  {
+    "topic": "Sự kiện",
+    "difficulty": "vua",
+    "question": "Thu hồi vỏ kiếm xong, nhờ đâu Vương Lâm tìm lại được lối ra khỏi vết nứt không gian?",
+    "options": [
+      "Ký hiệu hắn để lại lúc vào",
+      "Cảm ứng với túi trữ vật",
+      "Đi theo luồng Diệt Sinh phong",
+      "Ký ức của bóng đen bị nuốt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vừa vào vết nứt, hắn vung tay lưu lại một ký hiệu; sau đó quay về đúng chỗ ký hiệu rồi xé vết nứt chui ra.",
+    "chapter": 288,
+    "source": "Tiên Nghịch ch.288",
+    "evidence": "Vào vết nứt, Vương Lâm lưu lại tại chỗ một ký hiệu; thu vỏ kiếm xong thì xuất hiện bên chỗ để lại dấu hiệu, xé vết nứt chui qua."
+  },
+  {
+    "topic": "Sự kiện",
+    "difficulty": "de",
+    "question": "Trên đường tới Tu Ma hải, Vương Lâm thúc Văn thú bay nhanh hơn bằng cách nào?",
+    "options": [
+      "Truyền linh lực vào lưng nó",
+      "Ném đan dược cho nó nuốt",
+      "Dùng cấm chế quất vào nó",
+      "Hứa thả nó về tinh hệ cũ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn ném vài hạt đan dược phía trước cho Văn thú lao tới nuốt, còn hứa ngày mai cho thêm nếu nó bay nhanh hơn.",
+    "chapter": 289,
+    "source": "Tiên Nghịch ch.289",
+    "evidence": "Vương Lâm lấy bình đan dược, ném từng hạt về phía trước cho Văn thú nuốt; hứa nếu bay nhanh hơn mai sẽ cho thêm."
+  },
+  {
+    "topic": "Nhân vật",
+    "difficulty": "vua",
+    "question": "Bị tiểu tu sĩ Trúc Cơ xua đuổi, lão nhân lôi thôi chỉ lên bóng Vương Lâm trên trời mà khoe điều gì?",
+    "options": [
+      "Hắn là đồ đệ chân truyền của lão",
+      "Lão từng cứu hắn khỏi một thiên kiếp",
+      "Được lão chỉ điểm nên lên Hóa Thần",
+      "Hắn còn nợ lão một mạng từ năm xưa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão nói năm đó tiểu gia hỏa kia mới Nguyên Anh, được lão chỉ điểm vài câu nay đã Hóa Thần.",
+    "chapter": 289,
+    "source": "Tiên Nghịch ch.289",
+    "evidence": "Lão nhân lôi thôi chỉ đạo ánh sáng trên trời: năm đó hắn mới Nguyên Anh, được lão chỉ điểm vài câu nay đã đạt Hóa Thần."
+  },
+  {
+    "topic": "Động cơ",
+    "difficulty": "vua",
+    "question": "Vương Lâm tin rằng chỉ cần làm gì thì Thác Sâm sẽ khó phát hiện ra mình?",
+    "options": [
+      "Giấu hết khí tức truyền thừa",
+      "Chỉ ở lại trong vòng một tháng",
+      "Đi vào bằng truyền tống trận khác",
+      "Không vào quá sâu cửa thứ nhất"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn tính chỉ cần không vào quá sâu cửa thứ nhất thì Thác Sâm có thể không phát hiện; dù bị phát hiện, với tu vi hiện tại hắn cũng chạy được.",
+    "chapter": 289,
+    "source": "Tiên Nghịch ch.289",
+    "evidence": "Vương Lâm nghĩ chỉ cần không vào quá sâu trong cửa thứ nhất của Cổ Thần chi địa thì Thác Sâm có thể sẽ không phát hiện ra."
+  },
+  {
+    "topic": "Nhân vật",
+    "difficulty": "de",
+    "question": "Thanh niên áo da thú ở đông bắc Chu Tước tinh bay lên trên một ngọn gió đen. Thực chất ngọn gió ấy là gì?",
+    "options": [
+      "Một đám côn trùng nhỏ",
+      "Hàng vạn du hồn tụ lại",
+      "Một đàn quạ đen",
+      "Khói độc từ hồ lô"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nhìn kỹ, ngọn hắc phong dưới chân hắn là một đám côn trùng to bằng móng tay cái.",
+    "chapter": 292,
+    "source": "Tiên Nghịch ch.292",
+    "evidence": "Dưới chân thanh niên áo da thú xuất hiện ngọn hắc phong kêu vù vù, nhìn kỹ là một đám côn trùng to bằng móng tay cái."
+  },
+  {
+    "topic": "Động cơ",
+    "difficulty": "vua",
+    "question": "Thấy Hồng Điệp trong số những người bay tới cửa tiên giới, vì sao Vương Lâm không lo bị nhận ra?",
+    "options": [
+      "Hắn đã đổi sang tu công pháp khác",
+      "Nàng chưa từng thấy mặt thật hắn",
+      "Nàng mải dò xét lão già đầu bạc",
+      "Tu vi hắn đã vượt hơn nàng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hồng Điệp chưa từng gặp hình dáng thật của Vương Lâm nên hắn không lo bị nàng nhận ra.",
+    "chapter": 292,
+    "source": "Tiên Nghịch ch.292",
+    "evidence": "Nữ tử này chưa từng gặp qua hình dáng thật của Vương Lâm, cho nên hắn không lo lắng bị nhận ra."
+  },
+  {
+    "topic": "Thế giới",
+    "difficulty": "kho",
+    "question": "Theo suy đoán của Vương Lâm, vị lão quái Vấn Đỉnh hậu kỳ duy nhất ở Chu Tước quốc có đặc điểm gì?",
+    "options": [
+      "Là tông chủ của Thi Âm tông",
+      "Đã ẩn cư ngoài Chu Tước tinh",
+      "Là người lập ra Tu Ma hải",
+      "Kế thừa danh hiệu Chu Tước"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn đoán có bốn lão quái Vấn Đỉnh; người duy nhất ở hậu kỳ là đại thần thông kế thừa cái tên Chu Tước.",
+    "chapter": 292,
+    "source": "Tiên Nghịch ch.292",
+    "evidence": "Vương Lâm đoán Chu Tước quốc có bốn lão quái Vấn Đỉnh, trong đó người duy nhất hậu kỳ là người kế thừa cái tên Chu Tước."
+  },
+  {
+    "topic": "Động cơ",
+    "difficulty": "de",
+    "question": "Kẻ Hóa Thần sơ kỳ đi giành chỗ đứng chọn đài cao của Vương Lâm vì thấy hắn trông như thế nào?",
+    "options": [
+      "Như một thư sinh nhu nhược",
+      "Đang mang thương tích nặng",
+      "Chỉ có tu vi Nguyên Anh",
+      "Không có pháp bảo hộ thân"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm thoạt nhìn giống một thư sinh nhu nhược nên kẻ kia nghĩ đuổi hắn sẽ dễ hơn.",
+    "chapter": 293,
+    "source": "Tiên Nghịch ch.293",
+    "evidence": "Bỏ qua thiếu niên khát máu, kẻ kia chọn Vương Lâm vì thoạt nhìn như thư sinh nhu nhược, chắc dễ dàng hơn."
+  },
+  {
+    "topic": "Động cơ",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm không dùng vũ lực đoạt chiếc hồ lô xanh của Tôn Lôi mà chịu nhận đề nghị khác?",
+    "options": [
+      "Kiêng nể thế lực của Đại La kiếm tông",
+      "Sợ hao pháp bảo khi Hồng Điệp rình",
+      "Tôn Lôi có tu vi cao hơn hắn nhiều",
+      "Hồ lô đã nhận Tôn Lôi làm chủ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn tính nếu tiêu hao pháp bảo để xử lý Tôn Lôi thì khi gặp Hồng Điệp đang như hổ rình mồi hoặc cao thủ khác sẽ nguy hiểm.",
+    "chapter": 303,
+    "source": "Tiên Nghịch ch.303",
+    "evidence": "Vương Lâm nghĩ vì Tẩy Linh Hồ mà hao pháp bảo xử lý Tôn Lôi thì không đáng, Hồng Điệp như hổ rình mồi, tiêu hao quá mức sẽ nguy."
+  },
+  {
+    "topic": "Động cơ",
+    "difficulty": "vua",
+    "question": "Vì sao Sất Hổ vẫn mời 'Tằng Ngưu' cùng đi tìm bảo vật dù hắn chỉ Hóa Thần sơ kỳ?",
+    "options": [
+      "Hắn nắm bản đồ tới nơi cất bảo vật",
+      "Hắn từng ra tay cứu Sất Hổ",
+      "Luôn thấy hắn nguy hiểm khó lường",
+      "Hắn đã hứa nhường hết phần"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sất Hổ tự nhận nhìn không thấu Tằng Ngưu, luôn cảm thấy một tia nguy hiểm từ hắn; thực lực đồng đội càng mạnh thì càng dễ thành công.",
+    "chapter": 309,
+    "source": "Tiên Nghịch ch.309",
+    "evidence": "Tằng Ngưu tuy Hóa Thần sơ kỳ nhưng Sất Hổ nhìn không thấu, luôn cảm giác một tia nguy hiểm, nên chọn mời để tăng cơ hội thành công."
+  },
+  {
+    "topic": "Sự kiện",
+    "difficulty": "de",
+    "question": "Trên đường bám theo đàn kiếm tiên, Vương Lâm điều khiển la bàn, còn Sất Hổ lo việc gì?",
+    "options": [
+      "Canh chừng Hồng Điệp ở phía sau",
+      "Thu gom các thanh kiếm tiên rơi rớt",
+      "Dò đường bằng thần thức",
+      "Cướp túi trữ vật của người khác"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hai người phối hợp nhuần nhuyễn: Vương Lâm khống chế la bàn, Sất Hổ cướp túi trữ vật dọc đường.",
+    "chapter": 322,
+    "source": "Tiên Nghịch ch.322",
+    "evidence": "Dọc đường, Vương Lâm khống chế la bàn, Sất Hổ cướp túi trữ vật, phối hợp cực kỳ nhuần nhuyễn."
+  }
+]

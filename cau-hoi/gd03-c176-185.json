@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Bị vô số cơn lốc vây ở Hành Thổ chi địa, Vương Lâm thoát ra bằng cách nào?",
+    "options": [
+      "Sai ma đầu cướp một cơn lốc",
+      "Mượn Hành Thổ chu độn thổ trốn đi",
+      "Bám theo cơn lốc lớn của thú vương",
+      "Bóp nát ngọc phù để thuấn di"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn sai hai con ma đầu cướp quyền khống chế một cơn lốc rồi đứng trong nó bay đi.",
+    "chapter": 176,
+    "source": "Tiên Nghịch ch.176",
+    "evidence": "Lúc lao ra, hắn âm thầm khống chế hai ma đầu vọt tới một cơn lốc \"mà cướp đoạt quyền khống chế\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khi Vương Lâm dùng lồng sáng kéo hơn bốn mươi cơn lốc vào dòng xoáy, hư ảnh linh thú nào hiện ra từ ngọc giản?",
+    "options": [
+      "Bạch Hổ",
+      "Huyền Vũ",
+      "Thanh Long",
+      "Chu Tước"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lồng sáng tản ra cùng hư ảnh Thanh Long từ ngọc giản, bao lấy các cơn lốc.",
+    "chapter": 176,
+    "source": "Tiên Nghịch ch.176",
+    "evidence": "Rót linh lực vào vật lấy ra, lồng sáng bao vây các cơn lốc, \"hư ảnh Thanh Long cũng từ trong ngọc giản xuất hiện\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Bước ra khỏi dòng xoáy sau Hành Thổ chi địa, Vương Lâm thấy cảnh tượng nào?",
+    "options": [
+      "Biển lửa cháy rực không ngừng",
+      "Tro bụi mịt mù, một cầu đá đen",
+      "Ngọn núi cao vút ẩn trong mây",
+      "Hồ nước tròn có tòa bảo tháp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trước mắt hắn là thế giới toàn tro bụi, chỉ có một cây cầu đá màu đen.",
+    "chapter": 176,
+    "source": "Tiên Nghịch ch.176",
+    "evidence": "\"Trước mắt hắn là một thế giới chỉ toàn có tro bụi\", ngoài cây cầu đá đen không còn gì."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Ở Hành Thổ chi địa, thú vương làm gì với Mạnh Đà Tử sau khi bắt được hắn?",
+    "options": [
+      "Nuốt chửng hắn cùng cả túi trữ vật",
+      "Ném hắn vào dòng xoáy sang tầng hai",
+      "Hủy pháp bảo rồi thả cho hắn đi",
+      "Điểm đốt xương vàng vào mi tâm hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thú vương đứng trước Mạnh Đà Tử đầy máu, từ trán nó hiện ra đốt xương vàng điểm vào mi tâm hắn.",
+    "chapter": 176,
+    "source": "Tiên Nghịch ch.176",
+    "evidence": "Từ trán thú vương, \"một đốt xương ngón tay màu vàng\" hiện ra, điểm vào mi tâm Mạnh Đà Tử."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vương Lâm bắt ma đầu thứ hai nhả hết các Thi Lệnh giả đã dung hợp ra để cất vào hồn kỳ, nhằm tránh điều gì?",
+    "options": [
+      "Thú vương lần theo hơi thở mà đuổi tới",
+      "Cơn lốc tan rã khi qua cây cầu đá",
+      "Ma đầu mạnh quá, thoát khống chế",
+      "Hồn kỳ hư hại vì thiếu hồn phách"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn làm vậy để phòng ma đầu thứ hai dung hợp quá nhiều rồi vượt khỏi tầm kiểm soát.",
+    "chapter": 176,
+    "source": "Tiên Nghịch ch.176",
+    "evidence": "Thu Thi Lệnh giả vào hồn kỳ là \"để phòng ngừa ma đầu thứ hai dung hợp quá nhiều\", thoát khống chế."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Tấm bia đá màu đỏ mà Vương Lâm gặp sau cửa thứ nhất khắc ba chữ lớn nào?",
+    "options": [
+      "Bất Quy Lộ",
+      "Cấm Sơn Lộ",
+      "Hành Thổ Địa",
+      "Băng Phong Địa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trên tấm bia cao khoảng ba mươi trượng có ba chữ to Bất Quy Lộ (không đường về).",
+    "chapter": 177,
+    "source": "Tiên Nghịch ch.177",
+    "evidence": "Trên tấm bia \"có viết ba chữ to: Bất Quy Lộ\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Trong túi trữ vật của Mạnh Đà Tử, thứ gì khiến Vương Lâm thấy liều mạng cướp đoạt là xứng đáng?",
+    "options": [
+      "Một viên Anh Biến đan",
+      "Một kiện bảo giáp Nguyên Anh",
+      "Ngọc giản ghi đường ra",
+      "Hai viên cực phẩm linh thạch"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hai viên linh thạch lục lăng là cực phẩm linh thạch hiếm thấy, khiến hắn thấy mạo hiểm là đáng.",
+    "chapter": 177,
+    "source": "Tiên Nghịch ch.177",
+    "evidence": "\"Vì hai viên cực phẩm linh thạch mà lúc nãy mạo hiểm cướp đoạt cũng hoàn toàn xứng đáng.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm bỏ ý định tu luyện Minh quyết trong ngọc giản của Mạnh Đà Tử?",
+    "options": [
+      "Phải có tu vi Hóa Thần mới luyện được",
+      "Sợ độc nhập thức hải mà hóa cuồng",
+      "Ngọc giản bị mất ba tầng cuối",
+      "Phải giết sư phụ mới được nhập môn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Luyện càng cao độc càng nhiều, có thể xâm nhập thức hải biến thành kẻ chỉ biết giết chóc.",
+    "chapter": 177,
+    "source": "Tiên Nghịch ch.177",
+    "evidence": "Ngọc giản nói độc khí có thể vào thức hải, \"biến thành một kẻ chỉ biết giết chọc\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Chiếc tiểu đỉnh xanh, bổn mạng pháp bảo của Mạnh Đà Tử, vốn là vật phỏng chế của bảo vật nào?",
+    "options": [
+      "Dược Vương đỉnh",
+      "Cửu Long đỉnh",
+      "Phiên Ưng lô",
+      "Thanh Hỏa đỉnh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiểu đỉnh phỏng theo Dược Vương đỉnh, chỉ kém ở chỗ không hút được tinh hoa cỏ cây.",
+    "chapter": 177,
+    "source": "Tiên Nghịch ch.177",
+    "evidence": "\"Tiểu đỉnh đó vốn là vật phảng chế của bảo vật Dược Vương đỉnh.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Khi Phiên Ưng lô nứt sắp vỡ lúc nung chảy tiểu đỉnh, Vương Lâm dùng thứ gì bao lấy lò để giữ nó?",
+    "options": [
+      "Lớp hàn khí của Hàn Đan",
+      "Một đạo Cực cảnh thần thức",
+      "Hoàng Tuyền băng diễm",
+      "Khói ngũ sắc Tử Nguyệt đằng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn xuất băng diễm lam luyện từ Hoàng Tuyền thăng khiếu quyết, cẩn thận khống chế để lò không vỡ.",
+    "chapter": 177,
+    "source": "Tiên Nghịch ch.177",
+    "evidence": "Ngọn lửa lam \"chính là Hoàng Tuyền băng diễm\"; nếu Phiên Ưng lô không sắp vỡ hắn đã chẳng xuất ra."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trên cây cầu đá đen, Vương Lâm đoán điều gì tuyệt đối không được làm?",
+    "options": [
+      "Dừng chân giữa cầu",
+      "Ngoái lại nhìn phía sau",
+      "Bay lên khỏi mặt cầu",
+      "Xuất pháp bảo tấn công"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn đoán không được quay lại, ngay cả quay đầu hay dùng thần thức nhìn về sau cũng không.",
+    "chapter": 178,
+    "source": "Tiên Nghịch ch.178",
+    "evidence": "Hắn cho rằng \"ngay cả đầu cũng không được phép ngoái lại phía sau\", kể cả thần thức."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Ảo giác đầu tiên đuổi sát sau lưng Vương Lâm trên cầu đá là con vật nào?",
+    "options": [
+      "Thú vương ở Hành Thổ chi địa",
+      "Một con rết khổng lồ",
+      "Một bầy du hồn hai sừng",
+      "Con giao long đỏ trong thi cốc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiếng gầm quen thuộc phía sau là tiếng rống của con giao long đỏ trong thi cốc.",
+    "chapter": 178,
+    "source": "Tiên Nghịch ch.178",
+    "evidence": "\"Nó rõ ràng là tiếng rống của con giao long màu đỏ bên trong thi cốc.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Chi tiết nào khiến Vương Lâm chắc chắn con giao long sau lưng chỉ là một loại pháp thuật?",
+    "options": [
+      "Nó không có bóng in trên cầu",
+      "Thần thức không cảm ứng được nó",
+      "Hơi thở chỉ làm áo hắn tung bay",
+      "Tiếng gầm của nó không vang vọng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hoang thú thật ở gần như vậy chỉ cần thổi là hất hắn bay xa, nhưng ở đây chỉ làm áo tung bay.",
+    "chapter": 178,
+    "source": "Tiên Nghịch ch.178",
+    "evidence": "Hơi thở đó \"chỉ khiến cho quần áo của hắn bay phần phật\", nên hắn khẳng định là pháp thuật."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Mười trượng cuối cầu đá, tiếng ai gọi khiến Vương Lâm run rẩy rơi lệ nhưng vẫn không quay đầu?",
+    "options": [
+      "Cha mẹ hắn",
+      "Lý Mộ Uyển",
+      "Tư Đồ Nam",
+      "Vương Hạo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiếng ho và giọng cha mẹ gọi hắn quay lại vang mãi, nhưng hắn biết là ảo giác nên đi tiếp.",
+    "chapter": 178,
+    "source": "Tiên Nghịch ch.178",
+    "evidence": "\"Trong mười trượng cuối cùng, âm thanh của cha mẹ không ngừng vang lên trong tai hắn.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao Vương Lâm bỏ ý định ngồi trong cơn lốc tiểu thú mà leo Cấm Sơn?",
+    "options": [
+      "Cấm chế ở đây giết mọi sinh vật sống",
+      "Tiểu thú bị sét tím đánh thành tro",
+      "Ma đầu mất liên hệ thần thức với hắn",
+      "Lối hở trong cấm chế quá hẹp"
+    ],
+    "correctIndex": 3,
+    "explanation": "Thần thức tiểu thú dò ra một thông đạo nhỏ trong cấm chế, nhưng cơn lốc không lọt qua được.",
+    "chapter": 178,
+    "source": "Tiên Nghịch ch.178",
+    "evidence": "Hắn thấy một thông đạo, \"nhưng thông đạo đó quá nhỏ, cơn lốc không thể đi qua được\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Cấm chế đầu tiên Vương Lâm ngồi nghiên cứu dưới chân Cấm Sơn ẩn trong thứ gì?",
+    "options": [
+      "Một dòng suối nhỏ",
+      "Những đám cỏ dại",
+      "Một rừng trúc tím",
+      "Một đám mây mù"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cỏ dại dưới chân núi mọc theo quy tắc; hắn quan sát từng gốc để tìm cách phá cấm chế.",
+    "chapter": 179,
+    "source": "Tiên Nghịch ch.179",
+    "evidence": "Đám cỏ dại \"như mọc theo một quy tắc nào đó\"; hắn ghi chép từng gốc suốt ba ngày."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Sau bảy năm miệt mài nghiên cứu cấm chế trên Cấm Sơn, ngoại hình Vương Lâm thay đổi thế nào?",
+    "options": [
+      "Nửa mái tóc bạc trắng",
+      "Toàn thân mọc đầy mụn mủ",
+      "Hai mắt đỏ ngầu như máu",
+      "Gầy rộc chỉ còn da bọc xương"
+    ],
+    "correctIndex": 0,
+    "explanation": "Không ăn không ngủ nghiên cứu cấm chế khiến một nửa đầu hắn bạc trắng.",
+    "chapter": 179,
+    "source": "Tiên Nghịch ch.179",
+    "evidence": "\"Qua bảy năm, một nửa đầu hắn đã biến thành bạc trắng....\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo truyện, ngoài dùng sức mạnh phá hủy, cách còn lại để bài trừ cấm chế là gì?",
+    "options": [
+      "Giết chết kẻ đã bố trí nó",
+      "Dùng chân hỏa thiêu rụi nó",
+      "Thấu hiểu quy tắc của nó",
+      "Dùng thần thức áp chế nó"
+    ],
+    "correctIndex": 2,
+    "explanation": "Có hai cách: dùng sức phá hủy, hoặc tìm hiểu nguyên lý và quy tắc tới mức có thể phá giải.",
+    "chapter": 179,
+    "source": "Tiên Nghịch ch.179",
+    "evidence": "Cách thứ hai là \"tìm hiểu được nguyên lý và quy tắc của cấm chế\" rồi phá giải."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Phá xong cấm chế cỏ dại dưới chân núi, Vương Lâm làm gì để làm khó người đi sau?",
+    "options": [
+      "Thả bầy tiểu thú ở lại canh giữ",
+      "Làm cấm chế rối hơn, xóa khe hở",
+      "Khắc lời cảnh báo giả lên vách đá",
+      "Phá hủy sạch các cấm chế dọc đường"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn đổi hướng cỏ cho rắc rối hơn, hạ thêm cấm chế và phá hết khe hở giữa chúng.",
+    "chapter": 179,
+    "source": "Tiên Nghịch ch.179",
+    "evidence": "Thấy chưa đủ ác, hắn phá hủy các khe hở \"cho bằng hết\", buộc ai lên núi phải vào cấm chế."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Ngàn năm trước, đám cường giả mở được thông đạo cho trăm trượng cuối lên đỉnh Cấm Sơn bằng cách nào?",
+    "options": [
+      "Hiến tế cả vạn tiểu thú cho cấm chế",
+      "Dùng bảo bối Thủy Độn thuật vượt qua",
+      "Bóp nát một vật phẩm truyền thừa",
+      "Giết một Hóa Thần, lấy huyết nhục"
+    ],
+    "correctIndex": 3,
+    "explanation": "Họ truyền âm hợp sức đánh lén một tu sĩ Hóa Thần trung kỳ, nhờ huyết nhục hắn mở thông đạo trăm trượng.",
+    "chapter": 179,
+    "source": "Tiên Nghịch ch.179",
+    "evidence": "Họ đánh lén một tu sĩ Hóa Thần trung kỳ, \"nhờ huyết nhục của người đó\" mà mở thông đạo."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Ở cửa thứ nhất, Cổ Đế lạc vào vùng nào, nơi chỉ toàn lửa và mất bảy năm mới ra được?",
+    "options": [
+      "Hành Thổ chi địa",
+      "Hành Kim chi địa",
+      "Hành Hỏa chi địa",
+      "Băng Phong chi địa"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cổ Đế nhảy vào Hành Hỏa chi địa, nơi lửa khắc chế pháp thuật của hắn, mất bảy năm mới thoát.",
+    "chapter": 180,
+    "source": "Tiên Nghịch ch.180",
+    "evidence": "\"Ở đệ nhất quan, hắn đã nhảy vào Hành Hỏa chi địa\", phải mất bảy năm mới ra."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Cái cây nhỏ hóa thành con rết trên đoạn cầu là cấm chế linh thú; Vương Lâm nhận ra đó là thủ pháp của ai?",
+    "options": [
+      "Lục Dục ma quân",
+      "Cổ Đế",
+      "Đoan Mộc Cực",
+      "Uông Thanh Việt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Con rết hóa khí đen gợi lại công pháp Lục Dục ma quân từng dùng với người bên cạnh trong thông đạo.",
+    "chapter": 180,
+    "source": "Tiên Nghịch ch.180",
+    "evidence": "Vương Lâm thì thào \"Lục Dục ma quân!\" khi nhận ra cảm giác quen thuộc của thủ pháp."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Thứ gì Vương Lâm tạo ra bằng cách vung tay cả vạn lần, rồi phóng vào cấm chế để dò và phá giải?",
+    "options": [
+      "Lá cờ cấm chế",
+      "Ngũ hành độn thuật",
+      "Lồng sáng Thanh Long",
+      "Vòng tròn tàn ảnh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn tự nghĩ ra vòng tròn tàn ảnh, qua gợn sóng của nó nắm được kết cấu cấm chế.",
+    "chapter": 180,
+    "source": "Tiên Nghịch ch.180",
+    "evidence": "Để tạo một cái, \"cánh tay Vương Lâm phải huy động cả vạn lần\" trong vài hơi thở."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao ngàn năm trước mọi người chỉ dám đi bộ khi gần đỉnh Cấm Sơn?",
+    "options": [
+      "Cấm chế hút cạn linh lực người bay",
+      "Kẻ thuấn di từng bị sét tím diệt",
+      "Kẻ phi hành bị đưa về chân núi",
+      "Gió cương xé nát thân người bay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Một tu sĩ Hóa Thần sơ kỳ thuấn di gần đỉnh bị tia chớp tím đánh tan cả thân lẫn nguyên anh.",
+    "chapter": 180,
+    "source": "Tiên Nghịch ch.180",
+    "evidence": "Hắn vừa thuấn di thì \"xuất hiện một tia chớp màu tím\", diệt cả thân thể lẫn nguyên anh."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Gần đỉnh Cấm Sơn, Vương Lâm bày cấm chế ẩn hơi thở rồi ngồi im gần một năm để làm gì?",
+    "options": [
+      "Để kẻ đi sau vượt lên trước",
+      "Chờ đột phá lên Nguyên Anh kỳ",
+      "Phục kích giết chết Cổ Đế",
+      "Luyện thêm linh dịch dự trữ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sợ người đi trước gài bẫy, hắn ẩn mình chờ người phía sau đuổi kịp rồi để kẻ đó vượt qua.",
+    "chapter": 180,
+    "source": "Tiên Nghịch ch.180",
+    "evidence": "\"Vương Lâm đang đợi người phía sau đuổi theo rồi để cho hắn vượt qua.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Cổ Đế dựa vào pháp bảo nào để mở thông đạo xuyên qua cấm chế trên Cấm Sơn?",
+    "options": [
+      "Năm viên đá phát sáng",
+      "Một bảo tháp ba tầng",
+      "Mấy lá cờ nhỏ màu trắng",
+      "Cây phất trần trên tay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Các lá cờ trắng xoay tròn tạo thông đạo giữa cấm chế, là con át chủ bài của Cổ Đế.",
+    "chapter": 181,
+    "source": "Tiên Nghịch ch.181",
+    "evidence": "Bốn lá cờ có tác dụng \"tạo ra một cái thông đạo giữa cấm chế\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Cổ Đế tin ai là kẻ thần bí liên tục bày cấm chế hại mình trên Cấm Sơn?",
+    "options": [
+      "Tiểu tử Uông Thanh Việt",
+      "Gã thanh niên cạnh Lục Dục",
+      "Lão già Đoan Mộc Cực",
+      "Một cường giả ngàn năm trước"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn cho rằng kẻ chưa quá Nguyên Anh chỉ có thể là gã thanh niên bên Lục Dục; Vương Lâm thì bị loại.",
+    "chapter": 181,
+    "source": "Tiên Nghịch ch.181",
+    "evidence": "Cuối cùng mục tiêu nghi ngờ \"chỉ còn có tên thanh niên bên cạnh Lục Dục ma quân\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Lời thề cao cấp nhất của Tu Ma hải mà Lục Dục và Cổ Đế lập bằng máu tên là gì?",
+    "options": [
+      "Lời thề Huyết Hồn",
+      "Lời thề Thiên Đạo",
+      "Lời thề Cửu U",
+      "Lời thề Tâm Ma"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hai giọt máu va nhau hóa phù hiệu; đó là lời thề Tâm Ma, cao cấp nhất Tu Ma hải.",
+    "chapter": 181,
+    "source": "Tiên Nghịch ch.181",
+    "evidence": "\"Đây là lời thề cao cấp nhất của Tu Ma hải. Nó được gọi là lời thề Tâm Ma.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi lôi cầu tím giáng xuống, Lục Dục giơ thi thể người thanh niên lên; chuyện gì xảy ra?",
+    "options": [
+      "Thi thể hóa thành tro bụi ngay",
+      "Lôi cầu dội ngược trở lên mây",
+      "Cái xác há miệng nuốt lôi cầu",
+      "Thi thể biến thành con rết nâu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lôi cầu rơi trúng, cái xác mở mắt, hút lôi cầu vào bụng mà không bị hủy.",
+    "chapter": 181,
+    "source": "Tiên Nghịch ch.181",
+    "evidence": "Cái xác \"há to miệng, hút lôi cầu vào trong bụng\", da nứt toác nhưng không hủy."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Đoạn xương tay của thi thể thanh niên mà Vương Lâm nhặt trên đỉnh Cấm Sơn vỡ ra thành gì?",
+    "options": [
+      "Tám hạt vàng nhỏ như hạt gạo",
+      "Một viên nội đan màu tím sẫm",
+      "Một nắm bột xương đen như tro",
+      "Một giọt tinh huyết đỏ thẫm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Xương yếu đi sau lôi điện và hắc quang, bị hắn chạm vào liền vỡ, để lại tám hạt ánh kim.",
+    "chapter": 181,
+    "source": "Tiên Nghịch ch.181",
+    "evidence": "Nó vỡ ra, \"chỉ để lại tám cái hạt nhỏ như hạt gạo\" lóe kim quang."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lên được đỉnh Cấm Sơn, Vương Lâm được phân thân Cổ thần Đồ Ti gọi bằng danh xưng gì?",
+    "options": [
+      "Sứ giả của Cổ thần",
+      "Người kế thừa Cấm Sơn",
+      "Thủ hộ giả đời thứ tư",
+      "Người lĩnh ngộ thứ tư"
+    ],
+    "correctIndex": 3,
+    "explanation": "Người khổng lồ hư ảo gọi hắn là người lĩnh ngộ thứ tư của Cấm Sơn và ban thưởng.",
+    "chapter": 182,
+    "source": "Tiên Nghịch ch.182",
+    "evidence": "\"Người lĩnh ngộ thứ tư của Cấm Sơn! Ta là Đồ Ti...\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Phân thân Cổ thần Đồ Ti ban thưởng cho Vương Lâm thứ gì?",
+    "options": [
+      "Bốn lá cờ trắng cấm chế",
+      "Ngọc giản chế tạo Cấm Phiên",
+      "Một viên Anh Biến đan",
+      "Ngọc giản tu luyện Minh quyết"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vì hắn là người lĩnh ngộ nên được ban ngọc giản chế tạo Cấm Phiên (cờ cấm chế).",
+    "chapter": 182,
+    "source": "Tiên Nghịch ch.182",
+    "evidence": "Đồ Ti \"ban thưởng cho ngươi ngọc giản chế tạo Cấm Phiên\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vật liệu bắt buộc phải có để chế tạo Cấm Phiên là gì?",
+    "options": [
+      "Mặc Gian thạch",
+      "Huyết thạch",
+      "Toái Hoa thạch",
+      "Cực phẩm linh thạch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mọi vật liệu khác tùy ý, chỉ Mặc Gian thạch, loại đá do lưu tinh rơi xuống, là bắt buộc.",
+    "chapter": 182,
+    "source": "Tiên Nghịch ch.182",
+    "evidence": "Chỉ có một loại tài liệu nhất định phải có, \"Đó chính là Mặc Gian thạch\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Vương Lâm phát hiện Thiên Không cấm chế (mây đen, sét tím) bị kích hoạt bởi yếu tố nào?",
+    "options": [
+      "Dao động linh lực",
+      "Thần thức tản ra",
+      "Tốc độ di chuyển",
+      "Số người đi cùng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vượt quá mức hoặc đột ngột tăng, giảm tốc độ đều mở Thiên Không cấm chế, càng gần đỉnh càng nhạy.",
+    "chapter": 182,
+    "source": "Tiên Nghịch ch.182",
+    "evidence": "Hắn hiểu nguyên lý mở Thiên Không cấm chế \"chính là tốc độ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Dòng chữ nhỏ cạnh chiếc hộp trống ở tầng hai bảo tháp bày tỏ điều gì?",
+    "options": [
+      "Cảnh báo chớ vào cửa thứ ba",
+      "Thất vọng về nơi ở Cổ thần",
+      "Khoe đã thu phục được thú vương",
+      "Chỉ đường đến thức hải Cổ thần"
+    ],
+    "correctIndex": 1,
+    "explanation": "Người thần bí để lại lời cuồng ngạo: vào bảo tháp thấy mấy thứ này mà hơi thất vọng về nơi ở Cổ thần.",
+    "chapter": 182,
+    "source": "Tiên Nghịch ch.182",
+    "evidence": "Dòng chữ viết \"hơi thất vọng đối với nơi ở của Cổ thần\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trước khi cho thần thức ly thể ở cửa thứ ba, Vương Lâm giấu thân thể mình ở đâu?",
+    "options": [
+      "Trong bụng ma đầu thứ hai",
+      "Trong túi trữ vật chứa sinh vật",
+      "Trong bảo tháp ba tầng",
+      "Trong một hòn đá trôi nổi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn gom đá thành núi, dùng băng diễm và vòng tàn ảnh biến thành Cấm Sơn nhỏ rồi thu nhỏ như đá thường.",
+    "chapter": 183,
+    "source": "Tiên Nghịch ch.183",
+    "evidence": "Ngọn núi thu nhỏ lại \"giống hệt như những hòn đá xung quanh\", hắn ngồi bên trong."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ở cửa thứ ba, Đoan Mộc Cực đang đi cùng ai?",
+    "options": [
+      "Lục Dục ma quân",
+      "Cổ Đế",
+      "Uông Thanh Việt",
+      "Mạnh Đà Tử"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đoan Mộc Cực và Uông Thanh Việt đi cùng nhau từ hư vô thông đạo tới cửa thứ ba.",
+    "chapter": 183,
+    "source": "Tiên Nghịch ch.183",
+    "evidence": "Đoan Mộc Cực \"và Uông Thanh Việt đi cùng với nhau từ hư vô thông đạo\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Ngọc giản nứt Đoan Mộc Cực có được ở bảo tháp ngàn năm trước có tác dụng gì?",
+    "options": [
+      "Bài trừ mọi cấm chế",
+      "Xua đuổi du hồn",
+      "Truyền tống ra ngoài",
+      "Độn thổ qua cửa một"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngọc giản cổ chỉ còn dùng được một lần, có tác dụng bài trừ tất cả cấm chế.",
+    "chapter": 183,
+    "source": "Tiên Nghịch ch.183",
+    "evidence": "Tác dụng của nó \"chính là bài trừ tất cả mọi cấm chế\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Ở cửa thứ ba, Cổ Đế giữ mạng trước bầy du hồn nhờ pháp bảo nào trên đỉnh đầu?",
+    "options": [
+      "Năm viên đá phát sáng",
+      "Thi thể người thanh niên",
+      "Ngọc giản có vết nứt",
+      "Một bảo tháp tỏa ánh sáng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bảo tháp trên đầu Cổ Đế tỏa sáng, du hồn không dám vào vầng sáng đó.",
+    "chapter": 183,
+    "source": "Tiên Nghịch ch.183",
+    "evidence": "Trên đỉnh đầu hắn \"lại có thêm một cái bảo tháp\"; du hồn không dám vào vầng sáng."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Truyền tống trận ở cửa thứ tư chọn chỗ đưa người vào thân Cổ Thần dựa vào điều gì?",
+    "options": [
+      "Tu vi cao thấp của người vào",
+      "Thời gian vượt qua ba cửa trước",
+      "Vật phẩm truyền thừa mang theo",
+      "Số du hồn đã giết ở cửa ba"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vượt ba cửa càng nhanh thì vị trí vào càng tốt, có khi vào thẳng kinh mạch Cổ Thần.",
+    "chapter": 183,
+    "source": "Tiên Nghịch ch.183",
+    "evidence": "Trận \"căn cứ vào thời gian vượt qua tam quan mà định đoạt\" vị trí truyền tống."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Yêu ma cao hơn mười trượng, đầy gai và mụn mủ, xé khe không gian chui vào cửa thứ ba mang dáng ai?",
+    "options": [
+      "Mạnh Đà Tử",
+      "Thiên Ma tán nhân",
+      "Xích Hỏa ma quân",
+      "Đoan Mộc Cực"
+    ],
+    "correctIndex": 0,
+    "explanation": "Có bướu trên lưng, tướng mạo giống bảy tám phần Mạnh Đà Tử dù đầu to hơn mấy lần.",
+    "chapter": 184,
+    "source": "Tiên Nghịch ch.184",
+    "evidence": "Vương Lâm thất kinh: \"Đây...đây là Mạnh Đà Tử.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Bị Lục Dục ma quân gọi tên, yêu ma mang dáng Mạnh Đà Tử tự xưng là gì?",
+    "options": [
+      "Sứ giả Tịch Diệt",
+      "Thiên Ma tán nhân",
+      "Yêu thần Đồ Ti",
+      "Huyết Hải ma quân"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn phủ nhận mình là Mạnh Đà Tử, nói tên mình là yêu thần Đồ Ti.",
+    "chapter": 184,
+    "source": "Tiên Nghịch ch.184",
+    "evidence": "\"Ta không phải là Mạnh Đà Tử. Tên của ta là yêu thần Đồ Ti.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Bị du hồn vây khốn, Cổ Đế ném cho Vương Lâm ngọc giản ghi thứ gì để xin tha?",
+    "options": [
+      "Bản đồ đến cửa thứ tư",
+      "Pháp quyết truyền tống",
+      "Cách chế tạo Cấm Phiên",
+      "Khẩu quyết Tử Chú thuật"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mảnh truyền thừa của hắn ghi pháp quyết truyền tống, dùng ở dòng xoáy để rời Cổ Thần chi địa.",
+    "chapter": 184,
+    "source": "Tiên Nghịch ch.184",
+    "evidence": "Mảnh nhỏ ghi \"một bộ pháp quyết, sau khi thi triển liền có công năng truyền tống\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bị yêu ma Mạnh Đà Tử đuổi sát, Vương Lâm cố ý bay tới chỗ ai rồi canh giờ mới chạy tiếp?",
+    "options": [
+      "Đoan Mộc Cực",
+      "Uông Thanh Việt",
+      "Thôn hồn đang ngủ say",
+      "Lục Dục ma quân"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn dừng trước Lục Dục, đợi đúng lúc rồi chạy về Tây Bắc, để Mạnh Đà Tử ập tới chỗ Lục Dục.",
+    "chapter": 184,
+    "source": "Tiên Nghịch ch.184",
+    "evidence": "Đếm nhịp thở, hắn nghĩ \"Chính là lúc này\", chào Lục Dục rồi vọt đi."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Trong huyết hải, Cổ Đế gặp lại Xích Hỏa ma quân; ngàn năm trước người này đã chết thế nào?",
+    "options": [
+      "Bị hơn vạn du hồn cắn nuốt sạch",
+      "Bị một thần thức cổ quái đánh chết",
+      "Bị sét tím đánh tan thành tro",
+      "Bị thú vương Hành Thổ xé xác"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cổ Đế tận mắt thấy Xích Hỏa ma quân bị lôi điện tím oanh kích, cả nguyên anh không kịp thoát.",
+    "chapter": 184,
+    "source": "Tiên Nghịch ch.184",
+    "evidence": "Xích Hỏa ma quân chết ở Cấm Sơn, bị \"lôi điện màu tím oanh kích, toàn thân hóa thành tro bụi\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Kẻ khoác giáp tím chui ra từ khe không gian, gọi Lục Dục ma quân là \"Dịch nhi\", là ai?",
+    "options": [
+      "Thiên Ma tán nhân",
+      "Xích Hỏa ma quân",
+      "Nam Cuồng",
+      "Cổ Đế"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đó là sư phụ của Lục Dục, người đã chết hơn ngàn năm trước, nay xưng là yêu thần Đồ Ti.",
+    "chapter": 185,
+    "source": "Tiên Nghịch ch.185",
+    "evidence": "Người gọi được tên ít ai biết đó, ngoài \"sư phụ Thiên Ma tán nhân\" thì còn ai."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Để cản yêu ma Mạnh Đà Tử đang đuổi theo, Vương Lâm tung hai thứ gì về phía hắn?",
+    "options": [
+      "Hai con ma đầu cùng lốc thú",
+      "Bốn lá cờ trắng của Cổ Đế",
+      "Mười vòng tròn tàn ảnh",
+      "Băng diễm và độc kiếm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn xuất ngọn lửa lam và thanh độc kiếm, chia hai hướng phóng về phía Mạnh Đà Tử.",
+    "chapter": 185,
+    "source": "Tiên Nghịch ch.185",
+    "evidence": "\"Về phần ngọn lửa và phi kiếm thì chia ra làm hai hướng\" phóng về phía Mạnh Đà Tử."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vì sao độc trên phi kiếm của Vương Lâm không làm gì được yêu ma Mạnh Đà Tử?",
+    "options": [
+      "Du hồn trong người hắn nuốt hết độc",
+      "Độc vốn từ đỉnh bổn mạng của hắn",
+      "Sừng của hắn hút cạn mọi độc tố",
+      "Hắn đã uống sẵn Phòng độc đan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Độc của kiếm đến từ Độc Vương đỉnh, bổn mạng pháp bảo của Mạnh Đà Tử, nên bị linh lực hắn đồng hóa.",
+    "chapter": 185,
+    "source": "Tiên Nghịch ch.185",
+    "evidence": "Độc Vương đỉnh \"vốn là bản mệnh pháp bảo của Mạnh Đà tử\", nên độc không hại được hắn."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Trong sáu loại ham muốn của Huyền Thiên Ma Dục quyết, Lục Dục ma quân chưa luyện hóa được loại nào?",
+    "options": [
+      "Chấp dục",
+      "Sắc dục",
+      "Sát dục",
+      "Tham dục"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn đã luyện hóa năm loại, chỉ còn Chấp dục, chấp niệm trở thành tu sĩ Anh Biến kỳ.",
+    "chapter": 185,
+    "source": "Tiên Nghịch ch.185",
+    "evidence": "\"Chỉ còn một thứ cuối cùng đó là Chấp dục (cố chấp)\" hắn vẫn không luyện hóa được."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "\"Sứ giả đại nhân\" mà Mạnh Đà Tử quỳ xin trợ giúp ở cửa thứ ba thực chất là gì?",
+    "options": [
+      "Phân thân của Cổ thần Đồ Ti",
+      "Nguyên thần Thiên Ma tán nhân",
+      "Du hồn sắp hóa thành thôn hồn",
+      "Thôn hồn đang ngủ say"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm nhận ra thần thức bá đạo ấy không phải tu sĩ mà là một con du hồn sắp tiến hóa.",
+    "chapter": 185,
+    "source": "Tiên Nghịch ch.185",
+    "evidence": "\"Đó chính là một con du hồn sắp tiến hóa trở thành thôn hồn.\""
+  }
+]

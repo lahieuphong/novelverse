@@ -1,0 +1,116 @@
+[
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.372: đại đương gia cất túi trước ngực để lúc mấu chốt cứu mạng; khác với chi tiết Thiên Tằm ti và câu dạ minh châu đã có.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Xé không rách, đốt không nóng, chém không đứt, chiếc túi xám cướp của Vương Lâm được đại đương gia sơn trại dùng vào việc gì?",
+      "options": [
+        "Treo giữa đại sảnh để khoe",
+        "Cất trước ngực để hộ mạng",
+        "Chia cho tên mặt sẹo giữ hộ",
+        "Ném trả xuống đáy thủy lao"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thấy chiếc túi (túi trữ vật của Vương Lâm) không gì phá nổi, đại đương gia cho là bảo bối, cất trước ngực để lúc nguy cấp cứu mạng.",
+      "chapter": 372,
+      "source": "Tiên Nghịch ch.372"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.377: mở mắt sau khi hút khôn tinh nham dưới ngụy linh nhãn là Trúc Cơ hậu kỳ đại viên mãn; khác thời điểm hút linh mạch ở ch.379 (Nguyên Anh trung kỳ).",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "kho",
+      "question": "Phá tiểu trận rồi hút thẳng linh lực từ ngụy linh nhãn trong động phủ, Vương Lâm đạt tới cảnh giới nào?",
+      "options": [
+        "Trúc Cơ trung kỳ đại viên mãn",
+        "Kết Đan trung kỳ đỉnh phong",
+        "Kết Đan sơ kỳ đại viên mãn",
+        "Trúc Cơ hậu kỳ đại viên mãn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sau hai tháng hắn mới tới Trúc Cơ hậu kỳ; hấp thu linh lực của ngụy linh nhãn giúp hắn lên Trúc Cơ hậu kỳ đại viên mãn.",
+      "chapter": 377,
+      "source": "Tiên Nghịch ch.377"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.380: hồng bào tu sĩ không hỏi câu nào, chỉ điểm tay phải lên mi tâm từng đệ tử.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Truy tìm kẻ hút cạn linh mạch ngọn núi ngoại vi, các tu sĩ hồng bào của Luyện Hồn tông kiểm tra từng đệ tử bằng cách nào?",
+      "options": [
+        "Bắt nhỏ máu lên ngọc giản",
+        "Dùng gương đồng soi từng người",
+        "Điểm ngón tay lên mi tâm",
+        "Tra hỏi từng người một"
+      ],
+      "correctIndex": 2,
+      "explanation": "Họ không hỏi câu nào, chỉ điểm tay phải lên mi tâm từng đệ tử; luồng hàn khí chui vào như lật giở trí nhớ người đó.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.380: Thiết Nham giấu tin Vương Lâm mất tích với Tiểu Chu; không trùng câu con mèo.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Khi tin Vương Lâm mất tích truyền tới Sở quốc, Thiết Nham đã xử trí chuyện này ra sao?",
+      "options": [
+        "Giấu, không cho Tiểu Chu biết",
+        "Lập tức rời Sở quốc đi tìm hắn",
+        "Lập bàn thờ, để tang cho hắn",
+        "Đưa Tiểu Chu rời khỏi sơn cốc"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thiết Nham giấu tin này với Tiểu Chu, vì tin chắc ân công đã hứa trở về trong vòng chín năm thì nhất định làm được.",
+      "chapter": 380,
+      "source": "Tiên Nghịch ch.380"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng ch.396: tay vừa chạm hồn phiên, nguyên thần chui vào trong; khác câu uy lực một phần ba.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Vừa cầm lấy cây hồn phiên Độn Thiên để lại, Vương Lâm lập tức gặp chuyện gì?",
+      "options": [
+        "Cánh tay bị hồn khí ăn mòn dần",
+        "Hồn phiên tự bay về chỗ Độn Thiên",
+        "Nguyên thần bị kéo vào trong",
+        "Bị một luồng lực đánh văng ra xa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tay vừa chạm hồn phiên, nguyên thần Vương Lâm bị kéo vào trong, rơi giữa vô số hồn phách gào thét như Tu La địa ngục, suýt tan biến.",
+      "chapter": 396,
+      "source": "Tiên Nghịch ch.396"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Đáp án đúng ch.397 nhưng chữ \"hắn\" trong phương án không có người được nhắc trong đề; nêu rõ Tằng Ngưu.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Đối mặt Tằng Ngưu, trưởng lão tóc bạc của Cự Ma tộc bóp nổ một lệnh bài đen. Lệnh bài ấy dùng để làm gì?",
+      "options": [
+        "Gọi lão tổ lập tức xuất quan",
+        "Truyền lệnh cả tộc giết Tằng Ngưu",
+        "Phong tỏa không gian xung quanh",
+        "Cầu viện Chu Tước quốc tới giúp"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lấy thân phận trưởng lão, lão bóp nổ lệnh bài, sóng vô hình truyền khắp tộc lệnh cho mọi tộc nhân Cự Ma dùng mọi cách giết chết Tằng Ngưu (Vương Lâm).",
+      "chapter": 397,
+      "source": "Tiên Nghịch ch.397"
+    }
+  }
+]

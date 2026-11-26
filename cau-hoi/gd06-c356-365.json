@@ -1,0 +1,802 @@
+[
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Tìm thấy lão già áo xanh và nữ tử áo lụa trắng trong hư vô, Vương Lâm lấy đi thứ gì của họ?",
+  "options": [
+   "Túi trữ vật của cả hai người",
+   "Một sợi tàn hồn của mỗi người",
+   "Tấm bản đồ tiên giới của họ",
+   "Giọt máu ở mi tâm mỗi người"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vương Lâm vung tay, hai giọt máu từ mi tâm hai người bay ra nằm trong tay hắn, rồi hắn bỏ đi không nói lời nào.",
+  "chapter": 356,
+  "source": "Tiên Nghịch ch.356",
+  "evidence": "Vương Lâm vung tay phải, \"hai giọt máu tươi từ mi tâm của cả hai bay ra\", nằm gọn trong tay hắn."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Chất lỏng vàng trong quả luân hồi thấm vào người khiến bản tôn Vương Lâm thay đổi thế nào?",
+  "options": [
+   "Mất kinh mạch, hút linh khí cực nhanh",
+   "Tu vi lập tức vọt lên Anh Biến kỳ",
+   "Toàn thân hóa thành đá xanh rắn chắc",
+   "Mọc thêm hai cánh tay bằng vàng"
+  ],
+  "correctIndex": 0,
+  "explanation": "Kim quang dung nhập máu thịt, kinh mạch Bản tôn biến mất và tốc độ hấp thu linh lực tăng vô số lần.",
+  "chapter": 356,
+  "source": "Tiên Nghịch ch.356",
+  "evidence": "Sau khi chất lỏng vàng dung nhập, \"tất cả kinh mạch của hắn bị biến mất\", tốc độ hấp thu linh lực thiên địa tăng vô số lần; từ đó mới chính thức là Cổ Thần."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm lấy một đoạn luân hồi mộc ra rồi bắt tay vào làm gì?",
+  "options": [
+   "Tạc tượng gỗ tuế nguyệt",
+   "Đóng một cỗ quan tài",
+   "Gọt một thanh mộc kiếm",
+   "Luyện thành đan dược"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm cầm một khối luân hồi mộc bắt đầu chế tác tượng gỗ tuế nguyệt.",
+  "chapter": 356,
+  "source": "Tiên Nghịch ch.356",
+  "evidence": "Vương Lâm lấy ra một đoạn luân hồi mộc, cầm một khối \"bắt đầu chế tác tượng gỗ tuế nguyệt\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Lão đạo sĩ đến Chu gia thôn tìm trẻ có linh căn thuộc một môn phái nhỏ sống nương vào tông nào?",
+  "options": [
+   "Huyền Đạo Tông",
+   "Thi Âm Tông",
+   "Hằng Nhạc phái",
+   "Vân Thiên Tông"
+  ],
+  "correctIndex": 3,
+  "explanation": "Môn phái của lão tuy nhỏ nhưng phụ thuộc Vân Thiên Tông để tồn tại.",
+  "chapter": 356,
+  "source": "Tiên Nghịch ch.356",
+  "evidence": "Môn phái của lão già tuy nhỏ \"nhưng phụ thuộc vào Vân Thiên Tông để tồn tại\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Tìm được Chu Như có tư chất tuyệt hảo, lão đạo sĩ mong dùng phần thưởng để làm gì?",
+  "options": [
+   "Mua một thanh phi kiếm mới",
+   "Trùng kích Trúc Cơ trung kỳ",
+   "Đổi lấy một viên Trúc Cơ đan",
+   "Lên làm trưởng lão môn phái"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão tính có khối thượng phẩm linh thạch sẽ đủ để trùng kích Trúc Cơ trung kỳ.",
+  "chapter": 356,
+  "source": "Tiên Nghịch ch.356",
+  "evidence": "Lão lẩm bẩm: có khối thượng phẩm linh thạch này \"ta có thể trùng kích Trúc Cơ trung kỳ\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Một năm trước khi cứu Chu Như khỏi lão đạo sĩ, Vương Lâm đã cho ai về tông môn cũ để tự mình bảo vệ cô bé?",
+  "options": [
+   "Lữ Phi",
+   "Thiết Nham",
+   "Liễu Phỉ",
+   "Tống Thanh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Từ một năm trước Vương Lâm để Thiết Nham về Vân Thiên Tông, tự thân thủ hộ Chu Như.",
+  "chapter": 357,
+  "source": "Tiên Nghịch ch.357",
+  "evidence": "\"Từ một năm trước hắn để Thiết Nham về Vân Thiên Tông\", còn chính mình thủ hộ Chu Như."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Theo Vương Lâm, Nguyên Anh trong người Chu Như chưa ổn định nên trí nhớ của nàng sẽ tự hồi phục khi nào?",
+  "options": [
+   "Khi nàng vừa Trúc Cơ xong",
+   "Khi nàng gặp lại cha mẹ",
+   "Khi nàng tròn mười chín tuổi",
+   "Khi nàng tròn mười tuổi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm nói đợi đến năm mười chín tuổi trí nhớ của Uyển nhi sẽ tự khôi phục.",
+  "chapter": 357,
+  "source": "Tiên Nghịch ch.357",
+  "evidence": "Vương Lâm thì thầm: Nguyên Anh không ổn định, \"đợi ngươi đến mười chín tuổi tự nhiên sẽ khôi phục lại\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Sau cơn ác mộng của Chu Như, Vương Lâm trao cho cô bé vật gì để gọi hắn khi gặp chuyện?",
+  "options": [
+   "Một tượng gỗ nhỏ",
+   "Một miếng ngọc bội",
+   "Một cái chuông",
+   "Một túi trữ vật"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm đưa cho Chu Như một cái chuông, dặn khi gặp chuyện thì lắc lên.",
+  "chapter": 357,
+  "source": "Tiên Nghịch ch.357",
+  "evidence": "Vương Lâm lấy ra một cái chuông đặt vào tay cô bé, dặn gặp chuyện thì \"hãy lắc cái chuông lên\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Tưởng nữ thi áo trắng trên bảo tháp chỉ đang ngủ, Chu Như từng mang lên cho nàng thứ gì?",
+  "options": [
+   "Một bó hoa dại",
+   "Một tấm chăn ấm",
+   "Chiếc chuông của mình",
+   "Một bát cơm"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chu Như mang bát cơm Vương Lâm đưa lên định cho nữ thi ăn.",
+  "chapter": 357,
+  "source": "Tiên Nghịch ch.357",
+  "evidence": "Cô bé gọi nữ thi là thần tiên tỷ tỷ, có lần \"mang theo bát cơm\" muốn cho nàng ăn."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "So chiếc vỏ kiếm tìm thấy trong túi của Khâu Tứ Bình với ba chiếc của mình, Vương Lâm nhận ra điều gì?",
+  "options": [
+   "Giống hệt nhau, chỉ khác hoa văn",
+   "Chiếc mới chỉ là đồ giả mạo",
+   "Ghép lại thành một thanh kiếm",
+   "Chiếc mới lớn gấp đôi, khác màu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Bốn vỏ kiếm giống nhau như đúc, chỉ khác nhau chút hoa văn.",
+  "chapter": 357,
+  "source": "Tiên Nghịch ch.357",
+  "evidence": "Sau khi so sánh, \"bốn cái vỏ kiếm này giống nhau như đúc\", chỉ hoa văn hơi khác."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Đến thung lũng khiêu chiến, Liêu Phàm đòi Vương Lâm phải giao ra bảo vật nào?",
+  "options": [
+   "Cấm Phiên",
+   "Tinh La Bàn",
+   "Vũ phiến",
+   "Lôi Oa"
+  ],
+  "correctIndex": 2,
+  "explanation": "Liêu Phàm đòi Vũ phiến, Vương Lâm ném ra hai chiếc lông chim cắm vào vách đá.",
+  "chapter": 358,
+  "source": "Tiên Nghịch ch.358",
+  "evidence": "Liêu Phàm ôm quyền: \"Tằng Ngưu, Vũ phiến Dư bảo, lấy ra đi\"; Vương Lâm ném hai cái lông chim vào vách đá."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Trên chiếc Đồng Chung của Liêu Phàm, mười hai con số đại diện cho điều gì?",
+  "options": [
+   "Mười hai canh giờ trong ngày",
+   "Mười hai tháng trong năm",
+   "Mười hai con giáp cổ",
+   "Mười hai trưởng lão tông"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mười hai con số tượng trưng cho mười hai tháng trên Chu Tước tinh, dưới mỗi tháng có ký hiệu từng ngày.",
+  "chapter": 358,
+  "source": "Tiên Nghịch ch.358",
+  "evidence": "Đồng Chung có mười hai con số, \"lần lượt đại biểu mười hai tháng trên Chu Tước tinh\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bị tiên kiếm chém nứt, chiếc Đồng Chung của Liêu Phàm vỡ ra, để lộ thứ gì bên trong?",
+  "options": [
+   "Một cánh tay cụt khô héo",
+   "Một con độc trùng màu đen",
+   "Một viên Nguyên Anh nhỏ",
+   "Một chiếc đầu lâu cổ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Từ vết nứt trên Đồng Chung một cánh tay héo khô vươn ra, tỏa hắc khí.",
+  "chapter": 358,
+  "source": "Tiên Nghịch ch.358",
+  "evidence": "\"Một cánh tay héo khô từ bên trong vươn mạnh ra\", Đồng Chung vỡ thành sắt vụn."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Cho hai chiếc chuông va nhau vỡ vụn, Vương Lâm biến các mảnh vỡ thành thứ gì?",
+  "options": [
+   "Một tấm lưới âm ba",
+   "Một bộ khải giáp",
+   "Mưa kim châm",
+   "Một chiếc lồng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mảnh chuông bao lấy người hắn, tạo thành Âm ba Linh giáp màu xanh.",
+  "chapter": 358,
+  "source": "Tiên Nghịch ch.358",
+  "evidence": "Các mảnh nhỏ bao lấy người, \"hình thành một chiếc khải giáp lấp lánh màu xanh\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Bị hàn khí của bóng đen từ cánh tay cụt áp sát, Vương Lâm gọi ra thứ gì lâu nay ít khi dùng?",
+  "options": [
+   "Hàn Đan",
+   "Cấm Phiên",
+   "Lôi Oa",
+   "Băng Viêm"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vương Lâm dùng Băng Viêm có được từ Hoàng Tuyền Thăng Khiếu quyết, hút sạch âm hàn khí xung quanh.",
+  "chapter": 358,
+  "source": "Tiên Nghịch ch.358",
+  "evidence": "Băng Viêm \"lâu nay ít khi sử dụng\" hiện ra ở đầu ngón tay, âm hàn bốn phía bị nó hấp thu."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bóng hắc khí tự xưng Tư Đồ Nam lao vào phạm vi bảo tháp thì bị thứ gì chặn đứng?",
+  "options": [
+   "Lôi Oa phun lôi điện ra",
+   "Bản tôn Vương Lâm dưới đất",
+   "Thần niệm Vấn Đỉnh của Chu Dật",
+   "Cấm chế tỏa ra từ Cấm Phiên"
+  ],
+  "correctIndex": 2,
+  "explanation": "Một tia thần niệm tu vi Vấn Đỉnh của Chu Dật từ bảo tháp truyền ra, chặn bóng đen cách Vương Lâm ba tấc.",
+  "chapter": 359,
+  "source": "Tiên Nghịch ch.359",
+  "evidence": "\"Môt tia thần niệm tu vi Vấn Đỉnh của Chu Dật từ trong Bảo tháp truyền ra\", bóng người hắc khí cứng rắn dừng lại."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vào không gian Nghịch Thiên châu, Vương Lâm thấy Nguyên Anh của Tư Đồ Nam đang ngồi cạnh thứ gì?",
+  "options": [
+   "Thanh tiên kiếm của Chu Dật",
+   "Nguyên Anh Lý Mộ Uyển",
+   "Hồn phách cha mẹ hắn",
+   "Thi thể nữ tử áo trắng"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nguyên Anh của Tư Đồ Nam ở bên cạnh hồn phách cha mẹ Vương Lâm.",
+  "chapter": 359,
+  "source": "Tiên Nghịch ch.359",
+  "evidence": "\"Nguyên Anh thật lớn của Tư Đồ Nam ở bên cạnh hồn phách của cha mẹ hắn\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Vương Lâm đoán bóng đen tự xưng Tư Đồ Nam thoát ra từ cánh tay cụt thực chất có nguồn gốc gì?",
+  "options": [
+   "Thân xác cũ của lão bị luyện hóa",
+   "Một phân thân lão để lại năm xưa",
+   "Ma đầu đã nuốt trọn hồn phách lão",
+   "Đệ tử kế thừa y bát của lão"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm đoán thân thể Tư Đồ Nam bị kẻ khác lấy luyện hóa, từ đó sinh ra một tia thần thức.",
+  "chapter": 359,
+  "source": "Tiên Nghịch ch.359",
+  "evidence": "Vương Lâm thầm đoán: \"thân thể của Tư Đồ Nam bị người ta lấy đem luyện hoá\", sinh ra một tia thần thức."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Băng Tuyết Thần Điện, nơi tông chủ đứng sau Liêu Phàm ngồi thưởng trà, nằm ở nước nào?",
+  "options": [
+   "Chu Tước quốc",
+   "Tuyết Vực quốc",
+   "Sở quốc",
+   "Triệu quốc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cảnh Băng Tuyết Thần Điện được mở đầu bằng địa danh Tuyết Vực quốc, tông chủ là người phái Liêu Phàm đi.",
+  "chapter": 359,
+  "source": "Tiên Nghịch ch.359",
+  "evidence": "Đoạn văn mở bằng \"Tuyết Vực quốc. Băng Tuyết Thần Điện là một toà cung điện\" làm từ băng tuyết."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vì sao tông chủ Băng Tuyết Thần Điện định bày đại trận trước khi ra tay giết Vương Lâm?",
+  "options": [
+   "Để che mắt Chu Tước sơn",
+   "Để áp chế Lôi Oa của hắn",
+   "Ngăn hắn xé không gian bỏ trốn",
+   "Để luyện hóa nguyên thần hắn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tông chủ biết Vương Lâm có Tinh La bàn, xé không gian vào hư vô thì khó truy, nên cần đại trận ngăn lại.",
+  "chapter": 359,
+  "source": "Tiên Nghịch ch.359",
+  "evidence": "Tông chủ nói sẽ \"bố trí một đại trận để phòng ngừa hắn xé rách không gian\", đồng thời mời Cự Ma Tộc."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vì sao lão bà ở Băng Tuyết Thần Điện một mực đòi giết Tằng Ngưu?",
+  "options": [
+   "Hắn từng giết con trai bà",
+   "Bà muốn đoạt Lôi Oa",
+   "Hắn diệt tông môn cũ của bà",
+   "Quẻ bói báo Hồng Điệp gặp kiếp"
+  ],
+  "correctIndex": 3,
+  "explanation": "Năm đó bà bói cho Hồng Điệp một quẻ thấy có kiếp nạn, và tin kiếp nạn ấy ứng vào Tằng Ngưu.",
+  "chapter": 360,
+  "source": "Tiên Nghịch ch.360",
+  "evidence": "Bà đã bói cho Hồng Điệp một quẻ: \"Hồng Điệp có một kiếp nạn!\", trong lòng bà kiếp nạn ứng với Tằng Ngưu."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Con hổ tinh bị Chu Như bắt làm thú cưỡi và sai bảo suốt ngày được đặt tên là gì?",
+  "options": [
+   "Tiểu Bạch",
+   "Tiểu Hắc",
+   "Đại Hoàng",
+   "Hắc Hùng"
+  ],
+  "correctIndex": 0,
+  "explanation": "Con hổ bị Thiết Nham chụp lại theo ý Chu Như và được đặt tên Tiểu Bạch.",
+  "chapter": 360,
+  "source": "Tiên Nghịch ch.360",
+  "evidence": "Lão hổ bị Chu Như nhìn thấy, kêu Thiết Nham chụp lại, \"đặt tên là Tiểu Bạch\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Khi hạn ước mười năm đến, ai mang chiến thiếp của Chu Tước Sơn tới sơn cốc của Vương Lâm?",
+  "options": [
+   "Sất Hổ",
+   "Khâu Tứ Bình",
+   "Tôn Thái",
+   "Phùng Ngọc Sơn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Phùng Ngọc Sơn mang chiến thiếp tới theo mệnh lệnh của Chu Tước Sơn.",
+  "chapter": 360,
+  "source": "Tiên Nghịch ch.360",
+  "evidence": "\"Phùng mỗ dựa theo mệnh lệnh của Chu Tước Sơn mang chiến thiếp đến!\""
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Để phòng người được nhờ trông Chu Như có điều dị thường, Vương Lâm để lại linh thú nào canh chừng?",
+  "options": [
+   "Văn Thú",
+   "Tiểu Bạch",
+   "Lôi Oa",
+   "Thao Thú"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm để lại Lôi Oa, nếu Thiết Nham có gì dị thường thì nó sẽ ngăn cản.",
+  "chapter": 360,
+  "source": "Tiên Nghịch ch.360",
+  "evidence": "\"Cho nên hắn để Lôi Oa lại\", để nếu Thiết Nham có gì dị thường thì nó ngăn cản."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Lão tổ Cự Ma tộc trở thành Anh Biến kỳ đầu tiên của tộc trên Chu Tước tinh là nhờ hấp thu thứ gì?",
+  "options": [
+   "Vấn Đỉnh Chi Tinh của tiên nhân",
+   "Tiên ngọc Sất Hổ mang về",
+   "Một quả luân hồi trên núi",
+   "Huyết tinh sát khí cổ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão tổ hấp thu tiên ngọc do Sất Hổ mang về từ tiên giới, đột phá thành công, Cự Ma tộc lên cấp năm.",
+  "chapter": 360,
+  "source": "Tiên Nghịch ch.360",
+  "evidence": "Một lão tổ \"hấp thu tiên ngọc do Sất Hổ mang về đã thành công đột phá\", trở thành Anh Biến kỳ."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Nữ tu váy tím ra tế đàn đón Vương Lâm khi hắn tới Chu Tước quốc là đệ tử tông phái nào?",
+  "options": [
+   "Địa Phách môn",
+   "Nhân Đạo tiên",
+   "Thiên Ngọc tông",
+   "Băng Tuyết Thần Điện"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cô gái tự giới thiệu là đệ tử Nhân Đạo tiên, được sư phụ dặn chờ tiếp đón hắn.",
+  "chapter": 361,
+  "source": "Tiên Nghịch ch.361",
+  "evidence": "Cô gái nói: \"tiểu nữ là đệ tử Nhân đạo tiên\", sư phụ dặn ở đây chờ đón."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Đối thủ Hồng Điệp của Vương Lâm là đệ tử của tông phái nào ở Chu Tước quốc?",
+  "options": [
+   "Thiên Ngọc tông",
+   "Địa Phách môn",
+   "Chu Tước sơn",
+   "Vân Thiên Tông"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hồng Điệp là đệ tử Thiên Ngọc tông, nàng nhập định trên hồ sen ở hậu sơn tông này.",
+  "chapter": 361,
+  "source": "Tiên Nghịch ch.361",
+  "evidence": "\"Hồng Điệp muội muội là đệ tử của Thiên ngọc\"; nàng ngồi trên hồ sen ở hậu sơn Thiên Ngọc tông."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Người hầu trong tiên phủ nơi Vương Lâm tạm ở trước trận đấu có điểm gì kỳ dị?",
+  "options": [
+   "Đều mù cả hai mắt",
+   "Đều là khôi lỗi gỗ",
+   "Chỉ còn nửa cái lưỡi",
+   "Đều cụt một cánh tay"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tất cả tôi tớ ở đó chỉ còn một nửa đầu lưỡi, không thể nói chuyện.",
+  "chapter": 361,
+  "source": "Tiên Nghịch ch.361",
+  "evidence": "Đám người tôi tớ \"toàn bộ chỉ có một nửa đầu lưỡi, không thể nói chuyện\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Người đàn ông trung niên lặng lẽ ngồi uống trà trong phòng Vương Lâm để lại lời nhắn gì trước khi đi?",
+  "options": [
+   "\"Bại, chết\" viết bằng trà",
+   "Lời mời vào tông môn",
+   "Bản đồ Chu Tước quốc",
+   "Lời khuyên bỏ trận đấu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nước trà trên bàn tản ra lộ hai chữ 'Bại, chết', ngụ ý thua trận là chết.",
+  "chapter": 361,
+  "source": "Tiên Nghịch ch.361",
+  "evidence": "Trên bàn \"một dòng nước trà tản đi lộ ra hai chữ\": Bại, chết."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Trưởng lão Chu Tước sơn làm trọng tài, mở cánh cửa ánh sáng dẫn hai người vào chiến trường là ai?",
+  "options": [
+   "Phùng Ngọc Sơn",
+   "Tôn Thái",
+   "Công Tôn Phá",
+   "Lăng Thiên Hậu"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lão già đầu bạc tự xưng là trưởng lão Chu Tước sơn Công Tôn Phá, trọng tài trận chiến.",
+  "chapter": 361,
+  "source": "Tiên Nghịch ch.361",
+  "evidence": "\"Lão phu là trưởng lão Chu Tước sơn Công Tôn Phá, là trọng tài cho trận chiến\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Người băng khổng lồ Hồng Điệp gọi ra, pháp bảo được chế tác suốt năm trăm năm, có tên gì?",
+  "options": [
+   "Tuyết Liên Ngọc Băng Tiên",
+   "Băng Thần",
+   "Hàn Ngọc Khôi",
+   "Băng Phách Long"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hồng Điệp nói đây là pháp bảo năm trăm năm của Tuyết Vực quốc, tên Băng thần.",
+  "chapter": 362,
+  "source": "Tiên Nghịch ch.362",
+  "evidence": "\"Đây là pháp bảo của Tuyết Vực quốc ta trải qua năm trăm năm chế tác, Băng thần.\""
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Hồng Điệp phun máu lên một cánh hoa hồng, cánh hoa ấy liền hóa thành gì?",
+  "options": [
+   "Một tấm lưới tơ đỏ dày đặc",
+   "Một con băng điêu khổng lồ",
+   "Một con hỏa phượng rực lửa",
+   "Chín thanh trường kiếm đỏ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vết máu trên cánh hoa lóe lên, hóa thành chín thanh trường kiếm màu đỏ.",
+  "chapter": 362,
+  "source": "Tiên Nghịch ch.362",
+  "evidence": "Vết máu trên cánh hoa \"hóa thành chín thanh trường kiếm màu đỏ\", lao vào Vương Lâm."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Vương Lâm phun khí đen hóa thành vật gì đập vào cánh hoa khổng lồ, để rồi nó bị tan thành nước đen?",
+  "options": [
+   "Một chiếc ấn lớn",
+   "Một con ác long",
+   "Một thanh hắc kiếm",
+   "Một tấm khiên đen"
+  ],
+  "correctIndex": 0,
+  "explanation": "Khí đen hóa thành hắc ấn đập xuống cánh hoa, bị bọc lấy rồi hóa thành nước đen.",
+  "chapter": 362,
+  "source": "Tiên Nghịch ch.362",
+  "evidence": "Luồng khí đen \"hóa thành một chiếc ấn lớn\" đập xuống, sau đó biến thành bãi nước đen."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Vương Lâm đập vỡ cái kén đá đầy ký hiệu, bên trong lộ ra thứ gì khiến Hồng Điệp biến sắc?",
+  "options": [
+   "Hồn phách sư tỷ nàng",
+   "Cánh tay bị chặt của nàng",
+   "Bản mệnh hoa hồng của nàng",
+   "Chiếc vòng ngọc của nàng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Trong kén đá là cánh tay khô héo đen kịt mà Vương Lâm chặt của Hồng Điệp năm xưa.",
+  "chapter": 362,
+  "source": "Tiên Nghịch ch.362",
+  "evidence": "Kén đá vỡ, \"lộ ra một cánh tay đen kịt vô cùng khô héo\"; Vương Lâm hỏi nàng có thấy quen không."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Vì sao đầu trận Vương Lâm chưa muốn dùng Khu Thú Quyển trên cổ tay?",
+  "options": [
+   "Hồn thú trong đó đang ngủ say",
+   "Chưa tế luyện xong",
+   "Sợ lộ bài tẩy trước người xem",
+   "Bị cấm chế chiến trường áp chế"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đây là Chu Tước quốc, trận đấu có nhiều người quan sát, lộ quá nhiều sẽ bất lợi cho hắn.",
+  "chapter": 362,
+  "source": "Tiên Nghịch ch.362",
+  "evidence": "Hắn tin trận chiến \"sẽ có rất nhiều người quan sát, nếu để lộ quá nhiều sẽ gây bất lợi\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Để làm yếu tia sét thiên kiếp đang đánh xuống, Hồng Điệp làm gì với sáu hư ảnh đỏ sau lưng?",
+  "options": [
+   "Hợp thành một tấm khiên",
+   "Cho chúng lần lượt nổ tung",
+   "Sai chúng lao vào Vương Lâm",
+   "Thu hết vào hoa hồng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hồng Điệp hô 'Bạo', sáu hư ảnh lần lượt va vào tia sét nổ tung, làm uy lực sét giảm bớt.",
+  "chapter": 363,
+  "source": "Tiên Nghịch ch.363",
+  "evidence": "Hồng Điệp thét \"Bạo!\", từng hư ảnh nổ tung; sau loạt vụ nổ uy lực tia sét \"có chút giảm bớt\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm hô lệnh cho Cấm Phiên tán ra để cấm khí đuổi theo Hồng Điệp. Cây cờ ấy sau đó ra sao?",
+  "options": [
+   "Bay trở về tay hắn",
+   "Bị Hồng Điệp thu mất",
+   "Hóa thành tro bụi",
+   "Bị sét đánh gãy đôi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Cấm Phiên chấn động phóng ra thêm nhiều cấm khí rồi hóa thành tro bụi biến mất.",
+  "chapter": 363,
+  "source": "Tiên Nghịch ch.363",
+  "evidence": "Vương Lâm hét \"Cấm Phiên, tán!\", cuối cùng \"Cấm Phiên hóa thành tro bụi biến mất\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Bị cây nhuyễn tiên bay ra từ ngực người băng khổng lồ quật trúng, Vương Lâm gặp chuyện gì?",
+  "options": [
+   "Bị đóng băng cả người lẫn kiếm",
+   "Linh lực trong người tiêu tán hết",
+   "Tiên kiếm trong tay gãy đôi",
+   "Nguyên thần bị đánh văng khỏi thân"
+  ],
+  "correctIndex": 3,
+  "explanation": "Roi quật trúng khiến nguyên thần hắn bị rút ra ngoài cơ thể, văng ra rất xa và bị tổn thương.",
+  "chapter": 363,
+  "source": "Tiên Nghịch ch.363",
+  "evidence": "Vương Lâm phun máu rơi xuống đất, \"nhưng nguyên thần lại bị rút ra ngoài cơ thể\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Sau khi đám mây đỏ thiên kiếp tan đi, người băng khổng lồ của Hồng Điệp ra sao?",
+  "options": [
+   "Tan chảy thành nước",
+   "Lớn gấp đôi lúc đầu",
+   "Vỡ bớt, thân chỉ còn một nửa",
+   "Hóa thành một con băng long"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thân thể nứt nẻ vỡ tung từng phần, chiều cao rút lại một nửa còn năm trượng.",
+  "chapter": 363,
+  "source": "Tiên Nghịch ch.363",
+  "evidence": "Thân người khổng lồ vỡ tung từng phần, \"bị rút lại một nửa, chỉ còn cao có năm trượng\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Theo Vương Lâm, khi thiên kiếp đã giáng xuống thì Hồng Điệp không còn dùng được phép gì?",
+  "options": [
+   "Phép dịch chuyển",
+   "Phi kiếm",
+   "Ý cảnh",
+   "Pháp bảo phòng ngự"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm nói thiên kiếp giáng xuống thì phép dịch chuyển mất tác dụng, nên nàng khó thoát.",
+  "chapter": 363,
+  "source": "Tiên Nghịch ch.363",
+  "evidence": "\"Một khi Thiên Kiếp giáng xuống, phép dịch chuyển sẽ mất tác dụng.\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vương Lâm chế giễu Hồng Điệp rằng độc chú ở chỗ cụt tay của nàng hiện ra sao?",
+  "options": [
+   "Đã được sư phụ nàng hóa giải hẳn",
+   "Chưa giải, chỉ dùng linh lực áp chế",
+   "Đã lan khắp kinh mạch toàn thân",
+   "Đã chuyển hết sang người băng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vương Lâm nói độc chú chưa hóa giải được, nàng chỉ mượn linh lực để áp chế.",
+  "chapter": 364,
+  "source": "Tiên Nghịch ch.364",
+  "evidence": "\"Độc chú cắt cánh tay ngươi còn chưa hóa giải được, chỉ mượn linh lực để áp chế.\""
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Nhân lúc Hồng Điệp bị chú pháp hành hạ, Vương Lâm ném Khu Thú Quyển ra, nó hóa thành gì?",
+  "options": [
+   "Một tòa bảo tháp",
+   "Một chiếc la bàn",
+   "Một cái đỉnh lớn",
+   "Một chiếc chiến xa"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chiếc vòng hóa thành tàn ảnh rồi biến thành chiến xa, Thú Hồn trên đó rít gào lao ra.",
+  "chapter": 364,
+  "source": "Tiên Nghịch ch.364",
+  "evidence": "Chiếc vòng hóa thành một đạo tàn ảnh, \"biến thành một chiếc chiến xa\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Chém lìa cánh tay phải của người băng khổng lồ, Vương Lâm làm gì với khúc tay ấy?",
+  "options": [
+   "Ném trả thẳng vào mặt Hồng Điệp",
+   "Cất ngay vào túi trữ vật",
+   "Làm vỡ liên tục cho nó nhỏ lại",
+   "Ném cho Lôi Oa nuốt mất"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm thu cánh tay, dùng thanh quang rồi bạch quang làm nó vỡ vụn nhiều lần, mỗi lần nhỏ đi một nửa.",
+  "chapter": 364,
+  "source": "Tiên Nghịch ch.364",
+  "evidence": "Cánh tay khổng lồ vỡ vụn, \"kích cỡ của cánh tay lập tức giảm một bớt một nửa\", rồi tiếp tục vỡ và nhỏ lại."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Vừa được thả ra, Hồn Thú quay sang định nuốt nguyên thần Vương Lâm. Hắn chặn nó lại bằng cách nào?",
+  "options": [
+   "Gọi Lôi Oa ra cắn trả",
+   "Dùng tiên kiếm chém cho lùi lại",
+   "Bấm quyết cho xích sắt khóa lại",
+   "Cho Băng Viêm thiêu đốt nó"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm bấm quyết, xích sắt từ trong chiến xa lao ra khóa chặt Hồn Thú rồi kéo nó về.",
+  "chapter": 364,
+  "source": "Tiên Nghịch ch.364",
+  "evidence": "Hắn bấm quyết, \"một sợi xích sắt từ bên trong chiếc xe lao ra\", khóa chặt Hồn Thú."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Thân xác nằm trơ trước nắm đấm người băng khổng lồ, Vương Lâm gọi ai trong tiên kiếm ra đỡ đòn?",
+  "options": [
+   "Chu Dật",
+   "Hứa Lập Quốc",
+   "Tư Đồ Nam",
+   "Tôn Thái"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nguyên thần Vương Lâm thét gọi Hứa Lập Quốc, hắc khí trên tiên kiếm điều khiển kiếm chắn trước thân thể.",
+  "chapter": 364,
+  "source": "Tiên Nghịch ch.364",
+  "evidence": "Nguyên thần thét \"Hứa Lập Quốc!!\", hắc khí trên tiên kiếm khống chế kiếm chặn trước thân thể."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Phân thân Hồng Điệp, nơi tích tụ cảm ngộ thiên đạo cả đời nàng, thi triển ý cảnh nào?",
+  "options": [
+   "Si ý cảnh",
+   "Tuế nguyệt ý cảnh",
+   "Tuyệt tình ý cảnh",
+   "Điên cuồng ý cảnh"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chân thân và phân thân cùng hô 'Tuyệt tình chi cảnh', ý cảnh tuyệt tình tích lũy nhiều lần trong phân thân.",
+  "chapter": 365,
+  "source": "Tiên Nghịch ch.365",
+  "evidence": "Phân thân chứa cảm ngộ thiên đạo, \"tuyệt tình ý cảnh trong cơ thể phân thân được tích lũy lên nhiều lần\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Cây nhuyễn tiên giấu trong người băng khổng lồ là trọng bảo tông môn do ai lén đưa cho Hồng Điệp?",
+  "options": [
+   "Tông chủ Băng Tuyết Thần Điện",
+   "Sư huynh của nàng",
+   "Thất trưởng lão Tuyết Vực",
+   "Một trưởng lão Chu Tước sơn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Sư huynh của Hồng Điệp lặng lẽ đem Côn Cực Tiên ra để lấy lòng nàng.",
+  "chapter": 365,
+  "source": "Tiên Nghịch ch.365",
+  "evidence": "\"Sư huynh của nàng còn lặng lẽ đem ra trọng bảo của Thiên Ngọc Tông là Côn Cực Tiên để lấy lòng nàng.\""
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Phân thân mà Hồng Điệp liều gọi ra vốn được nàng dày công chuẩn bị cho việc gì?",
+  "options": [
+   "Giúp nàng đột phá Anh Biến",
+   "Thay nàng ứng kiếp",
+   "Giữ lại sau khi nhục thân chết",
+   "Mọc lại cánh tay đã mất"
+  ],
+  "correctIndex": 0,
+  "explanation": "Phân thân được tẩm bổ bằng bí thuật để giảm khó khăn khi nàng đột phá Anh Biến.",
+  "chapter": 365,
+  "source": "Tiên Nghịch ch.365",
+  "evidence": "\"Phân thân này là nàng vì Anh Biến của chính mình mà chuẩn bị\", giúp cơ hội thành công lớn hơn."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Trong ảo cảnh \"Hận ý\" do phân thân Hồng Điệp tạo ra, ai xuất hiện tay cầm hồn phách người Vương gia?",
+  "options": [
+   "Đằng Hóa Nguyên",
+   "Tôn Thái",
+   "Khâu Tứ Bình",
+   "Lăng Thiên Hậu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ở cảnh Hận ý, Đằng Hóa Nguyên cười dữ tợn bước ra, tay phất vô số hồn phách người Vương gia.",
+  "chapter": 365,
+  "source": "Tiên Nghịch ch.365",
+  "evidence": "\"Đằng Hóa Nguyên cười dữ tợn, xé rách đám hào quang đi ra\", tay cầm hồn phách người Vương gia."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Đáp lại đòn ý cảnh của phân thân Hồng Điệp, Vương Lâm khiến thứ gì hiện ra trong khe nứt trên trời?",
+  "options": [
+   "Một biển lửa đỏ ngập trời",
+   "Một vòng xoáy máu khổng lồ",
+   "Bức tranh sơn thủy đen trắng",
+   "Hàng vạn tượng gỗ tuế nguyệt"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm niệm 'Luân hồi chi hạ, sinh tử thiên đạo', khe nứt mở ra bức tranh sơn thủy đen trắng sinh tử luân hồi.",
+  "chapter": 365,
+  "source": "Tiên Nghịch ch.365",
+  "evidence": "Trong vết nứt trên trời, \"một bức tranh sơn thủy đen trắng khổng lồ bỗng nhiên mở ra\"."
+ }
+]

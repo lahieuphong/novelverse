@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Quả thủy tinh cổ yêu Bối La tặng giúp Vương Lâm làm được việc gì?",
+    "options": [
+      "Mở cửa rời khỏi Yêu Linh chi địa",
+      "Gọi các cổ yêu khác tới cứu",
+      "Nhìn khắp Triều Tịch thâm uyên",
+      "Che giấu khí tức Cổ Thần trong người"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dung thần thức vào thủy tinh, Vương Lâm mượn tầm mắt Bối La tra xét cả Triều Tịch thâm uyên.",
+    "chapter": 631,
+    "source": "Tiên Nghịch ch.631",
+    "evidence": "Bối La ngưng điểm sáng thành thủy tinh: \"mượn tầm mắt của ta, tra xét tất cả trong Triều Tịch thâm uyên\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Cổ yêu Bối La nhắc tới cổ ma nào đã đoạt chiến quả của hắn trong cuộc chiến năm xưa?",
+    "options": [
+      "Tháp Già",
+      "Thác Sâm",
+      "Tai Hư",
+      "Đồ Ti"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bối La tự nhủ muốn xem cổ ma Tháp Già, kẻ đoạt chiến quả năm đó, hồi phục được bao nhiêu.",
+    "chapter": 631,
+    "source": "Tiên Nghịch ch.631",
+    "evidence": "Sau khi Vương Lâm rời Long Đàm, Bối La nói: \"Cổ ma Tháp Già! Cuộc chiến năm đó đã bị ngươi đoạt đi chiến quả\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Theo Bối La, điều gì trong khí tức Cổ Thần nơi Vương Lâm mới thực sự giúp hắn hóa hình được?",
+    "options": [
+      "Sát lục chi khí trăm vạn",
+      "Tiên lực của tiên thể",
+      "Ý cảnh sinh tử luân hồi",
+      "Một tia ý chí vương tộc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Bối La thừa nhận nếu thiếu tia ý chí vương tộc trong khí tức ấy thì dù có khí tức Cổ Thần cũng không hóa hình được.",
+    "chapter": 631,
+    "source": "Tiên Nghịch ch.631",
+    "evidence": "Bối La nghĩ thầm đã không nói thật: \"nếu không có một tia ý chí của vương tộc kia, cũng không thể khiến ta hóa hình\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đàn yêu thú lông đen vây khốn nhóm Tham Lang trong Triều Tịch vực là loài mà Vương Lâm nhìn là nhận ra. Đó là loài gì?",
+    "options": [
+      "Lôi Oa",
+      "Văn Thú",
+      "Thao Thú",
+      "Hắc Viêm thú"
+    ],
+    "correctIndex": 1,
+    "explanation": "Truyện nói nếu Vương Lâm thấy chắc chắn nhận ra ngay, chúng chính là Văn Thú, chỉ khác là không có màu tím.",
+    "chapter": 631,
+    "source": "Tiên Nghịch ch.631",
+    "evidence": "Bầy thú cao mấy trượng, có vòi sắc và cánh vây cửa ra: \"Chúng nó chính là Văn Thú!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bị đại sư huynh Đại La Kiếm Tông chất vấn, Tham Lang lấy ra vật gì, nói là thứ hắn lấy được trong sơn động?",
+    "options": [
+      "Một khối lệnh bài màu vàng",
+      "Một viên yêu tinh màu tím",
+      "Một quả trứng phủ tử khí",
+      "Một thanh cổ kiếm đã gãy"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tham Lang vỗ túi trữ vật, lấy ra một quả trứng tròn không sức sống, bao phủ bởi tử khí.",
+    "chapter": 631,
+    "source": "Tiên Nghịch ch.631",
+    "evidence": "Hỏi về vật lấy trong hang, Tham Lang lấy ra \"một quả trứng hình tròn\" chỉ có tử khí bao phủ."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bên ngoài cửa ra Triều Tịch thâm uyên ở Hỏa Yêu quận, Vương Lâm bố trí thứ gì?",
+    "options": [
+      "Vài cấm chế truy tung",
+      "Một đại trận phong kín lối",
+      "Một phân thân canh giữ",
+      "Mấy cỗ khôi lỗi mai phục"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn không bày trận mạnh mà chỉ để lại cấm chế đơn giản, bí mật, có tác dụng truy tung kẻ đi ra.",
+    "chapter": 632,
+    "source": "Tiên Nghịch ch.632",
+    "evidence": "Vương Lâm ở lại mấy ngày, cấm chế \"không có lực công kích, nhưng lại có tác dụng truy tung\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai từng kể cho Vương Lâm rằng tấm lệnh bài khiến nhóm Thiên Vận Tử thèm muốn đang nằm trong Triều Tịch thâm uyên?",
+    "options": [
+      "Cổ yêu Bối La",
+      "Yêu tướng Vân Lệ Hải",
+      "Âu Dương Hoa",
+      "Diêu Tích Tuyết"
+    ],
+    "correctIndex": 3,
+    "explanation": "Theo cách nói của Diêu Tích Tuyết, lệnh bài ấy đang ở trong Triều Tịch thâm uyên.",
+    "chapter": 632,
+    "source": "Tiên Nghịch ch.632",
+    "evidence": "Truyện kể: \"Dựa theo cách nói của Diêu Tích Tuyết\", lệnh bài đang ở Triều Tịch thâm uyên."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Trong cảnh tượng ở truyền thừa cổ yêu, khi sát lục chi khí đạt ngàn vạn, Vương Lâm thấy bản thân ra sao?",
+    "options": [
+      "Hóa thành Cổ Thần cửu tinh",
+      "Bị lạc ấn hút sạch thân xác",
+      "Nguyên thần bước lên Khuy Niết",
+      "Bị cổ yêu nuốt chửng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lạc ấn ngàn vạn sát lục hấp thu nguyên thần và sức sống của hắn rồi phá thể bay ra thành sát lục chi khí.",
+    "chapter": 632,
+    "source": "Tiên Nghịch ch.632",
+    "evidence": "Vương Lâm thấy thân thể, nguyên thần mình \"toàn bộ đều bị ngàn vạn sát lục chi khí hóa thành lạc ấn kia hấp thu\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ngộ ra hiểm họa ẩn trong môn thần thông được truyền cho mình, Vương Lâm sinh lòng nghi kỵ với ai?",
+    "options": [
+      "Lăng Thiên Hậu",
+      "Tham Lang",
+      "Thiên Vận Tử",
+      "Cổ yêu Bối La"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn cho rằng Thiên Vận Tử quá độc ác khi đưa đẩy hắn tu Sát Lục Tiên Quyết, nhưng quyết giấu kín.",
+    "chapter": 632,
+    "source": "Tiên Nghịch ch.632",
+    "evidence": "Vương Lâm lạnh lùng nói: \"Thiên Vận Tử! Ngươi không khỏi quá mức độc ác\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Theo truyện, ai là thiên tài có thể tự sáng tạo thần thông ngay trong cảm ngộ ở truyền thừa cổ yêu, khiến cả Cổ Yêu e sợ?",
+    "options": [
+      "Tôn Vân",
+      "Kiền Phong",
+      "Diệp Vô Ưu",
+      "Côn Bằng Tử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Truyện nói người thiên tư tuyệt đỉnh có thể tự sáng tạo thần thông trong cảm ngộ ấy, và Tôn Vân chính là người như vậy.",
+    "chapter": 632,
+    "source": "Tiên Nghịch ch.632",
+    "evidence": "Sau đoạn nói về việc tự sáng tạo thần thông: \"Tôn Vân chính là loại người này.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thanh niên áo hồng, đệ tử Xích hệ của Thiên Vận Tử, gặp Vương Lâm ở Vân Hải tự giới thiệu tên là gì?",
+    "options": [
+      "Mộ Dung Trác",
+      "Tư Mã Viêm",
+      "Đỗ Kiến",
+      "Triệu Tinh Sát"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hồng bào thanh niên gọi Vương Lâm là sư đệ và xưng tên Đỗ Kiến.",
+    "chapter": 633,
+    "source": "Tiên Nghịch ch.633",
+    "evidence": "Hồng bào thanh niên cười nói: \"Vương sư đệ, tại hạ Đỗ Kiến.\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Hắc y nam tử ít lời, phát hiện ra Vương Lâm từ ngoài ngàn dặm, là đệ tử của môn phái nào?",
+    "options": [
+      "Huyền Uyên phái",
+      "Mặc môn",
+      "Thiên Quỷ Đạo",
+      "Đại La Kiếm Tông"
+    ],
+    "correctIndex": 1,
+    "explanation": "Người này tự giới thiệu là tứ đại đệ tử Mặc môn, Mộ Dung Trác.",
+    "chapter": 633,
+    "source": "Tiên Nghịch ch.633",
+    "evidence": "Hắc y nam tử ôm quyền: \"Tại hạ Mặc môn tứ đại đệ tử Mộ Dung Trác!\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Hai nữ tử Triệu Y Huyên và Từ Phi được giới thiệu với Vương Lâm là đạo hữu của phái nào?",
+    "options": [
+      "Phù Vân phái",
+      "Hợp Hoan Tông",
+      "Vân Thiên Tông",
+      "Huyền Uyên phái"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đỗ Kiến giới thiệu hai nàng là đạo hữu Phù Vân phái.",
+    "chapter": 633,
+    "source": "Tiên Nghịch ch.633",
+    "evidence": "Đỗ Kiến nói: \"Về phần hai vị này chính là đạo hữu Phù Vân phái.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Cái tên của nữ tử mảnh mai mặc áo hồng trong nhóm khiến Vương Lâm nhớ tới ai?",
+    "options": [
+      "Một cố nhân ở Chu Tước tinh",
+      "Nữ thống đội Từ U",
+      "Một nữ đệ tử Tử hệ",
+      "Một đồng môn hồi nhỏ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm nói tên Từ sư muội trùng với một người đồng môn hồi nhỏ của hắn.",
+    "chapter": 633,
+    "source": "Tiên Nghịch ch.633",
+    "evidence": "Vương Lâm đáp: \"tên của Từ sư muội và một người đồng môn hồi nhỏ của Vương mỗ giống nhau\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Trước Vương Lâm, Triệu Y Huyên chỉ nhìn không thấu hai người: Mộ Dung Trác và ai?",
+    "options": [
+      "Đỗ Kiến",
+      "Thần Long",
+      "Tham Lang",
+      "Sửu Ngưu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Người đầu tiên nàng nhìn không thấu là Thần Long của Đại La Kiếm Tông, có sương mù hóa lợi kiếm cản lại.",
+    "chapter": 633,
+    "source": "Tiên Nghịch ch.633",
+    "evidence": "\"Người đầu tiên nàng nhìn không thấu, chính là Thần Long của Đại La Kiếm Tông.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Thanh phi kiếm tỏa tử quang trong khe nứt, được Vương Lâm dùng loan đao cuốn ra, thực chất là gì?",
+    "options": [
+      "Bội kiếm thất lạc của Tử hệ",
+      "Kiếm của Kiếm Tiếu Thập Nhị Tử",
+      "Phi kiếm của tu sĩ đã chết",
+      "Sắt thường làm mồi bẫy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm miết một cái, kiếm hóa bụi; nó chỉ là khối sắt bị cố ý biến thành pháp bảo để làm bẫy.",
+    "chapter": 634,
+    "source": "Tiên Nghịch ch.634",
+    "evidence": "\"Rõ ràng chính là một khối sắt thường\", cố ý ném vào khe \"tạo thành một cái bẫy\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Cây cổ thụ mọc trên vách khe nứt khiến Vương Lâm cảm thấy nguy hiểm thật ra là gì?",
+    "options": [
+      "Vô số phi trùng tụ lại",
+      "Một yêu linh vừa hóa hình",
+      "Trận nhãn do Kiếm Tôn bày",
+      "Một khôi lỗi cổ đại"
+    ],
+    "correctIndex": 0,
+    "explanation": "Khi Đỗ Kiến bị ném tới, cái cây hóa thành vô số phi trùng to bằng ngón tay lao ra.",
+    "chapter": 634,
+    "source": "Tiên Nghịch ch.634",
+    "evidence": "\"Đây đâu phải cổ thụ gì, rõ ràng là vô số phi trùng này tụ tập lại, biến ảo mà thành.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Vương Lâm nhận ra đám phi trùng trong khe nứt cực kỳ mẫn cảm với thứ gì?",
+    "options": [
+      "Ma khí",
+      "Mùi máu",
+      "Ánh sáng",
+      "Âm thanh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thấy chúng bỏ Đỗ Kiến lao tới kim phù rực sáng, hắn xác định chúng thích cắn ánh sáng.",
+    "chapter": 634,
+    "source": "Tiên Nghịch ch.634",
+    "evidence": "Vương Lâm phán đoán đúng: đám phi trùng \"đối với ánh sáng, cực kỳ mẫn cảm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Bị phi trùng vây kín, sư huynh Xích hệ dùng bảo vật hộ mệnh nào do Thiên Vận Tử tặng?",
+    "options": [
+      "Một tấm gương bát quái",
+      "Một ngọc giản",
+      "Một lá bùa kim quang",
+      "Một chiếc chuông đồng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đỗ Kiến lấy ra ngọc giản bảo mệnh của Thiên Vận Tử, có ba lần bảo mệnh, phát ánh sáng bảy màu.",
+    "chapter": 634,
+    "source": "Tiên Nghịch ch.634",
+    "evidence": "Đỗ Kiến lấy \"ngọc giản bảo mệnh của Thiên Vận tử đưa tặng\", có tác dụng ba lần bảo mệnh."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Sắp bị phi trùng nuốt, sư huynh Xích hệ đem bí mật lớn nhất nào ra để xin Vương Lâm cứu mạng?",
+    "options": [
+      "Nơi cất giấu lệnh bài vàng",
+      "Cảnh giới thật của Thiên Vận Tử",
+      "Lý do Tôn Vân phản bội sư tôn",
+      "Cách phá giải Sát Lục Tiên Quyết"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đỗ Kiến hô rằng hắn biết vì sao Tôn Vân năm đó phản bội sư tôn, cứu hắn thì hắn sẽ nói hết.",
+    "chapter": 634,
+    "source": "Tiên Nghịch ch.634",
+    "evidence": "Đỗ Kiến hét: \"Ta biết bí mật của Tôn Vân năm đó. Ta biết hắn vì sao phản bội sư tôn.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Lâm hóa giải đám bướu thịt ô uế nổ tung của sư huynh Xích hệ bằng thần thông nào?",
+    "options": [
+      "Hoàng Tuyền",
+      "Tịch Diệt chỉ",
+      "Hóa Ma chỉ",
+      "Sát Lục Tiên Quyết"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn xuất một đạo Hoàng Tuyền cuốn hết thịt nát ô uế vào; Hoàng Tuyền vốn là con sông ô uế nhất nên càng mạnh thêm.",
+    "chapter": 635,
+    "source": "Tiên Nghịch ch.635",
+    "evidence": "\"Tay phải hắn xuất ra một đạo Hoàng Tuyền\", cuốn toàn bộ ô uế toái nhục vào trong."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Phong ấn nguyên thần sư huynh Xích hệ xong, Vương Lâm dùng pháp bảo nào bọc hắn thành quả cầu cấm chế?",
+    "options": [
+      "Tôn Hồn Phiên",
+      "Côn Cực Tiên",
+      "Tinh La Bàn",
+      "Cấm Phiên"
+    ],
+    "correctIndex": 3,
+    "explanation": "Cấm Phiên hóa vô số cấm chế bao vây Đỗ Kiến thành quả cầu rồi được thu vào túi trữ vật.",
+    "chapter": 635,
+    "source": "Tiên Nghịch ch.635",
+    "evidence": "Vương Lâm vỗ túi trữ vật, \"Cấm Phiên hóa thành vô số cấm chế bao vây Đỗ Kiến\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Vương Lâm truyền âm cảnh báo Mộ Dung Trác rằng hai nữ tử đi cùng thực ra là người của tông nào?",
+    "options": [
+      "Hợp Hoan Tông",
+      "Thi Âm Tông",
+      "Thiên Quỷ Đạo",
+      "Luyện Hồn tông"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm dặn Mộ Dung Trác cẩn thận vì hai nàng là người Thi Âm Tông, một người đã thi thể phụ nguyên thần.",
+    "chapter": 635,
+    "source": "Tiên Nghịch ch.635",
+    "evidence": "Truyền âm: \"Hai người này nếu Vương mỗ không nhìn lầm, phải là người của Thi Âm Tông.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trước khi bay xuống đáy vực, Từ Phi lén để lại gì trên vách khe để dò thám Vương Lâm?",
+    "options": [
+      "Một chiếc trâm ngọc",
+      "Một giọt máu",
+      "Một sợi tóc",
+      "Một con phi trùng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Từ Phi dứt một sợi tóc dán lên vách; Vương Lâm thu lấy, đốt và đánh tan đạo thần thức ẩn bên trong.",
+    "chapter": 635,
+    "source": "Tiên Nghịch ch.635",
+    "evidence": "Từ Phi \"tay phải nhẹ nhàng tùy ý dứt một sợi tóc\", dán lên vách khe bên cạnh."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Để thử sức đám phi trùng, Vương Lâm dùng một chút của thứ gì mà hắn chỉ còn lại đúng một đạo?",
+    "options": [
+      "Kiếm khí Lăng Thiên Hậu",
+      "Tia Cực Cảnh trong ngọc giản",
+      "Khí xám sinh tử luân hồi",
+      "Tiên lôi của Tôn Thái"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn ngưng một tia kiếm khí của Lăng Thiên Hậu chạm phi trùng; nó chỉ run lên mà không chết.",
+    "chapter": 635,
+    "source": "Tiên Nghịch ch.635",
+    "evidence": "\"Kiếm khí của Lăng Thiên Hậu hắn chỉ còn lại một đạo\", hắn lấy chưa tới một phần trăm thử nghiệm."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm suy ra trong hai nữ tử đi cùng, Triệu Y Huyên thật ra là gì?",
+    "options": [
+      "Bản thể điều khiển Từ Phi",
+      "Thi khôi của Từ Phi",
+      "Phân thân của Thần Long",
+      "Đệ tử chân chính Phù Vân phái"
+    ],
+    "correctIndex": 1,
+    "explanation": "Từ Phi giấu được thần thức trong sợi tóc nên nàng mới là bản thể, còn Triệu Y Huyên chỉ là thi khôi.",
+    "chapter": 636,
+    "source": "Tiên Nghịch ch.636",
+    "evidence": "Vương Lâm nghĩ: Từ Phi \"mới là bản thể. Còn Triệu Y Huyên chỉ là thi khôi mà thôi\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vương Lâm nhận ra thân phận thật của hai nữ tử nhờ từng thấy cách điều khiển thân xác của ai?",
+    "options": [
+      "Tào Nhất Đấu",
+      "Hứa Lập Quốc",
+      "La Vân",
+      "Tôn Thái"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn nhớ Tôn Thái, lão nô Chu Dật ép theo hắn, có tiểu đồng linh động như một thân thể khác.",
+    "chapter": 636,
+    "source": "Tiên Nghịch ch.636",
+    "evidence": "Hắn nhận ra Từ Phi \"là do năm đó Chu Dật cưỡng bức Tôn Thái trở thành nô lệ\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Dò khắp các khe mà không thấy dấu vết người cần tìm, Vương Lâm thả thứ gì chui vào từng ngóc ngách?",
+    "options": [
+      "Hồn phách trong hồn phiên",
+      "Đám phi trùng đã thuần phục",
+      "Hàng ngàn con rối nhỏ",
+      "Văn thú và Lôi Oa"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn rung Tôn Hồn phiên cho hơn một ngàn hồn phách bay ra tìm kiếm, rồi dùng nguyên thần bám theo quan sát.",
+    "chapter": 636,
+    "source": "Tiên Nghịch ch.636",
+    "evidence": "\"Tôn hồn phiên liền xuất hiện\", rung nhẹ thì \"có hơn một ngàn hồn phách rất mạnh bay ra\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Ý cảnh của Kiếm Tôn Lăng Thiên Hậu, được Vương Lâm thử mượn để đoán nơi giấu phong ấn, mang tính chất gì?",
+    "options": [
+      "Sát lục vô tận",
+      "Si tình bất diệt",
+      "Ngang ngược",
+      "Dự tri tương lai"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ý cảnh của Lăng Thiên Hậu là ngang ngược, lấy sự bá đạo của bản thân đối kháng thiên đạo.",
+    "chapter": 636,
+    "source": "Tiên Nghịch ch.636",
+    "evidence": "\"Ý cảnh của Lăng Thiên Hậu chính là ngang ngược. Lấy sự bá đạo của bản thân mà đối kháng với thiên đạo.\""
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Theo lời Thiên Vận Tử từng nói, bản thân lão đang ở cảnh giới nào?",
+    "options": [
+      "Tịnh niết đại viên mãn",
+      "Khuy niết hậu kỳ",
+      "Vấn Đỉnh đại viên mãn",
+      "Toái niết sơ kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Truyện kể Thiên Vận Tử từng nói mình ở bước cuối của tam cảnh niết bàn, Toái niết sơ kỳ.",
+    "chapter": 636,
+    "source": "Tiên Nghịch ch.636",
+    "evidence": "\"Thiên Vận tử từng nói bản thân đang ở bước cuối cùng của tam cảnh - Toái niết sơ kỳ.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Bộ áo giáp Vương Lâm khoác khi vào khe phong ấn, lúc tan rã thì hóa thành gì để hắn thu lại?",
+    "options": [
+      "Một làn khói tím",
+      "Một sợi tơ đen",
+      "Một mảnh vảy đen",
+      "Một viên ma châu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ma giáp vốn hóa từ sợi tơ đen; khi ma khí tán loạn, nó lại thành sợi tơ đen được thu vào túi trữ vật.",
+    "chapter": 637,
+    "source": "Tiên Nghịch ch.637",
+    "evidence": "Ma giáp \"cũng hóa thành một sợi tơ đen không còn ngưng tụ được nữa\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khi Vương Lâm bước vào khe phong ấn, lớp phòng hộ ngoài cùng của hắn do pháp bảo nào tạo ra?",
+    "options": [
+      "Tôn Hồn phiên",
+      "Bộ ma giáp đen",
+      "Cấm Phiên",
+      "Côn Cực Tiên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngọn phiên tạo mây đen bao phủ; hàng triệu hồn phách ngưng thành màn chắn ngăn thần niệm.",
+    "chapter": 637,
+    "source": "Tiên Nghịch ch.637",
+    "evidence": "\"Tầng ngoài cùng của Vương Lâm chính là tấm màn đen do Hồn phiên tạo ra.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Lần đầu tiên Vương Lâm thả hồn nào bị phong trong nguyên thần ra để cắn nuốt thần niệm của Lăng Thiên Hậu?",
+    "options": [
+      "Hồn Lý Nguyên Phong",
+      "Hồn Tào Nhất Đấu",
+      "Hồn Tán Ma",
+      "Hồn La Vân"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hồn Tán Ma chưa được hạ lạc ấn hoàn toàn, lần đầu được thả ra, bay khỏi mi tâm cắn nuốt thần niệm.",
+    "chapter": 637,
+    "source": "Tiên Nghịch ch.637",
+    "evidence": "\"Hồn của Tán Ma bị phong ấn bên trong Nguyên Thần lần đầu tiên được hắn thả ra.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Sinh ấn vừa vỡ, Vương Lâm thả pháp bảo nào ra để một tia chớp hóa thành lôi thú chắn trước người?",
+    "options": [
+      "Tinh La Bàn",
+      "Khai Thiên Phủ",
+      "Côn Cực Tiên",
+      "Xạ Thần Xa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn vỗ túi trữ vật, Xạ Thần Xa bay ra, tia chớp lóe lên hóa thành lôi thú cản thần niệm.",
+    "chapter": 637,
+    "source": "Tiên Nghịch ch.637",
+    "evidence": "\"Xạ Thần Xa lập tức bay ra. Một tia chớp lóe lên rồi hóa thành lôi thú.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Dù lâu không có tiên ngọc bổ sung, tiên lực của Vương Lâm vẫn liên tục sinh ra nhờ đâu?",
+    "options": [
+      "Vấn Đỉnh chi tinh",
+      "Bốn giọt tiên dịch",
+      "Yêu tinh Yêu Linh",
+      "Linh mạch Luyện Hồn tông"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nhờ bốn giọt tiên dịch có được năm xưa, tiên lực của hắn tự sinh ra như Sinh ấn.",
+    "chapter": 637,
+    "source": "Tiên Nghịch ch.637",
+    "evidence": "\"Do năm đó có được bốn giọt tiên dịch\", tiên lực vẫn không ngừng được sinh ra."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Trận pháp do Lăng Thiên Hậu tự nghĩ ra, giam giữ và bào mòn linh thể bị phong ấn trong khe, có tên là gì?",
+    "options": [
+      "Tru Tiên Diệt Ma đại trận",
+      "Chu Tước kỳ trận",
+      "Luyện Tiên Hóa Ma đại trận",
+      "Thông Thiên Tỏa Linh đại trận"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trận pháp phong ấn và luyện hóa Chu Dật được Lăng Thiên Hậu gọi là Luyện Tiên Hóa Ma đại trận.",
+    "chapter": 638,
+    "source": "Tiên Nghịch ch.638",
+    "evidence": "\"Trận pháp này được hắn gọi là Luyện Tiên Hóa Ma đại trận.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Theo Lăng Thiên Hậu, kiếm linh không thể thoát phong ấn chừng nào trong lòng nó vẫn còn điều gì?",
+    "options": [
+      "Ý muốn chết",
+      "Hận ý với Kiếm Tôn",
+      "Khát vọng báo thù",
+      "Nỗi sợ thiên đạo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lăng Thiên Hậu nghĩ chỉ cần tâm kiếm linh vẫn muốn chết thì không thể giải thoát khỏi phong ấn.",
+    "chapter": 638,
+    "source": "Tiên Nghịch ch.638",
+    "evidence": "\"chỉ cần tâm của Kiếm linh vẫn còn ý muốn chết thì không thể giải thoát khỏi phong ấn\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm không thể vẽ ký hiệu tiên bút quá bảy nét?",
+    "options": [
+      "Tiên lực trong người đã cạn kiệt",
+      "Tiên bút chỉ chứa được bảy phù văn",
+      "Bị kiếm khí Kiếm Tôn áp chế",
+      "Nguyên thần không chia thêm được"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mỗi nét dung nhập một phần nguyên thần; nguyên thần hắn không chia nổi chín phần nên không vẽ được nét thứ tám.",
+    "chapter": 638,
+    "source": "Tiên Nghịch ch.638",
+    "evidence": "Không vẽ được nét thứ tám \"bởi vì nguyên thần của hắn không thể chia được ra thành chín phần\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Theo giao dịch với Lăng Thiên Hậu, tàn hồn cổ yêu ở Thủy Yêu quận muốn biến linh thể bị phong ấn thành gì?",
+    "options": [
+      "Một thanh kiếm Nguyên Thần",
+      "Thân thể cho chính nó",
+      "Trận nhãn của Yêu Linh",
+      "Thức ăn để hồi phục"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cổ yêu Thủy Yêu quận tìm thân thể chịu được yêu lực; khi ánh sáng mi tâm bị nuốt, linh thể sẽ thành thân thể của nó.",
+    "chapter": 638,
+    "source": "Tiên Nghịch ch.638",
+    "evidence": "\"Chỉ cần ánh sáng ở mi tâm của Chu Dật bị thôn phệ là có thể trở thành thân thể của Cổ Yêu.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Lâm cho Chu Dật biết nữ tử hắn vẫn gọi là Đình nhi thật ra có tên là gì?",
+    "options": [
+      "Thanh Sương",
+      "Liễu Mi",
+      "Thủy Nguyệt Nhi",
+      "Bạch Vi"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm nói nàng không phải Đình nhi mà nếu đoán không nhầm thì tên là Thanh Sương.",
+    "chapter": 638,
+    "source": "Tiên Nghịch ch.638",
+    "evidence": "Vương Lâm nói: \"Nàng không phải là Đinh nhi... tên của nàng là Thanh Sương.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Lâm cho Chu Dật biết nữ tử áo trắng hắn yêu là con gái của ai?",
+    "options": [
+      "Tiên quân Hoàng Long",
+      "Tiên đế Tử Hư",
+      "Tiên đế Thanh Lâm",
+      "Tiên Vương Vân Tước"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm ném ngọc giản của Thanh Lâm và nói nàng là nhi nữ của tiên đế Thanh Lâm, cường giả đệ nhất Tiên giới.",
+    "chapter": 639,
+    "source": "Tiên Nghịch ch.639",
+    "evidence": "\"Nhi nữ của tiên đế Thanh Lâm. Thanh Lâm là cường giả đệ nhất của Tiên giới.\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Theo lời đồn Vương Lâm kể, khi Tiên giới vỡ nát, phụ thân nữ tử áo trắng đã ẩn mình ở đâu?",
+    "options": [
+      "Một động phủ ở Yêu Linh",
+      "Đáy hố sâu Triều Tịch vực",
+      "Tẩm cung Tiên Vương",
+      "Một mảnh vỡ Tiên giới"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nghe đồn người đó chạy ra, ẩn trong một động phủ nơi mảnh đất Yêu Linh để chữa thương.",
+    "chapter": 639,
+    "source": "Tiên Nghịch ch.639",
+    "evidence": "Vương Lâm kể: \"ẩn giấu trong một động phủ nơi mảnh đất Yêu Linh này để chữa thương\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Thoát khỏi phong ấn, Chu Dật nhờ Vương Lâm giữ giùm vật gì?",
+    "options": [
+      "Ngọc giản của Thanh Lâm",
+      "Vấn Đỉnh chi tinh",
+      "Thanh kiếm tiên nữ tu",
+      "Bảo tháp"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chu Dật nhìn bảo tháp thật sâu rồi đưa cho Vương Lâm, nhờ hắn giữ.",
+    "chapter": 639,
+    "source": "Tiên Nghịch ch.639",
+    "evidence": "Chu Dật cầm bảo tháp đưa cho Vương Lâm: \"Vương Lâm! Giúp ta giữ nó.\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Chu Dật truyền cho kiếm linh trong thanh kiếm tiên của Vương Lâm thứ gì?",
+    "options": [
+      "Bản mệnh kiếm khí",
+      "Kiếm ý thời viễn cổ",
+      "Kiếm khí Lăng Thiên Hậu",
+      "Thần thông Vũ tiên kiếm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chu Dật cho Hứa Lập Quốc cùng cảm thụ kiếm ý từ thời viễn cổ để dần điều khiển được kiếm tiên.",
+    "chapter": 639,
+    "source": "Tiên Nghịch ch.639",
+    "evidence": "Chu Dật nói có thể khiến hắn \"cùng với ta cảm thụ kiếm ý từ thời viễn cổ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Phòng khi kiếm linh dễ đổi lòng của Vương Lâm phản chủ, Chu Dật đã làm gì?",
+    "options": [
+      "Giữ lại một đạo kiếm khí canh giữ",
+      "Phong ấn một nửa hồn phách nó",
+      "Để lạc ấn khiến truyền thừa cắn trả",
+      "Giao cho Vương Lâm khẩu quyết diệt hồn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Khi truyền thừa, Chu Dật để lại lạc ấn; nếu kiếm linh phản bội, truyền thừa sẽ cắn trả.",
+    "chapter": 639,
+    "source": "Tiên Nghịch ch.639",
+    "evidence": "\"ta đã để lại một chút lạc ấn. Nếu sau này hắn phản bội ngươi, truyền thừa sẽ cắn trả.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vỗ lên thanh kiếm tiên của Vương Lâm, Chu Dật đã ban cho hắn đại lễ gì?",
+    "options": [
+      "Xóa lạc ấn, kiếm thuộc hắn mãi",
+      "Truyền một đạo bản mệnh kiếm khí",
+      "Gắn thêm thần thức Vấn Đỉnh",
+      "Nâng kiếm lên hàng tiên khí"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chu Dật phá lạc ấn trên tiên kiếm; từ nay kiếm linh Vũ tiên kiếm cũng không điều khiển được thanh kiếm ấy.",
+    "chapter": 640,
+    "source": "Tiên Nghịch ch.640",
+    "evidence": "Chu Dật \"phá bỏ lạc ấn trên tiên kiếm\"; Vũ tiên kiếm chỉ còn ba thanh, thanh này thuộc về Vương Lâm."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Chu Dật đưa Vương Lâm xuống đáy vực để tặng lễ vật thứ ba vì cảm nhận được hơi thở của gì?",
+    "options": [
+      "Tiên đế đang ẩn mình chữa thương",
+      "Tàn hồn cổ yêu Thủy Yêu quận",
+      "Một vị Tiên quân bị trọng thương",
+      "Một đời kiếm linh Vũ tiên kiếm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chu Dật nói dưới đáy vực có hơi thở của một đời kiếm linh Vũ tiên kiếm, nên dẫn Vương Lâm đi nhận lễ vật thứ ba.",
+    "chapter": 640,
+    "source": "Tiên Nghịch ch.640",
+    "evidence": "\"Dưới đáy vực sâu này ta có thể cảm giác được hơi thở một đời kiếm linh của Vũ tiên kiếm.\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Vương Lâm đoán cái hố sâu giữa hành lang uốn lượn ở đáy vực là nguồn gốc của hiện tượng gì?",
+    "options": [
+      "Yêu khí tràn khắp chín quận",
+      "Thủy triều ngoài Đông Hải",
+      "Đàn Văn Thú lông đen",
+      "Mây mù quanh năm ở Vân Hải"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hố sâu cứ năm ngàn năm bộc phát lực hút, tạo ra thủy triều kéo vô số sinh vật tới đây.",
+    "chapter": 640,
+    "source": "Tiên Nghịch ch.640",
+    "evidence": "Vương Lâm đoán \"thủy triều ngoài Đông Hải chình là do cái hố sâu\" này phát ra."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Ở đáy vực, tiếng nói yếu ớt giục Vương Lâm đi xuống hố sâu thật ra phát ra từ đâu?",
+    "options": [
+      "Thanh kiếm tiên chứa Chu Dật",
+      "Chính cái hố sâu ấy",
+      "Bức tranh bí ẩn trong túi",
+      "Quả cầu cấm chế giam Đỗ Kiến"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tiếng nói không từ hố mà từ bức tranh có được ở Chu Tước tinh, nơi hiện bóng một nữ tử.",
+    "chapter": 640,
+    "source": "Tiên Nghịch ch.640",
+    "evidence": "Thanh âm \"không phải từ trong cái hố phát ra mà là từ trong túi trữ vật\"; bức tranh tự mở ra."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Khi lực hút từ hố sâu tăng dần, làn sương tím trào ra từ hố chịu tác động thế nào?",
+    "options": [
+      "Không hề bị ảnh hưởng",
+      "Bị hút ngược vào hố",
+      "Đặc lại thành rồng tím",
+      "Tan biến trong chốc lát"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lực hút trong hố tăng lên nhưng lại không có hiệu quả đối với làn sương tím.",
+    "chapter": 640,
+    "source": "Tiên Nghịch ch.640",
+    "evidence": "\"lực hút đó lại không có hiệu quả đối với làn sương.\""
+  }
+]

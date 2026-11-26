@@ -1,0 +1,369 @@
+[
+  {
+    "topic": "cot_truyen", "difficulty": "de",
+    "question": "Không hiểu tiếng của quái nhân da lam, Vương Lâm giao tiếp với hắn bằng cách nào?",
+    "options": ["Vẽ tranh lên một bức tường đổ", "Truyền âm bằng thần thức", "Khắc chữ vào ngọc giản", "Ra hiệu bằng phi kiếm"],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm dùng ngón tay vẽ lên bức tường đổ để chia ranh giới và cảnh cáo quái nhân.",
+    "chapter": 89, "source": "Tiên Nghịch ch.89",
+    "evidence": "Vương Lâm đi tới bức tường đổ, dùng ngón tay vẽ đống đổ nát rồi vạch làm hai, chỉ phần của mình và của quái nhân."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "de",
+    "question": "Quái nhân da lam nhấc bổng thứ gì của Vương Lâm lên đỉnh đầu rồi mang đi?",
+    "options": ["Thanh tiểu kiếm màu xanh", "Tiểu mê tung trận pháp", "Viên thạch châu", "Túi trữ vật"],
+    "correctIndex": 1,
+    "explanation": "Quái nhân làm mặt đất nhô lên, nâng cả tiểu mê tung trận pháp như ngọn núi rồi bỏ đi.",
+    "chapter": 89, "source": "Tiên Nghịch ch.89",
+    "evidence": "Mặt đất chỗ tiểu mê tung trận pháp nhô lên; quái nhân giơ nó lên đỉnh đầu, gật đầu rồi rời đi."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Hạt châu nứt nẻ mà quái nhân ném cho Vương Lâm có công dụng gì?",
+    "options": ["Chữa lành mọi thương thế", "Che giấu hơi thở chủ nhân", "Huyễn hóa một lão cao thủ giả để dọa người", "Hấp thu khí âm hàn"],
+    "correctIndex": 2,
+    "explanation": "Đó là pháp bảo huyễn thuật, rót linh lực vào sẽ hiện ra một lão nhân bạch y trông như cao thủ thật.",
+    "chapter": 89, "source": "Tiên Nghịch ch.89",
+    "evidence": "Khói trắng từ hạt châu hóa thành lão già bạch y; Vương Lâm nhận ra đây là pháp bảo huyễn thuật, dùng để dọa người rất tốt."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Khi Vương Lâm rót thêm linh lực tối đa, lão nhân huyễn ảnh trong hạt châu tuyên bố điều gì?",
+    "options": ["Dưới Nguyên Anh kỳ không xứng đấu với lão", "Dưới Trúc Cơ kỳ không xứng đấu với lão", "Dưới Hóa Thần kỳ không xứng đấu với lão", "Dưới Kết Đan kỳ không xứng đấu với lão"],
+    "correctIndex": 3,
+    "explanation": "Lão nhân chắp tay sau lưng, hờ hững nói người dưới Kết Đan kỳ không có tư cách đánh với lão.",
+    "chapter": 89, "source": "Tiên Nghịch ch.89",
+    "evidence": "Tu vi lão nhân tăng tới mức Vương Lâm không nhận ra, rồi nói: \"Dưới Kết Đan kỳ không có tư cách đánh một trận với lão phu\"."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "kho",
+    "question": "Theo Hoàng Tuyền thăng khiếu quyết, ba đại khiếu huyệt cần phá lần lượt gồm những huyệt nào?",
+    "options": ["Mệnh Môn, Khí Hải, Tổ Khiếu", "Đan Điền, Bách Hội, Tổ Khiếu", "Đan Điền, Khí Hải, Tổ Khiếu", "Đan Điền, Khí Hải, Thiên Linh"],
+    "correctIndex": 2,
+    "explanation": "Tam đại khiếu huyệt là Đan Điền ở bụng, Khí Hải ở ngực và Tổ Khiếu ở não.",
+    "chapter": 89, "source": "Tiên Nghịch ch.89",
+    "evidence": "Vị trí tam đại khiếu huyệt chia làm đan điền ở bụng, Khí Hải ở ngực, Tổ khiếu ở não; phải phá theo thứ tự mới tạo được hàn đan."
+  },
+
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Khi dòng suối âm hàn trong cơ thể mất kiểm soát, vì sao Tư Đồ Nam không giúp Vương Lâm?",
+    "options": ["Lão đã rời đi tìm thân thể mới", "Lão đang ngủ say", "Lão bị Đằng gia phong ấn", "Lão cố ý muốn thử thách hắn"],
+    "correctIndex": 1,
+    "explanation": "Lúc đó Tư Đồ Nam đang ngủ say nên mọi việc đều do Vương Lâm tự quyết.",
+    "chapter": 90, "source": "Tiên Nghịch ch.90",
+    "evidence": "Hiện tượng không có trong công pháp; mà lúc này \"Tư Đồ Nam đang ngủ say\", tất cả phải dựa vào Vương Lâm."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "de",
+    "question": "Sau một đêm hấp thu khí âm hàn và ngưng tụ hàn đan, linh lực Vương Lâm đạt mức nào?",
+    "options": ["Trúc Cơ sơ kỳ đỉnh phong", "Trúc Cơ trung kỳ", "Ngưng Khí tầng thứ mười lăm", "Trúc Cơ hậu kỳ"],
+    "correctIndex": 0,
+    "explanation": "Âm hàn linh lực gần như gấp đôi trước, đạt tới Trúc Cơ sơ kỳ đỉnh phong.",
+    "chapter": 90, "source": "Tiên Nghịch ch.90",
+    "evidence": "Vương Lâm cảm nhận âm hàn linh lực gần như gấp đôi lúc trước, đạt tới Trúc Cơ sơ kỳ đỉnh phong."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Lão tổ Đằng Hóa Nguyên lần theo dấu Vương Lâm tới khu rừng nhờ vào điều gì?",
+    "options": ["Mùi máu còn sót lại", "La bàn truy tung của Đằng gia", "Tin báo của tán tu", "Cảm ứng theo trớ chú"],
+    "correctIndex": 3,
+    "explanation": "Đằng Hóa Nguyên cảm ứng theo trớ chú mà bám theo, nhưng bị như sương mù ngăn nên không xác định được chính xác.",
+    "chapter": 90, "source": "Tiên Nghịch ch.90",
+    "evidence": "Trên đường lão cảm ứng theo trớ chú mà bám theo, chỉ biết đối phương ở dưới đám cây cối."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Vì sao sau đêm trùng khiếu, Vương Lâm quyết định đổi chỗ tu luyện?",
+    "options": ["Quái nhân da lam liên tục quấy nhiễu", "Đằng gia đã phát hiện vị trí của hắn", "Khí âm hàn tại đó chất lượng thấp", "Trận pháp bảo vệ đã bị phá hủy"],
+    "correctIndex": 2,
+    "explanation": "Khí âm hàn hút được nhiều nhưng phẩm chất không cao, không giúp tăng xác suất trùng khiếu thành công.",
+    "chapter": 90, "source": "Tiên Nghịch ch.90",
+    "evidence": "Vương Lâm thì thào: đêm qua hấp thu không ít khí âm hàn nhưng chất lượng không cao, không thỏa mãn yêu cầu trùng khiếu."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "kho",
+    "question": "Theo Tư Đồ Nam, những tầng nào của Hoàng Tuyền thăng khiếu quyết khó luyện nhất?",
+    "options": ["Tầng một, ba và năm", "Tầng một, bốn và bảy", "Tầng ba, sáu và chín", "Tầng hai, năm và tám"],
+    "correctIndex": 1,
+    "explanation": "Tầng một, bốn, bảy khó vì lần lượt phải đột phá Đan Điền, Khí Hải và Tổ Khiếu.",
+    "chapter": 90, "source": "Tiên Nghịch ch.90",
+    "evidence": "Tư Đồ Nam từng chỉ ra tầng thứ nhất, thứ tư và thứ bảy rất khó vì lần lượt đột phá vào Đan Điền, Khí Hải, Tổ Khiếu."
+  },
+
+  {
+    "topic": "canh_gioi", "difficulty": "de",
+    "question": "Kẻ giấu mình trong hắc vụ khiến Đằng Hóa Nguyên phải bỏ chạy có tu vi gì?",
+    "options": ["Kết Đan hậu kỳ", "Nguyên Anh sơ kỳ", "Nguyên Anh hậu kỳ", "Nguyên Anh trung kỳ"],
+    "correctIndex": 3,
+    "explanation": "Thần thức Đằng Hóa Nguyên quét qua và hoảng sợ khi thấy đối phương là Nguyên Anh trung kỳ.",
+    "chapter": 91, "source": "Tiên Nghịch ch.91",
+    "evidence": "Tu vi của đối phương không ngờ lại là Nguyên Anh trung kỳ; Đằng Hóa Nguyên biết mình không chống lại được nên chạy."
+  },
+  {
+    "topic": "khac", "difficulty": "de",
+    "question": "Sau khi khai thông huyệt Khí Hải, Vương Lâm điểm nhẹ vào hòn đá bằng linh lực mới. Hòn đá biến thành gì?",
+    "options": ["Một khối băng thật sự", "Tro bụi tan biến", "Một khối ngọc trong suốt", "Đá nóng chảy đỏ rực"],
+    "correctIndex": 0,
+    "explanation": "Linh lực màu lam không chỉ đóng băng hòn đá mà còn biến cấu trúc bên trong thành băng.",
+    "chapter": 91, "source": "Tiên Nghịch ch.91",
+    "evidence": "Hòn đá bị đóng băng; đá vỡ ra thì bên trong không còn là đá mà là những cục băng mỏng."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Nam tử như bộ xương khô hứa gì với thi mị nếu nó tìm được Nguyên Anh của chủ nhân?",
+    "options": ["Trả lại tự do cho nó", "Giúp nó tiến hóa thành thi ma", "Truyền cho nó công pháp Thi Âm tông", "Cho nó nuốt Nguyên Anh đó"],
+    "correctIndex": 1,
+    "explanation": "Hắn nói sau khi nuốt Nguyên Anh và được tự do sẽ giúp thi mị tiến hóa thành thi ma.",
+    "chapter": 91, "source": "Tiên Nghịch ch.91",
+    "evidence": "Nếu tìm được nguyên anh của chủ nhân, sau khi ta nuốt nó, chiếm được tự do, \"sẽ giúp ngươi tiến hóa thành thi ma\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Theo truyện, nguyên nhân mấu chốt khiến linh lực Vương Lâm biến dị theo hướng Cực cảnh là gì?",
+    "options": ["Giọt sương âm hàn trong phế khu", "Tiểu kiếm màu xanh biếc", "Nghịch Thiên châu", "Hàn đan của Tư Đồ Nam"],
+    "correctIndex": 2,
+    "explanation": "Truyện nói rõ việc linh lực đi theo Cực cảnh có nguyên nhân mấu chốt từ Nghịch Thiên châu.",
+    "chapter": 91, "source": "Tiên Nghịch ch.91",
+    "evidence": "Bản công pháp Tư Đồ Nam truyền đã bị thất bản; còn về linh lực theo Cực cảnh thì mấu chốt là từ Nghịch Thiên châu."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "kho",
+    "question": "Vì sao người tu luyện thời thượng cổ không chọn Cực cảnh linh lực dù sức công kích rất cao?",
+    "options": ["Thuộc tính chỉ đi một đường, khó bước vào Hóa Thần", "Linh lực dễ phản phệ gây bạo thể", "Không thể sử dụng bất kỳ pháp bảo nào", "Tuổi thọ bị rút ngắn một nửa"],
+    "correctIndex": 0,
+    "explanation": "Cực cảnh không dung hợp được thuộc tính khác, trong khi Hóa Thần cần hòa với thiên địa thành tuần hoàn.",
+    "chapter": 91, "source": "Tiên Nghịch ch.91",
+    "evidence": "Khuyết điểm trí mạng: thuộc tính linh lực chỉ đi một con đường, không dung hợp được, thành vấn đề khi đột phá Hóa Thần kỳ."
+  },
+
+  {
+    "topic": "khac", "difficulty": "de",
+    "question": "Vương Lâm đặt tên gì cho thứ linh lực biến dị có thể làm thay đổi kết cấu vật chất?",
+    "options": ["Hoàng Tuyền linh lực", "Huyền Băng chân khí", "Cực Âm linh lực", "Âm Hàn kiếm khí"],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm hài lòng với uy lực của nó và đặt tên là Cực Âm linh lực.",
+    "chapter": 92, "source": "Tiên Nghịch ch.92",
+    "evidence": "Đối với thứ linh lực biến dị có thể thay đổi kết cấu vật chất, Vương Lâm đặt tên cho nó là Cực Âm linh lực."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "de",
+    "question": "Pho tượng nam tử tóc dài trồi lên ở trung tâm phế thành có con vật gì quấn quanh?",
+    "options": ["Một con mãng xà", "Một con hỏa phượng", "Một con bạch hổ", "Một con cự long"],
+    "correctIndex": 3,
+    "explanation": "Pho tượng cầm trường thương, có một con cự long dữ tợn quấn quanh thân.",
+    "chapter": 92, "source": "Tiên Nghịch ch.92",
+    "evidence": "Pho tượng cao chừng trăm thước nắm trường thương; một con cự long quấn quanh thân, miệng há ra dữ tợn."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Trước khi tung quyền đọ sức với Vương Lâm, quái nhân da lam thốt ra chữ nào mà hắn nghe hiểu?",
+    "options": ["Kính", "Cực", "Phá", "Sát"],
+    "correctIndex": 0,
+    "explanation": "Quái nhân nói chữ Kính rồi đánh ra một quyền mang lực đạo cổ quái; chữ Cực là nói sau khi trúng linh lực.",
+    "chapter": 92, "source": "Tiên Nghịch ch.92",
+    "evidence": "Vương Lâm nghe hiểu được một chữ \"Kính\", rồi quái nhân nắm chặt tay đánh ra một quyền nhanh như lưu tinh."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Quái nhân dẫn Vương Lâm đi kích hoạt các viên thạch châu trên tháp để làm gì?",
+    "options": ["Mở truyền tống trận ra ngoài", "Phóng cột sáng hội tụ về trung tâm thành", "Xua tan sương mù trong rừng", "Phong ấn thi khôi trong quan tài"],
+    "correctIndex": 1,
+    "explanation": "Mỗi thạch châu phát một cột sáng chiếu về trung tâm; tám cột sáng hội tụ làm pho tượng trồi lên.",
+    "chapter": 92, "source": "Tiên Nghịch ch.92",
+    "evidence": "Thạch châu tỏa quang mang, một cột sáng thẳng tắp chiếu về trung tâm; tám cột sáng hội tụ vào pho tượng."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "kho",
+    "question": "Quang cầu thử khí âm hàn nổ tung trên đầu cự long chứng tỏ nơi đó đạt phẩm chất nào?",
+    "options": ["Trầm âm ngũ phẩm", "Thượng giai bát phẩm", "Địa Âm nhất phẩm", "Tuyệt âm thập phẩm"],
+    "correctIndex": 3,
+    "explanation": "Quang cầu nổ chứng tỏ đã đạt cực hạn của Hoàng âm chi địa là Tuyệt âm thập phẩm.",
+    "chapter": 92, "source": "Tiên Nghịch ch.92",
+    "evidence": "Quang cầu đỏ đến cực hạn rồi nổ, chứng tỏ đạt tới cực hạn của Hoàng âm chi địa - Tuyệt âm thập phẩm."
+  },
+
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Nguyên Anh nhỏ bé trốn trong pho tượng tự xưng là ai?",
+    "options": ["Dạ Tự Tại", "Ngô Vũ", "Mộc Nhũng", "Đằng Hóa Nguyên"],
+    "correctIndex": 1,
+    "explanation": "Người tí hon đó tự giới thiệu là Ngô Vũ, một lão tổ của Thi Âm tông.",
+    "chapter": 93, "source": "Tiên Nghịch ch.93",
+    "evidence": "\"Lão phu là Ngô Vũ! Không biết tiểu hữu có nghe nói tới Thi Âm tông hay không?\""
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Ngô Vũ gọi quái nhân da lam mang chín tấm phù bằng cái tên nào?",
+    "options": ["Tiểu Lam", "La Sát", "A Ngốc", "Thi mị"],
+    "correctIndex": 2,
+    "explanation": "Ngô Vũ ngồi trên vai quái nhân và gọi hắn là A Ngốc.",
+    "chapter": 93, "source": "Tiên Nghịch ch.93",
+    "evidence": "Người đó vỗ quái nhân một cái, nói: \"A ngốc! Không được vô lễ với khách nhân.\""
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Theo lời Ngô Vũ, con thi mị đi cùng thi khôi thực chất là gì?",
+    "options": ["Thân thể cũ của chính Ngô Vũ", "Một đệ tử Thi Âm tông bị luyện hóa", "Xác của quái thú trong phế thành", "Phân thân của thi khôi"],
+    "correctIndex": 0,
+    "explanation": "Ngô Vũ bỏ thân thể để Nguyên Anh chạy trốn; thân thể ấy dưới khí âm hàn sinh ra thần trí thành thi mị.",
+    "chapter": 93, "source": "Tiên Nghịch ch.93",
+    "evidence": "\"Cái thi mị bên ngoài kia chính là thân thể của ta\", không ngờ dưới tác dụng khí âm hàn cũng sinh thần trí."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Vì sao thi khôi phản chủ vẫn phải tìm cách nuốt Nguyên Anh của Ngô Vũ?",
+    "options": ["Để đột phá lên Hóa Thần kỳ", "Để đoạt lấy công pháp Thi Âm tông", "Để rời xa chủ quá trăm dặm mà không tiêu tan", "Để trả thù cho thi mị"],
+    "correctIndex": 2,
+    "explanation": "Thi khôi cách chủ quá trăm dặm sẽ tan biến; chỉ nuốt Nguyên Anh, phá phong ấn mới thoát được trói buộc.",
+    "chapter": 93, "source": "Tiên Nghịch ch.93",
+    "evidence": "Nếu rời khỏi ta quá trăm dặm lập tức tan thành mây khói; cách duy nhất là nuốt Nguyên Anh, phá phong ấn trong cơ thể."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "kho",
+    "question": "Vì sao Ngô Vũ không thể nhân lúc thi khôi nghỉ ngơi trăm năm để trốn khỏi khu rừng?",
+    "options": ["Pho tượng không cho Nguyên Anh rời đi", "A Ngốc canh giữ không cho đi", "Thi mị luôn bám theo cảm ứng", "Sương mù trong rừng ăn mòn thân Nguyên Anh"],
+    "correctIndex": 3,
+    "explanation": "Rừng bị sương mù bao phủ, thứ sương này ăn mòn Nguyên Anh, dính một chút cũng không chịu nổi.",
+    "chapter": 93, "source": "Tiên Nghịch ch.93",
+    "evidence": "Ta đã thử vô số lần, nhưng rừng cây bị sương mù bao phủ, có tác dụng ăn mòn với thân thể Nguyên Anh."
+  },
+
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Ngô Vũ khẩn cầu Vương Lâm đến Thi Âm tông tìm ai tới cứu mình?",
+    "options": ["Sư huynh Dạ Tự Tại", "Trưởng lão Mộc Nhũng", "Lão tổ Đằng Hóa Nguyên", "Thủy lão tổ"],
+    "correctIndex": 0,
+    "explanation": "Ngô Vũ nhờ Vương Lâm tìm sư huynh Dạ Tự Tại ở Thi Âm tông.",
+    "chapter": 94, "source": "Tiên Nghịch ch.94",
+    "evidence": "\"Khẩn cầu tiểu hữu đi một chuyến tới Thi Âm tông, tìm sư huynh Dạ Tự Tại tới cứu ta.\""
+  },
+  {
+    "topic": "dia_danh", "difficulty": "de",
+    "question": "Thi Âm tông là tông phái ma đạo ở Triệu quốc, thực lực kém hơn ma đạo đệ nhất tông nào?",
+    "options": ["Hợp Hoan tông", "Vô Phong Cốc", "Thiên Đạo môn", "Hằng Nhạc phái"],
+    "correctIndex": 2,
+    "explanation": "Thi Âm tông kém Thiên Đạo môn, ma đạo đệ nhất tông, nhưng hơn ở sự thần bí.",
+    "chapter": 94, "source": "Tiên Nghịch ch.94",
+    "evidence": "Thực lực tuy kém hơn Ma Đạo đệ nhất tông - Thiên Đạo môn, nhưng lại hơn ở sự thần bí khó lường."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "vua",
+    "question": "Để thuyết phục Vương Lâm, Ngô Vũ nói Thi Âm tông có chỗ bế quan thuộc loại cực âm chi địa nào?",
+    "options": ["Thiên Âm chi địa", "Địa Âm chi địa", "Huyền Âm chi địa", "Hoàng Âm chi địa"],
+    "correctIndex": 1,
+    "explanation": "Nơi phế thành chỉ là Hoàng Âm chi địa, còn Thi Âm tông có chỗ bế quan là Địa Âm chi địa.",
+    "chapter": 94, "source": "Tiên Nghịch ch.94",
+    "evidence": "Khí âm hàn ở đây thuộc Hoàng Âm chi địa; \"Thi Âm tông có một chỗ bế quan chính là Địa Âm chi địa\"."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "vua",
+    "question": "Sơn môn bí ẩn của Thi Âm tông Triệu quốc thực ra nằm ở đâu?",
+    "options": ["Trong rừng cây có sương mù ăn mòn", "Trên đỉnh núi tuyết phía bắc Triệu quốc", "Trong phế thành dưới pho tượng cự long", "Dưới chiểu trạch giữa bình nguyên cực tây"],
+    "correctIndex": 3,
+    "explanation": "Giữa bình nguyên âm hàn ở cực tây Triệu quốc có chiểu trạch, bên dưới là hệ thống động ngầm làm sơn môn.",
+    "chapter": 94, "source": "Tiên Nghịch ch.94",
+    "evidence": "Ở cực tây Triệu quốc có bình nguyên; trong sương mù có chiểu trạch, dưới đó là vô số động, chính là sơn môn Thi Âm tông."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "kho",
+    "question": "Sự kiện năm trăm năm trước nào khiến tu chân giới Triệu quốc chấn động về Thi Âm tông?",
+    "options": ["Một đệ tử Trúc Cơ hậu kỳ mang thi khôi Nguyên Anh kỳ", "Thi Âm tông bị chính đạo liên minh diệt môn", "Một lão tổ tông này đột phá Hóa Thần", "Ma đạo phá cấm chế lấy được bảo vật"],
+    "correctIndex": 0,
+    "explanation": "Một đệ tử mới Trúc Cơ hậu kỳ lại có thi khôi thực lực Nguyên Anh, khiến người tu vi thấp đều mơ vào tông.",
+    "chapter": 94, "source": "Tiên Nghịch ch.94",
+    "evidence": "Năm trăm năm trước, một đệ tử Trúc Cơ hậu kỳ của Thi Âm tông lại mang theo một thi khôi có thực lực Nguyên Anh kỳ."
+  },
+
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Khi được hỏi ai cho mở trận pháp, Vương Lâm tự nhận mình là gì của Ngô Vũ?",
+    "options": ["Sư điệt", "Bằng hữu", "Đệ tử", "Người hầu"],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm trả lời ngắn gọn rằng mình là đệ tử của Ngô Vũ, đúng như Ngô Vũ đã dặn.",
+    "chapter": 95, "source": "Tiên Nghịch ch.95",
+    "evidence": "Lão giả hỏi: Ngươi là gì của hắn? Vương Lâm đáp: \"Đệ tử.\""
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Vị trưởng lão Trúc Cơ trung kỳ ngồi trên cột đá giữa động, tiếp đón Vương Lâm, tên là gì?",
+    "options": ["Lâm Dịch", "Mộc Nhũng", "Dạ Tự Tại", "Ngô Vũ"],
+    "correctIndex": 1,
+    "explanation": "Lão giả tự xưng vãn bối Mộc Nhũng và sau đó liên lạc với Dạ lão tổ.",
+    "chapter": 95, "source": "Tiên Nghịch ch.95",
+    "evidence": "Lão giả vội cười nói: \"Nguyên lai là sư thúc về tông, vãn bối Mộc Ngung\", về sau được gọi là Mộc Nhũng."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Theo Mộc Nhũng, Lam Viêm Ma hỏa trên các cột đá được tạo thành từ gì?",
+    "options": ["Nguyên Anh của một lão ma", "Tinh huyết của thi khôi cấp cao", "Khí âm hàn ở Địa Âm chi địa", "Kim đan của cao thủ Kết Đan chính đạo"],
+    "correctIndex": 3,
+    "explanation": "Ma hỏa này do kim đan của cao thủ Kết Đan kỳ thuộc chánh đạo liên minh biến thành, được Dạ Tự Tại tế luyện.",
+    "chapter": 95, "source": "Tiên Nghịch ch.95",
+    "evidence": "Lam Viêm Ma hỏa do kim đan của cao thủ kết đan kỳ chánh đạo liên minh biến thành, sau được Dạ Tự Tại tế luyện."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Thanh niên dẫn đường nói chỉ thi khôi nào mới có linh tính sánh được với A Ngốc?",
+    "options": ["Phi Thiên La Sát", "Huyết Thi Vương", "Cửu U Quỷ Tướng", "Âm Hồn Thi Tôn"],
+    "correctIndex": 0,
+    "explanation": "Thanh niên kinh ngạc nói thi khôi linh tính như vậy chỉ có Phi Thiên La Sát mới so được.",
+    "chapter": 95, "source": "Tiên Nghịch ch.95",
+    "evidence": "\"Thi khôi có linh tính như vậy chỉ có Phi Thiên La Sát của Thủy lão tổ mới có thể so sánh.\""
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "kho",
+    "question": "Hành động nào của Vương Lâm xóa tan nghi ngờ cuối cùng của Mộc Nhũng?",
+    "options": ["Nhìn thấu tu vi thi khôi trong quan tài", "Làm trận pháp lóe bốn mươi ba đạo sáng", "Ngưng khói của Lam Viêm Ma hỏa thành cầu nhỏ", "Đưa ra tín vật của Ngô Vũ"],
+    "correctIndex": 2,
+    "explanation": "Dùng linh lực âm hàn ngưng khói lam thành tiểu cầu khiến Mộc Nhũng tin hắn được Ngô Vũ ưu ái.",
+    "chapter": 95, "source": "Tiên Nghịch ch.95",
+    "evidence": "Khói lam bị linh lực âm hàn thu thành tiểu cầu; một tia hoài nghi cuối cùng của Mộc Nhũng bị hành động này triệt tiêu."
+  },
+
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Sau khi nghe Vương Lâm kể chuyện, Dạ Tự Tại muốn nhận ai làm đệ tử và đưa đi?",
+    "options": ["Mộc Nhũng", "Thanh niên dẫn đường", "Thi mị", "A Ngốc"],
+    "correctIndex": 3,
+    "explanation": "Dạ Tự Tại nói A Ngốc có thể chất hợp công pháp Thi Âm tông và muốn nhận hắn làm đệ tử.",
+    "chapter": 96, "source": "Tiên Nghịch ch.96",
+    "evidence": "\"A Ngốc này đi theo ta\"... \"ta sẽ không hại hắn, ta muốn nhận hắn làm đệ tử.\""
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Trong Thi Âm tông, ngọc giản thân phận màu lam đậm mà Vương Lâm nhận được thuộc về cấp bậc nào?",
+    "options": ["Lão tổ", "Sư tổ", "Trưởng lão", "Đệ tử"],
+    "correctIndex": 1,
+    "explanation": "Lão tổ dùng ngọc giản xanh, sư tổ lam đậm, trưởng lão lam nhạt, đệ tử màu trắng.",
+    "chapter": 96, "source": "Tiên Nghịch ch.96",
+    "evidence": "Mộc Nhũng giải thích: lão tổ là ngọc giản màu xanh, sư tổ có ngọc giản màu lam đậm, trưởng lão lam nhạt, đệ tử trắng."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "vua",
+    "question": "Theo môn quy Thi Âm tông, đệ tử sau ba mươi năm chưa đạt cảnh giới nào sẽ bị luyện thành thi khôi?",
+    "options": ["Trúc Cơ kỳ", "Kết Đan kỳ", "Ngưng Khí tầng mười", "Nguyên Anh kỳ"],
+    "correctIndex": 0,
+    "explanation": "Mười năm chưa Ngưng Khí tầng mười, ba mươi năm chưa Trúc Cơ, trăm năm chưa Kết Đan đều bị luyện thành thi khôi.",
+    "chapter": 96, "source": "Tiên Nghịch ch.96",
+    "evidence": "Trong mười năm chưa đạt Ngưng Khí tầng mười, ba mươi năm chưa tới Trúc Cơ, trăm năm chưa Kết Đan đều bị luyện thành thi khôi."
+  },
+  {
+    "topic": "khac", "difficulty": "de",
+    "question": "Điều gì khiến đệ tử Thi Âm tông không dám phản kháng môn quy tàn khốc?",
+    "options": ["Bị trúng cổ độc khi nhập môn", "Thi khôi của họ luôn giám sát", "Một tia hồn phách bị phong ấn trong ngọc giản", "Họ không thể rời khỏi lòng đất"],
+    "correctIndex": 2,
+    "explanation": "Khi nhập môn, đệ tử bị hút một tia hồn phách phong ấn vào ngọc giản, bị cấp trên khống chế từng tầng.",
+    "chapter": 96, "source": "Tiên Nghịch ch.96",
+    "evidence": "Các đệ tử khi vào cửa đều bị hút mất một tia hồn phách đem phong ấn trong ngọc giản; tầng tầng khống chế."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "kho",
+    "question": "Bóng người hư ảo chui ra từ cơ thể Dạ Tự Tại và gọi hắn là lô đỉnh thực chất là gì?",
+    "options": ["Tàn hồn của Ngô Vũ", "Tâm ma do tu luyện sinh ra", "Sứ giả Thi Âm tông ngũ cấp quốc", "Thi khôi La Sát đã sinh ý thức"],
+    "correctIndex": 3,
+    "explanation": "Thi khôi La Sát của Dạ Tự Tại sinh ra ý thức và đang dần thôn phệ chủ nhân của nó.",
+    "chapter": 96, "source": "Tiên Nghịch ch.96",
+    "evidence": "Dạ Tự Tại gọi bóng người là La Sát; đúng lúc hắn tới Nguyên Anh, thi khôi sinh ra ý thức, bắt đầu thôn phệ hắn."
+  }
+]

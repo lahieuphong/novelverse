@@ -1,0 +1,1202 @@
+[
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Tôn Hạo xung phong lên đài, định dựa vào món đồ mua từ Lý Sơn để giữ thể diện. Đó là gì?",
+    "options": [
+      "Phích Lịch đạn",
+      "Linh Tuyền thủy",
+      "Tiên phù ẩn tu vi",
+      "Ngọc phù tăng tốc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tôn Hạo tin rằng Phích Lịch đạn mua của Lý Sơn sẽ giúp hắn gỡ chút mặt mũi.",
+    "chapter": 49,
+    "source": "Tiên Nghịch ch.49",
+    "evidence": "Tôn Hạo nghĩ dù không thắng thì \"Phích Lịch đạn trong tay cũng có thể dành lại được chút mặt mũi\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi Tôn Hạo vừa lấy Phích Lịch đạn ra định ném về phía Lý Sơn, chuyện gì xảy ra?",
+    "options": [
+      "Bị Thủy Mạc phản ngược lại",
+      "Nổ ngay trong tay hắn, bốc mùi thối",
+      "Bị Lý Sơn chụp lấy ném trả",
+      "Tắt ngấm, không hề phát nổ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lý Sơn thầm niệm \"Bạo\", khiến Phích Lịch đạn nổ ngay trong tay Tôn Hạo.",
+    "chapter": 49,
+    "source": "Tiên Nghịch ch.49",
+    "evidence": "Lý Sơn nghĩ chữ \"Bạo\", Phích Lịch đạn \"chưa kịp ném ra liền lập tức phát nổ\", mùi thối ngập trời."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Hoàng Long chân nhân đưa ba đệ tử áo tím lên đài bằng cách nào?",
+    "options": [
+      "Đánh chuông gọi từ Hằng Nhạc phong",
+      "Truyền âm gọi từ hậu sơn",
+      "Bóp nát ngọc giản, mở pháp trận màu lam",
+      "Phóng phi kiếm mang tin đi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão bóp nát một ngọc giản, pháp trận màu lam hiện ra và ba người bước ra.",
+    "chapter": 49,
+    "source": "Tiên Nghịch ch.49",
+    "evidence": "Ngọc giản nát thành bụi, \"một cái pháp trận màu lam lóe lên\", ba người mặc tử y từ đó đi ra."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trong ba đệ tử áo tím được Hoàng Long chân nhân gọi tới, Vương Lâm nhận ra một người quen. Đó là ai?",
+    "options": [
+      "Lữ Tung",
+      "Vương Trác",
+      "Trương Nhân",
+      "Nhị sư huynh Trương Cuồng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm nhận ra trong ba người có Nhị sư huynh Trương Cuồng.",
+    "chapter": 49,
+    "source": "Tiên Nghịch ch.49",
+    "evidence": "Trong ba người đó, Vương Lâm nhận ra \"Nhị sư huynh Trương Cuồng\", ánh mắt có chút căng thẳng."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Pháp thuật Thủy Mạc của Liễu Phong có đặc tính đáng sợ nào?",
+    "options": [
+      "Bị đánh càng mạnh thì phản lực càng mạnh",
+      "Hút cạn linh lực của đối thủ",
+      "Tự hồi phục ngay khi bị phá",
+      "Kéo đối thủ vào ảo cảnh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thủy Mạc gặp lực công kích càng mạnh thì phản lại càng mạnh, khó phá nếu chưa tới tầng tám.",
+    "chapter": 49,
+    "source": "Tiên Nghịch ch.49",
+    "evidence": "Hoàng Long chân nhân nhận định Thủy Mạc \"gặp phải lực công kích mạnh thì phản lại càng mạnh\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Âu Dương lão nhân đòi thêm điều kiện gì nếu Huyền Đạo tông thắng cuộc tỷ thí?",
+    "options": [
+      "Giao ra Dẫn Lực thuật",
+      "Mượn Hằng Nhạc phong năm trăm năm",
+      "Sáp nhập Hằng Nhạc phái",
+      "Giao nộp Linh Tuyền thủy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão muốn Hằng Nhạc phái cho mượn Hằng Nhạc phong năm trăm năm.",
+    "chapter": 50,
+    "source": "Tiên Nghịch ch.50",
+    "evidence": "Âu Dương lão nhân nói muốn thêm một điều: \"cho chúng ta mượn Hằng Nhạc phong năm trăm năm\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Lữ Tung mở màn tấn công Hứa Mộc bằng chiêu gì?",
+    "options": [
+      "Thông Thiên cự mãng",
+      "Huyết Long bằng máu",
+      "Tử mang hóa bàn tay khổng lồ",
+      "Màn nước Thủy Mạc"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lữ Tung phun ra tử mang, hóa thành bàn tay lớn chộp về phía Hứa Mộc.",
+    "chapter": 50,
+    "source": "Tiên Nghịch ch.50",
+    "evidence": "Lữ Tung phun ra một đạo tử mang, nó \"nhanh chóng bành trướng hóa thành một bàn tay lớn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Âu Dương lão nhân tung tin gì về các lão tổ Hằng Nhạc phái khiến cả phái chấn động?",
+    "options": [
+      "Đã phản bội sang Huyền Đạo tông",
+      "Bị phong ấn ở ngoại vực",
+      "Đang bế quan không thể xuất",
+      "Đều đã bỏ mình nơi chiến trường"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão tổ Huyền Đạo tông từ chiến trường tứ cấp tu chân quốc về báo các lão tổ Hằng Nhạc đã chết.",
+    "chapter": 50,
+    "source": "Tiên Nghịch ch.50",
+    "evidence": "Một lão tổ Huyền Đạo tông trở về nói \"mấy lão tổ của Hằng Nhạc phái các ngươi đều đã bỏ mình\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi hai con bạch long của Lữ Tung sắp nuốt Hứa Mộc, chuyện gì đã xảy ra?",
+    "options": [
+      "Một cầu vồng đen bẻ gãy hai phi kiếm",
+      "Hoàng Long chân nhân ra tay ngăn lại",
+      "Hứa Mộc dùng linh bảo đánh tan",
+      "Lữ Tung tự thu kiếm về"
+    ],
+    "correctIndex": 0,
+    "explanation": "Một đạo cầu vồng đen từ phía Huyền Đạo tông bẻ gãy hai phi kiếm, Lữ Tung hộc máu.",
+    "chapter": 50,
+    "source": "Tiên Nghịch ch.50",
+    "evidence": "Một đạo cầu vồng màu đen quấn lấy hai bạch long, \"bẻ gẫy hai thanh phi kiếm\" rồi thả rơi."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Theo Tôn Đại Trụ, năm trăm năm trước tứ cấp tu chân quốc nào tranh đoạt ngoại vực, kéo đi hết Nguyên Anh của Triệu quốc?",
+    "options": [
+      "Chu Tước quốc",
+      "Thanh Long quốc",
+      "Hỏa Phần quốc",
+      "Sở quốc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tôn Đại Trụ oán Thanh Long quốc đã lôi đi toàn bộ Nguyên Anh kỳ của Triệu quốc.",
+    "chapter": 50,
+    "source": "Tiên Nghịch ch.50",
+    "evidence": "Tôn Đại Trụ nhắc tứ cấp Tu Chân quốc Thanh Long quốc tranh đoạt ngoại vực, \"lôi đi tất cả Nguyên Anh kỳ\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Chu Bằng tung ra thứ gì để hút Trương Cuồng vào rồi bóp cổ ném văng xuống đài?",
+    "options": [
+      "Huyết Long",
+      "Hai con bạch long",
+      "Hỏa giao",
+      "Thông Thiên cự mãng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chu Bằng thả ra con cự xà đen hóa thành Thông Thiên đại mãng, hút Trương Cuồng vào.",
+    "chapter": 51,
+    "source": "Tiên Nghịch ch.51",
+    "evidence": "Cự xà đen bóng nghênh gió lớn dần, \"nó đã trở thành một con Thông Thiên đại mãng\", há miệng hút."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai là người đầu tiên lên tiếng đề nghị cử Vương Lâm lên đài đấu Chu Bằng?",
+    "options": [
+      "Tôn Đại Trụ",
+      "Đạo Hư",
+      "Lữ Tung",
+      "Trương Cuồng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đạo Hư sư thúc đứng cạnh chưởng môn đã gọi Vương Lâm lên đài.",
+    "chapter": 51,
+    "source": "Tiên Nghịch ch.51",
+    "evidence": "Đạo Hư nói: \"Tôn sư đệ xin lỗi. Vương Lâm! Ngươi lên đi.\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Âu Dương lão nhân tuyên bố: đệ tử Hằng Nhạc phái chỉ cần trụ được bao lâu trước Chu Bằng là thắng?",
+    "options": [
+      "Một trăm giây",
+      "Ba chiêu",
+      "Mười lần hô hấp",
+      "Một nén hương"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ai cầm cự được mười lần hô hấp mà không bại thì Hằng Nhạc phái thắng.",
+    "chapter": 51,
+    "source": "Tiên Nghịch ch.51",
+    "evidence": "Âu Dương lão nhân nói nếu có người \"cố gắng được trong mười lần hô hấp mà không bại\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Tôn Đại Trụ phản ứng ra sao khi đồ đệ Vương Lâm bị chỉ định lên đài?",
+    "options": [
+      "Vui mừng tán thành ngay",
+      "Phản đối, cho là đem đồ đệ ra làm thí tốt",
+      "Im lặng để chưởng môn quyết",
+      "Đòi tự mình lên đài thay"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tôn Đại Trụ nổi giận, cho rằng họ đẩy đồ đệ tầng ba của lão ra làm con tốt thí.",
+    "chapter": 51,
+    "source": "Tiên Nghịch ch.51",
+    "evidence": "Tôn Đại Trụ mắng Đạo Hư, nói cho hắn ra \"chẳng phải là thí tốt hay sao\", rồi tuyên bố không đồng ý."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Chu Bằng nhìn thấu tu vi Trương Cuồng thế nào?",
+    "options": [
+      "Lộ tầng ba, giấu thực lực tầng mười",
+      "Đã chạm tới Trúc Cơ sơ kỳ",
+      "Thật sự chỉ là tầng bốn",
+      "Lộ tầng sáu, giấu thực lực tầng tám"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chu Bằng nói Trương Cuồng bề ngoài tầng sáu nhưng ẩn giấu thực lực tầng tám.",
+    "chapter": 51,
+    "source": "Tiên Nghịch ch.51",
+    "evidence": "Chu Bằng nói Trương Cuồng nhìn như tầng sáu \"nhưng lại ẩn dấu thực lực của tầng thứ tám\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Lần đầu đối đầu Chu Bằng, ngoài Dẫn Lực thuật, Vương Lâm còn ném ra thứ gì cho chắc ăn?",
+    "options": [
+      "Phi kiếm màu đỏ",
+      "Tiên phù Nguyên Anh",
+      "Phích Lịch đan mua của Lý Sơn",
+      "Ngọc phù màu trắng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm lấy một viên Phích Lịch đan, ném ra khiến Chu Bằng bị hất ngã.",
+    "chapter": 52,
+    "source": "Tiên Nghịch ch.52",
+    "evidence": "Để chắc chắn, hắn \"lấy ra một viên Phích Lịch đan\" rồi ném ra; Chu Bằng bị hất tung, người bốc mùi."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Trước khi ném Phích Lịch đan về phía Chu Bằng, Vương Lâm làm gì với nó?",
+    "options": [
+      "Xóa thần thức Lý Sơn lưu trên đó",
+      "Bôi máu để nhận chủ",
+      "Rót thêm linh lực tầng mười bốn",
+      "Tẩm Linh Tuyền thủy vào"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn xóa thần thức Lý Sơn để Lý Sơn không thể kích nổ hay khống chế viên đan.",
+    "chapter": 52,
+    "source": "Tiên Nghịch ch.52",
+    "evidence": "Vương Lâm lấy Phích Lịch đan, \"xóa đi thần thức của Lý Sơn rồi ném ra ngoài\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Tỉnh lại sau vụ nổ, người đầy bụi và mùi thối, Chu Bằng đòi gì?",
+    "options": [
+      "Nhận thua rồi rời đài",
+      "Xin Hoàng Long chân nhân phân xử",
+      "Đòi Lý Sơn ra đấu thay",
+      "Đấu lại, lần này cấm đánh lén"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chu Bằng cho rằng mình bị đánh lén nên đòi làm lại trận đấu.",
+    "chapter": 52,
+    "source": "Tiên Nghịch ch.52",
+    "evidence": "Chu Bằng quát Vương Lâm rằng vừa rồi không tính: \"Chúng ta làm lại. Lần này, không được phép đánh lén.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Thấy Chu Bằng bị Vương Lâm hạ, Liễu Phong thầm nghĩ gì về bản thân?",
+    "options": [
+      "Tiếc vì không được đấu với Vương Lâm",
+      "May vì trước đó Vương Lâm không ra đấu với mình",
+      "Nghi Hằng Nhạc phái gian lận",
+      "Muốn bái Vương Lâm làm thầy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Liễu Phong thầm kêu may, vì nếu Vương Lâm ra trận đầu thì hắn chắc chắn đã thua.",
+    "chapter": 52,
+    "source": "Tiên Nghịch ch.52",
+    "evidence": "Liễu Phong thầm kêu may mắn: đối phương không xuất trận, \"nếu không chính mình nhất định sẽ bị bại\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Bị đánh bay lần hai, Chu Bằng giật bỏ thứ gì trước ngực để bộc phát toàn lực?",
+    "options": [
+      "Túi trữ vật",
+      "Tiên phù phong ấn tu vi",
+      "Ngọc bội hộ thân",
+      "Ngọc giản truyền tống"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn xé áo ngoài, giật tiên phù treo trước ngực xuống, khí thế bốc lên.",
+    "chapter": 53,
+    "source": "Tiên Nghịch ch.53",
+    "evidence": "Chu Bằng xé áo ngoài, \"giựt cái tiên phù đang treo trước ngực xuống\", khí thế liền tăng vọt."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Sau trận thắng của Vương Lâm, Tôn Đại Trụ coi điều gì là chuyện tự hào nhất đời mình?",
+    "options": [
+      "Được làm sư đệ chưởng môn",
+      "Đánh bại Huyền Đạo tông",
+      "Luyện thành Kết Đan",
+      "Thu Vương Lâm làm đồ đệ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão nói chuyện tự hào nhất đời là đã thu nhận đứa nhỏ này.",
+    "chapter": 53,
+    "source": "Tiên Nghịch ch.53",
+    "evidence": "Tôn Đại Trụ nghĩ: \"Chuyện tự hào nhất đời này của lão phu chính là thu đứa nhỏ này.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trung niên mặt vàng Trương Nhân tiếc nuối điều gì khi thấy Vương Lâm thắng?",
+    "options": [
+      "Không đề cử Vương Lâm nhập môn",
+      "Từng chê Vương Lâm là phế vật",
+      "Vương Lâm lẽ ra là đệ tử của mình",
+      "Không giữ Vương Lâm ở phòng luyện đan"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trương Nhân cho rằng nếu Tôn Đại Trụ không nhanh tay thì Vương Lâm đã là đệ tử của mình.",
+    "chapter": 53,
+    "source": "Tiên Nghịch ch.53",
+    "evidence": "Trương Nhân nghĩ do Tôn Đại Trụ nhanh tay đoạt, \"nếu không nó hẳn là đệ tử của Trương Nhân ta\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Chứng kiến sức mạnh của Vương Lâm, Lữ Tung xác định thái độ thế nào với hắn về sau?",
+    "options": [
+      "Chỉ nên kết giao, không thể làm địch",
+      "Tìm cơ hội đánh bại để đòi lại hạng",
+      "Mặc kệ, không bận tâm",
+      "Báo cho trưởng lão Kết Đan dò xét"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lữ Tung đoán Vương Lâm sẽ nổi danh Triệu quốc nên quyết chỉ kết giao.",
+    "chapter": 53,
+    "source": "Tiên Nghịch ch.53",
+    "evidence": "Lữ Tung nghĩ về Vương Lâm: \"chỉ có thể kết dao, không thể làm địch\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Tam sư huynh phòng luyện đan sợ Vương Lâm trả thù chuyện Vương Hạo, nên định làm gì?",
+    "options": [
+      "Thả Vương Hạo ra để lấy lòng",
+      "Bỏ trốn khỏi Hằng Nhạc phái",
+      "Giết Vương Hạo để không còn nhân chứng",
+      "Đến nhận tội với chưởng môn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn tính đấu xong sẽ về xử lý Vương Hạo, người chết thì không ai làm chứng.",
+    "chapter": 53,
+    "source": "Tiên Nghịch ch.53",
+    "evidence": "Tam sư huynh định về xử lý Vương Hạo: \"người chết không có ai làm chứng\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Trương Cuồng phát hiện nước Linh Tuyền có tác dụng thần kỳ nào khiến hắn kinh hãi?",
+    "options": [
+      "Tăng thọ thêm trăm năm",
+      "Giải được mọi loại độc",
+      "Giữ dung nhan, lưu giữ tuổi xuân",
+      "Giúp đột phá Trúc Cơ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ngoài linh khí nồng đậm, nước suối còn có thể trú nhan.",
+    "chapter": 54,
+    "source": "Tiên Nghịch ch.54",
+    "evidence": "Trương Cuồng tìm hiểu một lúc mới sợ hãi nhận ra nước suối đó \"có thể trú nhan\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Liễu Phong lẩm bẩm đoán Vương Lâm có thể đã đạt tới cảnh giới nào?",
+    "options": [
+      "Trúc Cơ",
+      "Kết Đan",
+      "Nguyên Anh",
+      "Hóa Thần"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vì Chu Bằng đã tầng mười hai vẫn thua, Liễu Phong nghi Vương Lâm đã Trúc Cơ.",
+    "chapter": 54,
+    "source": "Tiên Nghịch ch.54",
+    "evidence": "Liễu Phong lẩm bẩm: \"Chẳng lẽ hắn đã đạt tới Trúc Cơ?\""
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Trong tu chân giới, thường phải tới cảnh giới nào mới giữ được dung nhan như nước Linh Tuyền làm được?",
+    "options": [
+      "Trúc Cơ kỳ",
+      "Kết Đan kỳ",
+      "Ngưng Khí đại viên mãn",
+      "Nguyên Anh kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chỉ khi đạt Nguyên Anh kỳ người tu chân mới giữ được dung nhan.",
+    "chapter": 54,
+    "source": "Tiên Nghịch ch.54",
+    "evidence": "Tại tu chân giới, \"chỉ khi đạt tới Nguyên Anh kỳ mới có thể giữ được dung nhan\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Tin chắc người đổi Linh Tuyền thủy là Vương Lâm, Trương Cuồng quyết định thế nào?",
+    "options": [
+      "Báo bí mật lên chưởng môn",
+      "Giữ kín bí mật, tuyệt không trêu chọc Vương Lâm",
+      "Đem nước bán cho Huyền Đạo tông",
+      "Tìm cách ép Vương Lâm khai nguồn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sợ tu vi Vương Lâm, hắn quyết giữ kín bí mật Linh Tuyền và không động tới hắn.",
+    "chapter": 54,
+    "source": "Tiên Nghịch ch.54",
+    "evidence": "Trương Cuồng nghĩ bí mật Linh Tuyền thủy \"nhất định phải giữ kín\", rồi quyết không trêu chọc Vương Lâm."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Liễu Mi nhớ lại điều gì từ ba ngày trước khiến nàng sớm thấy Vương Lâm khác thường?",
+    "options": [
+      "Hắn mua rất nhiều Phích Lịch đạn",
+      "Hắn giấu một tiên phù trong túi",
+      "Hắn đánh bại Lý Sơn trong bí mật",
+      "Hắn là người đầu tiên tỉnh lại dưới pháp thuật của nàng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm là người đầu tiên trở lại bình thường khi trúng pháp thuật của Liễu Mi.",
+    "chapter": 54,
+    "source": "Tiên Nghịch ch.54",
+    "evidence": "Liễu Mi nghĩ: \"Hắn là người đầu tiên dưới pháp thuật của ta trở lại bình thường.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Sau khi Chu Bằng bại, Âu Dương lão nhân cử ai lên đài đấu Vương Lâm?",
+    "options": [
+      "Liễu Phong",
+      "Hứa Mộc",
+      "Dương Nghị",
+      "Lý Sơn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Âu Dương lão nhân cắn răng gọi Nhị sư huynh Dương Nghị ra trận.",
+    "chapter": 55,
+    "source": "Tiên Nghịch ch.55",
+    "evidence": "Âu Dương lão nhân quát: \"Dương Nghị! Ngươi ra đi.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đám đệ tử Hằng Nhạc phái đồng loạt gọi Vương Lâm bằng danh hiệu gì?",
+    "options": [
+      "Đại sư huynh",
+      "Hắc Tâm vương",
+      "Ngũ sư huynh",
+      "Phúc tinh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mọi người quên danh hiệu phế vật, cùng tôn Vương Lâm là đại sư huynh.",
+    "chapter": 55,
+    "source": "Tiên Nghịch ch.55",
+    "evidence": "Tất cả \"cùng mang danh hiệu đại sư huynh đặt lên người Vương Lâm\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Dương Nghị đề nghị nếu Vương Lâm không thắng trong thời hạn thì hắn thắng. Cuối cùng hắn chốt thời hạn bao lâu?",
+    "options": [
+      "Một trăm giây",
+      "Mười lần hô hấp",
+      "Ba mươi giây",
+      "Hai mươi giây"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dương Nghị liên tục hạ từ một trăm giây xuống còn hai mươi giây.",
+    "chapter": 55,
+    "source": "Tiên Nghịch ch.55",
+    "evidence": "Dương Nghị vội sửa: \"Năm mươi giây...ba mười giây... Không được! Hai mươi giây thôi.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Dương Nghị bóp nát ngọc phù màu trắng nhằm mục đích gì?",
+    "options": [
+      "Tạo khiên chắn Phích Lịch đạn",
+      "Tăng tốc độ để né tránh, câu giờ",
+      "Ẩn giấu tu vi thật",
+      "Triệu hồi phi kiếm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ngọc phù khiến tốc độ hắn tăng mấy lần, hắn định chỉ né tránh cho hết thời gian.",
+    "chapter": 55,
+    "source": "Tiên Nghịch ch.55",
+    "evidence": "Bạch quang lượn quanh thân, \"tốc độ của hắn lập tức tăng lên mấy lần\"; hắn định dựa tốc độ trì hoãn."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Hoàng Long chân nhân gọi Tôn Đại Trụ bằng cách xưng hô thân mật nào khiến lão lâng lâng?",
+    "options": [
+      "Tôn sư đệ",
+      "Tôn trưởng lão",
+      "Đại Trụ sư đệ",
+      "Đại Trụ hiền đệ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Chưởng môn gọi thân mật là \"Đại Trụ sư đệ\" khiến Tôn Đại Trụ cảm thấy lâng lâng.",
+    "chapter": 55,
+    "source": "Tiên Nghịch ch.55",
+    "evidence": "Chưởng môn sư huynh vừa gọi hắn \"một cách thân mật là \"Đại Trụ sư đệ\"\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo Tư Đồ Nam, tu vi thật sự của Vương Lâm lúc này tương đương mức nào?",
+    "options": [
+      "Tầng ba Ngưng Khí kỳ",
+      "Tầng mười hai Ngưng Khí kỳ",
+      "Trúc Cơ sơ kỳ",
+      "Tầng mười bốn Ngưng Khí kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn đã đạt Linh Động kỳ viên mãn, tương đương tầng mười bốn Ngưng Khí kỳ.",
+    "chapter": 56,
+    "source": "Tiên Nghịch ch.56",
+    "evidence": "Tư Đồ Nam nói hắn đạt Linh Động Kỳ viên mãn, \"tương đương với tầng thứ mười bốn của Ngưng Khí Kỳ\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Dẫn Lực thuật của Vương Lâm uy lực lớn như vậy vì hắn đã khổ luyện nó ở đâu?",
+    "options": [
+      "Bên dòng Linh Tuyền hậu sơn",
+      "Trong mộng cảnh suốt hai mươi năm",
+      "Trong động phủ Tôn Đại Trụ",
+      "Ở Tàng Kinh Các Hằng Nhạc phái"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm đã tu luyện Dẫn Lực thuật trong mộng cảnh hai mươi năm.",
+    "chapter": 56,
+    "source": "Tiên Nghịch ch.56",
+    "evidence": "Dẫn Lực thuật được hắn \"tu luyện ở bên trong mộng cảnh hai mươi năm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Tư Đồ Nam cho rằng vì sao Vương Lâm nhìn ngoài vẫn chỉ như tầng ba Ngưng Khí?",
+    "options": [
+      "Có liên quan tới Thiên Nghịch châu",
+      "Do bị chặt đứt duyên phàm trần",
+      "Do tiên phù ẩn giấu tu vi",
+      "Do công pháp riêng của Hằng Nhạc phái"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tu vi trong không gian tu luyện của Thiên Nghịch châu khác với bên ngoài.",
+    "chapter": 56,
+    "source": "Tiên Nghịch ch.56",
+    "evidence": "Tư Đồ Nam phân tích hiện tượng này \"cùng với Thiên Nghịch châu có liên quan\", bác bỏ chuyện duyên phàm trần."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Muốn thử sức thật của mình, cuối cùng Vương Lâm đưa ra đề nghị gì với Huyền Đạo tông?",
+    "options": [
+      "Thách đấu Âu Dương lão nhân",
+      "Đòi Lý Sơn lên đài",
+      "Mời các sư huynh Huyền Đạo tông cùng lên một lượt",
+      "Xin dừng tỷ thí tại đây"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vì đối thủ quá yếu, Vương Lâm mời tất cả sư huynh Huyền Đạo tông cùng lên.",
+    "chapter": 56,
+    "source": "Tiên Nghịch ch.56",
+    "evidence": "Vương Lâm nói: \"Các vị sư huynh Huyền đạo tông, các ngươi cùng tiên lên đây đi.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Khi đông đảo đệ tử Huyền Đạo Tông cùng lên đài, Vương Lâm dùng tiên pháp nào quét bay họ khỏi thạch đài?",
+    "options": [
+      "Hỏa Vân thuật",
+      "Dẫn Lực thuật",
+      "Địa Độn thuật",
+      "Phong Nhận Phá"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm biến Dẫn Lực thuật thành bàn tay vô hình khổng lồ quét khắp thạch đài.",
+    "chapter": 57,
+    "source": "Tiên Nghịch ch.57",
+    "evidence": "Hắn triển khai Dẫn Lực thuật hóa thành một bàn tay vô hình to lớn, đệ tử Huyền Đạo Tông lần lượt bay khỏi thạch đài."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thấy Vương Lâm lấy Phích Lịch Đạn ra, Liễu Phong phản ứng thế nào?",
+    "options": [
+      "Tế pháp bảo liều mạng chống đỡ",
+      "Nằm rạp xuống đất giả chết",
+      "Vội hô nhận thua rồi lui khỏi đài",
+      "Cầu Âu Dương lão giả ra tay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Liễu Phong sợ Phích Lịch Đạn nên lập tức nhận thua, rời thạch đài.",
+    "chapter": 57,
+    "source": "Tiên Nghịch ch.57",
+    "evidence": "Liễu Phong biến sắc, hô 'Liễu mỗ nhận thua, nhận thua!' rồi lui khỏi thạch đài, sợ giẫm vết xe đổ của Dương Nghị."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Đệ tử Huyền Đạo Tông nào nằm giả chết trên đài rồi xin Vương Lâm dùng Phích Lịch Đạn cuối cùng lên mình?",
+    "options": [
+      "Hứa Mộc",
+      "Liễu Phong",
+      "Dương Nghị",
+      "Lý Sơn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lý Sơn giả chết để trụ lại, rồi muốn trúng Phích Lịch Đạn như các sư huynh.",
+    "chapter": 57,
+    "source": "Tiên Nghịch ch.57",
+    "evidence": "Lý Sơn nằm rạp giả chết, sau đó hét lớn mời Vương Lâm dùng quả Phích Lịch Đạn cuối cùng lên người hắn."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi thừa nhận Hằng Nhạc phái thắng, Âu Dương lão giả trao cho Hoàng Long chân nhân thứ gì?",
+    "options": [
+      "Một chiếc túi trữ vật",
+      "Một ngọc giản tiên thuật",
+      "Một bình độc Ngô Công",
+      "Một khối tử sắc ngọc bội"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lão nói những vật Hằng Nhạc muốn đều ở trong chiếc túi trữ vật đó.",
+    "chapter": 57,
+    "source": "Tiên Nghịch ch.57",
+    "evidence": "Âu Dương lão giả vung tay áo, bay ra một cái túi trữ vật; lão nói vật cần đều 'ở trong chiếc túi này'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Hoàng Long chân nhân lo điều gì nếu lời Âu Dương lão giả về các Nguyên Anh lão tổ là thật?",
+    "options": [
+      "Hằng Nhạc phái sẽ bị Huyền Đạo Tông thôn tính",
+      "Tu chân giới Triệu Quốc sẽ có một lần thanh trừ",
+      "Vương Lâm sẽ bỏ sang Huyền Đạo Tông",
+      "Hộ sơn đại trận sẽ tự sụp đổ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hoàng Long nghĩ nếu đúng thì tu chân giới Triệu Quốc ắt sẽ xảy ra một lần thanh trừ.",
+    "chapter": 57,
+    "source": "Tiên Nghịch ch.57",
+    "evidence": "Hoàng Long do dự vì nếu lời đối phương là thật thì tu chân giới Triệu Quốc 'chắc chắn sẽ xảy ra một lần thanh trừ'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Âu Dương lão giả khinh miệt nói Vương Lâm phải đưa ra pháp bảo nào thì mới đổi cho một giọt độc?",
+    "options": [
+      "Phích Lịch Đạn",
+      "Linh khí hồ lô",
+      "Tử Nhạc Tiên Kiếm",
+      "Hạt châu thần bí"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão bảo nếu Vương Lâm lấy ra Tử Nhạc Tiên Kiếm thì mới miễn cưỡng đổi một giọt.",
+    "chapter": 58,
+    "source": "Tiên Nghịch ch.58",
+    "evidence": "Âu Dương lão giả nói nếu Vương Lâm xuất ra pháp bảo Tử Nhạc Tiên Kiếm thì 'miễn cưỡng đổi lại cho người một giọt'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Sau cuộc tỷ thí, Vương Trác xin sư phụ Đạo Hư cho mình làm gì?",
+    "options": [
+      "Rời phái xuống núi lịch luyện",
+      "Thách đấu Vương Lâm lần nữa",
+      "Theo Huyền Đạo Tông học nghệ",
+      "Đóng cửa tu luyện, không hỏi thế sự"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Trác xin bế quan tu luyện; Đạo Hư đồng ý để hắn tránh mặt Vương Lâm.",
+    "chapter": 58,
+    "source": "Tiên Nghịch ch.58",
+    "evidence": "Vương Trác nói muốn đóng cửa tu luyện, 'từ nay về sau không hỏi tới thế sự nữa'; Đạo Hư gật đầu."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm ném cho Âu Dương lão giả vật gì để đổi lấy dịch độc của con rết?",
+    "options": [
+      "Một bình nước sông ở hậu sơn",
+      "Một lọ linh đan của đan phòng",
+      "Một quả Phích Lịch Đạn",
+      "Một túi linh thạch"
+    ],
+    "correctIndex": 0,
+    "explanation": "Chiếc bình ngọc trông bình thường nhưng chứa nước sông giàu linh khí ở hậu sơn.",
+    "chapter": 58,
+    "source": "Tiên Nghịch ch.58",
+    "evidence": "Vương Lâm ném ra một bình ngọc, bên trong 'chính là nước sông ở phía hậu sơn', linh khí tỏa ra khi mở nắp."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Trước khi rời đi, Âu Dương lão giả truyền âm cảnh báo Vương Lâm điều gì?",
+    "options": [
+      "Huyền Đạo Tông sẽ sớm báo thù",
+      "Thiên Túc Ngô Công sẽ nhớ mặt hắn",
+      "Hằng Nhạc thiếu Nguyên Anh sẽ không trụ lâu",
+      "Dịch độc Ngô Công không chữa được bệnh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão không truy cứu chuyện dịch độc nhưng bảo Hằng Nhạc phái không trụ được lâu, khuyên hắn tự lo liệu.",
+    "chapter": 58,
+    "source": "Tiên Nghịch ch.58",
+    "evidence": "Âu Dương truyền âm: Hằng Nhạc nếu không có Nguyên Anh lão tổ tọa trấn thì 'không còn tồn tại được lâu'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Sau trận đấu, Vương Lâm chặn tam sư huynh Lữ Vân Kiệt lại để hỏi về ai?",
+    "options": [
+      "Vương Trác",
+      "Vương Hạo",
+      "Trương Tính",
+      "Lữ Tung"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm hỏi về Vương Hạo, dược đồng ở đan phòng của Lữ Vân Kiệt.",
+    "chapter": 59,
+    "source": "Tiên Nghịch ch.59",
+    "evidence": "Vương Lâm nói muốn hỏi một người, 'là Vương Hạo dược đồng ở đan phòng của huynh'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Xông vào đan phòng của Lữ Vân Kiệt, Vương Lâm thấy Vương Hạo trong tình cảnh nào?",
+    "options": [
+      "Bị trói trong mật thất",
+      "Bị nhốt dưới hầm dược liệu",
+      "Hôn mê bên ngoài cửa đan phòng",
+      "Ngồi trong lò luyện đan, sắp mất mạng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Hạo khoanh chân trong một lò luyện đan lớn, mặt cắt không còn giọt máu.",
+    "chapter": 59,
+    "source": "Tiên Nghịch ch.59",
+    "evidence": "Trong phòng có lò luyện đan rất lớn, Vương Hạo ngồi bên trong, mặt không còn chút máu, tính mạng dần mất đi."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Hồng Kiểm lão giả thất thanh gọi tên thuật mà Lữ Vân Kiệt dùng lên Vương Hạo là gì?",
+    "options": [
+      "Lô Hỏa Khai Đỉnh",
+      "Sưu Hồn thuật",
+      "Hoán Tiên thuật",
+      "Hỏa Vân thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đó là Lô Hỏa Khai Đỉnh, chỉ được dùng với người ngoài, cấm dùng với đồng môn.",
+    "chapter": 59,
+    "source": "Tiên Nghịch ch.59",
+    "evidence": "Hồng Kiểm lão giả nhìn lò luyện đan rồi thất thanh kêu: 'Lô Hỏa Khai Đỉnh'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Để bù đắp cho Vương Hạo, Hoàng Long chân nhân quyết định điều gì?",
+    "options": [
+      "Ban cho hắn một thanh phi kiếm",
+      "Cho hắn làm nội môn đệ tử",
+      "Cho hắn quản đan phòng của Lữ Vân Kiệt",
+      "Đưa hắn về nhà dưỡng bệnh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hoàng Long tuyên bố từ nay Vương Hạo được xem là nội môn đệ tử.",
+    "chapter": 59,
+    "source": "Tiên Nghịch ch.59",
+    "evidence": "Hoàng Long nói Vương Hạo 'từ nay về sau được xem là nội môn đệ tử', coi như đền bù, và dặn Vương Lâm thôi gây sự."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Lữ Vân Kiệt biện hộ rằng dùng Vương Hạo luyện đan không sai vì lý do gì?",
+    "options": [
+      "Vương Hạo tự nguyện vào lò",
+      "Chưởng môn đã cho phép từ trước",
+      "Dược đồng là người hầu riêng, không phải đồng môn",
+      "Vương Hạo phạm môn quy nên bị phạt"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn cho rằng theo quy củ, dược đồng do mình thu nhận chỉ là người hầu tư nhân.",
+    "chapter": 59,
+    "source": "Tiên Nghịch ch.59",
+    "evidence": "Lữ Vân Kiệt nói Vương Hạo theo quy củ 'không phải là đồng môn đệ tử, mà là người hầu tư nhân'."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "de",
+    "question": "Hoàng Long chân nhân hẹn sáng hôm sau sẽ dẫn Vương Lâm tới đâu để chọn tiên pháp?",
+    "options": [
+      "Kiếm Linh các",
+      "Đan phòng",
+      "Hậu sơn",
+      "Tàng Kinh Các"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão hứa đưa Vương Lâm tới Tàng Kinh Các chọn tiên pháp thích hợp.",
+    "chapter": 60,
+    "source": "Tiên Nghịch ch.60",
+    "evidence": "Hoàng Long dặn sáng mai tới, 'ta sẽ dẫn ngươi tới Tàng Kinh Các để ngươi lựa chọn tiên pháp thích hợp'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vị trưởng lão nào nấp trong đại điện theo dõi và nói Vương Lâm 'không có một câu nói thật'?",
+    "options": [
+      "Thượng Quan trưởng lão",
+      "Tống Dục",
+      "Đạo Hư chân nhân",
+      "Hồng Kiểm lão giả"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thượng Quan trưởng lão, một trong mười trưởng lão Trúc Cơ, bước ra từ trong điện nhận xét như vậy.",
+    "chapter": 60,
+    "source": "Tiên Nghịch ch.60",
+    "evidence": "Người mặc lam bố, mặt khô gầy là Thượng Quan trưởng lão hừ: 'Tiểu gia hỏa này không có một câu nói thật'."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo quy củ Hằng Nhạc phái, đệ tử đạt tới cảnh giới nào thì được làm trưởng lão?",
+    "options": [
+      "Kết Đan kỳ",
+      "Trúc Cơ kỳ",
+      "Nguyên Anh kỳ",
+      "Ngưng Khí tầng mười lăm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vào Trúc Cơ là thành trưởng lão; Kết Đan thành người chèo lái; Nguyên Anh thành tổ sư.",
+    "chapter": 60,
+    "source": "Tiên Nghịch ch.60",
+    "evidence": "Hằng Nhạc phái có quy củ 'chỉ cần tiến vào Trúc Cơ kỳ liền có thể trở thành trưởng lão'."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Tôn Đại Trụ thú nhận từng cho Vương Lâm ăn Hóa Linh thảo. Loại thảo này có tác dụng gì?",
+    "options": [
+      "Khống chế hành vi người dùng",
+      "Tăng thọ nguyên",
+      "Làm tiêu tán linh khí trong cơ thể",
+      "Giúp đột phá Ngưng Khí kỳ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hóa Linh thảo dùng khi tán công, làm linh khí trong người tiêu tán.",
+    "chapter": 60,
+    "source": "Tiên Nghịch ch.60",
+    "evidence": "Tôn Đại Trụ nói Hóa Linh thảo cần khi tán công, 'có tác dụng làm tiêu tán linh khí trong cơ thể'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Khi văn tự trên hạt châu thần bí biến mất, hình gì nhàn nhạt hiện lên thay thế?",
+    "options": [
+      "Một ngọn lửa",
+      "Một lá cây",
+      "Một giọt nước",
+      "Một ngọn núi"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hình lá cây báo hiệu thủy nguyên tố đã viên mãn, đến lượt mộc nguyên tố.",
+    "chapter": 61,
+    "source": "Tiên Nghịch ch.61",
+    "evidence": "Ba ngày trước, văn tự trên hạt châu biến mất, 'lại xuất hiện hình một lá cây nhàn nhạt'."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Tư Đồ Nam khuyên Vương Lâm nên giữ hạt châu ở đâu để hai bên trò chuyện mà không cần vào mộng cảnh?",
+    "options": [
+      "Cất trong túi trữ vật",
+      "Giấu trong hồ lô",
+      "Chôn ở hậu sơn",
+      "Treo trước ngực"
+    ],
+    "correctIndex": 3,
+    "explanation": "Treo trước ngực thì Tư Đồ Nam có thể trao đổi trực tiếp với Vương Lâm.",
+    "chapter": 61,
+    "source": "Tiên Nghịch ch.61",
+    "evidence": "Tư Đồ Nam bảo đừng đặt hạt châu trong túi trữ vật, 'tốt nhất là treo trước ngực'."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Tư Đồ Nam hứa sẽ truyền công pháp nào khi Vương Lâm tiến vào Trúc Cơ kỳ?",
+    "options": [
+      "Hoàng Tuyền Thăng Khiếu Quyết",
+      "Đại Hoán Tiên thuật",
+      "Hồn Hỏa thuật",
+      "Đại Ngũ Hành Độn thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tư Đồ Nam gọi đó là công pháp tuyệt đỉnh của lục cấp tu chân quốc.",
+    "chapter": 61,
+    "source": "Tiên Nghịch ch.61",
+    "evidence": "Tư Đồ Nam nói: vào Trúc Cơ kỳ, 'ta sẽ truyền cho ngươi Hoàng tuyền thăng khiếu quyết'."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Vì linh khí tuyền thủy không còn tác dụng, Tư Đồ Nam dặn chuẩn bị gì cho lúc quá quan Trúc Cơ?",
+    "options": [
+      "Linh thạch",
+      "Tạo Hóa đan",
+      "Lộ thủy",
+      "Nước sông hậu sơn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quá quan cần lượng linh khí khổng lồ nên phải chuẩn bị lộ thủy.",
+    "chapter": 61,
+    "source": "Tiên Nghịch ch.61",
+    "evidence": "Tư Đồ Nam nói lúc quá quan cần linh khí khổng lồ, 'ngươi nên chuẩn bị một ít lộ thuỷ'."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Theo Tư Đồ Nam, muốn tu Hoàng Tuyền Thăng Khiếu Quyết nhanh thì phải tìm nơi thế nào?",
+    "options": [
+      "Nơi chí âm chí hàn",
+      "Nơi linh mạch hỏa thuộc tính",
+      "Đỉnh núi cao nhất Triệu Quốc",
+      "Dưới lòng sông hậu sơn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Công pháp cần nơi chí âm chí hàn, luyện ra âm hàn linh lực uy lực kinh khủng.",
+    "chapter": 61,
+    "source": "Tiên Nghịch ch.61",
+    "evidence": "Tư Đồ Nam nói khi tu luyện 'phải tìm nơi chí âm chí hàn', nếu không tiến bộ rất chậm."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trong Tàng Kinh Các, ai liên tục chê các tiên pháp 'đính giai' của Hằng Nhạc phái là đồ bỏ?",
+    "options": [
+      "Hoàng Long chân nhân",
+      "Tư Đồ Nam",
+      "Thượng Quan trưởng lão",
+      "Lưu Văn Cử"
+    ],
+    "correctIndex": 1,
+    "explanation": "Tư Đồ Nam trong hạt châu chê bai từng ngọc giản, so với tuyệt kỹ của mình.",
+    "chapter": 62,
+    "source": "Tiên Nghịch ch.62",
+    "evidence": "Tư Đồ Nam cười nhạo từng tiên pháp đính giai, khiến Vương Lâm rốt cuộc không tu luyện được thứ nào."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi Nguyên Anh lão quái của Huyền Đạo Tông kéo đến, Tư Đồ Nam khuyên Vương Lâm làm gì?",
+    "options": [
+      "Ra mặt nghênh chiến",
+      "Gia nhập Huyền Đạo Tông",
+      "Tìm cơ hội thoát đi",
+      "Ở lại giữ Tàng Kinh Các"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tư Đồ Nam nghiêm giọng bảo hắn tìm cơ hội thoát, lão sẽ che giấu hắn tạm thời.",
+    "chapter": 62,
+    "source": "Tiên Nghịch ch.62",
+    "evidence": "Tư Đồ Nam nói Hằng Nhạc gặp đại phiền toái, 'Ngươi tìm cơ hội thoát ra đi'."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Để duy trì hộ sơn đại trận chống ngọn núi đen, các Kết Đan và Trúc Cơ của Hằng Nhạc ngồi trên gì?",
+    "options": [
+      "Tám khối bạch ngọc",
+      "Bảy cột đá thạch kiều",
+      "Một tử sắc ngọc bội",
+      "Mười chiếc bồ đoàn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hai sư tổ Kết Đan và sáu trưởng lão Trúc Cơ ngồi trên tám khối bạch ngọc ở thạch đài.",
+    "chapter": 62,
+    "source": "Tiên Nghịch ch.62",
+    "evidence": "Hai sư tổ khoanh chân trên 2 trong 8 khối bạch ngọc, sáu trưởng lão Trúc Cơ ngồi sáu khối còn lại."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Tư Đồ Nam chê 'Hỏa Vân thuật' chỉ là khống hỏa hạ giai, rồi khoe tuyệt kỹ nào của mình mới là đính giai?",
+    "options": [
+      "Cuồng Phong Túng Vân thuật",
+      "Đại Ngũ Hành Độn thuật",
+      "Đại Hoán Tiên thuật",
+      "Hồn Hỏa thuật"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lão so Hỏa Vân thuật với Hồn Hỏa thuật của mình.",
+    "chapter": 62,
+    "source": "Tiên Nghịch ch.62",
+    "evidence": "Tư Đồ Nam nói Hỏa Vân thuật chỉ là hạ giai khống hỏa thuật, 'hồn hoả thuật của lão tử mới là đính giai'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vị sư tổ Kết Đan kỳ 'hạc phát đồng nhan' của Hằng Nhạc phái, được Phác Nam Tử gọi là cố nhân, tên gì?",
+    "options": [
+      "Tống Dục",
+      "Thượng Quan",
+      "Lưu Văn Cử",
+      "Chu Bằng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Phác Nam Tử gọi thẳng tên Lưu Văn Cử, người gặp từ 500 năm trước.",
+    "chapter": 63,
+    "source": "Tiên Nghịch ch.63",
+    "evidence": "Phác Nam Tử đáp: 'Lưu Văn Cử, 500 năm không gặp', nay đã là trụ cột Hằng Nhạc Phái."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Phá xong hộ sơn đại trận và hạ xuống, Phác Nam Tử hỏi tìm ai trước tiên?",
+    "options": [
+      "Vương Lâm",
+      "Hoàng Long chân nhân",
+      "Vương Trác",
+      "Lưu Văn Cử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lão hỏi 'Kẻ nào là Vương Lâm?' vì Âu Dương nhiều lần nhắc đến hắn.",
+    "chapter": 63,
+    "source": "Tiên Nghịch ch.63",
+    "evidence": "Phác Nam Tử hạ xuống, thản nhiên hỏi: 'Kẻ nào là Vương Lâm?' khiến Vương Lâm bất ngờ."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Phác Nam Tử dùng vật gì phun chất lỏng đỏ sậm, bọc ngọn cự phong trong hỏa quang?",
+    "options": [
+      "Một ngọc giản quỷ hỏa",
+      "Một hồng sắc hồ lô",
+      "Một dải lụa hồng",
+      "Một tử sắc ngọc bội"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hồ lô đỏ bắn ra chất lỏng đỏ sậm, lửa bao lấy cự phong rồi nện xuống.",
+    "chapter": 63,
+    "source": "Tiên Nghịch ch.63",
+    "evidence": "Phác Nam Tử xuất ra 'một cái hồng sắc hồ lô', bắn chất lỏng đỏ sậm, hỏa quang bao vây cự phong."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Phác Nam Tử ép Hoàng Long chân nhân phải để lại thứ gì vì Âu Dương sư điệt đã nhắm trúng?",
+    "options": [
+      "Túi trữ vật của chưởng môn",
+      "Ngọc bội mở cấm địa",
+      "Tử Nhạc Tiên Kiếm",
+      "Toàn bộ ngọc giản Tàng Kinh Các"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão đòi thanh Tử Nhạc Tiên Kiếm, Hoàng Long bất đắc dĩ phải giao ra.",
+    "chapter": 63,
+    "source": "Tiên Nghịch ch.63",
+    "evidence": "Phác Nam Tử bảo Hoàng Long 'để thanh Tử Nhạc Kiếm tiên đó lại', Âu Dương đã nhìn trúng."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Theo Phác Nam Tử, các Nguyên Anh kỳ của Hằng Nhạc phái đã bỏ mạng ra sao?",
+    "options": [
+      "Trong đại chiến với Huyền Đạo Tông",
+      "Khi tranh đoạt ở Vực ngoại Tu chân tinh",
+      "Bị tâm ma phản phệ khi bế quan",
+      "Bị Chu Bằng ám toán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão nói họ chết khi tranh đoạt lẫn nhau ở Vực ngoại Tu chân tinh.",
+    "chapter": 63,
+    "source": "Tiên Nghịch ch.63",
+    "evidence": "Phác Nam Tử nói mấy Nguyên Anh của Hằng Nhạc 'đã bỏ mình khi tranh đoạt lẫn nhau ở ngoài Vực ngoại Tu chân tinh'."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Vương Hạo giải thích với 'Thiết Trụ ca' rằng mình không theo Hằng Nhạc phái rời đi vì lý do gì?",
+    "options": [
+      "Muốn gia nhập Huyền Đạo Tông",
+      "Còn đang dưỡng thương",
+      "Sợ Lữ Vân Kiệt trả thù",
+      "Phải ở lại giúp đỡ cha"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Hạo nói ở lại để giúp cha, hứa sẽ chiếu cố bên đó cho Vương Lâm yên tâm.",
+    "chapter": 64,
+    "source": "Tiên Nghịch ch.64",
+    "evidence": "Vương Hạo nói: 'Thiết Trụ ca, ta cũng không đi, phải ở lại giúp đỡ cha ta'."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Được Phác Nam Tử mời gia nhập Huyền Đạo Tông, Vương Lâm đáp lại thế nào?",
+    "options": [
+      "Ôm quyền rồi bay sang đứng cạnh Hoàng Long",
+      "Nhận lời ở lại Hằng Nhạc sơn",
+      "Xin suy nghĩ thêm ba ngày",
+      "Lớn tiếng mắng Phác Nam Tử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn không nói gì, ôm quyền rồi bay tới cạnh Hoàng Long chân nhân, đi theo Hằng Nhạc phái.",
+    "chapter": 64,
+    "source": "Tiên Nghịch ch.64",
+    "evidence": "Vương Lâm 'không nói hai lời mà trực tiếp ôm quyền', bay tới bên cạnh Hoàng Long chân nhân."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trong lứa của Hoàng Long, ngoài ông ra còn những ai chịu theo hai sư tổ Kết Đan rời đi?",
+    "options": [
+      "Vương Trác và Lữ Vân Kiệt",
+      "Đạo Hư và Hồng Kiểm lão giả",
+      "Trương Tính và Lữ Tung",
+      "Liễu Phong và Hứa Mộc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chỉ Hoàng Long, Đạo Hư và Hồng Kiểm lão giả bay lên đứng sau hai sư tổ.",
+    "chapter": 64,
+    "source": "Tiên Nghịch ch.64",
+    "evidence": "Ngoại trừ Hoàng Long, Đạo Hư, Hồng Kiểm lão giả, những người còn lại đều không di chuyển."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Lưu Văn Cử đề nghị cả phái tạm định cư ở môn phủ từng tìm thấy tại vùng núi nào?",
+    "options": [
+      "Thương Tùng phong",
+      "Hằng Nhạc phong",
+      "Tượng Xà sơn",
+      "Thiên Túc sơn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão từng tìm được một môn phủ ở Tượng Xà sơn và muốn tạm định cư ở đó.",
+    "chapter": 64,
+    "source": "Tiên Nghịch ch.64",
+    "evidence": "Lưu Văn Cử nói nhiều năm trước từng 'ở Tượng Xà sơn này tìm được một môn phủ', tạm định cư ở đó."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Hai trưởng lão Trúc Cơ kỳ theo Hằng Nhạc phái, được Lưu Văn Cử giao canh giữ bốn phía, là ai?",
+    "options": [
+      "Tống Dục và Chu Bằng",
+      "Thượng Quan và Âu Dương",
+      "Lữ Tung và Trương Tính",
+      "Thượng Quan và Tống Dục"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lưu Văn Cử gọi Thượng Quan và Tống Dục bảo vệ xung quanh khi hai sư tổ tĩnh tọa.",
+    "chapter": 64,
+    "source": "Tiên Nghịch ch.64",
+    "evidence": "Lưu Văn Cử dặn: 'Thượng Quan, Tống Dục, hai người các ngươi bảo vệ bốn phía'."
+  }
+]

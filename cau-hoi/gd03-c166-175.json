@@ -1,0 +1,802 @@
+[
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Đoan Mộc Cực nói Vương Lâm sẽ rất hữu dụng ở cửa thứ ba vì hắn nắm giữ thuật gì?",
+  "options": [
+   "Dẫn lực thuật",
+   "Tử chú thuật",
+   "Thổ độn thuật",
+   "Ngũ hành độn thuật"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đoan Mộc Cực bảo Uông Thanh Việt đừng coi thường Vương Lâm vì hắn nắm giữ Tử chú thuật, hữu dụng ở cửa thứ ba.",
+  "chapter": 166,
+  "source": "Tiên Nghịch ch.166",
+  "evidence": "Đoan Mộc Cực đáp Uông Thanh Việt: \"Hắn nắm giữ Tử chú thuật, khi đến cửa thứ ba sẽ có tác dụng rất lớn\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Để khởi động cổ truyền tống trận trong sơn cốc, Đoan Mộc Cực đặt vật gì vào chỗ lõm giữa trận?",
+  "options": [
+   "Một viên Anh Biến Đan",
+   "Chiếc thuyền Hành Thổ Chu",
+   "Khối cực phẩm linh thạch",
+   "Một ngọc giản thượng cổ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lão tiếc rẻ đặt khối linh thạch lục lăng cực phẩm vào chỗ lõm; sau khi truyền tống nó vỡ thành tro.",
+  "chapter": 166,
+  "source": "Tiên Nghịch ch.166",
+  "evidence": "Đoan Mộc Cực lấy khối linh thạch hình lục lăng đặt vào chỗ lõm trung tâm trận, than \"khối cực phẩm linh thạch của ta\" sẽ bị hủy."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Trung niên văn sỹ Uông Thanh Việt là sứ giả của tông môn nào ở tứ cấp tu chân quốc?",
+  "options": [
+   "Thi Âm Tông",
+   "Thiên Đạo Môn",
+   "Tịch Diệt Tông",
+   "Âm Dương Tông"
+  ],
+  "correctIndex": 3,
+  "explanation": "Đoan Mộc Cực truyền âm cho Vương Lâm biết Uông Thanh Việt là sứ giả Âm Dương Tông, tu vi rất đáng sợ.",
+  "chapter": 166,
+  "source": "Tiên Nghịch ch.166",
+  "evidence": "Đoan Mộc Cực truyền âm: \"Uông Thanh Việt, sứ giả Âm Dương Tông của tứ cấp tu chân quốc\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Cổ truyền tống trận không đưa thẳng tới đích, mà đưa nhóm Đoan Mộc Cực tới đâu?",
+  "options": [
+   "Toái Tinh Loạn",
+   "Nam Đấu Thành",
+   "Chu Tước quốc",
+   "Hồng vụ ngoại hải"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đoan Mộc Cực nói trận chỉ truyền tống tới Toái Tinh Loạn trong Tu Ma hải, ở đó sẽ hội họp với bằng hữu.",
+  "chapter": 166,
+  "source": "Tiên Nghịch ch.166",
+  "evidence": "Đoan Mộc Cực giải thích trận này không đưa thẳng tới nơi kia, \"chỉ truyền tống đến Toái Tinh Loạn trong Tu Ma hải\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo lời đồn Uông Thanh Việt nhắc tới, cực phẩm linh thạch được dùng vào việc gì?",
+  "options": [
+   "Nguyên liệu chính luyện Anh Biến Đan",
+   "Tiền giao dịch giữa các tinh cầu",
+   "Vật tế để mở cửa thứ ba",
+   "Lệnh bài vào Tu Ma nội hải"
+  ],
+  "correctIndex": 1,
+  "explanation": "Uông Thanh Việt nói cực phẩm linh thạch rất hiếm trên Chu Tước tinh, nghe đồn là tiền tệ giao dịch giữa các tu chân tinh cầu.",
+  "chapter": 166,
+  "source": "Tiên Nghịch ch.166",
+  "evidence": "Uông Thanh Việt: nghe đồn đó \"chính là tiền tệ để giao dịch giữa các tu chân tinh cầu\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Theo ghi chép mà nhóm Đoan Mộc Cực có được, bên trong Toái Tinh Loạn có gì?",
+  "options": [
+   "Lò luyện Anh Biến Đan",
+   "Mộ đệ nhất cao thủ Chu Tước",
+   "Thi hài của một vị cổ thần",
+   "Tàng kinh các thượng cổ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đoan Mộc Cực tiết lộ với Vương Lâm rằng trong Toái Tinh Loạn có thi hài một vị cổ thần.",
+  "chapter": 167,
+  "source": "Tiên Nghịch ch.167",
+  "evidence": "Đoan Mộc Cực: theo vật ghi chép có được, trong Toái Tinh Loạn \"có thi hài của một vị cổ thần\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Lão nhân áo đen cầm phất trần, đại ma đầu nổi tiếng ở Tu Ma nội hải, được mọi người gọi là gì?",
+  "options": [
+   "Lục Dục ma quân",
+   "Bát Cực ma quân",
+   "Mạnh Đà Tử",
+   "Cổ đế"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lão nhân này tên Cổ Lam, mọi người gọi là Cổ đế; vẻ ngoài như tiên nhân nhưng là kẻ điên, suýt giết Vương Lâm.",
+  "chapter": 167,
+  "source": "Tiên Nghịch ch.167",
+  "evidence": "Đoan Mộc Cực truyền âm: \"Hắn tên là Cổ Lam, nhưng chúng ta đều gọi là Cổ đế\", là đại ma đầu Tu Ma nội hải."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Khi một người bước vào Toái Tinh Loạn, đá vụn bên trong sẽ hóa thành thứ gì để cản đường?",
+  "options": [
+   "Bản sao của chính người đó",
+   "Một bầy thú đá khổng lồ",
+   "Một con giao long bằng đá",
+   "Một đại trận tia chớp màu tím"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đá vụn tạo ra bản sao của người bước vào, thậm chí mạnh hơn; Uông Thanh Việt vừa vào đã phải đấu với phân thân mình.",
+  "chapter": 167,
+  "source": "Tiên Nghịch ch.167",
+  "evidence": "Đoan Mộc Cực kể đá vụn sẽ tạo thành bản sao của mỗi người; khi Uông Thanh Việt bước vào, một phân thân giống y hệt hắn xuất hiện."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Nam tử áo đỏ đến bằng Long chu, được gọi là Lục Dục ma quân, tự xưng tên là gì?",
+  "options": [
+   "Cổ Lam",
+   "Từ Ly Thanh",
+   "Uông Thanh Việt",
+   "Đoan Mộc Cực"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lục Dục ma quân hứa với Vương Lâm rằng nếu mở được cửa thứ ba, Từ Ly Thanh hắn sẽ bảo đảm an toàn cho cậu.",
+  "chapter": 167,
+  "source": "Tiên Nghịch ch.167",
+  "evidence": "Lục Dục ma quân nói với Vương Lâm: nếu mở được cửa thứ ba thì \"Từ Ly Thanh ta sẽ đảm bảo sự an toàn cho ngươi\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "kho",
+  "question": "Sau khi vị cao thủ từ lục cấp tu chân quốc mất tích ở Toái Tinh Loạn, Chu Tước tinh đã làm gì?",
+  "options": [
+   "Xây truyền tống trận để đi vào trong",
+   "Treo thưởng lớn cho ai tìm ra hắn",
+   "Phong tỏa, ai vào giết không tha",
+   "Lập tông môn canh giữ lối vào"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mười năm sau, Chu Tước tinh phái nhiều cao thủ bày đại trận phong tỏa và ra lệnh giết bất cứ ai thâm nhập.",
+  "chapter": 167,
+  "source": "Tiên Nghịch ch.167",
+  "evidence": "Chu Tước tinh bày đại trận phong tỏa vùng đất này, đồng thời ra lệnh ai thâm nhập \"thì giết không tha\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Lão gù Mạnh Đà Tử xuất hiện ở Toái Tinh Loạn bằng cách cưỡi trên con vật gì?",
+  "options": [
+   "Một con hắc long",
+   "Một con cóc khổng lồ",
+   "Một con giao long đỏ",
+   "Một con hạc tiên"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn cưỡi một con bích thiềm thừ to hơn mười trượng, sau đó thu nhỏ nó lại để ngồi trên vai.",
+  "chapter": 168,
+  "source": "Tiên Nghịch ch.168",
+  "evidence": "Một con bích thiềm thừ thân to hơn mười trượng hạ xuống, trên lưng là người mặc lục bào, lưng gù."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Mục tiêu chính của nhóm cường giả khi vào thi thể cổ thần là loại đan dược nào?",
+  "options": [
+   "Phòng Độc đan",
+   "Trúc Cơ đan",
+   "Anh Biến đan",
+   "Hóa Thần đan"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lục Dục ma quân nói mục tiêu lần này là Anh Biến đan, có thể tìm thấy trong kinh mạch của cổ thần.",
+  "chapter": 168,
+  "source": "Tiên Nghịch ch.168",
+  "evidence": "Lục Dục ma quân: \"Mục tiêu của chúng ta lần này chính là Anh Biến đan\", có trong kinh mạch cổ thần."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Cổ Đế đoạt được pháp bảo nào ở tứ cấp tu chân quốc để chống đỡ đệ nhất quan?",
+  "options": [
+   "Hành Thổ Chu",
+   "Long chu",
+   "Đại chùy ngân mang",
+   "Băng Phong Tráo"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cổ Đế nói lần này đoạt được Băng Phong Tráo, đủ chống đỡ hơn nửa đệ nhất quan.",
+  "chapter": 168,
+  "source": "Tiên Nghịch ch.168",
+  "evidence": "Cổ Đế: \"lão phu từ tứ cấp tu chân quốc đoạt được Băng Phong Tráo\" để chống đệ nhất quan."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Trước khi bước vào quang quyển, Vương Lâm đòi được gì từ Đoan Mộc Cực theo lời hứa?",
+  "options": [
+   "Hai viên đan hóa anh, lập anh",
+   "Một khối cực phẩm linh thạch lớn",
+   "Một viên Anh Biến đan",
+   "Bản đồ đường vào cổ thần"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đoan Mộc Cực đưa hai hạt đan dược: viên nhỏ hóa anh, viên lớn lập anh, đúng như Lý Mộ Uyển từng miêu tả.",
+  "chapter": 168,
+  "source": "Tiên Nghịch ch.168",
+  "evidence": "Đoan Mộc Cực lấy ra hai hạt đan dược; Vương Lâm kiểm tra thấy \"một viên nhỏ là hóa anh, viên lớn là lập anh\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Mạnh Đà Tử ước tính sinh vật mình rắn chín sừng trong thông đạo có tu vi tương đương cảnh giới nào?",
+  "options": [
+   "Nguyên Anh kỳ đại viên mãn",
+   "Hóa Thần sơ kỳ",
+   "Hóa Thần đại viên mãn",
+   "Anh Biến kỳ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Sau khi rọi sáng thấy con thú mình rắn khổng lồ, Mạnh Đà Tử nói nó tương đương tu sĩ Hóa Thần kỳ đại viên mãn.",
+  "chapter": 168,
+  "source": "Tiên Nghịch ch.168",
+  "evidence": "Mạnh Đà Tử: đó là thú hoang, \"Tu vi tương đương tu sĩ Hóa Thần kỳ đại viên mãn\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Cổ Đế dùng pháp bảo gì tấn công cự xà, rồi mất luôn cảm ứng với pháp bảo ấy?",
+  "options": [
+   "Băng Phong Tráo",
+   "Một cổ chung",
+   "Cây phất trần",
+   "Hai vòng ngọc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cổ Đế tung cổ chung phát sóng âm đánh cự xà, nhưng bị cái đầu rắn trong miệng nó cắn lấy kéo vào.",
+  "chapter": 169,
+  "source": "Tiên Nghịch ch.169",
+  "evidence": "Cổ Đế lấy ra một cổ chung hóa lớn phát tiếng chuông; sau đó cự chung biến mất, hắn \"đã mất đi cảm ứng với pháp bảo\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Khi cự xà há miệng, thần thức Vương Lâm phát hiện bên trong có gì?",
+  "options": [
+   "Một viên nội đan đỏ",
+   "Một quang quyển đen",
+   "Một đầu rắn nhỏ hơn",
+   "Xác của nhiều tu sĩ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm thấy trong miệng cự xà còn một đầu rắn nhỏ hơn, chính nó cắn lấy cổ chung của Cổ Đế.",
+  "chapter": 169,
+  "source": "Tiên Nghịch ch.169",
+  "evidence": "Vương Lâm quan sát thấy khi nó mở miệng, trong đó \"lại xuất hiện một đầu rắn nữa\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Lục Dục ma quân tạo ra hai thanh lợi kiếm màu đen và tím đỏ từ đâu?",
+  "options": [
+   "Tinh huyết của chính hắn",
+   "Hắc vụ độc do cự xà phun ra",
+   "Cực phẩm linh thạch",
+   "Cảm xúc của gã thanh niên"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn quát \"Khiếp hãi\" rồi \"Nộ\", rút khí từ thất khiếu gã thanh niên đi theo để ngưng thành kiếm; gã trở nên thất thần.",
+  "chapter": 169,
+  "source": "Tiên Nghịch ch.169",
+  "evidence": "Sau tiếng quát của Lục Dục ma quân, hắc khí rồi khí tím đỏ từ người thanh niên lan ra, ngưng thành lợi kiếm."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Vương Lâm từng được nghe rằng dịch tủy của giao long sống đủ lâu có công hiệu gì?",
+  "options": [
+   "Tăng tỷ lệ kết anh",
+   "Giải mọi loại kịch độc",
+   "Kéo dài thọ nguyên",
+   "Hồi phục thần thức"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn mạo hiểm chui vào miệng cự xà vì nhớ dịch tủy giao long sống lâu có thể gia tăng tỷ lệ kết anh.",
+  "chapter": 169,
+  "source": "Tiên Nghịch ch.169",
+  "evidence": "Theo lời kể Vương Lâm nhớ lại, nếu giao long sống đủ lâu \"thì dịch tuỷ có thể gia tăng tỷ lệ kết anh\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Vương Lâm tính rằng nếu thân cự xà có dị thường khi hắn lấy tủy thì sẽ đổ tội cho ai?",
+  "options": [
+   "Uông Thanh Việt",
+   "Mạnh Đà Tử",
+   "Lục Dục ma quân",
+   "Đoan Mộc Cực"
+  ],
+  "correctIndex": 1,
+  "explanation": "Thấy Mạnh Đà Tử cũng chui vào miệng rắn, Vương Lâm tính có chuyện gì thì cứ đổ cho lão gù.",
+  "chapter": 169,
+  "source": "Tiên Nghịch ch.169",
+  "evidence": "Vì Mạnh Đà Tử cũng chui vào, nên dù cự xà có điều dị thường thì \"cứ đổ cho hắn là được\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Thứ gì lao ra từ thân rắn khô quắt bên trong cự xà rồi đuổi theo Mạnh Đà Tử?",
+  "options": [
+   "Một bóng đen nhiều xúc tua",
+   "Một con hắc long",
+   "Một con hồng giao long nhỏ",
+   "Một bầy tiểu thú cánh mỏng"
+  ],
+  "correctIndex": 2,
+  "explanation": "Từ thân rắn khô quắt, một con tiểu hồng giao long lao ra nhanh như điện, truy kích Mạnh Đà Tử.",
+  "chapter": 170,
+  "source": "Tiên Nghịch ch.170",
+  "evidence": "Từ trong thân rắn khô quắt \"lao ra một con tiểu hồng giao long\", đuổi theo Mạnh Đà Tử."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Để tránh con giao long trở về truy tìm kẻ trộm tủy, Vương Lâm trốn vào đâu?",
+  "options": [
+   "Trong bụng xác cự xà",
+   "Không gian Nghịch Thiên châu",
+   "Một tòa hắc tháp",
+   "Trong túi trữ vật chứa hỏa phần"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn chìm vào khối đá, lấy Nghịch Thiên châu ra rồi chui vào không gian hạt châu; mười ngày sau mới ra.",
+  "chapter": 170,
+  "source": "Tiên Nghịch ch.170",
+  "evidence": "Vương Lâm chìm vào khối đá, \"lấy Nghịch Thiên châu ra, rồi chui vào trong không gian của hạt châu\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Vương Lâm dùng thuật gì để hút cốt tủy từ đoạn xương nối đầu và cổ cự xà?",
+  "options": [
+   "Thổ độn thuật",
+   "Tử chú thuật",
+   "Ngũ hành độn thuật",
+   "Dẫn lực thuật"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn đặt tay phải lên đoạn xương trắng lộ ra và khống chế Dẫn lực thuật hút mạnh.",
+  "chapter": 170,
+  "source": "Tiên Nghịch ch.170",
+  "evidence": "Tay phải Vương Lâm đặt lên xương, \"khống chế Dẫn lực thuật, đột nhiên hút mạnh một cái\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vương Lâm nhận ra Mạnh Đà Tử gọi hắn cùng chạy khỏi cự xà là vì ý đồ gì?",
+  "options": [
+   "Phân tán truy kích của giao long",
+   "Dụ hắn vào một bẫy độc đã giăng sẵn",
+   "Cướp lấy dịch tủy trong tay hắn",
+   "Đưa hắn đi mở cửa thứ ba"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm hiểu Mạnh Đà Tử không có lòng tốt, gọi hắn chạy cùng chỉ để phân tán mục tiêu truy kích của giao long.",
+  "chapter": 170,
+  "source": "Tiên Nghịch ch.170",
+  "evidence": "Mạnh Đà Tử gọi Vương Lâm cùng chạy, \"mục đích là phân tán mục tiêu truy kích của giao long mà thôi\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Không tìm được kẻ trộm tủy, con hồng giao long trút giận đại chiến với ai?",
+  "options": [
+   "Mạnh Đà Tử và Cổ Đế",
+   "Một con cự xà khác",
+   "Sinh vật nhiều xúc tua",
+   "Sinh vật vô hình nuốt đá"
+  ],
+  "correctIndex": 2,
+  "explanation": "Giao long lao tới khối đá có bóng đen nhiều xúc tua, đánh suốt một ngày khiến nó thua chạy, bản thân cũng bị trọng thương.",
+  "chapter": 170,
+  "source": "Tiên Nghịch ch.170",
+  "evidence": "Hồng giao long \"giận cá chém thớt\", đánh cho bóng đen có vô số xúc tua thất bại chạy đi."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Khi bị các cái miệng vô hình vây kín bốn phía, vật gì đã giúp Vương Lâm thoát ra?",
+  "options": [
+   "Ngọc phù phòng ngự cấp Nguyên Anh",
+   "Phòng Độc đan",
+   "Cuộn tranh quỷ dị",
+   "Ngọc giản Lý Mộ Uyển tặng"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn tế ra ngọc giản phòng ngự Lý Mộ Uyển để lại khi chia tay; nó bảo vệ hắn lao ra khỏi vùng trống trải.",
+  "chapter": 171,
+  "source": "Tiên Nghịch ch.171",
+  "evidence": "Thần thức hắn dừng ở cái ngọc giản phòng ngự \"mà Lý Mộ Uyển để lại cho hắn khi chia tay\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Ngọc giản phòng ngự ấy phóng ra hư ảnh của con vật gì xoay quanh bảo vệ Vương Lâm?",
+  "options": [
+   "Thanh Long",
+   "Hồng giao long",
+   "Bích thiềm thừ",
+   "Hắc long"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hư ảnh một con Thanh Long khổng lồ lao ra, xoay tròn quanh hắn chặn các khe hở cắn nuốt.",
+  "chapter": 171,
+  "source": "Tiên Nghịch ch.171",
+  "evidence": "\"Hư ảnh của một con Thanh Long khổng lồ\" từ trong ngọc giản lao ra, xoay quanh thân Vương Lâm."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Kiện pháp bảo cấp Nguyên Anh duy nhất của Vương Lâm có kết cục thế nào trong vùng trống trải?",
+  "options": [
+   "Bị Cổ Đế đoạt mất",
+   "Vỡ nát trước cái miệng vô hình",
+   "Nứt một vết nhưng vẫn dùng được",
+   "Bị hồng giao long nuốt"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ngọc phù cấp Nguyên Anh tạo quầng sáng chắn đòn nhưng hóa thành mảnh vỡ khi cái miệng của sinh vật vô hình khép lại.",
+  "chapter": 171,
+  "source": "Tiên Nghịch ch.171",
+  "evidence": "Hắn chỉ có một kiện pháp bảo cấp Nguyên Anh, \"thế mà đã bị cái miệng của sinh vật kia phá nát\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Khi tìm lại được quang quyển lối vào, điều gì ngăn Vương Lâm thoát ra ngoài?",
+  "options": [
+   "Hồng giao long nằm canh giữ",
+   "Phong ấn hắc ti của Cổ Đế",
+   "Ổ lõm cần cực phẩm linh thạch",
+   "Một bầy sinh vật vô hình vây kín"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tia chớp tím hóa thành đồ án hình thoi chặn lại; chỗ lõm ở giữa vừa khít một khối cực phẩm linh thạch.",
+  "chapter": 171,
+  "source": "Tiên Nghịch ch.171",
+  "evidence": "Một lực cản ngăn hắn lại; điểm lõm hình thoi \"vừa vặn với một khối cực phẩm linh thạch\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Vì sao trong vùng trống trải, Vương Lâm không dám tiếp tục trốn vào không gian Nghịch Thiên?",
+  "options": [
+   "Hạt châu bị cấm chế phong ấn",
+   "Linh lực không đủ để mở",
+   "Sợ Đoan Mộc Cực phát hiện",
+   "Sợ cả không gian bị nuốt mất"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn lo nếu trốn vào, chính không gian Nghịch Thiên cũng có thể bị sinh vật kia nuốt, ra ngoài sẽ khó thoát chết.",
+  "chapter": 171,
+  "source": "Tiên Nghịch ch.171",
+  "evidence": "Hắn sợ \"ngay cả Nghịch Thiên không gian cũng có thể bị sinh vật kia nuốt mất\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Trong năm thế giới ngũ hành phía sau lốc xoáy, Vương Lâm chọn đi vào thế giới nào?",
+  "options": [
+   "Sông băng",
+   "Biển lửa",
+   "Sa mạc",
+   "Núi đao"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn chọn sa mạc của Hành Thổ chi địa vì am hiểu thổ độn thuật, giúp vượt qua dễ hơn.",
+  "chapter": 172,
+  "source": "Tiên Nghịch ch.172",
+  "evidence": "Nếu được chọn thì hắn chọn sa mạc, vì \"hắn cũng am hiểu thổ độn thuật\"; sau đó hắn vào sa mạc vàng đất."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Để dò xét thế giới sau lốc xoáy, Vương Lâm đã ép kẻ nào chui vào thăm dò?",
+  "options": [
+   "Ma đầu trong Long cân",
+   "Hồn phách Tang Mộc Nhai",
+   "Một con tiểu thú",
+   "Hư ảnh Thanh Long"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn lấy Long cân ra, thả Ma đầu và dùng Cực cảnh thần thức ép nó bay vào lốc xoáy, nhờ đó thấy các thế giới phía sau.",
+  "chapter": 172,
+  "source": "Tiên Nghịch ch.172",
+  "evidence": "Vương Lâm lấy Long cân, Ma đầu bay ra; bị thần thức uy hiếp, nó \"đành phải bay về phía lốc xoáy\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Ma đầu không chịu vào lốc xoáy, Vương Lâm bèn rút hồn phách của ai trong hồn kỳ cho nó nuốt?",
+  "options": [
+   "Hứa Lập Quốc",
+   "Tang Mộc Nhai",
+   "Đằng Hóa Nguyên",
+   "Từ Ly Thanh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn rút hồn phách Tang Mộc Nhai, kẻ hắn bắt gặp giết sư huynh ở Tu Ma hải, ném cho Ma đầu nuốt.",
+  "chapter": 172,
+  "source": "Tiên Nghịch ch.172",
+  "evidence": "Vương Lâm chộp mạnh, \"hồn phách của Tang Mộc Nhai bị hút ra\" rồi ném về phía Ma đầu."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Phi kiếm Vương Lâm ném lên cao giữa sa mạc Hành Thổ chi địa gặp chuyện gì?",
+  "options": [
+   "Bị tiểu thú cắn nuốt",
+   "Bị lỗ đen vô hình nuốt mất",
+   "Bay lạc về hắc tháp",
+   "Bị lốc từ trời cuốn nát"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bay cao hơn trăm trượng thì một cơn lốc vô thanh giáng xuống cuốn phi kiếm vỡ nát, nên hắn chỉ đi bằng thổ độn.",
+  "chapter": 172,
+  "source": "Tiên Nghịch ch.172",
+  "evidence": "Phi kiếm bay cao hơn trăm trượng thì gặp cơn lốc từ trời giáng xuống, \"vỡ tan thành từng mảnh\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "kho",
+  "question": "Theo kế hoạch ban đầu, nhóm Mạnh Đà Tử định vượt qua thế giới nào vì đã từng trải qua?",
+  "options": [
+   "Hành Thủy chi địa",
+   "Hành Thổ chi địa",
+   "Hành Hỏa chi địa",
+   "Hành Kim chi địa"
+  ],
+  "correctIndex": 0,
+  "explanation": "Họ định vào Hành Thủy chi địa toàn băng tuyết, nơi lần trước đã vượt qua; nhưng bị giao long đuổi nên mỗi người lạc một nơi.",
+  "chapter": 172,
+  "source": "Tiên Nghịch ch.172",
+  "evidence": "Theo kế hoạch họ \"sẽ đi vào Hành Thủy chi địa, cũng chính là một cái thế giới toàn băng tuyết\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Thấy đặc tính của linh hồn tiểu thú, Vương Lâm nảy ý định dùng chúng làm gì?",
+  "options": [
+   "Bồi bổ thần thức bản thân",
+   "Chế tạo Ma đầu thứ hai",
+   "Luyện thêm một cây hồn kỳ",
+   "Mở đường ra cửa hai"
+  ],
+  "correctIndex": 1,
+  "explanation": "Thấy thần thức tiểu thú có thể dung hợp, hắn muốn chế tạo thêm một Ma đầu vì bản thân thiếu pháp bảo.",
+  "chapter": 173,
+  "source": "Tiên Nghịch ch.173",
+  "evidence": "Tính đặc thù đó làm Vương Lâm nảy ý \"muốn chế tạo ra một Ma đầu nữa\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Ma đầu đầu tiên đi theo Vương Lâm vốn được hóa thành từ ai?",
+  "options": [
+   "Tang Mộc Nhai",
+   "Tư Đồ Nam",
+   "Hứa Lập Quốc",
+   "Đằng Hóa Nguyên"
+  ],
+  "correctIndex": 2,
+  "explanation": "Truyện nói rõ Ma đầu thứ nhất do Hứa Lập Quốc hóa thành, vốn là tu sĩ Nguyên Anh kỳ.",
+  "chapter": 173,
+  "source": "Tiên Nghịch ch.173",
+  "evidence": "\"Ma đầu do Hứa Lập Quốc hóa thành\" chỉ có thể cắn nuốt những kẻ đồng giới."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vì sao Vương Lâm gọi Ma đầu về, không cho nó diệt sạch bầy tiểu thú trong lốc?",
+  "options": [
+   "Muốn giữ chúng lại làm mồi dụ",
+   "Sợ Mạnh Đà Tử phát hiện",
+   "Ma đầu sắp bị phản phệ",
+   "Sợ chúng gọi thêm đồng bọn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn đoán tiểu thú bị giết nhiều sẽ triệu tập đồng loại, dần hình thành đại cuồng phong không ai chống nổi.",
+  "chapter": 173,
+  "source": "Tiên Nghịch ch.173",
+  "evidence": "Một khi số lượng bị giết quá nhiều, \"chúng có thể gọi đồng bọn tới\", rồi hình thành đại cuồng phong."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Điều gì khiến thần thức tiểu thú khác hẳn Hứa Lập Quốc thuở mới luyện thành Ma đầu?",
+  "options": [
+   "Tự dung hợp các linh hồn khác",
+   "Miễn nhiễm mọi loại độc",
+   "Nuốt được cả kẻ có tu vi cao hơn",
+   "Có thể thuấn di"
+  ],
+  "correctIndex": 0,
+  "explanation": "Chỉ cần ép nhẹ, thần thức tiểu thú đã tự dung hợp các linh hồn ném ra, còn Hứa Lập Quốc lúc đầu không thể cắn nuốt.",
+  "chapter": 173,
+  "source": "Tiên Nghịch ch.173",
+  "evidence": "Vương Lâm ngạc nhiên vì tiểu thú chỉ bị bức bách chút xíu \"thì ngay lập tức đã dung hợp\", không cần cắn nuốt."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo truyện, Ma đầu Hứa Lập Quốc chỉ có thể cắn nuốt được những kẻ thế nào?",
+  "options": [
+   "Kẻ thấp hơn nó hai tầng",
+   "Mọi tu vi như du hồn",
+   "Kẻ đồng giới với nó",
+   "Chỉ yêu thú Tu Ma hải"
+  ],
+  "correctIndex": 2,
+  "explanation": "Khác du hồn nuốt được mọi tu vi, Hứa Lập Quốc chỉ nuốt được kẻ đồng giới; gặp Nguyên Anh kỳ mà cố nuốt sẽ thất bại.",
+  "chapter": 173,
+  "source": "Tiên Nghịch ch.173",
+  "evidence": "Ma đầu Hứa Lập Quốc \"chỉ có thể cắn nuốt những kẻ đồng giới với mình\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Sau khi khuất phục Ma đầu tiểu thú bằng thần thức, Vương Lâm cất nó vào đâu?",
+  "options": [
+   "Sợi Long cân",
+   "Một cây hồn kỳ",
+   "Không gian hạt châu",
+   "Một bình ngọc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn lấy ra một cái hồn kỳ, Ma đầu tiểu thú hóa khói đỏ bay vào; còn Hứa Lập Quốc thì bị ném vào Long cân.",
+  "chapter": 174,
+  "source": "Tiên Nghịch ch.174",
+  "evidence": "Vương Lâm lấy ra một cái hồn kỳ, Ma đầu \"hóa thành khói đỏ bay vào trong hồn kỳ\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Đám mây đen bị Cự phong chi vương thổi bạt đi xa là do ai tạo ra?",
+  "options": [
+   "Lục Dục ma quân",
+   "Cổ Đế",
+   "Uông Thanh Việt",
+   "Mạnh Đà Tử"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vương Lâm biết ngay đám mây đen ấy do Mạnh Đà Tử tung ra; nếu không bị thổi đi, tiểu thú sẽ thương vong thê thảm.",
+  "chapter": 174,
+  "source": "Tiên Nghịch ch.174",
+  "evidence": "Không cần nói cũng biết \"đám mây đen đó chính là do Mạnh Đà Tử mà ra\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Khi Ma đầu thứ hai cất tiếng kêu chói tai, bầy tiểu thú đang vây Vương Lâm phản ứng ra sao?",
+  "options": [
+   "Lui lại, tỏ vẻ e ngại nó",
+   "Lao vào cắn nuốt nó",
+   "Bay về Cự phong chi vương",
+   "Tự nổ tung mà chết"
+  ],
+  "correctIndex": 0,
+  "explanation": "Bầy tiểu thú lộ nguyên hình, kinh nghi rồi thoái lui, nhìn Ma đầu thứ hai với vẻ e ngại; đợt sóng âm cũng thu lại.",
+  "chapter": 174,
+  "source": "Tiên Nghịch ch.174",
+  "evidence": "Ma đầu thứ hai kêu to vài tiếng, \"bọn tiểu thú kia lập tức thoái lui về phía sau\", ánh mắt e ngại."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Gần dòng chảy dẫn tới cửa thứ hai, Vương Lâm gặp trở ngại gì với không gian Nghịch Thiên?",
+  "options": [
+   "Bị bầy tiểu thú nuốt mất",
+   "Nứt ra một vết nhỏ",
+   "Không thể chui vào được",
+   "Đẩy hắn văng ra ngoài"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn đã thử nhưng đến nơi này không hiểu sao không vào được không gian Nghịch Thiên, nên phải dùng Ma đầu.",
+  "chapter": 174,
+  "source": "Tiên Nghịch ch.174",
+  "evidence": "Hắn từng thử chui vào không gian nghịch thiên, nhưng ở đây \"không có cách nào để tiến vào được\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Vương Lâm thấy thổ độn của mình kém xa thuật nào ghi trong ngọc giản, nháy mắt đi được ngàn dặm?",
+  "options": [
+   "Ngũ hành độn thuật",
+   "Súc Địa thành thốn",
+   "Thuấn di",
+   "Dẫn lực thuật"
+  ],
+  "correctIndex": 1,
+  "explanation": "Dù đã dùng thổ độn rất thành thục, hắn cảm thấy còn cách biệt quá xa so với Súc Địa thành thốn trong ngọc giản.",
+  "chapter": 174,
+  "source": "Tiên Nghịch ch.174",
+  "evidence": "So với \"Súc Địa thành thốn được miêu tả trong ngọc giản\" nháy mắt ngàn dặm thì thổ độn của hắn còn cách xa."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm tung pháp bảo nào ra quấn lấy chân phải Mạnh Đà Tử, làm lão chậm lại?",
+  "options": [
+   "Hồn kỳ",
+   "Phi kiếm",
+   "Long cân",
+   "Ngọc giản phòng ngự"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn ném Long cân của giao long ra; tuy bị giẫm đứt nhưng làm Mạnh Đà Tử chậm một phần và trúng sóng âm.",
+  "chapter": 175,
+  "source": "Tiên Nghịch ch.175",
+  "evidence": "Vương Lâm vỗ túi trữ vật, \"Long Cân của giao long xuất hiện trong tay hắn\" rồi ném ra khi Mạnh Đà Tử bay qua."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Từ trong cơn lốc, Vương Lâm thò tay cướp được thứ gì của Mạnh Đà Tử?",
+  "options": [
+   "Túi trữ vật",
+   "Băng Phong Tráo",
+   "Bình độc dược",
+   "Con cóc trên vai"
+  ],
+  "correctIndex": 0,
+  "explanation": "Khi Mạnh Đà Tử trúng sóng âm ngã chúi, một cánh tay từ cơn lốc tóm lấy túi trữ vật bên eo lão rồi bay đi.",
+  "chapter": 175,
+  "source": "Tiên Nghịch ch.175",
+  "evidence": "Một cánh tay từ trong cơn lốc giơ ra, \"tóm lấy túi trữ vật trên eo hắn rồi bay đi\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Để tạm thời đạt Hóa Thần đại viên mãn, Mạnh Đà Tử đã nuốt thứ gì?",
+  "options": [
+   "Nội đan của hồng giao long",
+   "Một viên Anh Biến đan",
+   "Dịch tủy của cự xà",
+   "Nguyên đan cóc Ly Thiên"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lão móc nguyên đan đen của Ly Thiên thiềm thừ, linh thú theo mình mấy nghìn năm, nuốt vào và hấp thu cả con cóc.",
+  "chapter": 175,
+  "source": "Tiên Nghịch ch.175",
+  "evidence": "Mạnh Đà Tử lấy ra \"một viên nguyên đan màu đen\" từ con cóc Ly Thiên rồi vứt ngay vào miệng."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Pháp bảo bản mệnh của Mạnh Đà Tử, bị vỡ đôi khi đỡ ngọn trường thương thần thức, là gì?",
+  "options": [
+   "Một chiếc hồ lô lớn",
+   "Một chiếc đỉnh nhỏ",
+   "Một cổ chung",
+   "Một cây phất trần"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão phun ra một cái đỉnh nhỏ tỏa khí xanh; nó đỡ trường thương rồi tách làm hai, khiến lão hộc máu.",
+  "chapter": 175,
+  "source": "Tiên Nghịch ch.175",
+  "evidence": "Mạnh Đà Tử phun ra một cái đỉnh nhỏ; \"Chiếc đỉnh xanh đó là pháp bảo bản mệnh của hắn\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Mạnh Đà Tử tăng tu vi rất nhanh suốt nghìn năm nhờ dùng chí bảo nào của Cự Ma tộc?",
+  "options": [
+   "Băng Phong Tráo",
+   "Hành Thổ Chu",
+   "Tổ ma chi tâm",
+   "Anh Biến đan"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lão từ Nguyên Anh hậu kỳ lên Hóa Thần trung kỳ nhờ dùng Tổ ma chi tâm, nên bị Cự Ma tộc truy sát.",
+  "chapter": 175,
+  "source": "Tiên Nghịch ch.175",
+  "evidence": "Lão tiến nhanh như vậy \"là vì hắn đã sử dụng chí bảo của Cự Ma tộc - Tổ ma chi tâm\"."
+ }
+]

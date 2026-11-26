@@ -1,0 +1,79 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Lão quái ẩn trong hạt châu thần bí, tự xưng là cường giả của một Tu Chân Quốc cấp sáu và hứa giúp Vương Lâm tu luyện, tên là gì?",
+    "options": ["Phác Nam Tử", "Âu Dương lão nhân", "Tư Đồ Nam", "Hoàng Long chân nhân"],
+    "correctIndex": 2,
+    "explanation": "Lão quái trong hạt châu tự giới thiệu là Tư Đồ Nam, cường giả của Chu Tước quốc (Tu Chân Quốc cấp sáu).",
+    "chapter": 47,
+    "source": "Tiên Nghịch ch.47",
+    "evidence": "Lão già trong Mộng Cảnh kể bị hủy thân thể, trốn vào hạt châu, muốn Vương Lâm tìm thân thể cho lão đoạt xá; lão xưng \"Đại ân đại đức của ngươi, Tư Đồ Nam ta xin khắc ghi cả đời\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trong cuộc tỷ thí giữa Hằng Nhạc phái và Huyền Đạo Tông, Vương Lâm (bề ngoài chỉ ở tầng ba Ngưng Khí) đã đánh bại đại đệ tử nào của Huyền Đạo Tông?",
+    "options": ["Chu Bằng", "Liễu Phong", "Dương Nghị", "Hứa Mộc"],
+    "correctIndex": 0,
+    "explanation": "Chu Bằng, đại đệ tử Huyền Đạo Tông, bị Vương Lâm dùng Phích Lịch đạn rồi Dẫn Lực thuật đánh bay liên tiếp.",
+    "chapter": 52,
+    "source": "Tiên Nghịch ch.52",
+    "evidence": "Chu Bằng thách cả nội môn Hằng Nhạc; Vương Lâm lên đài, ném Phích Lịch đạn đã xóa thần thức của Lý Sơn, khiến Chu Bằng bị hất tung, \"toàn thân hắn bám dầy bụi, bốc mùi hôi thối\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau cuộc tỷ thí, Vương Lâm phát hiện chén trà được mời có chứa Tam Thi Tuyến Trùng thảo và đã giết người đó. Đó là ai?",
+    "options": ["Lữ Vân Kiệt", "Vương Trác", "Đạo Hư", "Tôn Đại Trụ"],
+    "correctIndex": 3,
+    "explanation": "Sư phụ Tôn Đại Trụ định khống chế Vương Lâm để đoạt bí mật; đây là lần đầu Vương Lâm giết người.",
+    "chapter": 60,
+    "source": "Tiên Nghịch ch.60",
+    "evidence": "Tôn Đại Trụ bị ép uống chén trà, thú nhận âm mưu rồi bị Vương Lâm đập chết; truyện ghi đây là \"lần đầu tiên hắn giết người, hơn nữa lại giết chính sư phụ\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Đệ tử Huyền Đạo Tông nào đã bán \"Phích Lịch đạn\" đen đúa, hôi thối cho các đệ tử Hằng Nhạc phái trước cuộc tỷ thí?",
+    "options": ["Liễu Phong", "Lý Sơn", "Hứa Mộc", "Dương Nghị"],
+    "correctIndex": 1,
+    "explanation": "Lý Sơn nổi tiếng chế đồ cổ quái, bán Phích Lịch đạn và bí mật cài thần thức để tự điều khiển việc nổ.",
+    "chapter": 44,
+    "source": "Tiên Nghịch ch.44",
+    "evidence": "Ở phòng khách Huyền Đạo Tông, Lý Sơn rao bán đồ, ném thử một quả cầu đen nổ ra mùi tanh tưởi và gọi nó là \"bí truyền ám khí của Lý Sơn ta\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Vương Lâm cưỡng ép lấy dịch độc của linh thú hộ sơn nào của Huyền Đạo Tông để làm thuốc chữa bệnh cho cha?",
+    "options": ["Thiên Túc Ngô Công", "Thông Thiên đại mãng", "Huyết Long", "Tử sắc cự long"],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm dùng Dẫn Lực thuật khống chế Thiên Túc Ngô Công, ép nó nhả độc vì độc này trị được tật của cha hắn.",
+    "chapter": 58,
+    "source": "Tiên Nghịch ch.58",
+    "evidence": "Vương Lâm đặt tay lên đầu con rết khiến nó phun chất lỏng đen; truyện nói dịch độc này là \"dược vật để trị liệt tật của phụ thân hắn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Lão tổ Nguyên Anh kỳ của Huyền Đạo Tông dùng một ngọn núi đen khổng lồ đập vỡ Hộ sơn đại trận, buộc Hằng Nhạc phái rời sơn môn, tên là gì?",
+    "options": ["Âu Dương lão nhân", "Lưu Văn Cử", "Phác Nam Tử", "Chu Bằng"],
+    "correctIndex": 2,
+    "explanation": "Phác Nam Tử của Huyền Đạo Tông phá đại trận rồi đòi Hằng Nhạc phái giao lại Hằng Nhạc sơn.",
+    "chapter": 62,
+    "source": "Tiên Nghịch ch.62",
+    "evidence": "Thương Tùng phong rung chuyển, có tiếng quát \"Lão phu Phác Nam Tử của Huyền Đạo Tông\"; lão hóa ra một tòa hắc sơn khổng lồ nện liên tục xuống quang mạc."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Âu Dương lão nhân bịa ra một cái tên \"thượng cổ kỳ thuật\" cho Dẫn Lực thuật của Vương Lâm, và Hằng Nhạc phái lấy luôn tên đó. Đó là tên gì?",
+    "options": ["Liên Hoa kiếm khí", "Cầm Long thủ", "Thủy Mạc", "Hoàng Tuyền Thăng Khiếu Quyết"],
+    "correctIndex": 1,
+    "explanation": "Không nhìn ra pháp thuật, Âu Dương lão nhân gọi bừa là Cầm Long thủ; Hoàng Long chân nhân liền đổi tên Dẫn Lực thuật thành Cầm Long thủ.",
+    "chapter": 56,
+    "source": "Tiên Nghịch ch.56",
+    "evidence": "Đạo Hư đề nghị đổi tên, Hoàng Long chân nhân tuyên bố Dẫn Lực thuật của Hằng Nhạc phái \"đổi tên thành Cầm Long thủ\" và cảm ơn Huyền Đạo Tông đã ban tên."
+  }
+]

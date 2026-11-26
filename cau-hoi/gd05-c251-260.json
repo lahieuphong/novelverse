@@ -1,0 +1,802 @@
+[
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Sau đêm ngồi cạnh đống lửa cùng đoàn xe, Vương Lâm bất ngờ thấy tu vi mình đã đạt tới đâu?",
+  "options": [
+   "Nguyên Anh đại viên mãn",
+   "Nguyên Anh trung kỳ",
+   "Kết Đan hậu kỳ",
+   "Hóa Thần sơ kỳ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tu vi của hắn lặng lẽ vượt Nguyên Anh sơ kỳ lên trung kỳ.",
+  "chapter": 251,
+  "source": "Tiên Nghịch ch.251",
+  "evidence": "Ngồi dưới gốc cây, hắn phát hiện tu vi \"đã đột phá Nguyên Anh sơ kỳ mà đạt tới trung kỳ\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Chín cây cột đen tỏa linh khí trong kinh thành được người dân gọi là gì?",
+  "options": [
+   "Thiên trụ",
+   "Linh thạch trụ",
+   "Tiên mộc",
+   "Trấn quốc bia"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lữ Hưng giải thích đó là tiên mộc, nơi tiên nhân dừng chân.",
+  "chapter": 251,
+  "source": "Tiên Nghịch ch.251",
+  "evidence": "Lữ Hưng hạ giọng: \"Đó là tiên mộc\", dựng theo tiên dụ để tiên nhân trú ngụ."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Lão già lôi thôi bị đại hán đấm hộc máu giữa phố kinh thành vì tội gì?",
+  "options": [
+   "Trộm đồ trong các cửa hàng",
+   "Lừa bán thuốc giả",
+   "Say rượu đập phá tửu lâu",
+   "Rình xem nữ quyến thay đồ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Người đứng xem kể lão cố tình nhìn nữ quyến nhà người ta thay đồ nên ngày nào cũng bị đánh.",
+  "chapter": 251,
+  "source": "Tiên Nghịch ch.251",
+  "evidence": "Người trung niên thở dài: lão \"cố tình xem nữ quyến nhà người ta thay đồ\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vương Lâm mua cửa hàng nhỏ ở một góc hẻo lánh thành Tây bằng tiền từ đâu?",
+  "options": [
+   "Vàng tiểu thư đoàn xe tặng",
+   "Lữ Hưng cho mượn để mở tiệm",
+   "Bán linh thạch lấy vàng",
+   "Lão già bí ẩn đưa cho"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tiểu thư nhờ nha hoàn tặng mười lượng vàng; hắn dùng tám lượng mua cửa hàng.",
+  "chapter": 251,
+  "source": "Tiên Nghịch ch.251",
+  "evidence": "Nha hoàn đưa túi tiền của tiểu thư; sau đó hắn \"lấy ra tám lượng vàng\" mua cửa hàng."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Gặp tu sĩ Trúc Cơ áo tím, lão già bí ẩn than rằng nếu không được chỉ điểm thì hắn khó đạt cảnh giới nào?",
+  "options": [
+   "Nguyên Anh",
+   "Hóa Thần",
+   "Kết Đan",
+   "Anh Biến"
+  ],
+  "correctIndex": 2,
+  "explanation": "Lão luôn nhắc tới cảnh giới kế tiếp: Trúc Cơ thì nói tới Kết Đan.",
+  "chapter": 251,
+  "source": "Tiên Nghịch ch.251",
+  "evidence": "Lão nói với nam tử áo tím: \"chỉ sợ rằng cuộc đời này không thể Kết Đan\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bức tượng gỗ đầu tiên Vương Lâm khắc trong cửa hàng ở kinh thành là hình ai?",
+  "options": [
+   "Mẹ hắn",
+   "Cha hắn",
+   "Lý Mộ Uyển",
+   "Tư Đồ Nam"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tượng một nam tử trung niên áo vải thô; hắn xoa tượng gọi \"Cha!\".",
+  "chapter": 252,
+  "source": "Tiên Nghịch ch.252",
+  "evidence": "Tượng trung niên mỉm cười hòa ái; Vương Lâm thì thào \"Cha! Hài nhi nhớ người\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Suốt tháng đầu tiên, những bức tượng người Vương Lâm khắc đầy tủ là hình những ai?",
+  "options": [
+   "Tu sĩ từng bị hắn giết",
+   "Đệ tử Hằng Nhạc phái",
+   "Người dân trong thôn cũ",
+   "Khách qua đường kinh thành"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn khắc lại người dân trong thôn năm xưa để tưởng nhớ họ.",
+  "chapter": 252,
+  "source": "Tiên Nghịch ch.252",
+  "evidence": "Các tượng đều là \"những người dân trong thôn của Vương Lâm trước kia\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Cậu bé hàng xóm đầu tiên ghé cửa hàng được Vương Lâm tặng bức tượng khắc hình ai?",
+  "options": [
+   "Vương Trác",
+   "Lý Mộ Uyển",
+   "Tư Đồ Nam",
+   "Vương Hạo"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn thuận tay lấy tượng Vương Hạo đưa cho cậu bé có nét giống mình.",
+  "chapter": 252,
+  "source": "Tiên Nghịch ch.252",
+  "evidence": "Bức tượng hắn đưa \"chính là một người thân của Vương Lâm - Vương Hạo\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Mẹ cậu bé hàng xóm hỏi giá bức tượng con mình cầm về, Vương Lâm trả lời thế nào?",
+  "options": [
+   "Cho luôn, không lấy tiền",
+   "Đòi đúng mười lượng vàng",
+   "Lấy một lượng bạc",
+   "Để trả sau cũng được"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn lắc đầu bảo cứ cho, chỉ là khúc gỗ.",
+  "chapter": 252,
+  "source": "Tiên Nghịch ch.252",
+  "evidence": "Vương Lâm lắc đầu: \"Cho hắn. Chỉ là một khúc gỗ mà thôi.\""
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Linh lực trên vài bức tượng gỗ Vương Lâm khắc mạnh tới mức sánh ngang với thứ gì?",
+  "options": [
+   "Pháp bảo Hóa Thần kỳ",
+   "Cực phẩm linh thạch",
+   "Pháp bảo trung giai",
+   "Cổ bảo thượng cổ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đa số tượng ngang pháp bảo cấp thấp, một số sánh được pháp bảo trung giai.",
+  "chapter": 252,
+  "source": "Tiên Nghịch ch.252",
+  "evidence": "Trên một số bức tượng, linh lực \"còn có thể so sánh với pháp bảo trung gia\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Cha của Đại Ngưu, người muốn con nối nghề mình, làm nghề gì?",
+  "options": [
+   "Thợ mộc",
+   "Thợ rèn",
+   "Bán vải",
+   "Bán thuốc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đại Ngưu kể cha muốn hắn học nghề rèn nhưng hắn chỉ muốn học khắc gỗ.",
+  "chapter": 253,
+  "source": "Tiên Nghịch ch.253",
+  "evidence": "Đại Ngưu than: cha \"luôn muốn ta học nghề rèn của cha\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Mỗi khi Vương Lâm khắc tượng thượng phẩm linh thú tới vài nét cuối, chuyện gì xảy ra?",
+  "options": [
+   "Dao khắc gãy đôi",
+   "Tượng tự bốc cháy",
+   "Linh lực hắn cạn kiệt",
+   "Bức tượng vỡ vụn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn không khống chế nổi nên tượng vỡ vụn, vì bản lĩnh còn chưa đủ.",
+  "chapter": 253,
+  "source": "Tiên Nghịch ch.253",
+  "evidence": "Đến vài nét cuối \"liền không thể khống chế được làm cho bức tượng vỡ vụn\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vương Lâm bảo Đại Ngưu muốn học khắc tượng gỗ thì phải xem hắn khắc liên tục bao lâu?",
+  "options": [
+   "Mười năm",
+   "Ba mươi năm",
+   "Sáu mươi năm",
+   "Một trăm năm"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn nói phải xem sáu mươi năm rồi mới có thể tự chế tác.",
+  "chapter": 253,
+  "source": "Tiên Nghịch ch.253",
+  "evidence": "\"Phải xem ta điêu khắc liên tục sáu mươi năm\", sau đó mới có thể chế tác."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vừa cầm lên bức tượng thú trong cửa hàng Vương Lâm, thanh niên họ Từ phản ứng ra sao?",
+  "options": [
+   "Hộc máu ngã lăn ra đất",
+   "Hoảng hốt buông rơi tượng",
+   "Ngất xỉu ngay tại chỗ luôn",
+   "Bị bỏng rát cả bàn tay"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn cảm thấy con thú như đang sống nên hoảng hốt buông tay.",
+  "chapter": 253,
+  "source": "Tiên Nghịch ch.253",
+  "evidence": "Cảm thấy con thú như đang sống, \"hắn hoảng hốt buông tay\", tượng rơi xuống đất."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Thanh niên họ Từ nhận ra tượng của thợ mộc họ Chu kém tượng của Vương Lâm đúng một chữ. Đó là chữ gì?",
+  "options": [
+   "Thần",
+   "Hồn",
+   "Ý",
+   "Sinh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Một bên chỉ sinh động như thật, một bên như đang sống: kém chữ \"Sinh\".",
+  "chapter": 253,
+  "source": "Tiên Nghịch ch.253",
+  "evidence": "Hắn hiểu tượng thợ họ Chu \"còn kém một chữ, đó là chữ 'Sinh'\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Thanh niên họ Từ chắc mẩm dâng tượng gỗ lên sẽ được trọng thưởng vì Vương gia mê thứ gì?",
+  "options": [
+   "Yêu thú quý hiếm",
+   "Đồ điêu khắc",
+   "Rượu ngon",
+   "Ca kỹ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cả đời Vương gia chỉ thích mọi vật được điêu khắc thành hình.",
+  "chapter": 254,
+  "source": "Tiên Nghịch ch.254",
+  "evidence": "Vật bằng đá, gỗ... \"chỉ cần điêu khắc thành hình thì đều là thứ Vương gia yêu thích\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Nhận bức tượng gỗ và khen lập đại công, thế tử thưởng cho thanh niên họ Từ thứ gì?",
+  "options": [
+   "Trăm lượng vàng",
+   "Một túi trữ vật",
+   "Mỹ nhân Mị Cơ",
+   "Chức thống lĩnh hộ vệ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thế tử gọi Mị Cơ ra và ban nàng cho Từ Đào.",
+  "chapter": 254,
+  "source": "Tiên Nghịch ch.254",
+  "evidence": "Thế tử cười: \"Mị Cơ, đi ra. Từ hôm nay ngươi thuộc về Từ Đào.\""
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Thế tử Vương phủ, người thanh niên mặt tái nhợt mặc áo bào tím, thực chất có tu vi thế nào?",
+  "options": [
+   "Phàm nhân không tu vi",
+   "Ngưng Khí tầng tám",
+   "Trúc Cơ sơ kỳ",
+   "Kết Đan kỳ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn là tu sĩ nhưng tu vi chỉ ở tầng thứ tám Ngưng Khí kỳ.",
+  "chapter": 254,
+  "source": "Tiên Nghịch ch.254",
+  "evidence": "Gã là tu sĩ, \"mới chỉ đến tầng thứ tám ngưng khí kỳ mà thôi\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Thùng tượng khắc dở của Vương Lâm, cả người lẫn thú, có điểm chung gì?",
+  "options": [
+   "Đều là người thân ở quê nhà",
+   "Đều là yêu thú sống ở Tu Ma hải",
+   "Đều có tu vi Hóa Thần trở lên",
+   "Đều là tu sĩ từng ở Triệu quốc"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn chưa đủ sức khắc xong nhân vật và yêu thú Hóa Thần kỳ nên bỏ dở.",
+  "chapter": 254,
+  "source": "Tiên Nghịch ch.254",
+  "evidence": "Đám tượng dở dang \"toàn bộ đều là Hóa Thần Kỳ trở lên\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Nén ép làn sát khí hồng chẳng giúp gì cho việc hiểu thiên đạo, vậy vì sao Vương Lâm vẫn kiên trì?",
+  "options": [
+   "Để luyện thành pháp bảo",
+   "Để che giấu tu vi",
+   "Theo lời dặn của lão già bí ẩn",
+   "Linh cảm sẽ hối hận nếu nó tan"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn luôn có cảm giác nếu sát khí tiêu tan thì nhất định sẽ hối hận.",
+  "chapter": 254,
+  "source": "Tiên Nghịch ch.254",
+  "evidence": "Hắn cảm thấy nếu sát khí này tiêu tan \"thì hắn nhất định sẽ hối hận\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bắt quả tang hai tu sĩ lẻn vào cửa hàng định cuỗm tượng, Vương Lâm yêu cầu họ làm gì?",
+  "options": [
+   "Tự phế bỏ tu vi",
+   "Trả đủ tiền bằng vàng",
+   "Giao nộp hết linh thạch",
+   "Ở lại làm nô bộc cho hắn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn đòi họ trả tiền tượng bằng vàng, rồi dặn lần sau mang đủ vàng tới.",
+  "chapter": 255,
+  "source": "Tiên Nghịch ch.255",
+  "evidence": "Hắn báo giá bằng vàng và dặn: \"Lần sau đến nhớ mang đủ vàng.\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Theo truyện, nếu hai tu sĩ đột nhập đêm ấy gặp Vương Lâm của một năm trước, kết cục sẽ ra sao?",
+  "options": [
+   "Bị phế tu vi",
+   "Bị bắt làm nô bộc",
+   "Chắc chắn bị giết",
+   "Được tha vì là đệ tử tông lớn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Truyện nói nếu là một năm trước, ngoài cái chết họ không còn đường nào khác.",
+  "chapter": 255,
+  "source": "Tiên Nghịch ch.255",
+  "evidence": "Nếu là trước đây một năm, kết cục hai người \"ngoài chết ra thì không còn con đường nào khác\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Tu sĩ Kết Đan lục rương gỗ hộc máu khi cầm bức tượng khắc dở hình ai?",
+  "options": [
+   "Lục Dục Ma Quân",
+   "Mạnh Đà Tử",
+   "Cổ Đế",
+   "Đằng Hóa Nguyên"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tượng bán thành phẩm Lục Dục Ma Quân chứa linh uy ngang Nguyên Anh kỳ.",
+  "chapter": 255,
+  "source": "Tiên Nghịch ch.255",
+  "evidence": "\"Bức tượng bán thành phẩm này khắc Lục Dục Ma Quân\", linh uy ngang Nguyên Anh Kỳ."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Tượng gỗ của Vương Lâm tác động lên người cầm nó như thế nào?",
+  "options": [
+   "Phàm nhân bị ảnh hưởng nặng nhất",
+   "Chỉ tác động lên tu sĩ ma đạo",
+   "Ai cầm cũng bị chấn động như nhau",
+   "Tu vi càng cao chấn càng mạnh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Bản lĩnh càng cao càng cảm nhận mạnh, phàm nhân hầu như ít bị ảnh hưởng.",
+  "chapter": 255,
+  "source": "Tiên Nghịch ch.255",
+  "evidence": "\"Nếu bản lãnh càng cao thì cảm nhận càng lớn\", phàm nhân hầu như ít bị ảnh hưởng."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Hai tu sĩ Vương phủ không hề biết Vương Lâm đã làm gì với họ trước khi đẩy họ ra khỏi cửa hàng?",
+  "options": [
+   "Gieo kịch độc vào Kim Đan của họ",
+   "Lưu thần thức chờ họ nảy ác ý",
+   "Rút đi một hồn một phách của họ",
+   "Phong ấn túi trữ vật của cả hai"
+  ],
+  "correctIndex": 1,
+  "explanation": "Chỉ cần nảy ý hại hắn, thần thức lưu lại sẽ lập tức giết họ.",
+  "chapter": 255,
+  "source": "Tiên Nghịch ch.255",
+  "evidence": "Hắn \"đã lưu lại thần thức trên người họ\", có ý niệm bất lợi là bị giết."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Hàng xóm đến làm mai, Vương Lâm giải thích với Đại Ngưu lý do mình từ chối là gì?",
+  "options": [
+   "Đã có vợ chờ ở nơi xa",
+   "Đã thề không lấy vợ",
+   "Không ưa con gái họ Lữ",
+   "Phải dồn sức tu đạo"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn nói mình có vợ đang đợi ở một nơi rất xa, sẽ có ngày đến tìm nàng.",
+  "chapter": 256,
+  "source": "Tiên Nghịch ch.256",
+  "evidence": "\"Thúc thúc có vợ rồi\"... \"Nàng đang chờ ta ở một nơi rất xa.\""
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Những năm ấy, cứ cuối năm Từ Đào lại mang thứ gì tới biếu Vương Lâm?",
+  "options": [
+   "Linh thạch Vương phủ",
+   "Gỗ quý để khắc",
+   "Vàng thế tử gửi biếu",
+   "Rượu ngự ban"
+  ],
+  "correctIndex": 2,
+  "explanation": "Từ Đào dâng vàng, nói là thế tử kính biếu; Vương Lâm nhận thẳng.",
+  "chapter": 256,
+  "source": "Tiên Nghịch ch.256",
+  "evidence": "Từ Đào dâng trăm lượng vàng, \"nói là thế tử điện hả kính biếu\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Khi cửa hàng của Vương Lâm có tiếng, khách tới mua đông nhất là hạng người nào?",
+  "options": [
+   "Quan lại triều đình",
+   "Thương nhân phương xa",
+   "Người hầu Vương phủ",
+   "Người tu đạo"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cứ mười người đến thì sáu người là tu sĩ, đều trả bằng vàng bạc phàm nhân.",
+  "chapter": 256,
+  "source": "Tiên Nghịch ch.256",
+  "evidence": "\"Thông thường cứ mười người đến, sẽ có sáu người là người tu đạo.\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Đêm tuyết đầu mùa, nhìn nhà nhà lên đèn quây quần, riêng cửa hàng mình tối om, Vương Lâm thấm thía cảm giác gì?",
+  "options": [
+   "Phẫn nộ",
+   "Cô độc",
+   "Thanh thản",
+   "Hối hận"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn cảm thấy cô độc, thứ hàn ý không lửa hay pháp thuật nào xua được.",
+  "chapter": 256,
+  "source": "Tiên Nghịch ch.256",
+  "evidence": "\"Hiện tại, Vương Lâm cảm thấy cô độc\", sự cô độc sẽ mãi đi theo hắn."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Theo truyện, ngoài tu vi, điều trọng yếu hơn khiến tu sĩ Hóa Thần cường đại là gì?",
+  "options": [
+   "Pháp bảo bản mệnh cường đại",
+   "Sát khí tích tụ",
+   "Ẩn tình giấu trong lòng",
+   "Linh căn trời ban"
+  ],
+  "correctIndex": 2,
+  "explanation": "Chính phần tình cảm ẩn trong nội tâm giúp họ Hóa phàm rồi đột phá lên Hóa Thần.",
+  "chapter": 256,
+  "source": "Tiên Nghịch ch.256",
+  "evidence": "Trọng yếu hơn tu vi \"là nội tâm luôn che dấu ẩn tình\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Cha Đại Ngưu ngượng ngùng mang đồ ăn sang nhà Vương Lâm thực ra để nhờ việc gì?",
+  "options": [
+   "Mượn tiền thuê thêm cửa hàng",
+   "Nhờ dạy Đại Ngưu nghề khắc gỗ",
+   "Nhờ làm mai vợ cho Đại Ngưu",
+   "Nhờ khắc tượng thờ tổ tiên"
+  ],
+  "correctIndex": 0,
+  "explanation": "Mẹ Đại Ngưu muốn thuê cửa hàng Lý gia bên cạnh nhưng chưa đủ tiền.",
+  "chapter": 257,
+  "source": "Tiên Nghịch ch.257",
+  "evidence": "Đại Ngưu nói: mẹ \"chuẩn bị thuê lại cửa hàng bên cạnh... nhưng tiền còn chưa đủ\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vương Lâm nói thỏi vàng đưa cho cha Đại Ngưu không phải tiền cho mượn mà là khoản gì?",
+  "options": [
+   "Tiền thuê nhà",
+   "Tiền mua rượu trả trước",
+   "Quà mừng năm mới",
+   "Tiền học nghề cho Đại Ngưu"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn bảo đó là tiền mua rượu, mỗi ngày một bầu, đáng mười năm.",
+  "chapter": 257,
+  "source": "Tiên Nghịch ch.257",
+  "evidence": "\"Số tiền này không phải là cho ngươi mượn mà là tiền ta mua rượu.\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Sau sáu năm ở kinh thành, vì sao dung mạo Vương Lâm trông như người trung niên?",
+  "options": [
+   "Thọ nguyên của hắn sắp cạn",
+   "Sát khí tiêu tan làm hắn hao tổn",
+   "Hóa phàm khiến hắn mất tu vi",
+   "Cố ý dùng pháp thuật cho già đi"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn cố ý dùng pháp thuật để hàng xóm không thấy lạ khi hắn mãi không đổi.",
+  "chapter": 257,
+  "source": "Tiên Nghịch ch.257",
+  "evidence": "Nếp nhăn \"là do hắn cố ý sử dụng pháp thuật tạo ra\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Gặp lại Vương Lâm ở quán trọ, lão già từng ăn chực của hắn kinh ngạc nhận ra điều gì?",
+  "options": [
+   "Hắn đã đột phá Hóa Thần",
+   "Hắn đã Hóa phàm thành công",
+   "Hắn đã tán hết toàn bộ tu vi",
+   "Hắn đã luyện xong sát khí"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão thở dài tán thưởng vì Vương Lâm thật sự đã Hóa phàm.",
+  "chapter": 257,
+  "source": "Tiên Nghịch ch.257",
+  "evidence": "Lão kinh ngạc: \"Không ngờ ngươi thật sự đã Hóa phàm!\""
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Vì sao chưởng quỹ quán trọ họ Lý luôn thấp thỏm mỗi khi Vương Lâm ghé quán nghe hát?",
+  "options": [
+   "Quán đã thế chấp cho hắn",
+   "Sợ hắn đòi cưới cô đào",
+   "Từng bán rượu giả cho hắn",
+   "Sợ hắn chê đoàn hát dở"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lão đem quán thế chấp vay hai mươi lạng vàng chưa trả, nên quán thuộc về Vương Lâm.",
+  "chapter": 257,
+  "source": "Tiên Nghịch ch.257",
+  "evidence": "Lão \"đem quán trọ này ra thế chấp\" vay vàng, chưa hoàn trả."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Lão nhân thần bí nói năm xưa mình dựa vào ý cảnh nào để Hóa Thần?",
+  "options": [
+   "Tịch diệt",
+   "Luân hồi sinh tử",
+   "Sát phạt",
+   "Điên cuồng"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lão xưng đó là \"điên cuồng ý cảnh\", nhờ nó mà Hóa Thần.",
+  "chapter": 258,
+  "source": "Tiên Nghịch ch.258",
+  "evidence": "\"Đây là 'điên cuồng ý cảnh' của lão phu! Năm đó lão phu dựa vào ý cảnh này để hoá thần.\""
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Khi lão nhân phô bày ý cảnh của mình trong cửa hàng, linh lực của Vương Lâm bị làm sao?",
+  "options": [
+   "Bị hút cạn không còn gì",
+   "Bị đông cứng, không vận được",
+   "Bị đồng hóa, mất khống chế",
+   "Tăng vọt lên gấp bội"
+  ],
+  "correctIndex": 2,
+  "explanation": "Linh lực vừa động đã bị ý cảnh đồng hóa, đến Nguyên Anh cũng như bị cuốn theo.",
+  "chapter": 258,
+  "source": "Tiên Nghịch ch.258",
+  "evidence": "Linh lực của hắn \"trong nháy mắt đã bị khí tức cuồng sát này đồng hoá\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Một lần thuấn di mang theo Vương Lâm, lão nhân đưa hai người đi xa khoảng bao nhiêu?",
+  "options": [
+   "Một ngàn dặm",
+   "Một vạn dặm",
+   "Mười vạn dặm",
+   "Trăm vạn dặm"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thần thức Vương Lâm ước tính một lần thuấn di đã đi mười vạn dặm.",
+  "chapter": 258,
+  "source": "Tiên Nghịch ch.258",
+  "evidence": "Hắn đoán \"một lần thuấn di này đã đi được mười vạn dặm\"."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Lão nhân thần bí đòi Vương Lâm khắc một trăm bức tượng của mình để làm gì?",
+  "options": [
+   "Bán lấy tiền đi ăn nhậu",
+   "Tặng mỹ nhân để họ nhớ mãi",
+   "Đem thờ trong động phủ riêng",
+   "Dọa nạt các tông môn lớn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão tính đem tượng tặng mỹ nữ ở thanh lâu để họ nhớ mình cả đời.",
+  "chapter": 258,
+  "source": "Tiên Nghịch ch.258",
+  "evidence": "Lão thầm tính gặp mỹ nhân liền tặng tượng, \"những mỹ nữ này chắc chắn sẽ nhớ mình cả đời\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Lão nhân thừa nhận ý cảnh vừa phô ra mạnh quá mức vì được thúc giục bằng tu vi cảnh giới nào?",
+  "options": [
+   "Hóa Thần kỳ",
+   "Anh Biến kỳ",
+   "Vấn Đỉnh kỳ",
+   "Nguyên Anh đại viên mãn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão gãi đầu thú nhận đó là ý cảnh do Anh Biến kỳ thúc giục.",
+  "chapter": 258,
+  "source": "Tiên Nghịch ch.258",
+  "evidence": "Lão xấu hổ: \"đây là ý cảnh do Anh Biến kỳ thúc dục\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Trước khi vào Bạch Vân tông, lão nhân đưa Vương Lâm vật gì khiến người tu vi không hơn hắn hai giai không nhìn ra dung mạo?",
+  "options": [
+   "Mũ rơm",
+   "Mặt nạ đồng",
+   "Ngọc bội ẩn thân",
+   "Áo choàng đen"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lão ném cho hắn một chiếc mũ rơm chứa vô số trận pháp tinh diệu.",
+  "chapter": 259,
+  "source": "Tiên Nghịch ch.259",
+  "evidence": "Lão lấy ra \"hai cái mũ rơm\", trừ phi đối phương cao hơn hai giai."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Người khổng lồ mặc kim giáp lão nhân gọi ra để chém vỡ đại trận Bạch Vân tông tên là gì?",
+  "options": [
+   "Kim Sí",
+   "Hắc Sát",
+   "Kim Giáp Thần",
+   "Kim Tử"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lão hét \"Kim Tử, phá cho ta!\" rồi người khổng lồ vung cự kiếm.",
+  "chapter": 259,
+  "source": "Tiên Nghịch ch.259",
+  "evidence": "Lão đắc ý hét lớn: \"Kim Tử, phá cho ta!\""
+ },
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Đấu với văn sĩ áo lam, Vương Lâm biến quả ngân cầu từ phi kiếm thường thành hình con thú nào?",
+  "options": [
+   "Hỏa chu",
+   "Chung cổ thú",
+   "Thiên long thú",
+   "Bát trảo đao thú"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ngân cầu hóa thành Chung cổ thú, con thú hắn từng giết ở Tu Ma hải.",
+  "chapter": 259,
+  "source": "Tiên Nghịch ch.259",
+  "evidence": "Ngân cầu thành sinh vật như con rùa: \"Đó chính là Chung cổ thú\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vì sao khi giao đấu ở Bạch Vân tông, Vương Lâm không dùng những pháp bảo quen thuộc?",
+  "options": [
+   "Pháp bảo quen dùng đã hư hại",
+   "Muốn tiết kiệm linh lực cho trận sau",
+   "Sợ sau này bị nhận ra thân phận",
+   "Cấm Phiên đã bị mất linh tính"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn lo về sau bị người khác nhận ra mình nên chỉ dùng phi kiếm thường.",
+  "chapter": 259,
+  "source": "Tiên Nghịch ch.259",
+  "evidence": "Không dùng pháp bảo thường dùng \"là do hắn lo lắng sau này bị người ta nhận ra thân phận\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Khi đám tu sĩ Bạch Vân tông quét thần thức qua, lão nhân kết ấn hóa ra hư ảnh gì để đánh tan?",
+  "options": [
+   "Hỏa phượng hoàng",
+   "Tử long",
+   "Kim sí đại bàng",
+   "Bạch hổ thánh thú"
+  ],
+  "correctIndex": 2,
+  "explanation": "Kim mang quanh lão hóa thành hư ảnh kim sí đại bàng vỗ cánh đánh tan thần thức.",
+  "chapter": 259,
+  "source": "Tiên Nghịch ch.259",
+  "evidence": "Lão kết ấn, kim mang \"hoá thành một hư ảnh của kim sí đại bàng\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Lệnh bài đen dính dầu mỡ lão nhân ném ra, khiến Bạch Vân tông phải nghe lệnh, tên là gì?",
+  "options": [
+   "Bạch Vân lệnh",
+   "Chưởng môn lệnh",
+   "Thông Thiên lệnh",
+   "Tổ linh bài"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lão bà thất thanh nhận ra Tổ linh bài; văn sĩ áo lam liền cung kính nghe lệnh.",
+  "chapter": 260,
+  "source": "Tiên Nghịch ch.260",
+  "evidence": "Lão bà nhìn rõ lệnh bài, thất thanh: \"Tổ linh bài!\""
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Màn sương hồng nhạt chứa ý cảnh của lão bà Bạch Vân tông khiến Vương Lâm cảm thấy thế nào?",
+  "options": [
+   "Ấm áp, lười biếng, buồn ngủ",
+   "Cuồng nộ, muốn giết chóc",
+   "Lạnh lẽo, cô quạnh, tuyệt vọng",
+   "Đau rát như bị lửa thiêu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn thấy ấm áp, linh lực và Nguyên Anh lười biếng, chỉ muốn ngủ.",
+  "chapter": 260,
+  "source": "Tiên Nghịch ch.260",
+  "evidence": "Hắn có \"cảm giác ấm áp dạt dào\", rồi chỉ có cảm giác buồn ngủ."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Điều gì kéo Vương Lâm tỉnh lại khi hắn sắp chìm hẳn trong ý cảnh của lão bà?",
+  "options": [
+   "Lão nhân vỗ vào đầu hắn",
+   "Huyết cầu sát khí tự bay ra",
+   "Cấm Phiên tự động bay ra hộ chủ",
+   "Tia thiên kiếp trong tay lóe sáng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Một huyết cầu sát khí từ túi trữ vật tự bay ra, dung nhập vào cơ thể làm hắn tỉnh táo.",
+  "chapter": 260,
+  "source": "Tiên Nghịch ch.260",
+  "evidence": "\"Một quả huyết cầu đầy sát khí từ trong túi trữ vật bỗng nhiên tự động bay ra\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Lão giả áo thanh sam của Bạch Vân tông tự nhận ý cảnh của mình là gì?",
+  "options": [
+   "Tuế nguyệt",
+   "Sát phạt",
+   "Luân hồi sinh tử",
+   "Tịch diệt"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lão giả nói ý cảnh của mình là tuế nguyệt (năm tháng).",
+  "chapter": 260,
+  "source": "Tiên Nghịch ch.260",
+  "evidence": "Lão giả chậm rãi nói: \"Ý cảnh của lão phu là tuế nguyệt\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Theo lão nhân, ý cảnh của lão giả áo thanh sam có thể nghịch thiên nếu người này đạt tới cảnh giới nào?",
+  "options": [
+   "Âm Hư",
+   "Vấn Đỉnh",
+   "Khuy Niết",
+   "Dương Thực"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão nhân khen: nếu đời này đạt Vấn Đỉnh, uy lực ý cảnh ấy có thể nghịch thiên.",
+  "chapter": 260,
+  "source": "Tiên Nghịch ch.260",
+  "evidence": "\"Nếu cuộc đời này ngươi có thể đạt đến Vấn Đỉnh, thì uy lực của ý cảnh này có thể sẽ nghịch thiên!\""
+ }
+]

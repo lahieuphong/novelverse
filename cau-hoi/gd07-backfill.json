@@ -1,0 +1,50 @@
+[
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Theo Tư Đồ Nam, ba cảnh giới tối cao phía trên Vấn Đỉnh được gọi chung là gì?",
+  "options": [
+   "Hóa Thần tam cảnh",
+   "Toái Niết tam cảnh",
+   "Anh Biến tam cảnh",
+   "Nguyên Anh tam cảnh"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tư Đồ Nam cho biết sau Vấn Đỉnh là Toái Niết tam cảnh: Khuy Niết, Tịnh Niết và Toái Niết.",
+  "chapter": 440,
+  "source": "Tiên Nghịch ch.440",
+  "evidence": "- Sau Vấn Đỉnh là Toái Niết Tam Cảnh. ... - Toái Niết tam cảnh, nhất cảnh Khuy Niết, nhị cảnh Tịnh Niết, tam cảnh Toái Niết. Tam cảnh này chính là cảnh giới tối cao sau Vấn Đỉnh."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Nhìn hư ảnh thần thức của Hồng Điệp, Vương Lâm nhận ra ẩn sau vẻ kiêu ngạo ấy là gì?",
+  "options": [
+   "Lòng căm hận muốn giết hắn",
+   "Nỗi sợ hãi trước cái chết",
+   "Một nỗi thương tâm sâu sắc",
+   "Sự khinh miệt dành cho hắn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Lâm nhìn ra hư ảnh Hồng Điệp không phải kiêu ngạo mà ẩn chứa một tia thương tâm sâu sắc, xót xa từ đáy lòng.",
+  "chapter": 456,
+  "source": "Tiên Nghịch ch.456",
+  "evidence": "Vương Lâm than nhẹ, hắn nhìn ra hư ảnh của Hồng Điệp không phải kiêu ngạo mà ẩn chứa một tia thương tâm sâu sắc, một tia xót xa từ đáy lòng!"
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Nhìn bóng Vương Lâm khuất dần sau khi đưa nàng về nhà, Chu Như tự hứa sẽ làm gì?",
+  "options": [
+   "Bỏ tu tiên, ở làng sống yên như phàm nhân",
+   "Ở nhà chờ thúc thúc quay lại đón mình đi",
+   "Tu luyện để trở thành Chu Tước Tử đời sau",
+   "Tu tiên đến khi rời Chu Tước tinh tìm hắn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Chu Như thầm hứa sẽ tiếp tục tu tiên cho tới khi rời được Chu Tước tinh để đi tìm Vương Lâm.",
+  "chapter": 470,
+  "source": "Tiên Nghịch ch.470",
+  "evidence": "-Thúc thúc! Con sẽ tiếp tục tu tiên, cho đến khi có thể rời khỏi Chu Tước tinh. Con sẽ đi tìm...Tìm người...Đến lúc đó tiểu Như nhi sẽ không để liên lụy đến người."
+ }
+]

@@ -1,0 +1,642 @@
+[
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Theo bí mật mà Dạ Tự Tại biết được, Thi Âm Tông thực chất là môn phái chuyên làm gì?",
+  "options": [
+   "Luyện đan cho tu chân liên minh",
+   "Cung cấp thân thể cho kẻ đoạt xá",
+   "Trấn giữ thông đạo Vực Ngoại",
+   "Huấn luyện linh thú hộ sơn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Thi Âm Tông nuôi đệ tử như gia súc để làm thân thể cho người đoạt xá.",
+  "chapter": 97,
+  "source": "Tiên Nghịch ch.97",
+  "evidence": "Đệ tử bị ép tu luyện tới Kết Đan rồi bị đoạt thân; truyện nói thẳng đây là “môn phái đoạt xá lớn nhất trong ngũ cấp tu chân quốc”."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Khi đám mây bảy sắc phủ kín bầu trời Triệu quốc, vô số đạo trường hồng đồng loạt lao về đâu?",
+  "options": [
+   "Quyết Minh cốc",
+   "Huyền Đạo Tông",
+   "Đằng Gia thành",
+   "Thông Thiên tháp"
+  ],
+  "correctIndex": 3,
+  "explanation": "Các cao thủ đều bay về Thông Thiên tháp ở trung tâm Triệu quốc.",
+  "chapter": 97,
+  "source": "Tiên Nghịch ch.97",
+  "evidence": "Mây bảy sắc xuất hiện kèm uy áp; các đạo trường hồng đều “hướng về phía Thông Thiên tháp” ở trung tâm Triệu quốc."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Thi Âm Tông ở Triệu quốc tu luyện công pháp của một tông phái ma đạo cấp năm. Tông phái đó tên gì?",
+  "options": [
+   "Hoàng Tuyền Đạo",
+   "Hợp Hoan Tông",
+   "Thiên Đạo Môn",
+   "Vô Phong Cốc"
+  ],
+  "correctIndex": 0,
+  "explanation": "Công pháp của chi phái Triệu quốc lấy từ Hoàng Tuyền Đạo.",
+  "chapter": 97,
+  "source": "Tiên Nghịch ch.97",
+  "evidence": "Thi Âm Tông Triệu quốc tu luyện công pháp của một ma đạo tông phái ngũ cấp, “tên của nó là Hoàng Tuyền Đạo”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "La Sát nói chỉ cần hấp thu thứ gì là có thể hoàn thành bước cắn nuốt cuối cùng Dạ Tự Tại?",
+  "options": [
+   "Một chút linh khí vực ngoại",
+   "Huyết nhục của Vương Lâm",
+   "Hồn phách của A Ngốc",
+   "Âm hàn khí dưới lòng đất"
+  ],
+  "correctIndex": 0,
+  "explanation": "Khi Vực Ngoại thông đạo mở, La Sát hấp thu linh khí vực ngoại để nuốt trọn Dạ Tự Tại.",
+  "chapter": 97,
+  "source": "Tiên Nghịch ch.97",
+  "evidence": "Bóng người trên không nói chỉ cần “hấp thu một chút linh khí vực ngoại” là xong bước cuối của cắn nuốt."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Theo luật Thi Âm Tông, đệ tử Nguyên Anh đã dùng hết cơ hội đoạt xá duy nhất mà vẫn không lên Hóa Thần sẽ chịu số phận gì?",
+  "options": [
+   "Bị luyện thành thi khôi canh động",
+   "Bị phong ấn mãi trong ngọc giản",
+   "Làm pháo hôi ở Vực Ngoại chiến trường",
+   "Bị đày về phế khu tự sinh tự diệt"
+  ],
+  "correctIndex": 2,
+  "explanation": "Không đột phá Hóa Thần thì chỉ còn làm pháo hôi trên Vực Ngoại chiến trường.",
+  "chapter": 97,
+  "source": "Tiên Nghịch ch.97",
+  "evidence": "Cơ hội đoạt xá chỉ có một lần; không vào được Hóa Thần thì chờ đợi là “pháo hôi trên Vực Ngoại chiến trường”."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Nguyên Anh cao thủ nào tới Thông Thiên tháp đầu tiên, cũng là người duy nhất sống sót trở về từ Vực Ngoại chiến trường lần trước?",
+  "options": [
+   "Dạ Tự Tại",
+   "Phác Nam Tử",
+   "Đằng Hóa Nguyên",
+   "Trần Hoan"
+  ],
+  "correctIndex": 1,
+  "explanation": "Phác Nam Tử là người đến đầu tiên và là kẻ sống sót duy nhất năm trăm năm trước.",
+  "chapter": 98,
+  "source": "Tiên Nghịch ch.98",
+  "evidence": "Năm trăm năm trước Triệu quốc có 23 Nguyên Anh vào chiến trường, “chỉ có một mình hắn” sống sót trở về."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Người khổng lồ trong hắc động truy tìm một vật trong Vực Ngoại chiến trường, mà vật đó lại đang ở trên ngực Vương Lâm. Đó là gì?",
+  "options": [
+   "Viên thạch châu khắc hình mây",
+   "Ngọc giản màu lam sậm",
+   "Lệnh bài cổ của Vực Ngoại",
+   "Hồ lô âm hàn sương sớm"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hình ảnh hiện trên mây là viên thạch châu khắc mây, chính là hạt châu của Vương Lâm.",
+  "chapter": 98,
+  "source": "Tiên Nghịch ch.98",
+  "evidence": "Mây hóa thành hình một viên thạch châu khắc hình mây; Vương Lâm hẳn sẽ nhận ra nó “đang ở trên ngực của hắn”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Sứ giả Thông Thiên tháp báo tin gì cho Phác Nam Tử nếu trong trăm năm hắn lên được Nguyên Anh hậu kỳ?",
+  "options": [
+   "Được ban pháp bảo Anh Biến cấp",
+   "Huyền Đạo Tông được lên tứ cấp",
+   "Được miễn vào Vực Ngoại chiến trường",
+   "Được phá lệ thu làm đệ tử ký danh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cấp trên của sứ giả hứa phá lệ nhận Phác Nam Tử làm đệ tử ký danh.",
+  "chapter": 98,
+  "source": "Tiên Nghịch ch.98",
+  "evidence": "Sứ giả nói nếu trong trăm năm tiến lên Nguyên Anh hậu kỳ thì “sẽ phá lệ thu nhận ngươi làm đệ tử ký danh”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Trước khi rút vào hắc động, người khổng lồ đã thò tay lấy đi thứ gì của Thông Thiên tháp?",
+  "options": [
+   "Một cột đá là Thất Thải pháp khí",
+   "Bảy khối lệnh bài cổ",
+   "Túi trữ vật Phác Nam Tử dâng lên",
+   "Ngọn đèn sáng trên đỉnh tháp"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn tóm một cột đá trên tháp, gọi là Thất Thải pháp khí, rồi mang đi.",
+  "chapter": 98,
+  "source": "Tiên Nghịch ch.98",
+  "evidence": "Bàn tay lớn tóm một cột đá trên tháp: “Thất Thải pháp khí này lão tử mang đi”."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Trước cơn gió từ cột sáng, chỉ bốn người đứng yên: Phác Nam Tử, Dạ Tự Tại, lão nhân tóc bạc Phiêu Miểu Tông và ai?",
+  "options": [
+   "Đằng Hóa Nguyên của Đằng gia",
+   "Trần Hoan của Hợp Hoan Phái",
+   "Sứ giả Lâm Dịch",
+   "Lão giả khô gầy của Thiên Đạo Môn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Người thứ tư là lão giả khô gầy của Thiên Đạo Môn.",
+  "chapter": 98,
+  "source": "Tiên Nghịch ch.98",
+  "evidence": "Bốn người không lùi gồm Phác Nam Tử, Dạ Tự Tại, bạch phát lão nhân Phiêu Miểu Tông, “lão giả khô gầy của Thiên Đạo Môn”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Hấp thu âm hàn khí ở Thi Âm Tông, hình khắc mới nào xuất hiện thêm trên Nghịch Thiên châu?",
+  "options": [
+   "Một ngọn lửa",
+   "Một phiến lá cây",
+   "Một thanh kiếm nhỏ",
+   "Một ngọn núi"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hạt châu có thêm phiến lá thứ hai, báo hiệu nó đang hút linh khí Mộc.",
+  "chapter": 99,
+  "source": "Tiên Nghịch ch.99",
+  "evidence": "Vỏ thạch châu vốn chỉ có một hình lá mờ, nay “hai phiến lá cây cân xứng với nhau” hiện ra."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Khi Vương Lâm thổ nạp bạch khí trong động, Nghịch Thiên châu trên ngực hắn bất ngờ sinh ra thứ gì?",
+  "options": [
+   "Một tia linh hỏa màu lam",
+   "Giọt chất lỏng mang tính âm hàn",
+   "Tiếng gọi của Ti Đồ Nam",
+   "Một tầng băng sương màu lam"
+  ],
+  "correctIndex": 1,
+  "explanation": "Bạch khí lọt vào hạt châu rồi hóa thành giọt chất lỏng âm hàn để hắn thu vào hồ lô.",
+  "chapter": 99,
+  "source": "Tiên Nghịch ch.99",
+  "evidence": "Mặt hạt châu có thêm chất lỏng; hắn cảm giác nó “có thuộc tính âm hàn”, rồi lấy hồ lô ra thu."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Theo Ti Đồ Nam, Nghịch Thiên châu phải hấp thu đủ thứ gì mới viên mãn và cho người khác nhận chủ?",
+  "options": [
+   "Ngũ hệ linh khí Kim Mộc Thủy Hỏa Thổ",
+   "Linh khí vực ngoại tinh thuần",
+   "Bảy sắc quang mang trời giáng",
+   "Hồn phách của một Nguyên Anh"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hạt châu cần đủ năm hệ linh khí; Thủy đã viên mãn, giờ tới Mộc.",
+  "chapter": 99,
+  "source": "Tiên Nghịch ch.99",
+  "evidence": "Ti Đồ Nam dự đoán hạt châu phải hấp thu “Kim, Mộc, Thủy, Hỏa, Thổ ngũ hệ linh khí” mới viên mãn."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Vương Lâm vừa rời động tu luyện thì bị ai chặn ở đầu thông đạo, viện lời dặn của Dạ lão tổ?",
+  "options": [
+   "Đỗ Trần",
+   "La Sát",
+   "Mộc Nhũng",
+   "A Ngốc"
+  ],
+  "correctIndex": 2,
+  "explanation": "Mộc Nhũng ngồi canh và mời 'sư tổ' quay về.",
+  "chapter": 99,
+  "source": "Tiên Nghịch ch.99",
+  "evidence": "Mộc Nhũng ngồi trong động nói Dạ lão tổ dặn không ai được tự ý rời chỗ tu luyện, “sư tổ xin đừng làm khó ta”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Dò mười một thông đạo quanh động tu luyện, Vương Lâm phát hiện điều gì khiến hắn biết mình khó thoát?",
+  "options": [
+   "Tất cả đều dẫn về động của Dạ Tự Tại",
+   "Đều bị âm hàn khí đóng băng kín",
+   "Đều bị phong bế hoặc có Trúc Cơ canh",
+   "Đều gắn cấm chế truyền tống ngược"
+  ],
+  "correctIndex": 2,
+  "explanation": "Năm cái bị phong bế, sáu cái còn lại đều có tu sĩ Trúc Cơ canh giữ do Dạ Tự Tại sắp đặt.",
+  "chapter": 99,
+  "source": "Tiên Nghịch ch.99",
+  "evidence": "Năm thông đạo bị phong bế, sáu cái kia đều có cao thủ Trúc Cơ, một chỗ còn có “Trúc Cơ hậu kỳ cao thủ”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Lần theo lỗ nhỏ xuống sâu dưới đất, thần thức Vương Lâm phát hiện nguồn âm hàn khí của Thi Âm Tông là gì?",
+  "options": [
+   "Một hàn đàm băng giá vạn năm",
+   "Một thi khôi Kết Đan bị phong ấn",
+   "Một mạch linh thạch thuộc tính âm",
+   "Nam thi khổng lồ mọc thực vật xanh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Âm hàn khí thoát ra từ loại thực vật xanh mọc trên một nam thi khổng lồ.",
+  "chapter": 100,
+  "source": "Tiên Nghịch ch.100",
+  "evidence": "Một nam thi khổng lồ lơ lửng, trên thân mọc thực vật màu xanh; âm hàn khí thoát ra từ những thực vật đó."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Lúc thu thần thức khỏi nơi có nam thi khổng lồ, Vương Lâm nghe một giọng nam vọng tới nói gì?",
+  "options": [
+   "“Trả thân thể cho ta”",
+   "“Kẻ nào dám xâm nhập”",
+   "“Cứu ta……”",
+   "“Mau cút khỏi đây”"
+  ],
+  "correctIndex": 2,
+  "explanation": "Giọng nam xé gió tới gần, lặp lại lời cầu cứu.",
+  "chapter": 100,
+  "source": "Tiên Nghịch ch.100",
+  "evidence": "Thanh âm giọng nam càng lúc càng gần, Vương Lâm mơ hồ nghe được nội dung: “Cứu ta......”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Để thần thức đủ sức xuyên qua lớp âm hàn khí dày đặc, Vương Lâm đã làm gì?",
+  "options": [
+   "Nuốt một viên Tạo Hóa đan",
+   "Uống âm hàn sương sớm trong hồ lô",
+   "Mượn lực của Ti Đồ Nam",
+   "Dán chồng nhiều tiên phù lên trán"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn uống nước sương âm hàn thu từ hạt châu để bổ sung thần thức.",
+  "chapter": 100,
+  "source": "Tiên Nghịch ch.100",
+  "evidence": "Hắn lấy hồ lô âm hàn sương sớm uống một ngụm, thần thức ngưng thật hơn và đâm vào lỗ như “một chiếc dùi”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Bỏ ý định đoạt thực vật xanh, Vương Lâm lấy ra món đồ nào để tế luyện, mong tăng uy lực phi kiếm?",
+  "options": [
+   "Quan tài xanh biếc",
+   "Hồ lô màu lam",
+   "Vỏ kiếm",
+   "Ngọc giản màu lam sậm"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn tế luyện vỏ kiếm từng thử luyện thất bại khi mới Trúc Cơ.",
+  "chapter": 100,
+  "source": "Tiên Nghịch ch.100",
+  "evidence": "Hắn vỗ túi trữ vật, “một chiếc vỏ kiếm bay ra”; vì phi kiếm, vỏ kiếm này phải tế luyện thử một lần."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "kho",
+  "question": "Ti Đồ Nam từng dặn không để Hàn Đan rời thân. Khi tế luyện vỏ kiếm, Vương Lâm đã làm gì với nó?",
+  "options": [
+   "Phun ra, hóa lỏng rót vào vỏ kiếm",
+   "Đặt vào chuôi kiếm làm trận nhãn",
+   "Dùng nó nung lại phi kiếm cũ",
+   "Nuốt sương sớm để Hàn Đan thành Kim Đan"
+  ],
+  "correctIndex": 0,
+  "explanation": "Thiếu đan hỏa, hắn liều phun Hàn Đan ra, hóa thành chất lỏng lam rồi rót vào vỏ kiếm.",
+  "chapter": 100,
+  "source": "Tiên Nghịch ch.100",
+  "evidence": "Hàn Đan bằng nắm tay bay ra khỏi miệng, tan thành chất lỏng màu lam, được hắn “chậm rãi rót vào trong vỏ kiếm”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Ngọn lửa lam không nóng mà lạnh buốt, được Vương Lâm mô phỏng theo đan hỏa của Kết Đan kỳ, gọi là gì?",
+  "options": [
+   "Hàn hỏa",
+   "Hỏa Diễm cầu",
+   "U minh hỏa",
+   "Đan hỏa"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm tự sáng tạo hàn hỏa để thay đan hỏa khi tế luyện vỏ kiếm.",
+  "chapter": 101,
+  "source": "Tiên Nghịch ch.101",
+  "evidence": "Lửa lam không có hơi nóng; “Hàn hỏa là do Vương Lâm mô phỏng theo đan hỏa” của tu sĩ Kết Đan."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Đệ tử Trúc Cơ của Thi Âm Tông được đưa tới đâu để tranh đoạt tư cách vào chiến trường ngoại vực?",
+  "options": [
+   "Thông Thiên tháp",
+   "Rừng Khô Mang",
+   "Đằng Gia thành",
+   "Quyết Minh cốc"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cuộc tranh đoạt trăm năm một lần diễn ra ở Quyết Minh cốc.",
+  "chapter": 101,
+  "source": "Tiên Nghịch ch.101",
+  "evidence": "Dạ Tự Tại nói các đệ tử “sẽ được đưa đến Quyết Minh cốc”, nằm ở khu Thiên Nam của Triệu quốc."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Dạ Tự Tại giao lệnh bài vào chiến trường ngoại vực và quyền chỉ huy đội Thi Âm Tông cho ai?",
+  "options": [
+   "Mộc Nhũng",
+   "Đỗ Trần",
+   "La Sát",
+   "A Ngốc"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đỗ Trần, tu sĩ Trúc Cơ hậu kỳ cảnh giới giả đan, được giao lệnh bài.",
+  "chapter": 101,
+  "source": "Tiên Nghịch ch.101",
+  "evidence": "Mọi hành động “đều do Đỗ Trần cầm đầu”; Dạ Tự Tại ném lệnh bài cho gã trung niên áo đen."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Trước khi bước qua cánh cửa tới chiến trường, Dạ Tự Tại buộc Vương Lâm làm gì như mọi người khác?",
+  "options": [
+   "Lưu một tia hồn phách vào ngọc giản",
+   "Nhận một cỗ quan tài thi khôi",
+   "Nuốt một con cổ trùng khống chế",
+   "Lập huyết thệ trung thành với tông môn"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm dùng bí pháp rút một tia hồn phách, bắn vào ngọc giản của Dạ Tự Tại.",
+  "chapter": 101,
+  "source": "Tiên Nghịch ch.101",
+  "evidence": "Dạ Tự Tại nói ai cũng đã lưu một tia linh hồn trong ngọc giản, “chỉ còn có thiếu một người đó là ngươi”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Thực chất Dạ Tự Tại định dùng hơn hai mươi đệ tử Trúc Cơ và Vương Lâm vào việc gì?",
+  "options": [
+   "Làm vật dẫn cho thi khôi cắn nuốt",
+   "Làm lô đỉnh cho La Sát đoạt xá",
+   "Đem đổi lệnh bài với chính đạo",
+   "Mở đường tới rừng Khô Mang"
+  ],
+  "correctIndex": 0,
+  "explanation": "Thi khôi hấp thu họ sẽ phát cuồng, tăng tu vi tới giả đan để giành tư cách.",
+  "chapter": 101,
+  "source": "Tiên Nghịch ch.101",
+  "evidence": "Giọng khàn nói thi khôi hấp thu họ sẽ được kích thích lên giả đan; Dạ Tự Tại muốn “dùng hắn làm vật dẫn”."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm dùng gì giết tu sĩ Trúc Cơ hậu kỳ giữ ngọc giản hồn phách của mình trước khi hắn kịp bóp nát nó?",
+  "options": [
+   "Dẫn Lực thuật bóp cổ",
+   "Phi kiếm xanh mang cực hàn",
+   "Một quả Phích Lịch đạn",
+   "Vỏ kiếm bọc hàn hỏa"
+  ],
+  "correctIndex": 1,
+  "explanation": "Phi kiếm huyết luyện nhiễm cực hàn thuấn di xuyên qua yết hầu đối thủ.",
+  "chapter": 102,
+  "source": "Tiên Nghịch ch.102",
+  "evidence": "Tiểu kiếm xanh biếc biến mất rồi hiện trước gã tu sĩ, “xuyên thẳng qua yết hầu hắn”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Khi khói hồng nhạt từ ngọc giản vỡ chạm vào quan tài, chuyện gì xảy ra với đệ tử Thi Âm Tông?",
+  "options": [
+   "Bị truyền tống ngược về tông môn",
+   "Thi khôi phá quan tài cắn nuốt chủ",
+   "Quan tài kết thành đại trận vây cốc",
+   "Thi khôi quỳ xuống nhận chủ mới"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đệ tử bị định thân, thi khôi phá nắp quan tài hút cạn chủ nhân rồi biến thành dáng họ.",
+  "chapter": 102,
+  "source": "Tiên Nghịch ch.102",
+  "evidence": "Nắp quan tài vỡ, thi khôi lao tới ôm chủ nhân hút mạnh, rồi “biến thành y hệt như gã tu sĩ”."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Gã thanh niên hoa phục cùng ba sư huynh rình giết người đoạt bảo ở Quyết Minh cốc là đệ tử phái nào?",
+  "options": [
+   "Hợp Hoan Tông",
+   "Phiêu Miểu Tông",
+   "Thiên Đạo Môn",
+   "Tịch Diệt Tông"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nhóm bốn người tách khỏi đoàn Thiên Đạo Môn để âm thầm cướp bảo vật.",
+  "chapter": 102,
+  "source": "Tiên Nghịch ch.102",
+  "evidence": "Bốn người “không đi chung với những người của Thiên Đạo môn”, định thừa cơ giết người đoạt bảo."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Đằng Hóa Nguyên nhờ đạo hữu nào dùng thuật thiên toán và chiếc gương cổ để tìm kẻ thù?",
+  "options": [
+   "Lâm Dịch",
+   "Khải Minh",
+   "Trần Hoan",
+   "Phác Nam Tử"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão tu sĩ tiên phong đạo cốt được gọi là Khải Minh đạo hữu.",
+  "chapter": 102,
+  "source": "Tiên Nghịch ch.102",
+  "evidence": "Đằng Hóa Nguyên hỏi “Khải Minh đạo hữu! Tính ra được chưa?” khi lão cầm gương cổ bấm đốt tính toán."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Để đổi lấy thuật thiên toán của Khải Minh, Đằng Hóa Nguyên đã không ngại đắc tội môn phái nào để đoạt lệnh bài?",
+  "options": [
+   "Thiên Đạo Môn",
+   "Huyền Đạo Tông",
+   "Hợp Hoan Tông",
+   "Vô Phong Cốc"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn cướp lệnh bài của Vô Phong Cốc để trả công cho Khải Minh.",
+  "chapter": 102,
+  "source": "Tiên Nghịch ch.102",
+  "evidence": "Đằng Hóa Nguyên nói “không tiếc đắc tội với Vô Phong Cốc” để đoạt lệnh bài, chính vì thuật thiên toán."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Đằng Hóa Nguyên và lão tu sĩ Khải Minh di chuyển tới thị trấn của Vương gia bằng cách nào?",
+  "options": [
+   "Cưỡi rết khổng lồ",
+   "Đi qua truyền tống trận",
+   "Hóa thành trường hồng",
+   "Bước vào chiếc gương cổ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hai người bước vào chiếc gương, gương thu nhỏ biến mất rồi hiện ra trên trời Vương gia.",
+  "chapter": 103,
+  "source": "Tiên Nghịch ch.103",
+  "evidence": "Tu sĩ “bước một chân vào trong chiếc gương”, Đằng Hóa Nguyên theo sau; sau đó gương lớn hiện trên bầu trời."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Khi Đằng Hóa Nguyên xuất hiện, Vương Trác và Vương Hạo xưng là đệ tử môn phái nào?",
+  "options": [
+   "Hằng Nhạc phái",
+   "Huyền Đạo Tông",
+   "Thi Âm Tông",
+   "Phiêu Miểu Tông"
+  ],
+  "correctIndex": 1,
+  "explanation": "Cả hai giờ đều thuộc Huyền Đạo Tông.",
+  "chapter": 103,
+  "source": "Tiên Nghịch ch.103",
+  "evidence": "Hai người vội nói “Vãn bối là đệ tử của Huyền Đạo Tông bái kiến hai vị tiền bối”."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Nghe gác cổng kể quản gia gọi Vương Lâm là đồ rác rưởi, Vương Trác phản ứng thế nào?",
+  "options": [
+   "Cười lớn, đồng tình với quản gia",
+   "Nổi giận đánh tên gác cổng",
+   "Than rằng chính mình mới là rác rưởi",
+   "Bảo Vương Lâm đã chết ở Hằng Nhạc"
+  ],
+  "correctIndex": 2,
+  "explanation": "Vương Trác tự nhận kém xa Vương Lâm, chính hắn mới là kẻ vô dụng.",
+  "chapter": 103,
+  "source": "Tiên Nghịch ch.103",
+  "evidence": "Vương Trác thở dài: “Rác rưởi… E rằng so với nó ta mới là đồ rác rưởi.”"
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Giết Vương Đào và muội muội hắn xong, Đằng Hóa Nguyên thu hồn phách hai người vào vật gì?",
+  "options": [
+   "Chiếc gương cổ",
+   "Một hồ lô màu đỏ",
+   "Ngọc giản xanh biếc",
+   "Một cây hắc kỳ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hai làn khói vàng bị hắc kỳ hút vào, hiện thành hai khuôn mặt đau khổ.",
+  "chapter": 103,
+  "source": "Tiên Nghịch ch.103",
+  "evidence": "“Một cây hắc kỳ xuất hiện” hút lấy hai làn khói vàng từ thi thể hai anh em."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Chiếc gương cổ của Khải Minh mãi không định được hướng. Lão cần thêm gì từ Đằng Hóa Nguyên để tìm ra mục tiêu?",
+  "options": [
+   "Một giọt máu của Đằng Lệ",
+   "Tên và diện mạo kẻ thù",
+   "Lệnh bài của Vô Phong Cốc",
+   "Tia trớ chú hắn gieo lên kẻ kia"
+  ],
+  "correctIndex": 3,
+  "explanation": "Gương phải cảm nhận trớ chú giữa Đằng Hóa Nguyên và kẻ thù; một tia khí đen từ trán hắn bay vào gương.",
+  "chapter": 103,
+  "source": "Tiên Nghịch ch.103",
+  "evidence": "Gương “cần phải cảm nhận một chút trớ chú của ông với kẻ kia”; khí đen từ trán Đằng Hóa Nguyên bay vào."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Ai liên tục ghì chặt Vương Hạo, khuyên phải sống sót mới có cơ hội báo thù?",
+  "options": [
+   "Tứ thúc của Vương Lâm",
+   "Lão đạo sĩ Khải Minh",
+   "Cha của Vương Trác",
+   "Vương Trác"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vương Trác hai lần ấn Vương Hạo xuống, nhắc đối phương là Nguyên Anh kỳ.",
+  "chapter": 104,
+  "source": "Tiên Nghịch ch.104",
+  "evidence": "Vương Trác ấn Vương Hạo xuống: “chỉ cần chúng ta còn sống thì mới có cơ hội báo thù”."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Ai đã khai tên Vương Lâm và nơi ở của cha mẹ hắn cho Đằng Hóa Nguyên?",
+  "options": [
+   "Cha của Vương Trác",
+   "Tứ thúc của Vương Lâm",
+   "Vương Hạo",
+   "Người lớn tuổi nhất Vương gia"
+  ],
+  "correctIndex": 0,
+  "explanation": "Cha Vương Trác đoán ra kẻ giết cháu Đằng Hóa Nguyên là Vương Lâm và kể hết.",
+  "chapter": 104,
+  "source": "Tiên Nghịch ch.104",
+  "evidence": "Cha Vương Trác hỏi kẻ giết cháu ngài “có phải tên là Vương Lâm?”, rồi khai cả nơi ở cha mẹ hắn."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Khi đợt sóng tròn của Đằng Hóa Nguyên quét qua, lão đạo sĩ dùng ánh sáng dịu che chắn cứu ai?",
+  "options": [
+   "Cha của Vương Trác",
+   "Tam thúc của Vương Lâm",
+   "Tứ thúc của Vương Lâm",
+   "Tam thúc của phụ thân Vương Lâm"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đạo sĩ giữ lại Tứ thúc, nói mình có việc cần dùng ông.",
+  "chapter": 104,
+  "source": "Tiên Nghịch ch.104",
+  "evidence": "Sóng lan tới Tứ thúc thì một luồng sáng êm dịu chặn lại; đạo sĩ nói “người này thì để lại”."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Vì sao Đằng Hóa Nguyên cuối cùng tha cho Vương Trác và Vương Hạo?",
+  "options": [
+   "Cần họ dẫn đường tới nhà Vương Lâm",
+   "Đạo sĩ sẽ khai thật với Phác Nam Tử",
+   "Hai người thề dụ Vương Lâm ra mặt",
+   "Hắc kỳ không còn chỗ chứa thêm hồn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Khải Minh nói nếu bị Phác Nam Tử của Huyền Đạo Tông hỏi, lão sẽ nói sự thật.",
+  "chapter": 104,
+  "source": "Tiên Nghịch ch.104",
+  "evidence": "Đạo sĩ nói giết thì ông bỏ qua, “Nhưng khi Phác Nam Tử của Huyền Đạo Tông hỏi” sẽ nói thật."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Rời nhà cha mẹ Vương Lâm, Đằng Hóa Nguyên nhỏ máu lên hắc kỳ và nó hiện ra điều gì?",
+  "options": [
+   "Hồn phách Đằng Lệ hiện về",
+   "Hình ảnh Vương Lâm ẩn trong rừng",
+   "Đường truyền tống tới Quyết Minh cốc",
+   "Bản đồ nơi đóng quân của Thi Âm Tông"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắc kỳ phóng to, gào khóc rồi hiện cảnh Vương Lâm đang ở chỗ kín trong rừng.",
+  "chapter": 104,
+  "source": "Tiên Nghịch ch.104",
+  "evidence": "Hắn cắn lưỡi nhả máu lên hắc kỳ, trên đó hiện ra “hình ảnh Vương Lâm đang ở một chỗ kín đáo trong rừng”."
+ }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "topic": "phap_bao", "difficulty": "de",
+    "question": "Sợ đệ tử Huyền Đạo Tông trả thù cha mẹ Vương Lâm, Tư Đồ Nam xúi hắn dùng pháp thuật nào với kẻ bắt được?",
+    "options": ["Hồn Hỏa thuật", "Thuật Khôi Lỗi", "Dẫn Lực thuật", "Hoàng Tuyền Thăng Khiếu Quyết"],
+    "correctIndex": 1,
+    "explanation": "Tư Đồ Nam truyền thuật Khôi Lỗi để luyện kẻ địch thành con rối chỉ nghe lệnh Vương Lâm.",
+    "chapter": 65, "source": "Tiên Nghịch ch.65",
+    "evidence": "Tư Đồ Nam bảo chỉ cần bắt một người đối phương luyện hóa thành con rối: \"gọi là thuật Khôi Lỗi\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Tên mập ở Kiếm Linh các chạy đến xin Vương Lâm 'đại sư huynh' chiếu cố tên là gì?",
+    "options": ["Tôn Đại Trụ", "Triệu Long", "Hoàng Đại Sơn", "Trương Đức Khôn"],
+    "correctIndex": 2,
+    "explanation": "Tên mập tự giới thiệu là Hoàng Đại Sơn và xin làm tiểu đệ của Vương Lâm.",
+    "chapter": 65, "source": "Tiên Nghịch ch.65",
+    "evidence": "Tên mập ngồi xuống cạnh Vương Lâm, cười khổ: \"Đại sư huynh, đệ là Hoàng Đại Sơn\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Lữ Tung từng hẹn ai rằng nếu không phục thì mười năm sau có thể tìm hắn đấu lại?",
+    "options": ["Trương Đức Khôn", "Hoàng Đại Sơn", "Lữ Vân Kiệt", "Trương Cuồng"],
+    "correctIndex": 0,
+    "explanation": "Lữ Tung nhắc lại ước hẹn mười năm với Trương Đức Khôn, người hắn từng đánh bại.",
+    "chapter": 65, "source": "Tiên Nghịch ch.65",
+    "evidence": "Lữ Tung hỏi Trương Đức Khôn: \"còn nhớ rõ ước hẹn mười năm trước không?\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Lữ Tung giải thích vì sao hắn không ở lại Huyền Đạo Tông như thế nào?",
+    "options": ["Bị Phác Nam Tử từ chối nhận", "Muốn đi theo Vương Lâm", "Đã hứa trung thành với Hoàng Long", "Đã đắc tội quá nhiều người ở đó"],
+    "correctIndex": 3,
+    "explanation": "Lữ Tung nói ở lại Huyền Đạo Tông sẽ chẳng có tiền đồ vì hắn đắc tội nhiều người bên đó.",
+    "chapter": 65, "source": "Tiên Nghịch ch.65",
+    "evidence": "Lữ Tung cười nói ở lại sẽ cả đời không tiền đồ: \"Huyền Đạo Tông, ta đắc tội với nhiều người lắm!\"."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "kho",
+    "question": "Năm xưa Lữ Tung đánh Trương Đức Khôn bị thương trước trận đấu, khiến hắn thua trong cuộc tỷ thí nào?",
+    "options": ["Tỷ thí cuối năm của nội môn", "Giao lưu với Huyền Đạo Tông", "Tuyển chọn đệ tử nòng cốt", "Khảo hạch nhập môn ký danh"],
+    "correctIndex": 2,
+    "explanation": "Hai người cùng tranh suất đệ tử nòng cốt duy nhất; Lữ Tung đả thương Trương Đức Khôn trước khi thi.",
+    "chapter": 65, "source": "Tiên Nghịch ch.65",
+    "evidence": "Năm đó trong tỉ thí tuyển đệ tử nòng cốt, Lữ Tung xuất hiện trước trận, dễ dàng đánh Trương Đức Khôn bị thương."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "de",
+    "question": "Lưu Văn Cử và lão phu nhân họ Vương hợp vật gì làm một để tạo vòng sáng chở cả phái bay đi?",
+    "options": ["Hai tấm ngọc phù", "Hai thanh phi kiếm", "Tám khối bạch ngọc", "Hai khối ngọc giản"],
+    "correctIndex": 3,
+    "explanation": "Mỗi người tung ra một khối ngọc giản, hai khối hợp làm một chiếu xuống thành vòng sáng.",
+    "chapter": 66, "source": "Tiên Nghịch ch.66",
+    "evidence": "Lão phu nhân cũng tung ngọc giản: \"hai cái ngọc giản hợp lại thành một\", rồi tạo vòng ánh sáng."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "de",
+    "question": "Trong đám mây đen sấm sét chặn đường vòng sáng của Hằng Nhạc phái ẩn hiện con vật gì?",
+    "options": ["Một con rết cực lớn", "Một con đại mãng xanh", "Một con cự long tím", "Một con hạc trắng"],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm thấy trong mây đen là một con rết khổng lồ, Âu Dương trưởng lão đứng trên đó.",
+    "chapter": 66, "source": "Tiên Nghịch ch.66",
+    "evidence": "Vương Lâm quay lại nhìn: \"trong mây đen ẩn hiện một con rết cực lớn\", Âu Dương đứng bên trên."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Khi vòng sáng đột ngột tăng tốc khiến Vương Lâm trượt về phía sau, điều gì giúp hắn đứng vững lại?",
+    "options": ["Tống Dục kịp đưa tay đỡ", "Khí âm hàn từ hạt châu trước ngực", "Tiên phù của Trương Hổ phát sáng", "Lưu Văn Cử dùng pháp quyết giữ lại"],
+    "correctIndex": 1,
+    "explanation": "Một luồng khí âm hàn từ hạt châu đeo trước ngực cuộn trong người giúp hắn ổn định; đó là Tư Đồ Nam ra tay.",
+    "chapter": 66, "source": "Tiên Nghịch ch.66",
+    "evidence": "Khí âm mát từ hạt châu thần bí đeo sát ngực tuôn ra, cuộn quanh cơ thể giúp hắn ổn định."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Đến nơi ẩn náu mới, lão phu nhân họ Vương tuyên bố toàn bộ Hằng Nhạc phái sẽ bế quan bao lâu?",
+    "options": ["Mười năm", "Ba mươi năm", "Một trăm năm", "Năm trăm năm"],
+    "correctIndex": 2,
+    "explanation": "Bà tuyên bố cả phái bế quan một trăm năm, sau đó rửa sạch mối nhục.",
+    "chapter": 66, "source": "Tiên Nghịch ch.66",
+    "evidence": "Lão phu nhân trầm giọng: \"từ hôm nay trở đi, tất cả bế quan một trăm năm\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "kho",
+    "question": "Tư Đồ Nam chê vòng sáng chẳng ra gì, khoe năm xưa lão dùng thuật nào mang được hơn vạn người bay lên?",
+    "options": ["Thuấn di thuật", "Hồn Hỏa thuật", "Dẫn Lực thuật", "Không độn thuật"],
+    "correctIndex": 3,
+    "explanation": "Tư Đồ Nam khoe dùng không độn thuật có thể mang theo hơn một vạn người mà chẳng cần ai giữ thăng bằng.",
+    "chapter": 66, "source": "Tiên Nghịch ch.66",
+    "evidence": "Tư Đồ Nam khinh thường: \"chẳng bằng một cái không độn thuật mà thôi\", năm đó mang hơn vạn người."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "de",
+    "question": "Vương Lâm xin hai sư tổ cho ra ngoài một chuyến, lý do hắn nói ra là gì?",
+    "options": ["Về nhà thăm cha mẹ", "Tìm vật liệu Mộc thuộc tính", "Đi thu thập lộ thủy", "Tìm tung tích Vương Hạo"],
+    "correctIndex": 0,
+    "explanation": "Hắn nói đã nhiều năm không gặp cha mẹ, sợ bế quan lâu sẽ không còn gặp được nên muốn về thăm.",
+    "chapter": 67, "source": "Tiên Nghịch ch.67",
+    "evidence": "Vương Lâm thản nhiên nói lần này bế quan lâu, có thể không gặp lại cha mẹ, \"muốn về nhà thăm\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "de",
+    "question": "Trước khi Vương Lâm rời phủ, Lưu Văn Cử trao cho hắn vật gì để giữ mạng?",
+    "options": ["Một tấm Thiên Lý Phù", "Ngọc phù chứa một kích Kết Đan", "Một thanh phi kiếm Trúc Cơ", "Một bình Đoạt Linh Đan"],
+    "correctIndex": 1,
+    "explanation": "Lưu Văn Cử đưa ngọc phù chứa một đòn của cao thủ Kết Đan kỳ để hắn bảo vệ tính mạng.",
+    "chapter": 67, "source": "Tiên Nghịch ch.67",
+    "evidence": "Lưu Văn lấy ra ngọc phù, nói bên trong \"có chứa một kích của cao thủ Kết Đan kỳ\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Theo Tư Đồ Nam, khi Mộc thuộc tính viên mãn, thời gian trong Nghịch châu có thể nhanh lên tới mức nào?",
+    "options": ["Gấp hai mươi lần", "Gấp năm mươi lần", "Gấp trăm lần", "Gấp nghìn lần"],
+    "correctIndex": 2,
+    "explanation": "Lão đoán hiện mới gấp mười lần, khi Mộc thuộc tính viên mãn có thể lên gấp trăm lần.",
+    "chapter": 67, "source": "Tiên Nghịch ch.67",
+    "evidence": "Tư Đồ Nam phân tích bây giờ đang gấp mười lần, \"không chừng sẽ tăng lên gấp trăm lần\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Kẻ tra danh sách đệ tử Hằng Nhạc phái để tìm ra quê nhà Vương Lâm, rồi dẫn Chu Bằng tới là ai?",
+    "options": ["Vương Trác", "Lý Sơn", "Tôn Hạo", "Trương Cuồng"],
+    "correctIndex": 3,
+    "explanation": "Trương Cuồng, nay là đệ tử Huyền Đạo Tông, tự khoe nhờ xem danh sách đệ tử mà biết nhà Vương Lâm ở thôn này.",
+    "chapter": 67, "source": "Tiên Nghịch ch.67",
+    "evidence": "Trương Cuồng nói với Chu Bằng: may mà hắn tìm trong danh sách đệ tử Hằng Nhạc phái mới biết."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "kho",
+    "question": "Theo Trương Cuồng, Vương Trác phản ứng thế nào khi bị hỏi chỗ ở của gia đình Vương Lâm?",
+    "options": ["Không hé lộ một lời nào", "Chỉ đường đến tận cửa nhà", "Đòi đổi lấy linh đan mới nói", "Bịa ra một ngôi làng khác"],
+    "correctIndex": 0,
+    "explanation": "Trương Cuồng tưởng Vương Trác ghét Vương Lâm sẽ khai, nhưng hắn không lộ ra một chữ.",
+    "chapter": 67, "source": "Tiên Nghịch ch.67",
+    "evidence": "Trương Cuồng chê Vương Trác ghê tởm vì không chịu khai: \"hắn không lộ ra đến một từ\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "de",
+    "question": "Để đuổi kịp Chu Bằng đang bỏ chạy, Tư Đồ Nam dùng chút tinh hoa Nguyên Anh còn lại giúp Vương Lâm làm gì?",
+    "options": ["Ẩn thân tàng hình", "Thuấn di một lần", "Hóa ra phân thân", "Phóng ra Hồn Hỏa"],
+    "correctIndex": 1,
+    "explanation": "Tinh hoa Nguyên Anh còn lại chỉ đủ giúp Vương Lâm thuấn di một lần, xuất hiện ngay trước mặt Chu Bằng.",
+    "chapter": 68, "source": "Tiên Nghịch ch.68",
+    "evidence": "Tư Đồ Nam nói tinh hoa Nguyên Anh \"chỉ có thể giúp ngươi thuấn di được một lần\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Bị Vương Lâm chặn đường, Chu Bằng phun ra luồng sáng hóa thành con vật gì để chống trả?",
+    "options": ["Một con rết đen", "Một con hắc hổ", "Một con đại mãng xanh", "Một con bạch long"],
+    "correctIndex": 2,
+    "explanation": "Luồng sáng Chu Bằng phun ra gặp gió bành trướng thành một con đại mãng màu xanh.",
+    "chapter": 68, "source": "Tiên Nghịch ch.68",
+    "evidence": "Luồng sáng gặp gió bành trướng, \"biến thành một con đại mãng màu xanh\"."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Chu Bằng cắn lưỡi phun máu, rồi dùng vật gì khiến con mãng xà phóng to và quất đuôi về phía Vương Lâm?",
+    "options": ["Một lá cờ đỏ", "Một chiếc gương đồng", "Một hồ lô màu đỏ", "Một cái chuông màu đen"],
+    "correctIndex": 3,
+    "explanation": "Trong tay Chu Bằng xuất hiện chiếc chuông đen; tiếng chuông vang lên làm mãng xà phình to.",
+    "chapter": 68, "source": "Tiên Nghịch ch.68",
+    "evidence": "Trong tay hắn \"xuất hiện một cái chuông màu đen\", tiếng chuông vang làm đại mãng phóng to."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "vua",
+    "question": "Tư Đồ Nam khoe chiêu quang cầu màu lam đóng băng cả mãng xà lẫn Chu Bằng thích hợp nhất cho trường hợp nào?",
+    "options": ["Quần chiến đông người", "Đánh lén từ xa", "Đấu tay đôi", "Phá hộ sơn đại trận"],
+    "correctIndex": 0,
+    "explanation": "Lão tiếc chỉ có một đối thủ vì chiêu này, tu từ linh lực âm hàn, hợp nhất khi quần chiến.",
+    "chapter": 68, "source": "Tiên Nghịch ch.68",
+    "evidence": "Tư Đồ Nam đắc ý: đáng tiếc chỉ có một người, \"Chiêu này của lão phu thích hợp nhất trong quần chiến\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "kho",
+    "question": "Tư Đồ Nam bắt Vương Lâm tự tay mổ lấy ngũ tạng Chu Bằng khi luyện khôi lỗi với ý đồ thật là gì?",
+    "options": ["Lấy ngũ tạng bồi bổ Nguyên Anh", "Tránh để Phác Nam Tử phát hiện", "Rèn tính tàn nhẫn, kéo hắn vào Ma môn", "Giúp khôi lỗi mạnh gấp bội"],
+    "correctIndex": 2,
+    "explanation": "Lão thầm nghĩ khôi lỗi thuật không cần phức tạp vậy, chỉ muốn Vương Lâm quen máu tanh để sau theo Ma môn.",
+    "chapter": 68, "source": "Tiên Nghịch ch.68",
+    "evidence": "Tư Đồ Nam thầm nghĩ cho hắn mở mắt \"để sau này ngươi sẽ trở thành người của Ma môn chúng ta\"."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "de",
+    "question": "Luyện xong khôi lỗi, Vương Lâm ra lệnh cho Chu Bằng làm gì?",
+    "options": ["Canh giữ động phủ của Hằng Nhạc", "Về tông, diệt kẻ hại hắn, giữ cha mẹ", "Trộm bí tịch của Phác Nam Tử", "Theo hầu bên hắn khi bế quan"],
+    "correctIndex": 1,
+    "explanation": "Hắn sai Chu Bằng về Huyền Đạo Tông, ngầm giết những kẻ bất lợi cho mình và bảo vệ cha mẹ.",
+    "chapter": 70, "source": "Tiên Nghịch ch.70",
+    "evidence": "Vương Lâm lạnh giọng dặn Chu Bằng âm thầm giết kẻ bất lợi \"và bảo vệ cha mẹ ta thật tốt\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Tiểu Lục, người bị cha Vương Lâm mắng là thợ mộc phí phạm, có quan hệ gì với ông?",
+    "options": ["Con trai của Tứ thúc", "Em họ của Vương Lâm", "Đồ đệ học nghề điêu khắc gỗ", "Gia nhân làm thuê trong nhà"],
+    "correctIndex": 2,
+    "explanation": "Cha Vương Lâm nay thu đệ tử dạy nghề mộc; Tiểu Lục là đồ đệ thông minh nhất.",
+    "chapter": 70, "source": "Tiên Nghịch ch.70",
+    "evidence": "Cha hắn không còn tự khắc gỗ mà thu đệ tử; Tiểu Lục là đệ tử thông minh nhất, học được sáu phần."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Khi cha mẹ hỏi chuyện Hằng Nhạc phái, Vương Lâm đã nói gì?",
+    "options": ["Phái bị Huyền Đạo Tông chiếm", "Hắn vừa được thăng trưởng lão", "Hắn sắp đi xa tìm linh dược", "Nói dối là phái dời đi nơi khác"],
+    "correctIndex": 3,
+    "explanation": "Hắn do dự rồi nói dối rằng Hằng Nhạc phái chuyển địa điểm nên sau này khó về nhà thường xuyên.",
+    "chapter": 70, "source": "Tiên Nghịch ch.70",
+    "evidence": "Vương Lâm do dự rồi nói dối Hằng Nhạc phái chuyển địa điểm, không thể thường về nhà."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Trong năm năm Vương Lâm vắng nhà, cha hắn lấy lại được phần gia sản của mình nhờ ai giúp đỡ?",
+    "options": ["Tứ thúc", "Vương Hạo", "Cha của Vương Trác", "Tiên sinh dạy học"],
+    "correctIndex": 0,
+    "explanation": "Nhờ Tứ thúc giúp, cha Vương Lâm đòi lại phần gia sản, cuộc sống đỡ vất vả.",
+    "chapter": 70, "source": "Tiên Nghịch ch.70",
+    "evidence": "Năm năm qua, \"Nhờ có Tứ thúc giúp đỡ\", cha hắn lấy lại được phần gia sản."
+  },
+  {
+    "topic": "phap_bao", "difficulty": "kho",
+    "question": "Theo Tư Đồ Nam, vì sao Phác Nam Tử khó nhận ra Chu Bằng đã bị luyện thành khôi lỗi?",
+    "options": ["Chu Bằng vẫn giữ nguyên ký ức cũ", "Có chút tinh hoa Nguyên Anh của lão", "Khôi lỗi được giấu bằng Hồn Hỏa", "Vương Lâm đã xóa thần thức của hắn"],
+    "correctIndex": 1,
+    "explanation": "Khôi lỗi được thêm chút tinh hoa Nguyên Anh của Tư Đồ Nam, Nguyên Anh kỳ không xem kỹ khó phát hiện.",
+    "chapter": 70, "source": "Tiên Nghịch ch.70",
+    "evidence": "Tư Đồ Nam nói khi chế khôi lỗi đã thêm chút tinh hoa Nguyên Anh, không quan sát kỹ thì khó phát hiện."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "de",
+    "question": "Vì cách tu luyện khác người, nơi bế quan Vương Lâm chọn bắt buộc phải có gì?",
+    "options": ["Linh mạch dưới đất", "Âm khí chí hàn", "Nguồn nước", "Trận pháp có sẵn"],
+    "correctIndex": 2,
+    "explanation": "Hắn bỏ qua cả động thiên phúc địa nếu không có nước, cuối cùng chọn một động có nước trên núi trọc.",
+    "chapter": 71, "source": "Tiên Nghịch ch.71",
+    "evidence": "Hắn tu luyện khác mọi người \"nên phải có nguồn nước\", nếu không thì phúc địa cũng không chọn."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Bốn năm Vương Lâm không trở về, ai ở Hằng Nhạc phái cao hứng nhất vì gần như thành Đại sư huynh?",
+    "options": ["Trương Đức Khôn", "Hoàng Đại Sơn", "Thượng Quan trưởng lão", "Lữ Tung"],
+    "correctIndex": 3,
+    "explanation": "Mọi người tưởng Vương Lâm đã chết; Lữ Tung mừng nhất vì gần như thành Đại sư huynh nội môn.",
+    "chapter": 71, "source": "Tiên Nghịch ch.71",
+    "evidence": "\"Cao hứng nhất chính là Lữ Tung\", hắn gần như trở thành Đại sư huynh đệ tử nội môn."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "vua",
+    "question": "Nữ đệ tử họ Từ nhờ tam sư huynh bắt tinh thú có linh tính để làm gì?",
+    "options": ["Làm kiếm linh, tranh suất vào sau núi", "Làm thú cưỡi thay phi kiếm", "Lấy nội đan luyện linh dược", "Dâng lên Phác Nam Tử"],
+    "correctIndex": 0,
+    "explanation": "Tháng sau có cuộc tranh một suất vào sau núi; có tinh thú làm kiếm linh nàng tin sẽ thắng.",
+    "chapter": 71, "source": "Tiên Nghịch ch.71",
+    "evidence": "Nàng nói tháng sau tranh suất vào sau núi: \"Nếu ta có tinh thú làm kiếm linh thì nhất định sẽ chiến thắng\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Khác Liễu Phong và Liễu Mi, vì sao nữ tử họ Từ phải tranh đoạt mới có hy vọng vào sau núi?",
+    "options": ["Nàng chưa đạt tầng mười Ngưng Khí", "Nàng xuất thân từ Hằng Nhạc phái", "Nàng chưa có sư phụ dẫn dắt", "Nàng từng phạm môn quy"],
+    "correctIndex": 1,
+    "explanation": "Liễu Phong, Liễu Mi là đệ tử nòng cốt nên có tư cách; nàng gốc Hằng Nhạc phái nên phải tranh suất.",
+    "chapter": 71, "source": "Tiên Nghịch ch.71",
+    "evidence": "Nàng nói: \"Ta xuất thân từ Hằng Nhạc phái, vì vậy phải tham gia tranh đoạt một suất\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "kho",
+    "question": "Theo tam sư huynh Huyền Đạo Tông, Liễu Phong tu luyện tiến nhanh chủ yếu là nhờ đâu?",
+    "options": ["Đan dược Âu Dương trưởng lão ban", "Được Chu Bằng truyền pháp quyết", "Có tinh thú cao cấp làm kiếm linh", "Linh khí sau núi của Hằng Nhạc cũ"],
+    "correctIndex": 3,
+    "explanation": "Hắn bất mãn cho rằng nếu không vào sau núi Hằng Nhạc phái do lão tổ phát hiện, Liễu Phong chẳng thể nhanh vậy.",
+    "chapter": 71, "source": "Tiên Nghịch ch.71",
+    "evidence": "Trung niên hừ: Liễu Phong \"nếu không nhờ tiến vào sau núi thì làm gì mà tu luyện nhanh như vậy?\"."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "de",
+    "question": "Bị thần thức khổng lồ quét qua, nữ đệ tử họ Từ của Huyền Đạo Tông xưng tên là gì?",
+    "options": ["Từ Phi", "Từ Mi", "Liễu Mi", "Từ Tuyết"],
+    "correctIndex": 0,
+    "explanation": "Sau khi tam sư huynh xưng danh, nàng vội cung kính tự giới thiệu là Từ Phi.",
+    "chapter": 72, "source": "Tiên Nghịch ch.72",
+    "evidence": "Nàng vội vàng cung kính nói: \"Vãn bối Từ Phi, đệ tử của Huyền Đạo tông\"."
+  },
+  {
+    "topic": "cot_truyen", "difficulty": "de",
+    "question": "Biết nữ tử kia mang họ Từ, giọng nói tang thương từ vách đá đã làm gì?",
+    "options": ["Giữ nàng lại để tra hỏi", "Đoạt lấy kiếm quang của nàng", "Thở dài rồi cho cả ba rời đi", "Sai dã thú vây bắt cả ba"],
+    "correctIndex": 2,
+    "explanation": "Giọng nói trầm mặc, thở dài bảo họ đi, rồi một lực vô hình cuốn ba người ra xa.",
+    "chapter": 72, "source": "Tiên Nghịch ch.72",
+    "evidence": "Thanh âm thở dài: \"Ngươi đi đi\", rồi như bàn tay vô hình phẩy ba người ra thật xa."
+  },
+  {
+    "topic": "nhan_vat", "difficulty": "vua",
+    "question": "Tam sư huynh mặc hắc y, Ngưng Khí tầng mười hai của Huyền Đạo Tông, xưng tên là gì?",
+    "options": ["Lữ Vân Kiệt", "Dương Nghị", "Hứa Mộc", "Lịch Hải"],
+    "correctIndex": 3,
+    "explanation": "Đáp xuống đất, trung niên ôm quyền tự xưng là Lịch Hải, đệ tử Huyền Đạo Tông.",
+    "chapter": 72, "source": "Tiên Nghịch ch.72",
+    "evidence": "Trung niên cung kính nói: \"Vãn bối là Lịch Hải, đệ tử của Huyền Đạo tông\"."
+  },
+  {
+    "topic": "dia_danh", "difficulty": "vua",
+    "question": "Các trưởng lão Huyền Đạo Tông kết luận linh khí lạ thu hút dị thú quanh núi trọc là do đâu?",
+    "options": ["Bảo vật sắp xuất thế", "Linh huyệt dưới đất tỏa ra", "Trận pháp cổ bị vỡ", "Linh thú cấp cao ẩn náu"],
+    "correctIndex": 1,
+    "explanation": "Họ đến dò xét rồi cho rằng đó chỉ là linh huyệt dưới đất phát tán, không có bảo vật; thực ra là Vương Lâm bế quan.",
+    "chapter": 72, "source": "Tiên Nghịch ch.72",
+    "evidence": "Trưởng lão dò xét rồi cho rằng \"do linh huyệt dưới đất phát tán\", chẳng có bảo vật nào."
+  },
+  {
+    "topic": "canh_gioi", "difficulty": "kho",
+    "question": "Để dùng pháp thuật đoạt cơ Trúc Cơ, Tư Đồ Nam khuyên Vương Lâm nên chọn đối tượng nào?",
+    "options": ["Trưởng lão Trúc Cơ lâu năm", "Đệ tử Ngưng Khí kỳ viên mãn", "Người vừa mới Trúc Cơ thành công", "Yêu thú tương đương Trúc Cơ"],
+    "correctIndex": 2,
+    "explanation": "Chọn người vừa Trúc Cơ thì lão bắt sống đỡ hao tinh hoa Nguyên Anh hơn.",
+    "chapter": 72, "source": "Tiên Nghịch ch.72",
+    "evidence": "Tư Đồ Nam dặn nên \"tìm một người vừa mới Trúc Cơ thành công mà xuống tay\" để đỡ phí tinh hoa."
+  }
+]

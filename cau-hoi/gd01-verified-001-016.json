@@ -1,0 +1,1408 @@
+[
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Tên thật của cậu bé được gọi bằng tên mụ Thiết Trụ là gì?",
+      "options": [
+        "Vương Trác",
+        "Vương Hạo",
+        "Vương Lâm",
+        "Hổ Tử"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thiết Trụ chỉ là tên mụ, tên thật của hắn là Vương Lâm.",
+      "chapter": 1,
+      "source": "Tiên Nghịch ch.1"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Vì sao cha của Vương Lâm lại gọi con bằng tên mụ Thiết Trụ?",
+      "options": [
+        "Vì con gầy yếu, cha sợ khó nuôi",
+        "Vì con khỏe mạnh như cột sắt",
+        "Vì tứ thúc đặt tên cho",
+        "Vì muốn con nối nghề thợ rèn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Từ bé thân thể gầy yếu nên cha theo tập tục gọi tên mụ cho dễ nuôi.",
+      "chapter": 1,
+      "source": "Tiên Nghịch ch.1"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Vị tiên nhân nào của Hằng Nhạc Phái để mắt tới Vương Trác, khiến Vương gia có ba danh ngạch?",
+      "options": [
+        "Thanh niên họ Trương",
+        "Hắc y Tam sư huynh",
+        "Chưởng môn Hằng Nhạc Phái",
+        "Đạo Hư thượng tiên"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đại bá kể chính Đạo Hư thượng tiên coi trọng Vương Trác nên Vương gia được ba danh ngạch.",
+      "chapter": 1,
+      "source": "Tiên Nghịch ch.1"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Tiên sinh dạy học viết thiệp mời không lấy tiền, nhưng đòi điều kiện gì?",
+      "options": [
+        "Được ngồi bàn chủ trong tiệc",
+        "Thiết Trụ nhận đã học ở chỗ ông từ nhỏ",
+        "Một bức điêu khắc của cha Thiết Trụ",
+        "Thiết Trụ tiến cử con ông vào tiên môn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ông chỉ yêu cầu Thiết Trụ thừa nhận từ nhỏ đã theo ông đọc sách.",
+      "chapter": 1,
+      "source": "Tiên Nghịch ch.1"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Thiếu niên da ngăm, lanh lợi, áo trong căng phồng đến làm quen với Thiết Trụ tên là gì?",
+      "options": [
+        "Vương Trác",
+        "Vương Hạo",
+        "Hổ Tử",
+        "Trương sư đệ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cậu thiếu niên lanh lợi tự giới thiệu là Vương Hạo, con nhà Tam thúc.",
+      "chapter": 2,
+      "source": "Tiên Nghịch ch.2"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Hằng Nhạc Phái là một môn phái tu chân của nước nào?",
+      "options": [
+        "Sở quốc",
+        "Chu Tước quốc",
+        "Tuyết Vực quốc",
+        "Triệu quốc"
+      ],
+      "correctIndex": 3,
+      "explanation": "Truyện giới thiệu Hằng Nhạc Phái là một trong số ít môn phái tu chân của Triệu quốc.",
+      "chapter": 2,
+      "source": "Tiên Nghịch ch.2"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Thanh niên áo trắng đưa ba thiếu niên Vương gia tới Hằng Nhạc Phái bằng cách nào?",
+      "options": [
+        "Kẹp dưới nách rồi bay trên không",
+        "Ngồi xe ngựa của tứ thúc",
+        "Dẫn đi bộ theo đường núi",
+        "Cưỡi tiên hạc bay đi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vương Lâm phát hiện mình bị kẹp dưới nách thanh niên, bay vút trên trời.",
+      "chapter": 2,
+      "source": "Tiên Nghịch ch.2"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Thanh niên họ Trương gọi người trung niên áo đen ra đón ba thiếu niên là gì?",
+      "options": [
+        "Đạo Hư sư thúc",
+        "Đại sư huynh",
+        "Tam sư huynh",
+        "Chưởng môn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thanh niên cung kính gọi người áo đen là Tam sư huynh.",
+      "chapter": 2,
+      "source": "Tiên Nghịch ch.2"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Sửa câu hỏi cho tự nhiên, bỏ cụm 'mấy vị... cảnh giới nào' lủng củng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "kho",
+      "question": "Thời cực thịnh 500 năm trước, khi thống lĩnh tu chân giới Triệu quốc, Hằng Nhạc Phái có vài vị lão quái thuộc cảnh giới nào?",
+      "options": [
+        "Kết Đan kỳ",
+        "Trúc Cơ kỳ",
+        "Hóa Thần kỳ",
+        "Nguyên Anh kỳ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thời cực thịnh, Hằng Nhạc Phái có vài vị lão quái Nguyên Anh kỳ.",
+      "chapter": 2,
+      "source": "Tiên Nghịch ch.2"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Hạng trắc thí đầu tiên, người áo đen đặt tay lên đầu thiếu niên để kiểm tra điều gì?",
+      "options": [
+        "Nghị lực",
+        "Duyên với Kiếm Linh",
+        "Linh căn",
+        "Sức khỏe thân thể"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hạng thứ nhất xem linh căn có đầy đủ hay không.",
+      "chapter": 3,
+      "source": "Tiên Nghịch ch.3"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Ở hạng trắc thí nghị lực, các thiếu niên phải làm gì để đạt yêu cầu?",
+      "options": [
+        "Ngồi thiền ba ngày không ăn",
+        "Leo thềm đá lên tới đỉnh núi",
+        "Bước vào căn phòng cất cổ kiếm",
+        "Đi qua cây cầu đá trong mây"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ai leo thềm đá lên tới đỉnh trước hạn ba ngày thì đủ tư cách.",
+      "chapter": 3,
+      "source": "Tiên Nghịch ch.3"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Những thiếu niên òa khóc sau khi trượt linh căn bị xử lý thế nào?",
+      "options": [
+        "Bị đưa đi ngay lập tức",
+        "Được thử lại thêm một lần",
+        "Bị phạt quỳ dưới chân núi",
+        "Được nhận làm tạp dịch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Người áo đen quát đưa kẻ khóc đi, đệ tử lập tức mang họ đi bằng kiếm quang.",
+      "chapter": 3,
+      "source": "Tiên Nghịch ch.3"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "kho",
+      "question": "Thay vì đi gặp chưởng môn, Vương Hạo được người áo đen dẫn tới đâu?",
+      "options": [
+        "Kiếm Linh Các",
+        "Phòng tạp vụ",
+        "Đan phòng",
+        "Đại điện trên đỉnh núi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Là dược đồng, Vương Hạo phải theo người áo đen tới đan phòng làm quen việc.",
+      "chapter": 3,
+      "source": "Tiên Nghịch ch.3"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Mười một thiếu niên kiên trì đến cuối trên thềm đá được đưa tới đâu để thử thêm?",
+      "options": [
+        "Kiếm Linh Các",
+        "Đan phòng",
+        "Tàng Kinh Các",
+        "Đại điện chưởng môn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Người áo đen lệnh đưa 11 người tới Kiếm Linh Các xem có ai hữu duyên với Kiếm Linh.",
+      "chapter": 4,
+      "source": "Tiên Nghịch ch.4"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Nhìn qua cửa căn phòng ở Kiếm Linh Các, Vương Lâm thấy bên trong bày thứ gì?",
+      "options": [
+        "Những lò luyện đan",
+        "Những ngọc giản công pháp",
+        "Những khối linh thạch",
+        "Những thanh cổ kiếm dài ngắn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong căn phòng bình thường ấy đặt nhiều thanh cổ kiếm dài ngắn khác nhau.",
+      "chapter": 4,
+      "source": "Tiên Nghịch ch.4"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vì sao Vương Lâm thất bại ở hạng trắc thí leo thềm đá?",
+      "options": [
+        "Trượt chân rơi xuống và hô bỏ cuộc",
+        "Hết giờ khi đã gần tới đỉnh",
+        "Ngất xỉu ngay trong ngày đầu",
+        "Bị đệ tử Hằng Nhạc Phái đuổi xuống"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sáng ngày thứ ba hết giờ khi hắn chỉ còn cách đỉnh chưa tới mười trượng.",
+      "chapter": 4,
+      "source": "Tiên Nghịch ch.4"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Người trung niên mặt vàng như nến nhận xét gì khi đặt tay lên đầu Vương Lâm?",
+      "options": [
+        "Tư chất tốt nhưng thiếu nghị lực",
+        "Nghị lực tuyệt hảo, tư chất quá thường",
+        "Có duyên lớn với Kiếm Linh",
+        "Thân thể yếu, không hợp tu tiên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ông khen nghị lực của Vương Lâm nhưng tiếc tư chất quá bình thường.",
+      "chapter": 4,
+      "source": "Tiên Nghịch ch.4"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn và nêu rõ đây là thanh niên chủ trì trắc thí Kiếm Linh (không phải họ Trương).",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Thanh niên áo trắng chủ trì trắc thí ở Kiếm Linh Các hứa gì nếu Vương Lâm vào được phòng, được Kiếm Linh thừa nhận?",
+      "options": [
+        "Được tặng một thanh cổ kiếm",
+        "Chỉ được làm ký danh đệ tử",
+        "Được Đạo Hư thu làm đồ đệ",
+        "Được thu làm đệ tử chính thức"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thanh niên nói nếu được Kiếm Linh thừa nhận thì dù hai lần trắc thí trước không đạt vẫn được thu làm đệ tử chính thức.",
+      "chapter": 4,
+      "source": "Tiên Nghịch ch.4"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ai đã đưa Vương Lâm, Vương Trác và Vương Hạo trở về Vương gia?",
+      "options": [
+        "Thanh niên họ Trương",
+        "Người trung niên áo đen",
+        "Đạo Hư thượng tiên",
+        "Người mặt vàng như nến"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vẫn là thanh niên họ Trương từng đón họ đi, nay đưa cả ba về.",
+      "chapter": 5,
+      "source": "Tiên Nghịch ch.5"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Vương Trác mỉa mai rằng Vương Lâm cả đời chỉ nên ở thôn làm nghề gì như cha?",
+      "options": [
+        "Thợ rèn",
+        "Nông dân",
+        "Thợ mộc",
+        "Thầy đồ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Trác chê Vương Lâm về thôn làm thợ mộc như cha.",
+      "chapter": 5,
+      "source": "Tiên Nghịch ch.5"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Trong tiệc ở Vương gia, một nữ quyến đã ngỏ ý gì với mẹ Thiết Trụ?",
+      "options": [
+        "Nhận Thiết Trụ làm con nuôi",
+        "Hỏi mượn tiền làm ăn",
+        "Gửi con mình theo Thiết Trụ tu tiên",
+        "Gả con gái mình cho Thiết Trụ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Bà ta muốn hai nhà kết thông gia, gả con gái cho Thiết Trụ.",
+      "chapter": 5,
+      "source": "Tiên Nghịch ch.5"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Theo Vương Trác, sư phụ Đạo Hư sẽ truyền pháp thuật tu tiên cho hắn khi nào?",
+      "options": [
+        "Khi hắn leo hết thềm đá",
+        "Khi hắn tròn mười sáu tuổi",
+        "Khi về nhà xử lý xong chuyện thế tục",
+        "Khi được Kiếm Linh thừa nhận"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Trác khoe sư phụ chờ hắn giải quyết xong việc thế tục thì truyền pháp thuật.",
+      "chapter": 5,
+      "source": "Tiên Nghịch ch.5"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Cha của Vương Hạo có quan hệ thế nào với cha Thiết Trụ (Vương Thiên Thủy)?",
+      "options": [
+        "Là anh cả Vương Thiên Sơn",
+        "Là em thứ ba, lão Tam",
+        "Là em thứ tư, lão Tứ",
+        "Là em thứ sáu, lão Lục"
+      ],
+      "correctIndex": 1,
+      "explanation": "Truyện nói rõ cha Vương Hạo là Tam đệ của Vương Thiên Thủy.",
+      "chapter": 5,
+      "source": "Tiên Nghịch ch.5"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Khi thừa nhận không được tiên nhân thu nhận, Thiết Trụ đã làm gì trước cha mẹ?",
+      "options": [
+        "Quỳ xuống dập đầu xin lỗi",
+        "Bỏ chạy khỏi bữa tiệc",
+        "Lao vào đánh Vương Trác",
+        "Cầu xin Vương Hạo giúp đỡ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn quỳ xuống dập đầu, nói có lỗi và hứa kiếp sau báo đáp ơn dưỡng dục.",
+      "chapter": 6,
+      "source": "Tiên Nghịch ch.6"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Biết Thiết Trụ trượt, một số thân thích lập tức đòi lại thứ gì?",
+      "options": [
+        "Tiền góp làm tiệc",
+        "Danh ngạch tiến cử",
+        "Lễ vật đã biếu tặng",
+        "Ruộng đất đã cho mượn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Nhiều kẻ trở mặt, không chút nể nang đòi lại lễ vật lúc trước.",
+      "chapter": 6,
+      "source": "Tiên Nghịch ch.6"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Cha Thiết Trụ tố cáo Vương Thiên Sơn năm xưa đã làm gì với mình?",
+      "options": [
+        "Cấu kết thân thích cướp phần gia sản",
+        "Đuổi ông khỏi cửa hiệu đồ gỗ",
+        "Cướp danh ngạch vào Hằng Nhạc Phái",
+        "Đánh ông trọng thương"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ông vạch mặt đại ca liên kết họ hàng chiếm phần gia sản cha để lại cho ông.",
+      "chapter": 6,
+      "source": "Tiên Nghịch ch.6"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Tứ thúc dựa vào điều gì để răn đe Vương Thiên Sơn khi bênh Nhị ca?",
+      "options": [
+        "Quan hệ với tiên nhân Hằng Nhạc Phái",
+        "Quyền tộc trưởng Vương gia",
+        "Đông người hầu trong nhà",
+        "Bằng hữu giang hồ quen biết rộng"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tứ thúc cảnh cáo mình kết giao nhiều bằng hữu giang hồ, khiến đại ca kiêng kị.",
+      "chapter": 6,
+      "source": "Tiên Nghịch ch.6"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Hổ Tử, người bị Vương Trác đem ra so sánh với Thiết Trụ, là ai?",
+      "options": [
+        "Em trai của Vương Hạo",
+        "Con trai của Tứ thúc",
+        "Con của Ngũ thúc",
+        "Bạn cùng thôn với Thiết Trụ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tứ thúc gọi Hổ Tử là \"Hổ Tử nhà ta\", tức con trai ông.",
+      "chapter": 6,
+      "source": "Tiên Nghịch ch.6"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Đêm khuya rời nhà quyết đi cầu tiên lần nữa, Thiết Trụ để lại gì cho cha mẹ?",
+      "options": [
+        "Hai quyển sách tứ thúc tặng",
+        "Một phong thư",
+        "Bọc quần áo mẹ chuẩn bị",
+        "Một bức tượng gỗ tự khắc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn lấy giấy bút viết một phong thư, mang lương khô rồi rời nhà.",
+      "chapter": 7,
+      "source": "Tiên Nghịch ch.7"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Trên đỉnh núi nhìn về Hằng Nhạc Phái, Vương Lâm bị con thú nào tấn công?",
+      "options": [
+        "Một con sói xám",
+        "Một con gấu đen",
+        "Một con đại bàng khổng lồ",
+        "Một con hổ trắng mắt đỏ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Một con hổ trắng khổng lồ mắt đỏ vồ tới khiến hắn phải nhảy xuống vực.",
+      "chapter": 7,
+      "source": "Tiên Nghịch ch.7"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Trước mặt cả họ, Vương Lâm thề với Vương Trác điều gì?",
+      "options": [
+        "Đời này nhất định bước vào tiên môn",
+        "Sang năm sẽ đỗ kỳ thi huyện",
+        "Sẽ lấy lại gia sản cho cha",
+        "Sẽ theo tứ thúc vào giang hồ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn thề cả đời này nhất định vào được tiên nhân môn phái và ghi nhớ mọi sỉ nhục.",
+      "chapter": 7,
+      "source": "Tiên Nghịch ch.7"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Tứ thúc đề nghị cho Thiết Trụ con đường nào khác sau khi trượt tiên môn?",
+      "options": [
+        "Học buôn gỗ ở thị trấn",
+        "Làm tạp dịch ở Hằng Nhạc Phái",
+        "Cùng Hổ Tử vào môn phái giang hồ",
+        "Theo thầy học trong huyện"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tứ thúc sẵn lòng đưa Thiết Trụ cùng Hổ Tử vào môn phái phàm nhân trên giang hồ.",
+      "chapter": 7,
+      "source": "Tiên Nghịch ch.7"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "kho",
+      "question": "Vương Lâm dựa vào đâu để tự tìm đường quay lại Hằng Nhạc Phái?",
+      "options": [
+        "Tấm bản đồ tứ thúc đưa",
+        "Hỏi đường thợ săn trong núi",
+        "Đuổi theo dấu kiếm quang trên trời",
+        "Hướng nhìn thấy lúc bị kẹp bay tới"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lúc bị thanh niên họ Trương kẹp bay, hắn hé mắt nhìn được hướng đại khái và cứ thế đi về đông.",
+      "chapter": 7,
+      "source": "Tiên Nghịch ch.7"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Thứ gì đã làm cánh tay sưng tấy của Vương Lâm xẹp xuống trong huyệt động?",
+      "options": [
+        "Máu của con chim bị hút vào",
+        "Một viên nội đan yêu thú",
+        "Sương sớm tiết ra từ thạch châu",
+        "Thảo dược mọc ở cửa động"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn bôi giọt sương trên thạch châu lên chỗ sưng và cánh tay bớt sưng thần kỳ.",
+      "chapter": 8,
+      "source": "Tiên Nghịch ch.8"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Vương Lâm phát hiện lực hút trong huyệt động vận hành theo quy luật nào?",
+      "options": [
+        "Chỉ hút vào lúc nửa đêm",
+        "Hút một canh giờ, ngừng nửa canh giờ",
+        "Hút nửa canh giờ, ngừng một canh giờ",
+        "Hút liên tục không ngừng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn đếm thời gian và thấy lực hút kéo dài một canh giờ rồi nghỉ nửa canh giờ.",
+      "chapter": 8,
+      "source": "Tiên Nghịch ch.8"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Vương Lâm biết đến khái niệm nội đan nhờ từng đọc cuốn sách nào?",
+      "options": [
+        "Sơn Hải Kinh",
+        "Đạo Đức Kinh",
+        "Luận Ngữ",
+        "Thủy Kinh Chú"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn nhớ cuốn tạp văn thần thoại Sơn Hải Kinh ở chỗ tiên sinh dạy học kể về nội đan.",
+      "chapter": 8,
+      "source": "Tiên Nghịch ch.8"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Giọt sương ngọt đầu tiên Vương Lâm liếm uống đọng ở đâu?",
+      "options": [
+        "Trên lá cây ở cửa động",
+        "Trên vách đá quanh lỗ đen",
+        "Trên khúc thú cốt cạnh thạch châu",
+        "Trên xác con chim ăn dở"
+      ],
+      "correctIndex": 2,
+      "explanation": "Sương từ thạch châu chảy sang khúc thú cốt bên cạnh, hắn cầm xương lên liếm.",
+      "chapter": 8,
+      "source": "Tiên Nghịch ch.8"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Khi Vương Lâm vừa tụt được xuống chân vách núi, giọng gọi \"Thiết Trụ, ngươi ở đâu?\" là của ai?",
+      "options": [
+        "Tứ thúc của hắn",
+        "Vương Hạo",
+        "Cha của hắn",
+        "Vương Trác"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn nhận ra đó rõ ràng là giọng cha mình và gọi lại.",
+      "chapter": 9,
+      "source": "Tiên Nghịch ch.9"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Lúc đó chỉ có cha đi cùng đệ tử họ Trương tìm thấy hắn, mẹ đợi ở Hằng Nhạc Phái; sửa 'cha mẹ' thành 'cha'.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Thấy Vương Lâm bị thương ở chân vách núi, cha hắn đã hiểu lầm chuyện gì?",
+      "options": [
+        "Tưởng hắn bị dã thú tấn công",
+        "Tưởng hắn nhảy núi tự sát",
+        "Tưởng hắn bị Vương Trác đánh",
+        "Tưởng hắn trộm đồ của tiên môn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Cha hắn khóc trách hắn nghĩ không thông mà tìm chết.",
+      "chapter": 9,
+      "source": "Tiên Nghịch ch.9"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Để rời hang trên vách đá, Vương Lâm dùng thứ gì làm dây tụt xuống?",
+      "options": [
+        "Dây leo bện từ cành khô",
+        "Sợi thừng mang theo từ nhà",
+        "Quần áo trên người xé ra buộc lại",
+        "Gân của phi điểu kết lại"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn xé phần lớn quần áo, cột lại, một đầu buộc vào đá, một đầu vào lưng.",
+      "chapter": 9,
+      "source": "Tiên Nghịch ch.9"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Theo đệ tử họ Trương, vì sao Vương Lâm nhảy núi mà không bị ngã chết?",
+      "options": [
+        "Bị một phong nhãn tự nhiên hút vào hang",
+        "Rơi trúng một tán cây lớn",
+        "Được hạt châu thần bí nâng đỡ",
+        "Được một tiên nhân đi ngang cứu"
+      ],
+      "correctIndex": 0,
+      "explanation": "Họ Trương kết luận hắn bị phong nhãn thiên nhiên hút vào hang nên mới sống.",
+      "chapter": 9,
+      "source": "Tiên Nghịch ch.9"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Theo vị cẩm bào lão giả, vì sao Hằng Nhạc Phái phải bận tâm đến ý kiến của phàm nhân?",
+      "options": [
+        "Vì chưởng môn vốn xuất thân phàm nhân",
+        "Vì Triệu quốc ra luật bảo vệ dân làng",
+        "Vì sợ bị các phái khác chê cười",
+        "Vì phái sa sút, phải tuyển đệ tử từ phàm nhân"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão nói thẳng là do phái xuống dốc; 500 năm trước thì chẳng cần để ý.",
+      "chapter": 9,
+      "source": "Tiên Nghịch ch.9"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Đêm đầu ở Hằng Nhạc Phái, Vương Lâm chia cho bạn cùng phòng đang đói món gì?",
+      "options": [
+        "Bánh bao",
+        "Quả dại hái trong núi",
+        "Thịt phi điểu nướng",
+        "Khoai lang cha mẹ để lại"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn ném mấy củ khoai lang cho Trương Hổ, người đã đói hai ngày.",
+      "chapter": 10,
+      "source": "Tiên Nghịch ch.10"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Ở Hằng Nhạc Phái, ký danh đệ tử bình thường chỉ được mặc áo màu gì?",
+      "options": [
+        "Áo xám",
+        "Áo vàng",
+        "Áo trắng",
+        "Áo tím"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thanh niên áo vàng dặn ký danh đệ tử chỉ được mặc áo xám.",
+      "chapter": 10,
+      "source": "Tiên Nghịch ch.10"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Vì sao Vương Lâm quyết không để ai biết mình có hạt châu thần bí?",
+      "options": [
+        "Tứ thúc đã dặn phải giữ kín",
+        "Nhớ chuyện ôm ngọc quý mà mang họa",
+        "Hạt châu chỉ linh nghiệm khi giữ bí mật",
+        "Lưu sư huynh từng lục soát đồ đệ tử"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đọc nhiều sách, hắn nhớ tích \"thất phu vô tội, hoài bích có tội\".",
+      "chapter": 10,
+      "source": "Tiên Nghịch ch.10"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng; văn bản nói là gieo ý nghĩ không coi thường mạng sống chứ không phải 'xóa', sửa giải thích.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Để trẻ trượt trắc thí không bắt chước tự sát, vị trung niên nhân đề xuất cách gì?",
+      "options": [
+        "Cho tất cả làm ký danh đệ tử",
+        "Phát cho mỗi đứa một tấm tiên phù",
+        "Dùng Hóa Thần Thuật chỉ điểm từng đứa",
+        "Cấm cha mẹ đưa con lên núi"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ông đề nghị dùng Hóa Thần Thuật chỉ điểm từng đứa trượt trắc thí, gieo ý nghĩ không được coi thường mạng sống.",
+      "chapter": 10,
+      "source": "Tiên Nghịch ch.10"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Công việc hằng ngày của Trương Hổ, bạn cùng phòng Vương Lâm, là gì?",
+      "options": [
+        "Trông vườn thuốc",
+        "Gánh nước suối",
+        "Quét dọn chính viện",
+        "Đốn củi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trương Hổ đốn củi suốt ba năm, phải đủ số củi mới được ăn cơm.",
+      "chapter": 11,
+      "source": "Tiên Nghịch ch.11"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Đáp án đúng; đổi topic từ dia_danh sang khac vì không phải địa danh.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Theo Trương Hổ, mỗi vại nước Vương Lâm phải gánh đầy to cỡ nào?",
+      "options": [
+        "Gần bằng căn phòng họ ở",
+        "Bằng vại nước dùng trong nhà",
+        "Bằng một thùng gỗ nhỏ",
+        "Bằng một miệng giếng làng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trương Hổ cảnh báo vại lớn xấp xỉ cả gian phòng của họ.",
+      "chapter": 11,
+      "source": "Tiên Nghịch ch.11"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Uống nước suối đã ngâm hạt châu thần bí mang lại tác dụng gì cho Vương Lâm?",
+      "options": [
+        "Không cần ăn vẫn thấy no",
+        "Hết đau nhức bắp thịt, người khỏe lại",
+        "Nhìn rõ mọi vật trong đêm",
+        "Tự hiểu được khẩu quyết tu tiên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bụng ấm lên, cơn đau nhức toàn thân dần biến mất.",
+      "chapter": 11,
+      "source": "Tiên Nghịch ch.11"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bản dịch câu 'ba bữa cơm đều chẳng có' tối nghĩa và đáp án đúng quá dài; chuyển sang hỏi số năm tạp vụ.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Theo Trương Hổ, ngoài điều kiện về ăn uống, ký danh đệ tử phải làm tạp vụ bao nhiêu năm mới được dạy tiên pháp cơ bản?",
+      "options": [
+        "Ba năm",
+        "Năm năm",
+        "Mười năm",
+        "Hai mươi năm"
+      ],
+      "correctIndex": 2,
+      "explanation": "Trương Hổ nói ký danh đệ tử phải làm tạp vụ mười năm, đồng thời đạt yêu cầu về ba bữa cơm mới được truyền tiên pháp trụ cột.",
+      "chapter": 11,
+      "source": "Tiên Nghịch ch.11"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Vương Lâm xin phép về nhà lần đầu nhân dịp gì?",
+      "options": [
+        "Mẹ hắn ốm nặng",
+        "Lễ cưới của Vương Trác",
+        "Sinh nhật cha hắn",
+        "Giỗ ông nội"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn thưa với Tôn trưởng lão rằng ngày mai là sinh nhật cha.",
+      "chapter": 12,
+      "source": "Tiên Nghịch ch.12"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Tôn trưởng lão đưa cho Vương Lâm vật gì để đi đường về nhà?",
+      "options": [
+        "Một tấm Thiên Lý Phù",
+        "Một viên đan dược hồi sức",
+        "Một khối linh thạch",
+        "Một hồ lô nước suối"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lão đưa Thiên Lý Phù dùng được hai lần, dán lên đùi để tăng tốc.",
+      "chapter": 12,
+      "source": "Tiên Nghịch ch.12"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Thử nhiều chất lỏng để ngâm hạt châu, Vương Lâm thấy loại nào hiệu quả nhất?",
+      "options": [
+        "Nước suối trên núi",
+        "Máu của chính hắn",
+        "Sương thu từ lá cây",
+        "Sương sớm đọng trên chính hạt châu"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sương sớm hiện trên thạch châu tốt nhất; máu và mồ hôi gần như vô dụng.",
+      "chapter": 12,
+      "source": "Tiên Nghịch ch.12"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Vương Lâm cất giữ các hồ lô đựng hạt sương ở đâu cho khỏi bị chú ý?",
+      "options": [
+        "Giấu dưới giường gỗ",
+        "Gửi Trương Hổ giữ hộ",
+        "Chôn sâu dưới đất ở chỗ vắng",
+        "Mang luôn bên người"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn chôn chúng ở nhiều vị trí khác nhau tại một chỗ vắng, không mang về phái.",
+      "chapter": 12,
+      "source": "Tiên Nghịch ch.12"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Hằng Nhạc Phái phát tiên phù cho ký danh đệ tử về thăm nhà nhằm mục đích gì?",
+      "options": [
+        "Để đệ tử về kịp trước hạn",
+        "Thu hút thêm trẻ đến trắc thí",
+        "Để theo dõi hành tung đệ tử",
+        "Thưởng cho người làm việc chăm chỉ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đệ tử thể hiện chút pháp thuật ở quê sẽ thu hút nhiều đứa trẻ đến nhập môn.",
+      "chapter": 12,
+      "source": "Tiên Nghịch ch.12"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Thấy thảo dược trong vườn héo rũ, Tôn trưởng lão nghi ngờ ai?",
+      "options": [
+        "Thanh niên áo trắng",
+        "Vương Lâm",
+        "Lưu sư huynh",
+        "Trương Hổ"
+      ],
+      "correctIndex": 1,
+      "explanation": "Chiều hôm đó chỉ có một ký danh đệ tử đến vườn, chính là Vương Lâm.",
+      "chapter": 13,
+      "source": "Tiên Nghịch ch.13"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Bị Tôn trưởng lão hỏi về Vương Lâm, Lưu sư huynh đã nói gì?",
+      "options": [
+        "Tố Vương Lâm lười biếng",
+        "Nói chưa từng nghe tên Vương Lâm",
+        "Đổ lỗi cho Trương Hổ",
+        "Khen Vương Lâm là tấm gương mẫu mực"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sợ bị trách vì từng làm khó, hắn quỳ lạy và hết lời khen Vương Lâm.",
+      "chapter": 13,
+      "source": "Tiên Nghịch ch.13"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "vua",
+      "question": "Chỗ ở của Vương Lâm thuộc viện phụ nào của Hằng Nhạc Phái?",
+      "options": [
+        "Viện phụ chữ Kim",
+        "Viện phụ chữ Thủy",
+        "Viện phụ chữ Thổ",
+        "Viện phụ chữ Hỏa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lưu sư huynh khai hắn ở góc Bắc viện phụ chữ Thổ.",
+      "chapter": 13,
+      "source": "Tiên Nghịch ch.13"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Ở tiệc thọ, ai là người có vai vế cao nhất họ Vương, khen Vương Lâm là \"rồng trong loài người\"?",
+      "options": [
+        "Tứ thúc",
+        "Tam thúc",
+        "Ngũ thúc",
+        "Cha của Vương Trác"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tam thúc vuốt râu tán thưởng, quên mất vẻ mặt ác độc tháng trước.",
+      "chapter": 13,
+      "source": "Tiên Nghịch ch.13"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Dù ký danh đệ tử gọi là trưởng lão, địa vị thật của Tôn trưởng lão trong phái ra sao?",
+      "options": [
+        "Nhị đại đệ tử thuộc hàng yếu nhất",
+        "Sư đệ thân tín của chưởng môn",
+        "Người đứng đầu đan phòng chính viện",
+        "Đệ nhất cao thủ trong lục viện"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trong Nhị đại đệ tử lão thấp kém, đến Tam đại đệ tử cũng coi thường.",
+      "chapter": 13,
+      "source": "Tiên Nghịch ch.13"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Đêm trở lại Hằng Nhạc Phái, Vương Lâm phát hiện điều gì lạ trên hạt châu?",
+      "options": [
+        "Hạt châu nứt một đường",
+        "Hạt châu chuyển sang màu đỏ",
+        "Hạt châu phát ra tiếng ngân",
+        "Số đám mây khắc trên đó tăng thêm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lần trước hắn đếm năm đám mây, giờ lại thành sáu.",
+      "chapter": 14,
+      "source": "Tiên Nghịch ch.14"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Lần về nhà này, Vương Lâm nhờ mẹ làm gì để cất giữ hạt châu?",
+      "options": [
+        "Đan một sợi dây đeo cổ",
+        "May một cái túi bên trong áo",
+        "Đóng một hộp gỗ nhỏ",
+        "Khâu vào lót giày"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn bảo mẹ may túi trong áo rồi đặt hạt châu vào đó.",
+      "chapter": 14,
+      "source": "Tiên Nghịch ch.14"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Khi cha mẹ hỏi về cuộc sống trong môn phái, Vương Lâm đã làm gì?",
+      "options": [
+        "Kể thật mọi khổ cực",
+        "Nói dối rằng mình nổi tiếng trong phái",
+        "Im lặng không trả lời",
+        "Xin cha mẹ cho ở lại nhà luôn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nhìn ánh mắt kỳ vọng của cha mẹ, hắn lần đầu nói dối cho họ vui.",
+      "chapter": 14,
+      "source": "Tiên Nghịch ch.14"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Vương Lâm tự lý giải thế nào về việc mình không bị khí lạnh làm hại như Trương Hổ?",
+      "options": [
+        "Nhờ hay uống nước ngâm hạt châu",
+        "Nhờ thể chất trời sinh khác người",
+        "Nhờ hơi ấm còn sót của Thiên Lý Phù",
+        "Nhờ chăn đệm của hắn dày hơn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn quy cho việc thường xuyên uống nước suối ngâm hạt châu và sương sớm.",
+      "chapter": 14,
+      "source": "Tiên Nghịch ch.14"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Tỉnh dậy thấy ấm nước cạn khô, chăn đệm khô ráo, Trương Hổ ngơ ngác đoán phòng bị gì?",
+      "options": [
+        "Bị trộm lẻn vào",
+        "Bị hạn quỷ quấy phá",
+        "Bị lửa cháy sém",
+        "Bị trưởng lão phạt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Trương Hổ hỏi có phải bị hạn quỷ làm hay không.",
+      "chapter": 15,
+      "source": "Tiên Nghịch ch.15"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Muốn lấy lòng Vương Lâm, Lưu sư huynh đã tặng hắn món gì?",
+      "options": [
+        "Một bộ áo vàng",
+        "Một hồ lô rượu ngon",
+        "Một tấm tiên phù dùng khi thăm nhà",
+        "Một túi linh thạch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn cắn răng lấy ra tờ giấy vàng là tiên phù của ký danh đệ tử.",
+      "chapter": 15,
+      "source": "Tiên Nghịch ch.15"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Sáng hôm sau trận mưa, Vương Lâm giấu hạt châu ở đâu trước khi gặp trưởng lão?",
+      "options": [
+        "Dưới gối trong phòng",
+        "Trong vại nước ở phòng tạp vụ",
+        "Ngay trong túi áo",
+        "Chỗ giấu hồ lô hạt sương ngoài núi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sợ mưa gây dị tượng, hắn mang hạt châu ra chỗ giấu hồ lô hạt sương.",
+      "chapter": 15,
+      "source": "Tiên Nghịch ch.15"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lưu sư huynh đổi yêu cầu gánh nước của Vương Lâm thành thế nào?",
+      "options": [
+        "Mỗi ngày chỉ cần một vại",
+        "Mỗi ngày năm vại",
+        "Chỉ gánh vào ngày không mưa",
+        "Giao hẳn việc cho Trương Hổ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn bảo trước kia chỉ là nói đùa, về sau một ngày một vại là được, đầy hay không cũng không sao.",
+      "chapter": 15,
+      "source": "Tiên Nghịch ch.15"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Vì sao Lưu sư huynh bỗng quay sang nịnh nọt Vương Lâm?",
+      "options": [
+        "Muốn mượn hạt châu thần bí",
+        "Được chưởng môn ra lệnh chiếu cố",
+        "Tưởng hắn có trưởng lão chống lưng",
+        "Thấy hắn đã được khai mở linh căn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mười ba năm chưa thấy trưởng lão tự tìm ký danh đệ tử nên Lưu sợ hắn có quan hệ.",
+      "chapter": 15,
+      "source": "Tiên Nghịch ch.15"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Lục soát phòng Vương Lâm, Tôn trưởng lão lấy ra vật gì từ bọc hành lý?",
+      "options": [
+        "Hạt châu thần bí",
+        "Một hồ lô đựng nước suối",
+        "Tấm tiên phù của Lưu sư huynh",
+        "Khối tinh thiết của Tứ thúc"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lão mở bọc hành lý và lấy ra hồ lô đựng nước suối.",
+      "chapter": 16,
+      "source": "Tiên Nghịch ch.16"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Cuối cùng Tôn trưởng lão quyết định nhận Vương Lâm làm gì?",
+      "options": [
+        "Thư đồng hầu hạ",
+        "Đồng tử trông lò đan",
+        "Đệ tử của lão",
+        "Quản sự phòng tạp vụ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Bị từ chối làm thư đồng, lão tức giận nhưng vẫn thu hắn làm đệ tử.",
+      "chapter": 16,
+      "source": "Tiên Nghịch ch.16"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Vì sao Vương Lâm từ chối làm thư đồng cho Tôn trưởng lão?",
+      "options": [
+        "Thư đồng là người hầu, cha sẽ đánh chết",
+        "Vì muốn ở lại cùng Trương Hổ",
+        "Vì sợ lão phát hiện hạt châu",
+        "Vì muốn về quê chăm cha mẹ"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn nói thư đồng chỉ là nô tài, cha hắn sẽ không tha.",
+      "chapter": 16,
+      "source": "Tiên Nghịch ch.16"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng với văn bản chương, phương án nhiễu hợp lý.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Chi tiết nào khiến Tôn trưởng lão biết Vương Lâm nói dối về nguồn gốc hồ lô?",
+      "options": [
+        "Nước trong hồ lô còn ấm",
+        "Hồ lô có khắc tên hắn",
+        "Hồ lô dính bùn ở chỗ chôn",
+        "Hồ lô còn tươi, rõ là mới bị bẻ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn bảo vớt được trên suối, nhưng hồ lô rõ ràng vừa mới bị hái.",
+      "chapter": 16,
+      "source": "Tiên Nghịch ch.16"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Rút gọn đáp án đúng vốn dài hơn hẳn các phương án khác.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Vì sao Tôn trưởng lão không cướp thẳng hồ lô rồi đuổi Vương Lâm đi?",
+      "options": [
+        "Sợ chưởng môn trách phạt nặng",
+        "Sợ mang tiếng và bị đồng môn đòi chia",
+        "Vì cảm thương hoàn cảnh hắn",
+        "Vì hồ lô chỉ linh nghiệm trong tay hắn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lão sợ tiếng xấu lan ra và sư huynh đệ biết sẽ tranh phần, còn muốn moi thêm hồ lô.",
+      "chapter": 16,
+      "source": "Tiên Nghịch ch.16"
+    }
+  }
+]

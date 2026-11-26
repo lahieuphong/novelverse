@@ -1,0 +1,610 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai chỉ mất 3 tháng đã đạt tầng thứ nhất Ngưng Khí kỳ, khiến Vương Lâm không cam lòng?",
+    "options": [
+      "Vương Hạo",
+      "Trương Hổ",
+      "Vương Trác",
+      "Tôn Đại Trụ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm nhớ Vương Trác chỉ cần 3 tháng đã đạt tầng một nên càng khổ luyện.",
+    "chapter": 25,
+    "source": "Tiên Nghịch ch.25",
+    "evidence": "Nghĩ đến Vương Trác \"chỉ cần 3 tháng\" đã thành công đạt tầng thứ nhất, Vương Lâm thực sự không cam lòng."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm đột phá tầng thứ nhất Ngưng Khí kỳ, cơ thể hắn thải ra thứ gì?",
+    "options": [
+      "Mồ hôi đen bốc mùi khó chịu",
+      "Máu đỏ thẫm từ thất khiếu",
+      "Làn sương mù màu tím",
+      "Những mảnh băng lạnh buốt"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đột phá tầng một đẩy tạp chất ra ngoài thành mồ hôi đen.",
+    "chapter": 25,
+    "source": "Tiên Nghịch ch.25",
+    "evidence": "Những giọt mồ hôi màu đen, tỏa mùi khó chịu thoát ra làm ướt quần áo; Ngưng khí tam thiên ghi tạp chất sẽ bị đẩy ra."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Tiên thuật cơ bản nhất trong Ngưng khí tam thiên, cũng là nền tảng để khu sử phi kiếm, là gì?",
+    "options": [
+      "Hỏa Diễm cầu",
+      "Địa Liệt thuật",
+      "Khu Vật thuật",
+      "Dẫn Lực thuật"
+    ],
+    "correctIndex": 3,
+    "explanation": "Dẫn Lực thuật là tiên thuật cơ bản, giai đoạn đầu của thuật điều khiển phi kiếm.",
+    "chapter": 25,
+    "source": "Tiên Nghịch ch.25",
+    "evidence": "Dẫn lực thuật thuộc loại tiên thuật cơ bản nhất, là \"giai đoạn cơ bản của tiên thuật khu sử phi kiếm\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Đệ tử nội môn Hằng Nhạc phái phần lớn được trưởng bối khuyên chọn con đường tu luyện nào?",
+    "options": [
+      "Luyện đan",
+      "Kiếm tu",
+      "Chế phù",
+      "Luyện thể"
+    ],
+    "correctIndex": 1,
+    "explanation": "Trưởng bối khuyên chọn kiếm tu vì uy lực mạnh, dễ nắm giữ.",
+    "chapter": 25,
+    "source": "Tiên Nghịch ch.25",
+    "evidence": "Nội môn đệ tử có thể tự chọn pháp môn ở tàng kinh các nhưng phần lớn được khuyên chọn kiếm tu."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Bước vào tầng thứ nhất, tu sĩ phải đoạn tuyệt phàm trần; Vương Lâm tự biết mình không thể dứt bỏ điều gì?",
+    "options": [
+      "Nỗi hận với Tôn Đại Trụ",
+      "Tình thân với cha mẹ",
+      "Sự ganh đua với Vương Trác",
+      "Tình bạn với Trương Hổ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn hiểu có thể chặt đứt việc phàm trần nhưng không thể đoạn tuyệt thân tình cha mẹ.",
+    "chapter": 25,
+    "source": "Tiên Nghịch ch.25",
+    "evidence": "Hắn tự biết chặt đứt việc phàm trần có thể là việc nhỏ nhưng \"tuyệt đối không thể đoạn tuyệt\" thân tình Phụ Mẫu."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Khi Lưu sư huynh cầm trủy thủ đâm Trương Hổ, Vương Lâm ngăn lại bằng cách nào?",
+    "options": [
+      "Ném Hỏa Diễm cầu vào hắn",
+      "Dùng phi kiếm gạt trủy thủ",
+      "Lấy búa đốn củi đánh ngất hắn",
+      "Dùng Dẫn Lực thuật giữ chặt hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Không kịp cứu, Vương Lâm thi triển Dẫn Lực thuật như bàn tay vô hình túm lấy đối phương.",
+    "chapter": 26,
+    "source": "Tiên Nghịch ch.26",
+    "evidence": "Vương Lâm sử dụng Dẫn Lực thuật, hóa thành \"một bàn tay vô hình\" túm chặt lấy đối phương."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Lưu sư huynh trách Trương Hổ đã gian lận thế nào khi giao củi cho phòng luyện đan?",
+    "options": [
+      "Để củi ngấm nước cho nặng cân",
+      "Trộn đá sỏi vào bó củi",
+      "Chỉ giao một nửa số củi",
+      "Lấy trộm củi của người khác"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn phát hiện trong 100 cân củi có tới 30 cân là nước.",
+    "chapter": 26,
+    "source": "Tiên Nghịch ch.26",
+    "evidence": "Lưu sư huynh nói bị mắng ở phòng luyện đan vì \"một trăm cân củi\" có tới ba mươi cân là nước."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trương Hổ tố Lưu sư huynh nhận tiên phù của ai để giao cho người đó việc nhẹ nhàng?",
+    "options": [
+      "Triệu tiểu nhị",
+      "Vương Hạo",
+      "Triệu Phú Quý",
+      "Tôn Đại Trụ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trương Hổ thấy Triệu Phú Quý đưa tiên phù cho Lưu sư huynh để đổi việc nhẹ.",
+    "chapter": 26,
+    "source": "Tiên Nghịch ch.26",
+    "evidence": "Trương Hổ nói mấy hôm trước Triệu Phú Quý cho Lưu sư huynh một cái tiên phù để được giao việc nhẹ."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Sau khi lục soát phòng Lưu sư huynh, Trương Hổ để lại cho Vương Lâm vật gì?",
+    "options": [
+      "Cuộn giấy vàng giấu dưới giường",
+      "Mấy trăm tấm tiên phù ký danh",
+      "Quyển sách trong túi của Lưu",
+      "Cây búa đốn củi dính máu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trương Hổ mang tiên phù và sách đi, chỉ để lại cuộn giấy vàng cho Vương Lâm.",
+    "chapter": 26,
+    "source": "Tiên Nghịch ch.26",
+    "evidence": "Trong hốc bí mật dưới giường có một cuộn giấy màu vàng; Trương Hổ nói \"cái tiên phù này để lại cho ngươi\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Lâm xử lý thi thể Lưu sư huynh ra sao để giúp Trương Hổ thoát truy xét?",
+    "options": [
+      "Chôn dưới gốc cây sau núi",
+      "Thiêu rụi bằng Hỏa Diễm cầu",
+      "Bỏ vào túi trữ vật, ném xuống khe núi",
+      "Thả trôi theo dòng sơn tuyền"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn cất xác vào túi trữ vật rồi vào núi ném xuống một khe núi.",
+    "chapter": 27,
+    "source": "Tiên Nghịch ch.27",
+    "evidence": "Túi trữ vật đủ chỗ cho một cái thi thể; Vương Lâm tìm một khe núi rồi ném thi thể xuống đó."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Trong mộng cảnh, Vương Lâm tập Dẫn Lực thuật bằng cách nâng vật gì lên trước tiên?",
+    "options": [
+      "Tảng đá lớn",
+      "Hình nhân",
+      "Quả hồ lô",
+      "Thanh tiểu kiếm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn dùng hình nhân nhẹ làm đối tượng luyện tập và nhấc được nó lên.",
+    "chapter": 27,
+    "source": "Tiên Nghịch ch.27",
+    "evidence": "Đầu tiên hắn sử dụng hình nhân làm đối tượng, thử mấy lần mới nhấc được hình nhân lên."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm không dám dùng ngay cuộn giấy vàng Trương Hổ đưa?",
+    "options": [
+      "Tôn Đại Trụ cấm dùng tiên phù lạ",
+      "Trương Hổ dặn chưa được mở ra",
+      "Cuộn giấy đã cạn sạch linh khí",
+      "Từng suýt chết vì uống bừa Hạ Lộ thủy"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sau lần uống Hạ Lộ thủy suýt chết, hắn rất cảnh giác với đồ của tiên nhân.",
+    "chapter": 27,
+    "source": "Tiên Nghịch ch.27",
+    "evidence": "Từ sau khi tùy tiện uống Hạ Lộ thủy suýt chết, hắn \"hết sức cảnh giác\" với đồ của tiên nhân."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Theo Tam Thiên ngưng khí, muốn mở tầng thứ hai Ngưng Khí kỳ thì nhất thiết phải có gì?",
+    "options": [
+      "Một viên Tạo Hóa Đan",
+      "Một thanh phi kiếm",
+      "Sự cho phép của sư phụ",
+      "Khẩu quyết khai mở tầng đó"
+    ],
+    "correctIndex": 3,
+    "explanation": "Trừ tầng một, mười bốn tầng còn lại đều cần khẩu quyết để khai phá.",
+    "chapter": 27,
+    "source": "Tiên Nghịch ch.27",
+    "evidence": "Mười bốn tầng còn lại \"đều cần phải có khẩu quyết để khai phá\", có tâm pháp mà thiếu khẩu quyết cũng vô ích."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Lần đầu niệm khẩu quyết mở tầng thứ hai, vì sao Vương Lâm thất bại?",
+    "options": [
+      "Không có tâm pháp tầng hai",
+      "Linh khí trong cơ thể chưa đủ",
+      "Khẩu quyết bị chép sai",
+      "Hạt châu thần bí quấy nhiễu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Linh khí bị tiêu tán hết, chứng tỏ chưa đủ để mở tầng hai.",
+    "chapter": 27,
+    "source": "Tiên Nghịch ch.27",
+    "evidence": "Sự thật đã chứng minh \"linh khí trong cơ thể hắn chưa đủ\" để mở ra tầng thứ hai."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Trương sư huynh nói nhờ đâu mà hắn đột phá nhanh lên tầng thứ năm Ngưng Khí kỳ?",
+    "options": [
+      "Một lô Tạo Hóa Đan",
+      "Linh khí tuyền thủy",
+      "Phong nhãn trên vách núi",
+      "Tấm tiên phù màu vàng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Khi đi tìm Vương Lâm, hắn phát hiện phong nhãn trên vách núi giúp tu luyện.",
+    "chapter": 28,
+    "source": "Tiên Nghịch ch.28",
+    "evidence": "Nếu không phải lúc tìm người phát hiện \"cái phong nhãn kia\" thì hắn không thể đột phá nhanh như vậy."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trương sư huynh tìm đến hỏi Vương Lâm về chuyện gì?",
+    "options": [
+      "Đệ tử ký danh ở tạp vụ mất tích",
+      "Hạt châu thần bí bị lộ",
+      "Tiên phù trong kho bị trộm",
+      "Vương Lâm bỏ bê tu luyện"
+    ],
+    "correctIndex": 0,
+    "explanation": "Có người thấy Vương Lâm đi ngang tạp vụ hôm tên đệ tử ký danh mất tích.",
+    "chapter": 28,
+    "source": "Tiên Nghịch ch.28",
+    "evidence": "Trương sư huynh nói tên đệ tử ký danh ở chỗ tạp vụ bị mất tích, có người thấy Vương Lâm đi ngang qua."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Chưởng môn và các sư thúc quyết định giao cho Vương Lâm công việc gì?",
+    "options": [
+      "Làm dược đồng phòng luyện đan",
+      "Canh giữ Kiếm Linh các",
+      "Phụ trách khu tạp vụ",
+      "Trông coi tàng kinh các"
+    ],
+    "correctIndex": 2,
+    "explanation": "Họ muốn đệ tử nội môn quản tạp vụ, không ai chịu đi nên phần Vương Lâm.",
+    "chapter": 28,
+    "source": "Tiên Nghịch ch.28",
+    "evidence": "Chưởng môn muốn xếp một đệ tử nội môn phụ trách chỗ tạp vụ; Vương Lâm hiểu \"công việc đó là để dành cho tiểu đệ\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Nhìn Vương Lâm lúc linh khí vừa cạn sạch, Trương sư huynh nhận định tu vi hắn thế nào?",
+    "options": [
+      "Chưa đạt tới tầng thứ nhất",
+      "Đã vào tầng thứ hai",
+      "Vừa chạm tầng thứ nhất",
+      "Sắp lên tầng thứ ba"
+    ],
+    "correctIndex": 0,
+    "explanation": "Không thấy chút linh khí nào nên hắn cho rằng Vương Lâm chưa vào tầng một.",
+    "chapter": 28,
+    "source": "Tiên Nghịch ch.28",
+    "evidence": "Trương sư huynh nói trong cơ thể Vương Lâm \"một chút linh khí cũng không có\", chắc chưa đạt tầng thứ nhất."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vì sao Vương Lâm cố tình trả thù, ép việc nặng cho đám đệ tử ký danh ở tạp vụ?",
+    "options": [
+      "Muốn vơ vét thật nhiều tiên phù",
+      "Muốn tìm kẻ đã giết Lưu sư huynh",
+      "Muốn lập uy để được thăng hắc y",
+      "Muốn họ đòi đổi người để có thời gian tu luyện"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn mong họ làm chưởng môn giận mà đổi người khác, để hắn rảnh tu luyện.",
+    "chapter": 28,
+    "source": "Tiên Nghịch ch.28",
+    "evidence": "Hắn mong những người đó khiến chưởng môn giận dữ, đổi người khác \"để cho hắn có thời gian tu luyện\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai tố với Vương Lâm rằng Triệu tiểu nhị vừa chửi hắn rất khó nghe?",
+    "options": [
+      "Triệu Phú Quý",
+      "Triệu tiểu tam, em ruột hắn",
+      "Một nữ đệ tử ký danh",
+      "Người có khuôn mặt thư sinh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Triệu tiểu tam tố cáo chính anh mình, viện cớ vì nghĩa không vì tình thân.",
+    "chapter": 29,
+    "source": "Tiên Nghịch ch.29",
+    "evidence": "Triệu tiểu nhị mắng: \"Triệu tiểu tam! Ta là ca ca của ngươi\", trách em ăn cây táo rào cây sung."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Người có khuôn mặt thư sinh được Vương Lâm giao công việc gì?",
+    "options": [
+      "Hái thuốc mỗi ngày",
+      "Ghi sổ lễ vật biếu Vương Lâm",
+      "Giặt quần áo cả môn phái",
+      "Dọn dẹp nhà xí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn được giao lập danh sách ai tặng gì mỗi tháng, công việc nhẹ nhất.",
+    "chapter": 29,
+    "source": "Tiên Nghịch ch.29",
+    "evidence": "Vương Lâm bảo người này lập danh sách lễ vật, người nào tháng nào tặng gì, mỗi tháng đưa một lần."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Người bị giao việc nào nghe xong liền ngã xuống đất bất tỉnh?",
+    "options": [
+      "Giặt 500 cân quần áo mỗi ngày",
+      "Nấu hai mươi ang nước mỗi ngày",
+      "Quét dọn toàn môn phái",
+      "Hái 500 cân dược thảo mỗi ngày"
+    ],
+    "correctIndex": 3,
+    "explanation": "Năm trăm cân dược thảo e rằng cả núi rừng Hằng Nhạc phái cũng không có.",
+    "chapter": 29,
+    "source": "Tiên Nghịch ch.29",
+    "evidence": "Người được giao hái thuốc mỗi ngày năm trăm cân thì \"hai chân mềm nhũn\", ngã xuống đất bất tỉnh."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Người phải nấu hai mươi ang nước mỗi ngày đã làm gì để được giảm còn năm ang?",
+    "options": [
+      "Biếu một tấm Tham Thân tiên phù",
+      "Quỳ xuống dập đầu xin tha",
+      "Tố cáo người đã chửi Vương Lâm",
+      "Xin tối đến đấm lưng cho hắn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn dâng Tham Thân tiên phù và được Vương Lâm giảm việc ngay.",
+    "chapter": 29,
+    "source": "Tiên Nghịch ch.29",
+    "evidence": "Một đệ tử lấy ra Tham Thân tiên phù hai tay dâng lên, Vương Lâm liền nói \"Mỗi ngày năm ang\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Ở khu tạp vụ, Vương Lâm chọn nơi nào làm chỗ bí mật để vào Mộng Cảnh tu luyện?",
+    "options": [
+      "Phòng cũ của Lưu sư huynh",
+      "Khe núi phía sau tạp vụ",
+      "Gian chứa đồ linh tinh hẻo lánh",
+      "Bên sơn tuyền ở cửa đông"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn dọn một chỗ trống trong gian chứa đồ ở chỗ hẻo lánh rồi khóa trái cửa.",
+    "chapter": 29,
+    "source": "Tiên Nghịch ch.29",
+    "evidence": "Hắn tìm thấy một gian phòng ở chỗ hẻo lánh \"để những đồ đạc linh tinh\", tạm coi là chỗ bí mật."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đội mũ, mặc áo da, đến thăm Vương Lâm giữa trời tuyết và gọi hắn là \"Thiết Trụ ca\"?",
+    "options": [
+      "Vương Hạo",
+      "Vương Trác",
+      "Trương Hổ",
+      "Trương sư huynh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Hạo đẩy cửa vào sân và gọi Vương Lâm là Thiết Trụ ca.",
+    "chapter": 30,
+    "source": "Tiên Nghịch ch.30",
+    "evidence": "Vương Hạo \"đầu đội mũ, thân mặc áo da\", kinh ngạc hỏi: Thiết Trụ ca! Ngươi không lạnh hay sao?"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Hạo đến tìm Vương Lâm thực chất là để nhờ việc gì?",
+    "options": [
+      "Xin linh khí tuyền thủy",
+      "Nhờ dạy Dẫn Lực thuật",
+      "Mượn Tham Thân tiên phù",
+      "Xin vào làm ở tạp vụ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Biết Vương Lâm được biếu nhiều tiên phù, Vương Hạo muốn mượn một ít.",
+    "chapter": 30,
+    "source": "Tiên Nghịch ch.30",
+    "evidence": "Vương Hạo nhỏ giọng nói biết Vương Lâm được tặng nhiều Tham Thân tiên phù, \"cho ta mượn một ít không?\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Trước khi Vương Lâm thành \"Hắc Tâm vương\", Lưu sư huynh từng bị đệ tử ký danh gọi là gì?",
+    "options": [
+      "Thiết Diện lang",
+      "Hoàng Thử lang",
+      "Huyết Thủ quỷ",
+      "Lão Hồ ly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Danh hiệu của tên họ Lưu là Hoàng Thử lang, còn thua Hắc Tâm vương một bậc.",
+    "chapter": 30,
+    "source": "Tiên Nghịch ch.30",
+    "evidence": "So với danh hiệu Hoàng Thử lang của tên họ Lưu thì cái tên Hắc Tâm vương \"còn cao hơn một bậc\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Vì sao Vương Lâm ngần ngại báo với Tôn Đại Trụ rằng mình đã vào tầng thứ hai?",
+    "options": [
+      "Sợ bị bắt dự tỷ thí cuối năm",
+      "Sợ Vương Trác ghen ghét hãm hại",
+      "Sợ bị điều khỏi khu tạp vụ",
+      "Sợ bị gặng hỏi nguyên nhân, sinh phiền phức"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tiến bộ nhanh bất thường sẽ khiến sư phụ truy hỏi, dễ lộ bí mật.",
+    "chapter": 30,
+    "source": "Tiên Nghịch ch.30",
+    "evidence": "Hắn nghĩ nếu báo đạt tầng hai, Tôn Đại Trụ chắc chắn sẽ hỏi nguyên nhân, \"gặp rất nhiều phiền phức\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Theo Vương Hạo, Vương Trác tu luyện nhanh nhờ sư phụ bỏ vốn lớn xin loại đan dược nào?",
+    "options": [
+      "Đoạt Linh Đan",
+      "Hóa Hình Hóa Thanh Đan",
+      "Trúc Cơ Đan",
+      "Tạo Hóa Đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Sư phụ Vương Trác xin cho hắn một lô Tạo Hóa Đan cực kỳ trân quý.",
+    "chapter": 31,
+    "source": "Tiên Nghịch ch.31",
+    "evidence": "Sư phụ hắn không tiếc bỏ vốn lớn, xin \"một lô Tạo Hóa Đan\" từ chủ nhân của Vương Hạo."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Nghe về giao dịch hội của đệ tử nội môn, Vương Lâm mong tìm được thứ gì nhất?",
+    "options": [
+      "Một thanh phi kiếm",
+      "Khẩu quyết các tầng Ngưng Khí sau",
+      "Pháp bảo hộ thân",
+      "Tạo Hóa Đan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Phi kiếm, pháp bảo hắn chưa dám mơ, nhưng khẩu quyết Ngưng Khí thì rất cần.",
+    "chapter": 31,
+    "source": "Tiên Nghịch ch.31",
+    "evidence": "Đối với phi kiếm, pháp bảo hắn chưa dám mơ tưởng, nhưng \"khẩu quyết Ngưng Khí thì hắn lại đang rất cần\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Muốn vào giao dịch hội bí mật của đệ tử nội môn thì phải có gì?",
+    "options": [
+      "Một tấm Tham Thân tiên phù",
+      "Thân phận đệ tử hắc y",
+      "Một viên Hóa Hình Hóa Thanh Đan",
+      "Lời giới thiệu của trưởng lão"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đan dược này che giấu thân phận, là tư cách để tham gia giao dịch hội.",
+    "chapter": 31,
+    "source": "Tiên Nghịch ch.31",
+    "evidence": "Muốn được tham gia thì phải có Hóa Hình Hóa Thanh Đan; ăn vào thì trừ Trúc Cơ kỳ không ai nhìn ra."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Để gom tuyết vào vạc rồi làm tan nó, Vương Lâm lần lượt dùng hai pháp thuật nào?",
+    "options": [
+      "Dẫn Lực thuật rồi Hỏa Diễm cầu",
+      "Khu Vật thuật rồi Hỏa Diễm cầu",
+      "Địa Liệt thuật rồi Dẫn Lực thuật",
+      "Dẫn Lực thuật rồi Địa Liệt thuật"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn dùng Dẫn Lực thuật hút tuyết vào vạc, rồi thử hơn mười lần mới ra hỏa cầu.",
+    "chapter": 31,
+    "source": "Tiên Nghịch ch.31",
+    "evidence": "Tuyết bay lên \"như một con Tuyết long\" vào vạc; sau đó hắn biến ra hỏa cầu làm tuyết tan."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Theo thử nghiệm của Vương Lâm, tuyết thủy ngâm hạt châu có hiệu quả ra sao?",
+    "options": [
+      "Hơn cả nước suối lẫn sương sớm",
+      "Kém nước suối nhưng hơn sương sớm",
+      "Hơn nước suối nhưng kém sương sớm",
+      "Hoàn toàn không có tác dụng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn uống thử và thấy tuyết thủy cao hơn tuyền thủy nhưng thấp hơn lộ thủy.",
+    "chapter": 31,
+    "source": "Tiên Nghịch ch.31",
+    "evidence": "Hắn lẩm bẩm: \"Hiệu quả cao hơn nước suối rất nhiều nhưng vẫn thấp hơn lộ thủy\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Ăn viên đan dược màu xanh biếc trước khi vào giao dịch hội, người dùng bị bao phủ bởi gì?",
+    "options": [
+      "Sương mù đen đậm đặc",
+      "Ánh sáng xanh lục",
+      "Ngọn lửa đỏ rực",
+      "Lớp băng tuyết trắng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đan dược tỏa sương mù đen bao kín người, che giấu thân phận.",
+    "chapter": 32,
+    "source": "Tiên Nghịch ch.32",
+    "evidence": "Một làn sương mù màu đen đậm đặc từ thân thể Vương Hạo tản ra, bao phủ cả người hắn."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Người chủ trì giao dịch hội mở màn bằng món đồ nào?",
+    "options": [
+      "Một khối hạ giai ngọc phù",
+      "Một viên Tạo Hóa Đan",
+      "Ngọc giản thuật giấu tu vi",
+      "Thanh tiểu kiếm màu bạc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn rao một phi kiếm bạc không thuộc Kiếm Linh các, đổi 500 tấm linh phù.",
+    "chapter": 32,
+    "source": "Tiên Nghịch ch.32",
+    "evidence": "Người chủ trì xuất ra một thanh tiểu kiếm màu bạc, nói nó \"không phải của Kiếm Linh các\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm bỏ ra 5 khỏa linh đan ở giao dịch hội để mua thứ gì?",
+    "options": [
+      "Phi kiếm màu bạc uy lực không nhỏ",
+      "Thuật pháp giấu tu vi trong thời gian ngắn",
+      "Hạ giai ngọc phù gây động đất",
+      "Khẩu quyết mở tầng thứ ba Ngưng Khí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Món bị mọi người chê vô dụng lại rất có ích cho Vương Lâm.",
+    "chapter": 32,
+    "source": "Tiên Nghịch ch.32",
+    "evidence": "Thuật pháp giúp giấu kín tu vi trong thời gian ngắn; Vương Lâm nói: \"5 khỏa linh đan. Ta đổi!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khối hạ giai ngọc phù được rao bán ở giao dịch hội có công dụng gì?",
+    "options": [
+      "Ẩn thân trong ba canh giờ",
+      "Phát động như động đất ba lần",
+      "Phóng ra ba quả hỏa cầu",
+      "Đỡ một đòn của Trúc Cơ kỳ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Người bán nói ngọc phù có thể phát động như động đất ba lần.",
+    "chapter": 32,
+    "source": "Tiên Nghịch ch.32",
+    "evidence": "Một người rao hạ giai ngọc phù có thể \"phát động như động đất ba lần\", đổi lấy 10 khỏa linh đan."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Theo môn phái, đệ tử chỉ có cơ hội chính thức nhận Tạo Hóa Đan vào lúc nào?",
+    "options": [
+      "Khi đạt tầng năm Ngưng Khí kỳ",
+      "Khi đứng đầu tỷ thí cuối năm",
+      "Khi được trưởng lão thu làm đồ đệ",
+      "Khi tấn thăng hắc y và tử y"
+    ],
+    "correctIndex": 3,
+    "explanation": "Lên hắc y được một viên, lên tử y được hai viên.",
+    "chapter": 32,
+    "source": "Tiên Nghịch ch.32",
+    "evidence": "Mỗi đệ tử chỉ có hai cơ hội: \"tấn thăng lên hắc y\" được một khỏa và lên tử y được hai khỏa."
+  }
+]

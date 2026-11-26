@@ -1,0 +1,1427 @@
+[
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Nhờ đạt danh hiệu gì mà Vương Lâm được truyền tống thẳng ra bên ngoài huyệt Khí Hải?",
+      "options": [
+        "Thôn hồn",
+        "Lĩnh ngộ giả",
+        "Người kế thừa",
+        "Chiến thần"
+      ],
+      "correctIndex": 1,
+      "explanation": "Qua cửa thứ ba quá hạn nhưng có danh hiệu lĩnh ngộ giả nên hắn được đưa ra ngoài Khí Hải.",
+      "chapter": 186,
+      "source": "Tiên Nghịch ch.186"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ngọc giản ghi bí quyết hơn bốn trăm thủ ấn để rời khỏi Cổ Thần là của ai?",
+      "options": [
+        "Đoan Mộc Cực",
+        "Mạnh Đà Tử",
+        "Cổ Đế",
+        "Lục Dục Ma Quân"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngọc giản chứa bí quyết rời đi do Cổ Đế để lại cho Vương Lâm.",
+      "chapter": 186,
+      "source": "Tiên Nghịch ch.186"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "vua",
+      "question": "Truyền Tống Trận ở cửa thứ tư trông như được tạo nên từ thứ gì?",
+      "options": [
+        "Những mạch máu",
+        "Những đoạn xương khô",
+        "Những khối băng tinh",
+        "Những viên linh thạch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Trận pháp phát hồng quang, nhìn kỹ như cấu thành từ mạch máu có chất lỏng đỏ sậm chảy vào.",
+      "chapter": 186,
+      "source": "Tiên Nghịch ch.186"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "vua",
+      "question": "Bên ngoài huyệt Khí Hải của Cổ Thần, cả trời lẫn 'đất' đều mang màu gì?",
+      "options": [
+        "Màu đỏ máu",
+        "Màu xám đen",
+        "Màu vàng kim",
+        "Màu lam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vương Lâm mở mắt thấy một thế giới toàn màu lam, trời lam đất lam.",
+      "chapter": 186,
+      "source": "Tiên Nghịch ch.186"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Vương Lâm phát hiện điểm đáng ngờ nào ở dòng xoáy tạo ra từ bí quyết của Cổ Đế?",
+      "options": [
+        "Chỉ đủ sức đưa một người đi",
+        "Xoay ngược với xoáy ở các cửa",
+        "Dẫn thẳng vào trong huyết hải",
+        "Hút dần thọ nguyên người dùng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Dòng xoáy xoay từ phải sang trái, ngược với xoáy ở mỗi cửa; va chạm có thể làm kim đan vỡ.",
+      "chapter": 186,
+      "source": "Tiên Nghịch ch.186"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Mỗi khi gặp làn khí khổng lồ bên ngoài Khí Hải, Vương Lâm tránh né bằng cách nào?",
+      "options": [
+        "Bay vòng ngược lên Tổ Khiếu",
+        "Trốn vào Nghịch Thiên châu",
+        "Dùng cấm phiên chắn trước mặt",
+        "Hòa mình vào trong làn khí"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn đặt tay lên mi tâm, tiến vào không gian Nghịch Thiên châu đến khi làn khí qua đi.",
+      "chapter": 187,
+      "source": "Tiên Nghịch ch.187"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Thiên Ma Tán Nhân trao thủ cốt; 'Chủ nhân huyết hải' sai rõ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ai đã trao thủ cốt Cổ Thần cho Lục Dục Ma Quân từ ngàn năm trước?",
+      "options": [
+        "Mạnh Đà Tử",
+        "Uông Thanh Việt",
+        "Chủ nhân huyết hải",
+        "Thiên Ma Tán Nhân"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thủ cốt là vật truyền thừa Cổ Thần, do sư phụ Thiên Ma Tán Nhân đưa cho Lục Dục Ma Quân.",
+      "chapter": 187,
+      "source": "Tiên Nghịch ch.187"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Lục Dục Ma Quân cất giấu thủ cốt Cổ Thần ở đâu để không ai ngờ tới?",
+      "options": [
+        "Trong cơ thể đệ tử hắn",
+        "Trong túi trữ vật riêng",
+        "Dưới đáy huyết hải",
+        "Trong Nguyên Anh của hắn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn dung hợp thủ cốt vào cơ thể người đệ tử trẻ luôn đi theo, khi cần thì lấy ra.",
+      "chapter": 187,
+      "source": "Tiên Nghịch ch.187"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Trong cơ thể Cổ Thần, Lục Dục Ma Quân điên cuồng hấp thu thứ gì để tu vi tăng vọt?",
+      "options": [
+        "Linh khí từ Khí Hải",
+        "Hồn năng của du hồn",
+        "Sáu loại dục niệm",
+        "Máu của huyết hải"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn lần lượt thu khủng dục, tham dục... đủ sáu loại dục niệm của Cổ Thần.",
+      "chapter": 187,
+      "source": "Tiên Nghịch ch.187"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Thiên Ma Tán Nhân lén khởi động vật truyền thừa trong tay đồ đệ nhằm mục đích gì?",
+      "options": [
+        "Giúp đồ đệ thoát ra ngoài an toàn",
+        "Dẫn dụ Vương Lâm tới chỗ đồ đệ",
+        "Đoạt lại thủ cốt từ tay Cổ Đế",
+        "Cứu khỏi du hồn, giữ hắn ở lại"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão giúp đồ đệ thoát du hồn nhưng cũng làm dòng xoáy sụp để giữ hắn lại phục vụ đại kế.",
+      "chapter": 187,
+      "source": "Tiên Nghịch ch.187"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Khi Thiên Ma Tán Nhân hiện thân, Vương Lâm thấy hắn có thân thể yêu ma giống ai?",
+      "options": [
+        "Đoan Mộc Cực",
+        "Mạnh Đà Tử",
+        "Cổ Đế",
+        "Uông Thanh Việt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngoại hình Thiên Ma Tán Nhân tương tự Mạnh Đà Tử, đều mang thân thể yêu ma.",
+      "chapter": 188,
+      "source": "Tiên Nghịch ch.188"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Kết cục của Lục Dục Ma Quân sau khi hấp thu dục niệm Cổ Thần là gì?",
+      "options": [
+        "Bị du hồn cắn nuốt sạch",
+        "Thoát khỏi Cổ Thần chi địa",
+        "Bị sư phụ hiến tế, nổ tung",
+        "Bị ma hóa thành chiến tướng"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thiên Ma Tán Nhân dùng máu thịt và tu vi đồ đệ làm vật tế, thân thể hắn nổ tung.",
+      "chapter": 188,
+      "source": "Tiên Nghịch ch.188"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Sáu loại dục niệm của Cổ Thần hóa thành gì để lần lượt đánh mở thông đạo?",
+      "options": [
+        "Sáu con rồng",
+        "Sáu con lệ quỷ",
+        "Sáu thanh phi kiếm",
+        "Sáu vòng sáng vàng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Khủng dục thành rồng đen, tham dục thành rồng đỏ, bốn loại còn lại cũng hóa rồng công kích.",
+      "chapter": 188,
+      "source": "Tiên Nghịch ch.188"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Thông đạo vừa mở, Thiên Ma Tán Nhân chộp lấy vật gì từ bên trong?",
+      "options": [
+        "Một đốt ngón tay vàng kim",
+        "Một khối hồn thạch",
+        "Một ngọc giản cổ",
+        "Một viên băng tinh lam"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão chộp ra một viên băng tinh tròn màu lam đường kính chừng mười trượng.",
+      "chapter": 188,
+      "source": "Tiên Nghịch ch.188"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Đốt ngón tay còn thiếu của thủ cốt Cổ Thần đang nằm ở đâu?",
+      "options": [
+        "Trong tay Thiên Ma Tán Nhân",
+        "Trong túi trữ vật Vương Lâm",
+        "Dưới đáy thần thức tử hải",
+        "Trong cơ thể Mạnh Đà Tử"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vương Lâm nhận ra xương tay vàng là xương Cổ Thần, còn đốt thiếu thì hắn đang giữ.",
+      "chapter": 188,
+      "source": "Tiên Nghịch ch.188"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đóa Mục đoạt băng tinh; 'Thác Sâm' là nhiễu sai rõ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ai đã phá cấm chế của Thiên Ma Tán Nhân rồi đoạt lấy băng tinh từ tay lão?",
+      "options": [
+        "Mạnh Đà Tử",
+        "Thác Sâm",
+        "Đóa Mục",
+        "Lục Dục Ma Quân"
+      ],
+      "correctIndex": 2,
+      "explanation": "Kẻ đến là Đóa Mục, cao thủ huyết hải chỉ kém thập đại chiến tướng.",
+      "chapter": 189,
+      "source": "Tiên Nghịch ch.189"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Đóa Mục xử lý viên băng tinh vừa đoạt được như thế nào?",
+      "options": [
+        "Nuốt chửng để tăng thần thức",
+        "Bóp nát thành mảnh vụn",
+        "Ném thẳng vào huyết hải",
+        "Mang về dâng cho chủ nhân"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn kẹp băng tinh giữa hai ngón tay rồi bóp nát, chê là đồ vô dụng.",
+      "chapter": 189,
+      "source": "Tiên Nghịch ch.189"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Thiên Ma Tán Nhân bịa rằng băng tinh là do thứ gì biến thành?",
+      "options": [
+        "Dục niệm sáu loại của Cổ Thần",
+        "Hồn năng của đám du hồn",
+        "Linh khí ngưng tụ ở Khí Hải",
+        "Tu vi của Lục Dục Ma Quân"
+      ],
+      "correctIndex": 3,
+      "explanation": "Lão nói đó là tu vi toàn thân của đệ tử Lục Dục Ma Quân hóa thành và xin hiếu kính.",
+      "chapter": 189,
+      "source": "Tiên Nghịch ch.189"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Sau khi băng tinh chui vào trán, Vương Lâm bị thứ gì bao bọc rồi biến mất?",
+      "options": [
+        "Một cái kén ánh lam",
+        "Một cột huyết quang",
+        "Một tầng lôi điện tím",
+        "Một màn sương xám"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ánh lam từ đỉnh đầu hóa xúc tua quấn thành kén lớn, rồi bị hút đi mất.",
+      "chapter": 189,
+      "source": "Tiên Nghịch ch.189"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Nhờ đâu Thiên Ma Tán Nhân che giấu được tâm tư trước ánh mắt Đóa Mục?",
+      "options": [
+        "Cấm chế bảy màu hộ thân",
+        "Dục niệm chi linh che chắn",
+        "Linh lực cổ quái tự xoay",
+        "Thủ cốt Cổ Thần hộ thể"
+      ],
+      "correctIndex": 2,
+      "explanation": "Một đạo linh lực cổ quái tự động xoay tròn trong người lão, xóa cảm giác bị nhìn thấu.",
+      "chapter": 189,
+      "source": "Tiên Nghịch ch.189"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Thiếu niên tự xưng Đồ Ti; 'Thác Sâm' là nhiễu sai rõ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Trong ký ức truyền thừa, vị Cổ Thần lớn lên từ lòng tinh cầu tự xưng tên gì?",
+      "options": [
+        "Thác Sâm",
+        "Đồ Ti",
+        "Đóa Mục",
+        "Cổ Đế"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thiếu niên phá nát tinh cầu bay ra và tự nói tên mình là Đồ Ti.",
+      "chapter": 190,
+      "source": "Tiên Nghịch ch.190"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Ba chữ cổ màu vàng hiện ra trong đầu Vương Lâm sau khi nhận truyền thừa là gì?",
+      "options": [
+        "Cổ thần quyết",
+        "Nghịch thiên quyết",
+        "Ma dục quyết",
+        "Hóa thần thuật"
+      ],
+      "correctIndex": 0,
+      "explanation": "Ba chữ vàng là Cổ thần quyết, vừa chứa ký ức của Đồ Ti vừa chứa công pháp.",
+      "chapter": 190,
+      "source": "Tiên Nghịch ch.190"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Truyền thừa của Cổ Thần được chia thành hai bộ phận nào?",
+      "options": [
+        "Thân thể và pháp bảo",
+        "Kim đan và Nguyên Anh",
+        "Sức mạnh và ký ức",
+        "Thần thức và huyết mạch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Có đủ truyền thừa sức mạnh lẫn ký ức thì trở thành tân Cổ Thần.",
+      "chapter": 190,
+      "source": "Tiên Nghịch ch.190"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Bộ tộc Cổ Thần nuôi dưỡng trẻ nhỏ theo cách nào?",
+      "options": [
+        "Giao cho tu sĩ nhân tộc nuôi",
+        "Ngâm trong huyết hải vạn năm",
+        "Phong ấn trong băng tinh lam",
+        "Ném vào tinh cầu để hút cạn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trẻ bị ném vào một hành tinh, hút vật chất của nó để lớn; khi lớn xong hành tinh bị hủy.",
+      "chapter": 190,
+      "source": "Tiên Nghịch ch.190"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Tên thần thông Đồ Ti tu luyện không nhất quán trong truyện (Mặc Lưu Hóa Thần Thuật / phân thần thuật), không nên làm đáp án.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Thần thông bí truyền giúp thần thức phân ra hàng triệu mà Đồ Ti dốc sức tu luyện tên là gì?",
+      "options": [
+        "Huyền Thiên Ma Dục Quyết",
+        "Mặc Lưu Hóa Thần Thuật",
+        "Dĩ Dục Vi Kiếm",
+        "Đoạt Linh Thuật"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đồ Ti tu luyện ngược Mặc Lưu Hóa Thần Thuật, bỏ mạng để giữ mấy ngàn thần thức bất diệt.",
+      "chapter": 190,
+      "source": "Tiên Nghịch ch.190"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Pháp thuật Vương Lâm dùng được ngay, lấy linh lực khổng lồ cưỡng phá cấm chế, tên là gì?",
+      "options": [
+        "Đoạt linh thuật",
+        "Dĩ dục vi kiếm",
+        "Cực Cảnh thần thức",
+        "Cổ thần phá"
+      ],
+      "correctIndex": 3,
+      "explanation": "Cổ thần phá là pháp thuật duy nhất hắn thi triển được ngay sau khi xem Cổ thần quyết.",
+      "chapter": 191,
+      "source": "Tiên Nghịch ch.191"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Theo nhóm tu sĩ giữ pháp khí, nam tử tóc đỏ bị phong ấn trong huyết hải tên là gì?",
+      "options": [
+        "Đồ Ti",
+        "Thác Sâm",
+        "Đóa Mục",
+        "Mạnh Đà Tử"
+      ],
+      "correctIndex": 1,
+      "explanation": "Các tu sĩ cho biết kẻ bị phong ấn là Thác Sâm, người họ gặp năm xưa ngoài Cổ Thần.",
+      "chapter": 191,
+      "source": "Tiên Nghịch ch.191"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Tầng thứ nhất của Cổ thần quyết gồm ba giai đoạn nào?",
+      "options": [
+        "Đoạt linh, thôn linh, hóa linh",
+        "Luyện thể, luyện khí, luyện thần",
+        "Ngưng khí, trúc cơ, kết đan",
+        "Thôn hồn, hóa hồn, ngưng hạch"
+      ],
+      "correctIndex": 0,
+      "explanation": "Tầng một chia làm đoạt linh, thôn linh và hóa linh.",
+      "chapter": 191,
+      "source": "Tiên Nghịch ch.191"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Sau ba tháng bế quan trong Nghịch Thiên châu, Vương Lâm đạt tới cảnh giới nào?",
+      "options": [
+        "Nguyên Anh sơ kỳ",
+        "Kết Đan trung kỳ",
+        "Kết Đan hậu kỳ",
+        "Nguyên Anh trung kỳ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Tu đan và đan dược đưa hắn vào Kết Đan hậu kỳ, nhưng vẫn chưa kết được anh.",
+      "chapter": 191,
+      "source": "Tiên Nghịch ch.191"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "kho",
+      "question": "Vật quý nhất Vương Lâm uống dần suốt ba tháng bế quan để cố kết anh là gì?",
+      "options": [
+        "Một viên Lập anh đan",
+        "Dịch tủy giao long",
+        "Tu đan luyện từ tu sĩ",
+        "Đan dược Lý Mộ Uyển"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn mở bình bạch ngọc đựng dịch tủy giao long vạn trượng, uống đến chỉ còn chưa tới mười giọt.",
+      "chapter": 191,
+      "source": "Tiên Nghịch ch.191"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "'Sứ giả đại nhân' dưới trướng Thác Sâm vốn là thứ gì?",
+      "options": [
+        "Một tu sĩ Kết Đan",
+        "Một phân thức của Đồ Ti",
+        "Một con giao long vạn trượng",
+        "Một du hồn được nuôi lớn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sứ giả vốn là du hồn, được Thác Sâm đào tạo vô số năm để tiến hóa thành thôn hồn.",
+      "chapter": 192,
+      "source": "Tiên Nghịch ch.192"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Chiếc vòng pháp bảo nhóm Đóa Mục hứa tặng Vương Lâm có công dụng gì?",
+      "options": [
+        "Khống chế mọi loài thú",
+        "Phong ấn thần thức kẻ địch",
+        "Mở khe nứt không gian",
+        "Hấp thu linh khí thiên địa"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vòng này chụp được thú nào thì trong thời gian ngắn khống chế được thú đó, kể cả tiên thú.",
+      "chapter": 192,
+      "source": "Tiên Nghịch ch.192"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Theo nhóm Đóa Mục, các tầng phong ấn trên người Thác Sâm thực chất là gì?",
+      "options": [
+        "Huyết vụ của huyết hải",
+        "Dục niệm của Cổ Thần",
+        "Phân thức của Đồ Ti",
+        "Xiềng xích của tử hải"
+      ],
+      "correctIndex": 2,
+      "explanation": "Phong ấn là những tia phân thức của Đồ Ti; Thác Sâm rút chúng ra phân tán vào người khác.",
+      "chapter": 192,
+      "source": "Tiên Nghịch ch.192"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Đóa Mục suy đoán thân phận thật của Thác Sâm là gì?",
+      "options": [
+        "Đệ tử của Thiên Ma Tán Nhân",
+        "Một thôn hồn đã tiến hóa",
+        "Cổ Ma Đồ Ti hóa từ oán niệm",
+        "Thượng cổ tu sĩ đoạt xá"
+      ],
+      "correctIndex": 2,
+      "explanation": "Họ đoán hắn là ma vật ngưng từ oán niệm của Đồ Ti sau khi chết, tức Cổ Ma Đồ Ti.",
+      "chapter": 192,
+      "source": "Tiên Nghịch ch.192"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Lão giả xác nhận thu hồi phân thức chẳng khác cắn nuốt thần thức họ; diễn đạt khớp.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Vương Lâm chỉ ra điều gì sẽ xảy đến với nhóm Đóa Mục nếu Thác Sâm thoát phong ấn?",
+      "options": [
+        "Thần thức họ bị nuốt mất",
+        "Họ được thả khỏi Cổ Thần",
+        "Họ thành chiến tướng huyết hải",
+        "Họ bị giam mãi trong tử hải"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thác Sâm sẽ thu hồi phân thức đã dung hợp với họ, đồng nghĩa nuốt luôn thần thức của họ.",
+      "chapter": 192,
+      "source": "Tiên Nghịch ch.192"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Linh thạch là giá mặc cả cho đồng quyển, khác hẳn câu giữ hộ 10 pháp khí.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Ngoài vòng đồng thu thú, Vương Lâm còn mặc cả lấy thêm thứ gì từ lão giả?",
+      "options": [
+        "Một viên Lập anh đan",
+        "Cực phẩm linh thạch",
+        "Một bình linh dịch",
+        "Ngọc giản phong ấn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Sau khi mặc cả, lão giả đưa túi trữ vật chứa hai mươi khối cực phẩm linh thạch.",
+      "chapter": 193,
+      "source": "Tiên Nghịch ch.193"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Sứ giả vốn là du hồn, hiến ba hồn cầu theo lệnh; diễn đạt khớp.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Ai phải tách hồn cầu của mình để giúp Vương Lâm ngưng kết hồn hạch?",
+      "options": [
+        "Đóa Mục",
+        "Thiên Ma Tán Nhân",
+        "Mạnh Đà Tử",
+        "Gã sứ giả du hồn"
+      ],
+      "correctIndex": 3,
+      "explanation": "Theo lệnh Thác Sâm, nam tử do du hồn khổng lồ hóa thành phải hiến ba hồn cầu.",
+      "chapter": 193,
+      "source": "Tiên Nghịch ch.193"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Giữ hộ 10 pháp khí làm bảo đảm, tách biệt với vụ 20 linh thạch.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Để chắc chắn được đưa ra ngoài, Vương Lâm đòi giữ hộ thứ gì của nhóm lão giả?",
+      "options": [
+        "Thủ cốt vàng của Cổ Thần",
+        "Hồn thạch của gã sứ giả",
+        "Mười pháp khí bổn mạng",
+        "Lệnh bài huyết hải"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn đòi giữ mười kiện pháp khí bổn mạng của họ, hứa trả lại khi ra khỏi nơi này.",
+      "chapter": 193,
+      "source": "Tiên Nghịch ch.193"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Khi hồn thạch hình thành, Vương Lâm có được năng lực đặc trưng nào của thôn hồn?",
+      "options": [
+        "Chế tạo du hồn",
+        "Xuyên qua tử hải",
+        "Đoạt xá thân thể",
+        "Mở lại phong ấn"
+      ],
+      "correctIndex": 0,
+      "explanation": "Chỉ thôn hồn có hồn thạch mới chế tạo được du hồn; đến lúc này hắn mới là thôn hồn chính thức.",
+      "chapter": 193,
+      "source": "Tiên Nghịch ch.193"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Sửa phương án đúng cho rõ: lão sợ lộ việc chính lão làm truyền thừa thiếu một phần ba.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Vì sao Thiên Ma Tán Nhân tuyệt vọng khi thấy phong ấn của Thác Sâm sắp được phá?",
+      "options": [
+        "Lục Dục Ma Quân sẽ sống lại",
+        "Lộ việc lão làm hụt truyền thừa",
+        "Thủ cốt Cổ Thần sẽ bị đoạt",
+        "Vương Lâm sẽ khai tội của lão"
+      ],
+      "correctIndex": 1,
+      "explanation": "Phong ấn mở, Thác Sâm sẽ thấy truyền thừa thiếu một phần ba và dễ dàng truy ra lão đã động tay chân, lão chỉ còn đường chết.",
+      "chapter": 193,
+      "source": "Tiên Nghịch ch.193"
+    }
+  },
+  {
+    "verdict": "drop",
+    "note": "Trùng với câu tên Thác Sâm ở ch.191 (nam tử tóc đỏ bị phong ấn tên Thác Sâm).",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Hồng phát nam tử bị phong ấn trong huyết hải tự xưng tên là gì?",
+      "options": [
+        "Đồ Ti",
+        "Thác Sâm",
+        "Thiên Ma Tán Nhân",
+        "Lệ Bằng"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khi phá phong ấn, hồng phát nam tử tuyên bố phong ấn của Đồ Ti không còn vây khốn được Thác Sâm hắn.",
+      "chapter": 194,
+      "source": "Tiên Nghịch ch.194"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Nhờ đâu Thiên Ma Tán Nhân giữ được thần trí, không bị phân thức của hồng phát nam tử dung hợp?",
+      "options": [
+        "Huyền Thiên Dục Ma Quyết",
+        "Sự che chở của Lục Dục Ma Quân",
+        "Khẩu quyết học ở chỗ cổ thần",
+        "Đan dược của Đóa Mục"
+      ],
+      "correctIndex": 2,
+      "explanation": "Ngoài Huyền Thiên Dục Ma Quyết, hắn còn tu một khẩu quyết thần bí có được lần đầu tới chỗ cổ thần, nhờ vậy áp chế được phân thức.",
+      "chapter": 194,
+      "source": "Tiên Nghịch ch.194"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Khi phân thức từ huyết hải ào tới, hồng phát nam tử tạo ra thứ gì quanh mình để chặn lại?",
+      "options": [
+        "Một quang mạc ngũ thải",
+        "Một con hắc long",
+        "Một tầng mây lôi điện màu tím",
+        "Một xà trận"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn bắt quyết cho ngũ thải khí lãng tràn ra, hình thành quang mạc năm trượng bao quanh mình.",
+      "chapter": 194,
+      "source": "Tiên Nghịch ch.194"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Để phân tán bớt phân thức bên ngoài quang mạc, hồng phát nam tử đã làm gì với các tu sĩ ma hóa?",
+      "options": [
+        "Thả họ trốn qua khe không gian",
+        "Bắt họ cùng duy trì quang mạc",
+        "Ra lệnh họ cùng thôn phệ phân thức",
+        "Kéo họ tới cho phân thức nhập thể"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn chụp hàng trăm tu sĩ ma hóa đưa tới quang mạc, để hơn mười đạo phân thức chui vào mỗi người.",
+      "chapter": 194,
+      "source": "Tiên Nghịch ch.194"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Làm rõ đối tượng là con thôn hồn kia, tránh nhầm với Vương Lâm cũng là thôn hồn.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Hồng phát nam tử hứa sẽ làm gì cho con thôn hồn kia (không phải Vương Lâm) nếu nó giúp hắn phá giải phong ấn?",
+      "options": [
+        "Trao cho nó toàn bộ truyền thừa ký ức",
+        "Dùng cổ thần lực tái tạo thân người",
+        "Truyền cho nó Cổ thần quyết",
+        "Thả nó về lại huyết hải"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn hứa dùng cổ thần lực tái tạo nhân hình cho thôn hồn và mang nó tới Tịch Diệt giới.",
+      "chapter": 194,
+      "source": "Tiên Nghịch ch.194"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Sương mù màu xám tràn ra từ khe không gian do Thác Sâm xé mở được Vương Lâm nhận ra là gì?",
+      "options": [
+        "Hắc khí của huyết hải",
+        "Khói độc từ thạch trùy",
+        "Sương mù bao ngoài tử hải",
+        "Mây mù của cấm chế chi sơn"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vương Lâm nhận ra ngay đó là tầng sương mù dày đặc bên ngoài thần thức tử hải.",
+      "chapter": 195,
+      "source": "Tiên Nghịch ch.195"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Thức hải hình cầu của cổ thần chia làm hai nửa: một nửa là huyết hải, nửa kia là gì?",
+      "options": [
+        "Tử hải",
+        "Lôi hải",
+        "Hỏa hải",
+        "Băng hải"
+      ],
+      "correctIndex": 0,
+      "explanation": "Thần thức Đồ Ti chia đôi, một nửa thành huyết hải, nửa còn lại hóa thành tử hải.",
+      "chapter": 195,
+      "source": "Tiên Nghịch ch.195"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ tên 'phân thần thuật' (không nhất quán trong truyện) khỏi phần giải thích.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Theo sinh vật dài vạn trượng trong tử hải, Thác Sâm vốn có nguồn gốc là gì?",
+      "options": [
+        "Đệ tử thân truyền duy nhất của Đồ Ti",
+        "Một tộc nhân cổ thần khác",
+        "Phân thân của Lục Dục Ma Quân",
+        "Ma niệm sinh ra khi Đồ Ti tu luyện"
+      ],
+      "correctIndex": 3,
+      "explanation": "Sinh vật nói Thác Sâm là tia ma niệm sinh ra khi chủ nhân Đồ Ti tu luyện thần thông; chính Thác Sâm cũng nhận mình từng là ma niệm của Đồ Ti.",
+      "chapter": 195,
+      "source": "Tiên Nghịch ch.195"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "vua",
+      "question": "Lôi điện màu tím trong tầng mây dưới sương xám khiến Vương Lâm nhớ tới nơi nào từng đi qua?",
+      "options": [
+        "Đáy huyết hải",
+        "Núi cấm chế ở cửa ải thứ hai",
+        "Nơi phong ấn Thác Sâm",
+        "Truyền tống trận lúc tiến vào"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn nhớ lôi điện tím ở đệ nhị quan cấm chế chi sơn giống hệt nơi này.",
+      "chapter": 195,
+      "source": "Tiên Nghịch ch.195"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Thay phương án nhiễu 'phân thần thuật' (thuật ngữ không nhất quán) bằng phương án khác.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Thác Sâm khẳng định mình đã đoạt được loại truyền thừa nào của Đồ Ti từ trước?",
+      "options": [
+        "Truyền thừa ký ức",
+        "Truyền thừa luyện khí",
+        "Truyền thừa lực lượng",
+        "Truyền thừa huyết mạch"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn nói truyền thừa lực lượng đã bị hắn đoạt, giờ chỉ còn truyền thừa ký ức do sinh vật canh giữ.",
+      "chapter": 195,
+      "source": "Tiên Nghịch ch.195"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Khi thúc giục truyền thừa ký ức trong tử hải, Vương Lâm cảm nhận tiếng gọi yếu ớt phát ra từ đâu?",
+      "options": [
+        "Cây trường mâu hắc long",
+        "Viên hạt nằm sâu trong miệng sinh vật",
+        "Chiếc sừng của sinh vật",
+        "Một tấm lân phiến trên lưng sinh vật"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn cảm nhận một tia kêu gọi từ tấm lân phiến trên lưng sinh vật vạn trượng và nhớ kỹ vị trí.",
+      "chapter": 196,
+      "source": "Tiên Nghịch ch.196"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Lão giả gọi Lệ Bằng, Thác Sâm nhận ra kẻ trốn năm xưa được sinh vật cứu; thể hiện rõ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Cái đầu người như thư sinh, mọc trên quả cầu thịt phun ra từ miệng sinh vật vạn trượng, là ai?",
+      "options": [
+        "Lệ Bằng",
+        "Đóa Mục",
+        "Thiên Ma Tán Nhân",
+        "Lục Dục Ma Quân"
+      ],
+      "correctIndex": 0,
+      "explanation": "Lão giả gọi Lệ Bằng, kẻ từng chạy thoát khỏi Thác Sâm, và Thác Sâm nhận ra hắn được sinh vật cứu.",
+      "chapter": 196,
+      "source": "Tiên Nghịch ch.196"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "vua",
+      "question": "Vương Lâm định lợi dụng đặc tính nào của khe không gian để đề phòng bảo vật nhóm Đóa Mục giao cho?",
+      "options": [
+        "Làm thời gian ngừng trôi",
+        "Ngăn cách mọi thần thức",
+        "Phục chế lại bảo vật",
+        "Hút cạn linh lực bảo vật"
+      ],
+      "correctIndex": 1,
+      "explanation": "Khoảng không trung gian trong khe có khí tức hỗn loạn, ngăn cản hết thảy thần thức, nên chủ cũ không điều khiển được bảo vật.",
+      "chapter": 196,
+      "source": "Tiên Nghịch ch.196"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Khi lão giả hô Vương Lâm ra tay phong ấn Thác Sâm, Vương Lâm đã làm gì?",
+      "options": [
+        "Cùng duy trì đồ hình",
+        "Tấn công thẳng vào Thác Sâm từ phía sau",
+        "Lao về phía sinh vật vạn trượng",
+        "Bỏ chạy ra khỏi tử hải"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn giả vờ lao tới lão giả rồi đổi hướng về sinh vật vạn trượng, nhắm vào tấm lân phiến.",
+      "chapter": 196,
+      "source": "Tiên Nghịch ch.196"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Câu hỏi chỉ rõ lần 'Bạo' đầu nhắm vào lão giả; chỉ phương án chia chín người đúng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Lão giả hóa giải chiêu kích nổ phân thức đầu tiên của Thác Sâm nhắm vào mình bằng cách nào?",
+      "options": [
+        "Nhờ quang quyển của Lệ Bằng",
+        "Chia phân thức cho chín người rồi hợp lại",
+        "Trốn vào trong khe không gian",
+        "Dùng bổn mạng pháp khí phong ấn phân thức"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn tách hồng mang thành chín đạo vào chín người, dung hợp rồi thu về, khiến chiêu kích nổ vô dụng với hắn.",
+      "chapter": 196,
+      "source": "Tiên Nghịch ch.196"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Thân ảnh đầu tiên bay ra từ khe không gian rồi tự lao vào lôi cầu thực chất là gì?",
+      "options": [
+        "Một tiểu thú cỡ bàn tay",
+        "Thân thể thật của Vương Lâm",
+        "Một thanh phi kiếm",
+        "Một con khôi lỗi"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đó chỉ là một tiểu thú lớn bằng bàn tay, đánh vào lôi cầu liền tan biến, dùng để dò xét.",
+      "chapter": 197,
+      "source": "Tiên Nghịch ch.197"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Phân thân của nam tử mắt lục lăng xuyên vào đồ hình giao chiến với Thác Sâm bằng vũ khí gì?",
+      "options": [
+        "Một cuộn tranh",
+        "Một thanh loan đao tím",
+        "Một thanh mâu hư ảo",
+        "Một cái đỉnh thất thải"
+      ],
+      "correctIndex": 2,
+      "explanation": "Hắn chụp vào không trung tạo ra thanh mâu hư ảo giống hệt thần mâu của Thác Sâm, uy áp không kém hàng thật.",
+      "chapter": 197,
+      "source": "Tiên Nghịch ch.197"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "de",
+      "question": "Bị đồ hình của mười người vây khốn, Thác Sâm thoát ra bằng cách biến thân thể thành gì?",
+      "options": [
+        "Một con hắc long",
+        "Một đoàn huyết vụ",
+        "Một tầng lôi điện tím",
+        "Vô số tiểu thú"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thân thể hắn nổ thành huyết vụ, tản ra hàng ngàn huyết ti, phá vỡ đồ hình.",
+      "chapter": 197,
+      "source": "Tiên Nghịch ch.197"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Khi lao ra đáp xuống tấm lân phiến, Vương Lâm ở trong trạng thái nào?",
+      "options": [
+        "Nhục thân thật",
+        "Nguyên anh xuất khiếu",
+        "Phân thân bằng đá",
+        "Thần thức ly thể"
+      ],
+      "correctIndex": 3,
+      "explanation": "Thân thể hắn hư ảo vì đây là thần thức rời khỏi thân thể, nhục thân vẫn giấu trong khe không gian.",
+      "chapter": 197,
+      "source": "Tiên Nghịch ch.197"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Phân thân Thác Sâm và nam tử mắt lục lăng sững sờ vì cảm nhận được gì từ thần thức Vương Lâm?",
+      "options": [
+        "Uy áp của Nguyên Anh kỳ",
+        "Khí tức của Nghịch Thiên châu",
+        "Khí tức truyền thừa ký ức",
+        "Khí tức bổn mạng pháp khí"
+      ],
+      "correctIndex": 2,
+      "explanation": "Họ ngừng giao chiến vì nhận ra trong thần thức Vương Lâm có một tia khí tức của truyền thừa ký ức.",
+      "chapter": 197,
+      "source": "Tiên Nghịch ch.197"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Số 94 là trọng tâm, nhắc nhất quán ở ch.198-199.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "de",
+      "question": "Nơi chứa truyền thừa ký ức chân chính của cổ thần có tổng cộng bao nhiêu khối băng tinh?",
+      "options": [
+        "Ba mươi tư",
+        "Năm mươi bảy",
+        "Tám mươi",
+        "Chín mươi tư"
+      ],
+      "correctIndex": 3,
+      "explanation": "Vương Lâm đếm được chín mươi tư khối băng tinh, phần hắn hấp thu trước kia chưa nổi một phần trăm.",
+      "chapter": 198,
+      "source": "Tiên Nghịch ch.198"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "de",
+      "question": "Soi gương băng tinh sau khi hấp thu khối băng tinh đầu tiên, Vương Lâm thấy khuôn mặt của ai?",
+      "options": [
+        "Của Mã Lương",
+        "Của chính hắn thuở trước",
+        "Của cổ thần Đồ Ti",
+        "Của kẻ thù Đằng Hóa Nguyên"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thân thể thần thức đã khôi phục dung mạo cha mẹ ban cho, không còn là khuôn mặt mi thanh mục tú của Mã Lương.",
+      "chapter": 198,
+      "source": "Tiên Nghịch ch.198"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Trong ký ức truyền thừa, Đồ Ti dùng hơn ba mươi tinh cầu luyện ra vật gì rồi tiếc nuối ném đi?",
+      "options": [
+        "Một cái đỉnh thất thải",
+        "Một thanh trường mâu đen",
+        "Một viên đan dược",
+        "Một lá cấm phiên"
+      ],
+      "correctIndex": 0,
+      "explanation": "Đồ Ti luyện ra một cái đỉnh tỏa thất thải quang mang, không hài lòng nên ném xuống một tinh cầu.",
+      "chapter": 198,
+      "source": "Tiên Nghịch ch.198"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Vương Lâm xác nhận tinh điểm xuất hiện trên mi tâm mình tượng trưng cho điều gì?",
+      "options": [
+        "Số băng tinh đã hấp thu",
+        "Một lần trọng tổ thân thể",
+        "Một tầng tu vi của Kết Đan kỳ",
+        "Một đạo phân thần"
+      ],
+      "correctIndex": 1,
+      "explanation": "Đồ Ti có tám tinh điểm ứng với tám lần trọng tổ; Vương Lâm xác nhận tinh điểm của mình đại biểu một lần trọng tổ.",
+      "chapter": 198,
+      "source": "Tiên Nghịch ch.198"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Vì sao sau khi hấp thu hơn năm mươi băng tinh, Vương Lâm cố ý giảm tốc độ dung hợp?",
+      "options": [
+        "Sợ Thác Sâm lần theo dấu",
+        "Băng tinh sắp cạn linh lực",
+        "Sợ lầm tưởng mình là Đồ Ti",
+        "Thân thể cũ sắp thối rữa"
+      ],
+      "correctIndex": 2,
+      "explanation": "Thần thức hắn bắt đầu thác loạn, lúc tưởng mình là Đồ Ti; hấp thu vội có thể quên mất bản thân.",
+      "chapter": 198,
+      "source": "Tiên Nghịch ch.198"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "de",
+      "question": "Ba viên đá đen Vương Lâm lấy ra trước khi rời nơi truyền thừa là vật liệu để chế tạo gì?",
+      "options": [
+        "Hồn phiên",
+        "Phi kiếm",
+        "Cấm phiên",
+        "Truyền tống trận"
+      ],
+      "correctIndex": 2,
+      "explanation": "Đó là Mặc Gian thạch, vật bắt buộc phải có để chế tạo cấm phiên.",
+      "chapter": 199,
+      "source": "Tiên Nghịch ch.199"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "de",
+      "question": "Vương Lâm thu thứ gì từ thây khô của thân thể cũ vào đan điền của thân thể mới?",
+      "options": [
+        "Nguyên anh",
+        "Viên kim đan",
+        "Nghịch Thiên châu",
+        "Mảnh băng tinh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Hắn làm thây khô vỡ vụn, lấy viên kim đan to bằng nắm tay, nó chui vào cơ thể và dừng ở đan điền.",
+      "chapter": 199,
+      "source": "Tiên Nghịch ch.199"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "canh_gioi",
+      "difficulty": "vua",
+      "question": "Từ tro của thây khô, Vương Lâm gọi ra ngọn lửa màu lam nào rồi nuốt vào dung nhập kim đan?",
+      "options": [
+        "Tam Muội chân hỏa",
+        "Cực Âm hàn hỏa",
+        "Thái Âm hàn băng chi hỏa",
+        "Hoàng Tuyền chi viêm"
+      ],
+      "correctIndex": 3,
+      "explanation": "Hắn bấm quyết gọi Hoàng Tuyền chi viêm, các quang điểm lam ngưng thành đoàn lửa rồi bay vào miệng hắn.",
+      "chapter": 199,
+      "source": "Tiên Nghịch ch.199"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vì ký ức thu được dừng trước lúc Đồ Ti tu luyện và tử vong, Vương Lâm phỏng đoán điều gì?",
+      "options": [
+        "Còn nhiều băng tinh ở nơi khác",
+        "Cổ thần Đồ Ti thật ra vẫn còn sống",
+        "Thác Sâm đã xóa phần ký ức đó",
+        "Lệ Bằng đã lấy trộm băng tinh"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn mạnh dạn đoán băng tinh không chỉ có chín mươi tư mà còn nhiều hơn, chỉ là không ở đây.",
+      "chapter": 199,
+      "source": "Tiên Nghịch ch.199"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Khi Vương Lâm rời Cổ thần chi địa, hư ảnh Đồ Ti dùng tám đạo tinh quang tạo ra thứ gì?",
+      "options": [
+        "Một truyền tống trận thượng cổ",
+        "Một cây cầu tinh quang",
+        "Một cánh cổng chữ thập",
+        "Một lốc xoáy hình bát giác"
+      ],
+      "correctIndex": 3,
+      "explanation": "Tám tinh điểm trên mi tâm hư ảnh bắn tám đạo tinh quang lên ba quang, hình thành lốc xoáy bát giác.",
+      "chapter": 199,
+      "source": "Tiên Nghịch ch.199"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Thay các phương án tên môn phái bằng tên địa danh cùng loại.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Rời Cổ thần chi địa qua thông đạo, Vương Lâm xuất hiện bên trong vùng vòng đá vụn hung hiểm nào ở Tu Ma nội hải?",
+      "options": [
+        "Cấm chế chi sơn",
+        "Toái Tinh Loạn",
+        "Thần thức tử hải",
+        "Hư vô thông đạo"
+      ],
+      "correctIndex": 1,
+      "explanation": "Thông đạo đưa hắn ra bên trong Toái Tinh Loạn, vòng đá vụn ở Tu Ma nội hải; muốn ra ngoài phải vượt qua khu này.",
+      "chapter": 200,
+      "source": "Tiên Nghịch ch.200"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "dia_danh",
+      "difficulty": "de",
+      "question": "Muốn đi qua Toái Tinh Loạn, người tu luyện phải đánh bại thứ gì?",
+      "options": [
+        "Yêu thú thượng cổ thủ hộ vòng đá",
+        "Trận lôi điện tử sắc",
+        "Phân thân giống hệt mình",
+        "Oan hồn của cổ thần"
+      ],
+      "correctIndex": 2,
+      "explanation": "Lực lượng thần bí ở đó tạo ra phân thân cùng tu vi, chỉ thắng nó mới qua được.",
+      "chapter": 200,
+      "source": "Tiên Nghịch ch.200"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Cô gái Vân Phi bị truy sát gần Toái Tinh Loạn là truyền nhân của môn phái nào?",
+      "options": [
+        "Kỳ Hoàng Môn",
+        "Độc Ma Vương Cung",
+        "Thi Âm Tông",
+        "Huyền Đạo Tông"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vân Phi là truyền nhân Kỳ Hoàng Môn, môn phái từng nổi danh ở Tu Ma hải nhưng bị hủy trong một đêm.",
+      "chapter": 200,
+      "source": "Tiên Nghịch ch.200"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "phap_bao",
+      "difficulty": "vua",
+      "question": "Ngọc giản Vân Phi trộm khỏi Ma Cung ghi chép nội dung gì?",
+      "options": [
+        "Bản đồ đi qua Toái Tinh Loạn",
+        "Phương pháp phối chế đan dược",
+        "Bí thuật chạy trốn của sư môn",
+        "Công pháp đột phá Nguyên Anh"
+      ],
+      "correctIndex": 1,
+      "explanation": "Ngọc giản ghi cách phối chế vài loại đan dược quý nhất của Kỳ Hoàng Môn, kẻ truy đuổi muốn dùng để lên Kết Đan hậu kỳ.",
+      "chapter": 200,
+      "source": "Tiên Nghịch ch.200"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đáp án khớp nguyên văn chương, phương án nhiễu sai rõ ràng.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Phân thân đầu tiên trong Toái Tinh Loạn tự nổ tung khi Vương Lâm vận động thứ gì để thử?",
+      "options": [
+        "Độc kiếm luyện từ Độc Vương Đỉnh",
+        "Cổ thần quyết",
+        "Cực Cảnh thần thức",
+        "Thân thể đã trọng tổ"
+      ],
+      "correctIndex": 2,
+      "explanation": "Toái Tinh Loạn phục chế được cả độc kiếm nhưng không phục chế nổi Cực Cảnh thần thức, nên phân thân tự bạo.",
+      "chapter": 200,
+      "source": "Tiên Nghịch ch.200"
+    }
+  }
+]

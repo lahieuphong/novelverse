@@ -1,0 +1,1442 @@
+[
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Diêu Tích Tuyết truyền âm hẹn Vương Lâm canh ba tới gặp mình ở đâu?",
+  "options": [
+   "Tửu lâu Trúc Thanh lâu",
+   "Cổ sơn ngoài quân doanh",
+   "Cổng chính Cổ Yêu thành",
+   "Thung lũng bộ lạc Luyện Hồn"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nàng hẹn hắn tới ngọn cổ sơn cách quân doanh ngàn dặm.",
+  "chapter": 551,
+  "source": "Tiên Nghịch ch.551",
+  "evidence": "Diêu Tích Tuyết truyền âm vào nguyên thần Vương Lâm: \"hãy đến cổ sơn cách quân doanh ngàn dặm\"; hắn không tới."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Thập Tam ra quyền ngăn Diêu Tích Tuyết xông vào lầu của Vương Lâm. Nàng xử lý hắn thế nào?",
+  "options": [
+   "Bọc huyết quang khiến hắn bất động",
+   "Đánh văng hắn ra khỏi quân doanh",
+   "Thu hắn vào trong một lá hồn phiên",
+   "Đóng băng toàn thân hắn bằng hàn khí"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nàng điểm một tia sáng đỏ máu bao phủ khiến Thập Tam đứng im như tượng.",
+  "chapter": 551,
+  "source": "Tiên Nghịch ch.551",
+  "evidence": "Tia sáng đỏ như máu bao phủ toàn thân Thập Tam, hắn \"đứng im như một pho tượng trước ngôi lầu\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Để nhờ Vương Lâm giúp phá trận cấm chế, Diêu Tích Tuyết hứa trả thù lao gì?",
+  "options": [
+   "Một môn tiên thuật của Huyết Tổ",
+   "Chức Yêu tướng ở Cổ Yêu thành",
+   "Một kiện ngụy tiên bảo",
+   "Tiên ngọc đủ tu tới Vấn Đỉnh sơ kỳ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Nàng hứa cung cấp tất cả tiên ngọc để hắn đạt tới Vấn Đỉnh sơ kỳ.",
+  "chapter": 551,
+  "source": "Tiên Nghịch ch.551",
+  "evidence": "Diêu Tích Tuyết: \"Ta có thể cung cấp tất cả tiên ngọc cho đạo hữu đạt tới Vấn Đỉnh sơ kỳ.\""
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Theo lời Diêu Tích Tuyết, trận pháp cấm chế nàng muốn phá có tổng cộng bao nhiêu phong ấn?",
+  "options": [
+   "Chín",
+   "Ba mươi sáu",
+   "Mười tám",
+   "Bảy"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nàng nói trận xoay tròn, bên trong có mười tám phong ấn, nàng chỉ phá tới cái thứ mười một.",
+  "chapter": 551,
+  "source": "Tiên Nghịch ch.551",
+  "evidence": "Diêu Tích Tuyết tả trận: \"Bên trong có mười tám cái phong ấn\", nàng chỉ phá được tới cái thứ mười một."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Vì sao tới lúc này Vương Lâm vẫn chưa hấp thu số tiên ngọc mình có, chỉ tích lũy yêu lực?",
+  "options": [
+   "Để dành khi bị thương, hao tổn",
+   "Tiên ngọc nơi đây nhiễm yêu khí",
+   "Sợ Yêu tướng phát hiện tiên lực",
+   "Đã hứa nộp lại cho Thiên Vận Tử"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn cất tiên ngọc phòng khi bị thương hay hao tổn tiên lực trong năm trăm năm ở Yêu Linh chi địa.",
+  "chapter": 551,
+  "source": "Tiên Nghịch ch.551",
+  "evidence": "Nếu dùng hết tiên ngọc, năm trăm năm ở đây mà bị thương hoặc hao tổn tiên lực thì sẽ khốn khổ, nên hắn cất giữ \"dành cho lúc cần đến\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vật Diêu Tích Tuyết lấy ra, nói đó là Huyết Hồn đan, trông như thế nào?",
+  "options": [
+   "Một viên ngọc đỏ",
+   "Một chiếc la bàn",
+   "Một tấm lệnh bài",
+   "Một cây đèn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Huyết Hồn đan nàng đưa có hình một cây đèn khắc phù văn.",
+  "chapter": 552,
+  "source": "Tiên Nghịch ch.552",
+  "evidence": "Diêu Tích Tuyết vuốt túi trữ vật, \"trong tay nàng xuất hiện một cây đèn\" và nói nó tên là Huyết Hồn đan."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Vương Lâm gọi ai từ trong hồn phiên ra để hỏi về Huyết Tổ?",
+  "options": [
+   "Âu Dương Hoa",
+   "Tư Mã Viêm",
+   "Tào Nhất Đấu",
+   "Thập Tam"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn rung hồn phiên gọi Tào Nhất Đấu, người từng dẫn đường ở Chu Tước tinh.",
+  "chapter": 552,
+  "source": "Tiên Nghịch ch.552",
+  "evidence": "Vương Lâm rung hồn phiên quát \"Tào Nhất Đấu\", khói đen hóa thành người rồi hắn hỏi về Huyết Tổ."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Theo lời đồn Tào Nhất Đấu kể, trên Thiên Vận tinh Huyết Tổ chỉ xếp sau những ai?",
+  "options": [
+   "Thiên Vận Tử và Yêu Đế",
+   "Lăng Thiên Hậu và Quỷ Chân Nhân",
+   "Yêu Đế và Mạc Lệ Hải",
+   "Thiên Vận Tử và Lăng Thiên Hậu"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tào Nhất Đấu nói Huyết Tổ được đồn đứng thứ ba, sau Thiên Vận Tử và Lăng Thiên Hậu.",
+  "chapter": 552,
+  "source": "Tiên Nghịch ch.552",
+  "evidence": "Tào Nhất Đấu: Huyết Tổ \"đứng vị trí thứ ba sau Thiên Vận tử và Lăng Thiên hậu\" trên Thiên Vận tinh."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Theo Tào Nhất Đấu, nhỏ máu lên Huyết Hồn đan sẽ thấy tia sáng màu gì lóe lên?",
+  "options": [
+   "Đỏ như máu",
+   "Màu lam",
+   "Vàng kim",
+   "Màu tím"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đó là cách nhận biết ai cũng biết: nhỏ máu thì lóe sáng màu lam.",
+  "chapter": 552,
+  "source": "Tiên Nghịch ch.552",
+  "evidence": "Vương Lâm nhỏ máu lên cây đèn, \"một tia sáng màu lam chợt lóe lên\"; Tào Nhất Đấu nói đúng là Huyết Hồn đan."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Điều gì khiến Vương Lâm khẳng định Huyết Hồn đan Diêu Tích Tuyết đưa cho có vấn đề?",
+  "options": [
+   "Nàng hào phóng, chẳng sợ hắn đổi ý",
+   "Phù văn trên nó không hợp nhịp tim hắn",
+   "Tào Nhất Đấu bảo đó là đồ giả mạo",
+   "Nhỏ máu lên mà không hề có phản ứng"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn thấy nàng trao vật vô giá quá dễ dàng, không sợ hắn đổi ý, nên chắc chắn có vấn đề.",
+  "chapter": 552,
+  "source": "Tiên Nghịch ch.552",
+  "evidence": "Vương Lâm: nếu nàng không hào hiệp như vậy thì hắn chỉ hoài nghi, \"nhưng bây giờ, ta chắc chắn rằng Huyết Hồn đan có vấn đề\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Trước khi lên đường, Diêu Tích Tuyết dựng trận che giấu bằng những vật gì?",
+  "options": [
+   "Bảy lá cờ đen khắc phù văn",
+   "Bảy khối tiên ngọc thượng phẩm",
+   "Bảy viên yêu tinh ngàn giáp",
+   "Bảy pho tượng nhỏ đỏ máu"
+  ],
+  "correctIndex": 3,
+  "explanation": "Nàng lấy ra các pho tượng đỏ như máu, chúng bay về bảy điểm rồi chui vào lòng đất tạo trận.",
+  "chapter": 553,
+  "source": "Tiên Nghịch ch.553",
+  "evidence": "Diêu Tích Tuyết xuất ra mấy pho tượng đỏ như máu cao ba tấc; Vương Lâm thấy tác dụng chính đến từ \"bảy pho tượng vừa rồi\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Trong trận che giấu ấy, Vương Lâm gặp hiện tượng lạ chưa từng thấy nào?",
+  "options": [
+   "Tiên lực ngừng vận chuyển",
+   "Nguyên thần rời khỏi thân xác",
+   "Thần thức không thấy chính mình",
+   "Thời gian như ngừng trôi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Thần thức vẫn điều khiển được nhưng không tìm thấy thân ảnh của hắn, như soi gương mà không thấy mình.",
+  "chapter": 553,
+  "source": "Tiên Nghịch ch.553",
+  "evidence": "Vương Lâm tản thần thức ra và \"phát hiện ra rằng thần thức không thể nhìn thấy bản thân\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Ánh sáng đỏ từ chiếc la bàn của Diêu Tích Tuyết chỉ bừng lên vào thời khắc nào?",
+  "options": [
+   "Lúc thủy triều Đông Hải lên",
+   "Lúc trăng tím sáng mạnh nhất",
+   "Lúc mặt trời vừa mọc",
+   "Lúc yêu linh đi săn đêm"
+  ],
+  "correctIndex": 1,
+  "explanation": "La bàn phát sáng đỏ đúng lúc ánh trăng tím tràn ngập, việc này nửa năm mới có một lần.",
+  "chapter": 553,
+  "source": "Tiên Nghịch ch.553",
+  "evidence": "Ánh sáng tím từ mặt trăng tăng mạnh, \"cùng lúc đó, la bàn của tỏa ra ánh sáng đỏ như máu\"; trăng tím mạnh nhất nửa năm một lần."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Lao theo Diêu Tích Tuyết vào luồng sáng đỏ, Vương Lâm nhận ra nó thực chất là gì?",
+  "options": [
+   "Một huyễn trận",
+   "Một khe nứt không gian",
+   "Một cấm chế phong ấn",
+   "Một truyền tống trận"
+  ],
+  "correctIndex": 3,
+  "explanation": "Quen dùng truyền tống trận, hắn lập tức nhận ra luồng sáng đỏ là một truyền tống trận do Huyết Tổ bố trí.",
+  "chapter": 553,
+  "source": "Tiên Nghịch ch.553",
+  "evidence": "Vừa vào ánh sáng đỏ, \"hắn liền phát hiện ra đây chính là một cái truyền tống trận\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Nhìn kỹ, Vương Lâm phát hiện con đường nhỏ lơ lửng trước bình đài thực ra là gì?",
+  "options": [
+   "Thân một con giao long",
+   "Xương sống một Cổ Thần",
+   "Một sợi xích tiên khổng lồ",
+   "Đuôi một con cự xà"
+  ],
+  "correctIndex": 0,
+  "explanation": "Con đường uốn lượn thực chất là thân thể một con giao long tên Tôn Long.",
+  "chapter": 553,
+  "source": "Tiên Nghịch ch.553",
+  "evidence": "Vương Lâm nhận ra: \"Đó nào phải là con đường mà rõ ràng là cơ thể của một con giao long\", tên là Tôn Long."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Ký hiệu vàng kim hiện trong mắt Vương Lâm sau khi cảm ngộ có mấy nét?",
+  "options": [
+   "Ba nét",
+   "Một nét",
+   "Sáu nét",
+   "Chín nét"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ký hiệu của hắn có sáu nét, phức tạp hơn ký hiệu ba nét của Diêu Tích Tuyết.",
+  "chapter": 554,
+  "source": "Tiên Nghịch ch.554",
+  "evidence": "Trong mắt Vương Lâm xuất hiện ký hiệu vàng \"do sáu nét tạo thành hết sức phức tạp\"; Diêu Tích Tuyết chỉ có ba nét."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Trong cơn mộng ảo trên bình đài, giọng nói Vương Lâm nghe được tự xưng tên gì?",
+  "options": [
+   "Hồng Điệp",
+   "Từ U",
+   "Thanh Sương",
+   "Liễu Mi"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nắm đúng thời cơ trước khi mọi thứ biến mất, hắn nghe rõ câu \"Ta là Thanh Sương\".",
+  "chapter": 554,
+  "source": "Tiên Nghịch ch.554",
+  "evidence": "Trong tai hắn vang lên thanh âm rõ ràng: \"Ta là Thanh Sương\", rồi biến mất."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Trong cơn mộng ảo, vì sao Vương Lâm chọn lắng nghe giọng nói thay vì nhìn những bóng người?",
+  "options": [
+   "Nhìn thẳng sẽ bị đoạt xá",
+   "Mắt hắn bị kim quang che mờ",
+   "Diêu Tích Tuyết đã dặn trước",
+   "Âm thanh mang tin thật hơn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn cho rằng âm thanh có thể chứa tin tức chân thật, còn hình ảnh phần nhiều là ý niệm chủ quan.",
+  "chapter": 554,
+  "source": "Tiên Nghịch ch.554",
+  "evidence": "Hắn chọn thanh âm vì trong đó có thể có tin tức chân thật, còn nhìn thì \"có hơn nửa là ý niệm chủ quan\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Pho tượng đá ở phong ấn đầu tiên có đặc điểm hình dạng gì?",
+  "options": [
+   "Mình người mà đầu thú dữ",
+   "Có sáu cánh tay rất dài",
+   "Tai và tay to khác thường",
+   "Trên đầu mọc một sừng nhọn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tượng cao chừng ba trượng, kích thước bình thường nhưng hai tai và hai tay rất lớn.",
+  "chapter": 554,
+  "source": "Tiên Nghịch ch.554",
+  "evidence": "Pho tượng đá cao chừng ba trượng, \"nhưng hai tai và hai tay lại rất lớn\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Diêu Tích Tuyết khống chế pho tượng đá ở phong ấn đầu tiên bằng vật gì?",
+  "options": [
+   "Một chiếc la bàn máu",
+   "Một ngọc phù đỏ như máu",
+   "Một lá cờ huyết sắc",
+   "Một chuỗi huyết châu"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nàng ném ngọc phù đỏ máu, nó vỡ thành luồng sáng đỏ phong ấn tượng đá như khoác áo đỏ.",
+  "chapter": 554,
+  "source": "Tiên Nghịch ch.554",
+  "evidence": "Nàng lấy ra ngọc phù \"có màu đỏ như máu\", hô \"Phong!\" rồi ném ra, luồng sáng đỏ bao phủ tượng đá."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Tượng đá ở phong ấn thứ hai khác tượng đầu tiên ở điểm nào?",
+  "options": [
+   "Có thêm con mắt thứ ba",
+   "Cao gấp đôi tượng trước",
+   "Có hai cái đầu",
+   "Mọc đôi cánh đá"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hình dạng gần như giống hệt, chỉ khác là mi tâm có thêm con mắt thứ ba.",
+  "chapter": 555,
+  "source": "Tiên Nghịch ch.555",
+  "evidence": "Điểm khác duy nhất của pho tượng là \"ở mi tâm của nó có thêm một con mắt thứ ba\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Không đuổi kịp Vương Lâm, pho tượng ở phong ấn thứ hai dùng thần thông gì?",
+  "options": [
+   "Phun lửa đỏ rực từ trong miệng",
+   "Dậm đất cho cọc nhọn trồi lên",
+   "Gọi một trận bão cát vây kín hắn",
+   "Phóng kim quang chói lòa từ hai tay"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nó dậm mạnh xuống đất, vô số cột đá nhọn liên tiếp vọt lên phủ kín bình đài.",
+  "chapter": 555,
+  "source": "Tiên Nghịch ch.555",
+  "evidence": "Tượng đá dậm mạnh xuống đất, tại chỗ Vương Lâm chạy tới \"có một cây cột đá nhọn từ dưới đất lao lên\", rồi phủ kín bình đài."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Bằng nhãn lực suy diễn, Vương Lâm nhìn ra pho tượng ở phong ấn thứ hai thực chất tạo nên từ gì?",
+  "options": [
+   "Vô số cấm chế chồng lên nhau",
+   "Xác một Cổ Thần hóa đá",
+   "Phân thân của chủ động phủ",
+   "Đá thường khắc phù văn máu"
+  ],
+  "correctIndex": 0,
+  "explanation": "Trong mắt hắn, toàn thân tượng đá không chỗ nào không phải cấm chế.",
+  "chapter": 555,
+  "source": "Tiên Nghịch ch.555",
+  "evidence": "Hắn thấy rõ: \"đó là do một đống cấm chế chồng lên nhau tạo thành\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Cấm phiên của Vương Lâm đã có 999 đạo cấm chế công kích. Điều gì khiến hắn thấy lạ?",
+  "options": [
+   "Cờ bắt đầu phản phệ chủ nhân",
+   "Cờ tự đổi sang màu vàng kim",
+   "Cờ không nhận thêm cấm chế",
+   "Thiên kiếp vẫn chưa giáng xuống"
+  ],
+  "correctIndex": 3,
+  "explanation": "Cấm phiên đạt 999 đạo nhưng thiên kiếp vẫn chưa xuất hiện, khiến hắn thấy quái lạ.",
+  "chapter": 555,
+  "source": "Tiên Nghịch ch.555",
+  "evidence": "Cấm phiên đạt chín trăm chín mươi chín đạo, \"chỉ có điều khiến cho hắn cảm giác quái lạ đó là thiên kiếp vẫn chưa hề xuất hiện\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Khi tượng đá thứ hai vỡ nát, Vương Lâm làm gì khiến ký tự vàng đang bay đi quay lại về phía hắn?",
+  "options": [
+   "Nuốt nó vào nguyên thần",
+   "Thu vào một lá hồn phiên",
+   "Vẽ lại đúng hình nó bằng ngón tay",
+   "Phun máu lên làn khí đen"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn vẽ một nét rồi thêm nét nữa thành đúng ký tự, ký tự vàng liền bay tới dung hợp vào.",
+  "chapter": 555,
+  "source": "Tiên Nghịch ch.555",
+  "evidence": "Ngón trỏ hắn vẽ ký tự một nét rồi thêm nét thứ hai; ký tự từ tượng đá \"chợt thay đổi phương hướng bay thẳng về phía Vương Lâm\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Ký hiệu vàng ba nét Vương Lâm tạo ra sắp sụp đổ. Hắn xử lý nó thế nào?",
+  "options": [
+   "Thu nó vào Cấm phiên",
+   "Nuốt nó vào nguyên thần",
+   "Búng nó về phía Diêu Tích Tuyết",
+   "Ấn nó vào con đường phía trước"
+  ],
+  "correctIndex": 2,
+  "explanation": "Không vẽ được nét thứ tư, hắn búng ký hiệu bay thẳng về phía Diêu Tích Tuyết.",
+  "chapter": 556,
+  "source": "Tiên Nghịch ch.556",
+  "evidence": "Không thể vẽ đệ tứ bút, hắn búng ngón tay, ký hiệu \"bay thẳng về phía Diêu Tích Tuyết\"; nàng phải bóp nát nhiều huyết ngọc."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "de",
+  "question": "Tượng đá ở phong ấn thứ ba cầm vũ khí gì?",
+  "options": [
+   "Một cây trường kiếm",
+   "Một cây trường thương",
+   "Một chiếc búa đá",
+   "Một cây đại đao"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tượng đá ở tầng thứ ba có ba mắt và cầm thêm một cây trường kiếm.",
+  "chapter": 556,
+  "source": "Tiên Nghịch ch.556",
+  "evidence": "Tượng đá ở đây ngoài ba con mắt \"thì trong tay còn có thêm một cây trường kiếm\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Từ phong ấn thứ ba trở đi, vì sao Diêu Tích Tuyết không cho Vương Lâm ra tay nữa?",
+  "options": [
+   "Muốn hắn giữ sức cho tầng cuối",
+   "Đề phòng hắn thu được kim phù",
+   "Hắn bị thương chưa lành",
+   "Phụ thân nàng đã dặn trước"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nàng rất kiêng kỵ kim phù nên tự mình ra tay để Vương Lâm không thu được nó.",
+  "chapter": 556,
+  "source": "Tiên Nghịch ch.556",
+  "evidence": "Diêu Tích Tuyết kiêng kỵ kim phù, \"vì đề phòng Vương Lâm thu được nó nàng đành phải tự mình ra tay\"."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Ở phong ấn thứ mười hai, trên đài không có tượng mà chỉ có gì?",
+  "options": [
+   "Một tấm bia ngọc khắc chữ",
+   "Một lò luyện đan cổ",
+   "Một cánh cửa đá khổng lồ",
+   "Một pho tượng rồng đá"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đài này nhỏ bằng nửa các đài trước, không có tượng mà chỉ có một cánh cửa đá khổng lồ.",
+  "chapter": 556,
+  "source": "Tiên Nghịch ch.556",
+  "evidence": "Trên đài \"không có tượng đá mà chỉ có một cánh cửa đá khổng lồ\", khe nứt trên cửa tạo thành mặt người."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Linh thể hiện ra ở phong ấn thứ mười hai nói đã tha Diêu Tích Tuyết ba lần vì nàng truyền thừa công pháp của ai?",
+  "options": [
+   "Thiên Vận Tử",
+   "Yêu Đế",
+   "Huyết Quân",
+   "Cổ Thần Đồ Ti"
+  ],
+  "correctIndex": 2,
+  "explanation": "Nàng thi triển công pháp của Huyết Quân năm xưa nên được nương tay để công pháp có người nối dõi.",
+  "chapter": 556,
+  "source": "Tiên Nghịch ch.556",
+  "evidence": "Bóng người: ngươi \"lại thi triển công pháp của Huyết Quân năm xưa\", niệm tình hậu nhân nên đã ba lần tha."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Động Phủ Chi Linh đặt điều kiện gì để có tư cách vào động phủ?",
+  "options": [
+   "Tiếp được ba đạo kiếm khí",
+   "Trả lời đúng ba câu hỏi",
+   "Dâng một viên Huyết Hồn đan",
+   "Phá hết mọi phong ấn bên ngoài"
+  ],
+  "correctIndex": 0,
+  "explanation": "Người đàn ông trung niên nói phải tiếp được ba kiếm của hắn mới có tư cách.",
+  "chapter": 557,
+  "source": "Tiên Nghịch ch.557",
+  "evidence": "Động Phủ Chi Linh: \"Nếu tiếp được ba kiếm của ta thì mới có tư cách!\""
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Theo Diêu Tích Tuyết, năm xưa cha nàng biết tới động phủ này qua lời ai?",
+  "options": [
+   "Thiên Vận Tử",
+   "Một Yêu tướng",
+   "Lăng Thiên Hậu",
+   "Một Yêu Đế"
+  ],
+  "correctIndex": 3,
+  "explanation": "Nàng nói đây là động phủ tiên nhân để lại, cha nàng vô tình nghe được từ miệng một Yêu Đế.",
+  "chapter": 557,
+  "source": "Tiên Nghịch ch.557",
+  "evidence": "Diêu Tích Tuyết: động phủ do tiên nhân lưu lại, \"năm xưa cha ta vô tình biết được từ trong miệng một Yêu Đế\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Đỡ đòn đầu tiên của Động Phủ Chi Linh, Vương Lâm dồn thứ gì lên đầu ngón tay?",
+  "options": [
+   "Khí xám Sát lục",
+   "Hàn khí Băng Viêm",
+   "Ma khí từ ma niệm",
+   "Yêu lực ngàn giáp"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn thả phong ấn ma niệm, hắc vụ ma khí bao thân rồi ngưng tụ trên đầu ngón tay đón kim quang.",
+  "chapter": 557,
+  "source": "Tiên Nghịch ch.557",
+  "evidence": "Phong ấn ma niệm tuôn ra thành hắc vụ; trong mắt Diêu Tích Tuyết \"làn hắc vụ này chính là ma khí\", tụ lại trên đầu ngón tay hắn."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Trúng đòn đầu tiên của Động Phủ Chi Linh, Vương Lâm ra sao?",
+  "options": [
+   "Đứng vững, không lùi bước",
+   "Bị đóng băng tại chỗ",
+   "Bị kim quang ghim xuống đài",
+   "Văng khỏi đài, rơi vào hư vô"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn phun máu, bị đánh văng khỏi bục đá và rơi vào tinh không hư vô.",
+  "chapter": 557,
+  "source": "Tiên Nghịch ch.557",
+  "evidence": "Cơ thể Vương Lâm \"đã văng ra khỏi bục đá rồi rơi vào trong tinh không hư vô\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Theo Diêu Tích Tuyết, bảo vật nàng dùng chặn đòn thứ hai của Động Phủ Chi Linh có nhược điểm gì?",
+  "options": [
+   "Chỉ dùng được ở Yêu Linh chi địa",
+   "Phải có máu Huyết Tổ",
+   "Hao nửa tu vi người dùng",
+   "Chỉ hiệu nghiệm một lần"
+  ],
+  "correctIndex": 3,
+  "explanation": "Huyết phù chỉ dùng được một lần; dùng lần hai thì không còn tác dụng với kim quang.",
+  "chapter": 557,
+  "source": "Tiên Nghịch ch.557",
+  "evidence": "Nàng biết \"huyết phù chỉ có thể sử dụng một lần\", dùng thêm lần hai sẽ không còn tác dụng với kim quang."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Lén lên đài đánh úp Diêu Tích Tuyết, Vương Lâm che giấu thần thức bằng vật Vân Tước Tử tặng. Đó là gì?",
+  "options": [
+   "Tinh La Bàn",
+   "Chiếc mũ rơm",
+   "Mặt nạ đồng",
+   "Áo choàng đen"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn đội chiếc mũ rơm Vân Tước Tử tặng năm xưa, có tác dụng che giấu thần thức.",
+  "chapter": 558,
+  "source": "Tiên Nghịch ch.558",
+  "evidence": "Hắn \"đội lên đầu chiếc mũ rơm được Vân Tước Tử tặng năm xưa\"; tác dụng của mũ là che giấu thần thức."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Trúng đòn kim quang của Động Phủ Chi Linh, vì sao Vương Lâm vẫn không bị trọng thương thật?",
+  "options": [
+   "Chấn nát tiên tinh giấu sẵn",
+   "Nuốt một viên Huyết Hồn đan",
+   "Dùng Cấm phiên hút hết lực",
+   "Có thế thân chịu đòn thay"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn đã ngưng sẵn tiên tinh từ một phần ba số tiên ngọc, chấn nát nó để tiên lực tuôn ra triệt tiêu kiếm khí.",
+  "chapter": 558,
+  "source": "Tiên Nghịch ch.558",
+  "evidence": "Hắn lợi dụng lúc kiếm khí nhập thể \"để chấn nát tiên tinh đã được ngưng tụ sẵn trong cơ thể\", tiên lực tuôn ra chống đỡ."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Vì sao Vương Lâm phong ấn Diêu Tích Tuyết thay vì giết nàng?",
+  "options": [
+   "Chết rồi nàng sẽ sống lại",
+   "Sợ Huyết Tổ báo thù",
+   "Muốn đổi nàng lấy tiên ngọc",
+   "Động Phủ Chi Linh cấm giết"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nàng có Huyết Hồn đan, muốn dùng thì phải chết trước, nên hắn phong ấn khiến nàng không chết được.",
+  "chapter": 558,
+  "source": "Tiên Nghịch ch.558",
+  "evidence": "Vương Lâm: muốn dùng Huyết Hồn Đan \"thì điều kiện đầu tiên là ngươi phải chết\", nên hắn phong ấn toàn thân nàng."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Định phong ấn Diêu Tích Tuyết, Vương Lâm nhớ lại chuyện cũ nào trên Chu Tước tinh?",
+  "options": [
+   "Thi thể trong quan tài tím hồng",
+   "Hài cốt thiếu nữ dưới thủy lao",
+   "Liễu Mi bị nhốt ở Chu Tước mộ",
+   "Hồng Điệp bị phong trong băng"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn nhớ lúc thành phế nhân bị nhốt vào thủy lao sơn trại, thấy nhiều hài cốt thiếu nữ bị phong ấn bên dưới.",
+  "chapter": 558,
+  "source": "Tiên Nghịch ch.558",
+  "evidence": "Bị nhốt trong thủy lao một sơn trại, hắn \"phát hiện rất nhiều hài cốt của thiếu nữ bị phong ấn bên dưới\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bị Vương Lâm điểm ngón tay vào mi tâm, cơ thể Diêu Tích Tuyết bị gì?",
+  "options": [
+   "Nguyên thần bị kéo khỏi xác",
+   "Hóa thành tượng băng",
+   "Toàn thân hóa đá",
+   "Kinh mạch đứt, tiên lực tan"
+  ],
+  "correctIndex": 3,
+  "explanation": "Lực lượng tàn phá đi qua kinh mạch làm chúng đứt đoạn, tiên lực trong người nàng tan rã.",
+  "chapter": 558,
+  "source": "Tiên Nghịch ch.558",
+  "evidence": "Lực lượng từ mi tâm đi qua đâu \"kinh mạch nơi ấy trở nên đau đớn đứt đoạn\", tiên lực lập tức tan rã."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Vương Lâm phong kín Diêu Tích Tuyết vào thứ gì rồi cất trong túi trữ vật?",
+  "options": [
+   "Không gian Nghịch Thiên châu",
+   "Một quả cầu cấm chế",
+   "Một lá hồn phiên",
+   "Bảo tháp của Chu Dật"
+  ],
+  "correctIndex": 1,
+  "explanation": "Vòng cấm chế thu nhỏ bao trùm nàng thành quả cầu, rồi bay vào túi trữ vật của hắn.",
+  "chapter": 559,
+  "source": "Tiên Nghịch ch.559",
+  "evidence": "Vòng cấm chế bao trùm Diêu Tích Tuyết \"tạo thành một quả cầu cấm chế\", thu nhỏ rồi bay vào túi trữ vật."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "vua",
+  "question": "Theo Động Phủ Chi Linh, các ký hiệu vàng trên mười một đài bên ngoài là gì?",
+  "options": [
+   "Tiên cấm",
+   "Hộ Phủ Thần Thông",
+   "Phục Hoạt Thần Thông",
+   "Mai Hoa Thập Bát Cấm"
+  ],
+  "correctIndex": 1,
+  "explanation": "Đó là thần thông hộ phủ, nhưng chủ nhân phong ấn lại mà không để đầu mối điều khiển.",
+  "chapter": 559,
+  "source": "Tiên Nghịch ch.559",
+  "evidence": "Động Phủ Chi Linh đáp: \"Hộ Phủ Thần Thông!\", tiếc là chủ nhân không để lại đầu mối điều khiển."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Vào trong động phủ, Vương Lâm thấy đường lát và kiến trúc trong động phủ đều làm bằng gì?",
+  "options": [
+   "Hàn ngọc",
+   "Tiên ngọc",
+   "Đá đen",
+   "Mặc Gian thạch"
+  ],
+  "correctIndex": 1,
+  "explanation": "Mặt đất lát đá trong suốt và mọi kiến trúc nơi đây đều là tiên ngọc.",
+  "chapter": 559,
+  "source": "Tiên Nghịch ch.559",
+  "evidence": "Sờ mặt đất, hắn kêu \"Tiên Ngọc!\"; \"tất cả kiến trúc nơi đây, đều dùng tiên ngọc tạo thành\"."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Ở ngã ba hành lang, vì sao Vương Lâm muốn tránh lối kẻ giỏi Mai Hoa Thập Bát Cấm từng đi?",
+  "options": [
+   "Sợ chạm mặt kẻ đó",
+   "Lối đó dẫn ra ngoài động phủ",
+   "Đi theo sẽ chẳng còn bảo vật",
+   "Lối đó toàn cấm chế phản phệ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Người đó phá cấm quá giỏi, chỉ lấy đồ hảo hạng; đi theo hắn sẽ không còn bảo bối nào.",
+  "chapter": 559,
+  "source": "Tiên Nghịch ch.559",
+  "evidence": "Thuật cấm chế người này quá mạnh, \"nếu Vương Lâm đi theo hắn thì sẽ không nhận được bất kỳ món bảo bối nào\"."
+ },
+ {
+  "topic": "khac",
+  "difficulty": "kho",
+  "question": "Theo truyện, tiên cấm có đặc điểm là luôn tồn tại thứ gì?",
+  "options": [
+   "Một trận nhãn cố định",
+   "Một chủ hồn canh giữ",
+   "Một lệnh bài mở khóa",
+   "Một đường sinh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Tiên cấm luôn có một đường sinh, nhưng nó đổi hướng theo biến hóa của cấm chế.",
+  "chapter": 559,
+  "source": "Tiên Nghịch ch.559",
+  "evidence": "Cấm chế ở đây \"nhất định phải có một đường sinh\"; \"đây cũng là một đặc điểm của tiên cấm\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Phá xong cấm chế khu vườn, Vương Lâm nhận được Động Phủ Lệnh làm bằng gì?",
+  "options": [
+   "Thủy tinh",
+   "Tiên ngọc",
+   "Huyết ngọc",
+   "Đồng xanh"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đó là một khối lệnh bài thủy tinh nhỏ bằng ngón tay, phát ánh sáng bảy màu.",
+  "chapter": 560,
+  "source": "Tiên Nghịch ch.560",
+  "evidence": "\"Đây là một khối lệnh bài bằng thủy tinh chỉ bằng một ngón tay\", phát sáng bảy màu, gọi là Động Phủ Lệnh."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Uống một giọt rượu lấy được trên bàn đá trong khu vườn, Vương Lâm bị sao?",
+  "options": [
+   "Thổ huyết, trọng thương",
+   "Say ngủ suốt hơn một năm",
+   "Đột phá ngay lên Vấn Đỉnh",
+   "Toàn thân hóa đá"
+  ],
+  "correctIndex": 1,
+  "explanation": "Tiên lực bùng lên kèm cơn say khiến hắn ngủ thiếp đi hơn một năm, giấc ngủ dài nhất mấy trăm năm.",
+  "chapter": 560,
+  "source": "Tiên Nghịch ch.560",
+  "evidence": "Hắn \"chìm vào trong giấc ngủ\"; \"trải qua một năm, Vương Lâm vẫn chìm vào trong giấc ngủ\"."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Sau khi uống rượu tiên, tiên lực của Vương Lâm đã đủ. Hắn còn thiếu gì để tiến lên Vấn Đỉnh?",
+  "options": [
+   "Cảm ngộ đủ ý cảnh",
+   "Thêm một giọt rượu tiên",
+   "Hàng vạn khối tiên ngọc",
+   "Một viên Huyết Hồn đan"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tiên lực vượt xa Anh Biến hậu kỳ đại viên mãn, chỉ cần ý cảnh cảm ngộ thành công là lên Vấn Đỉnh.",
+  "chapter": 560,
+  "source": "Tiên Nghịch ch.560",
+  "evidence": "Tiên lực đã vượt xa Anh Biến hậu kỳ đại viên mãn, \"chỉ cần cảm ngộ thành công ý cảnh\" là có thể tiến lên Vấn Đỉnh."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Vương Lâm mừng vì chưa tự đột phá cảnh giới lúc không tự chủ, bởi khi ấy hắn không thể lấy ra vật nào?",
+  "options": [
+   "Bức tranh Sinh Tử luân hồi",
+   "Nghịch Thiên châu",
+   "Bảo tháp tiên thi",
+   "Vấn Đỉnh Chi Tinh"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn lo nếu xung kích lúc đang ngủ sẽ không lấy ra được Vấn Đỉnh Chi Tinh của Chu Dật, thất bại sẽ chết oan.",
+  "chapter": 560,
+  "source": "Tiên Nghịch ch.560",
+  "evidence": "Vương Lâm nghĩ: lúc này đang ngủ \"không thể lấy ra Vấn Đỉnh Chi Tinh của Chu Dật\", nếu thất bại sẽ chết oan uổng."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Trước khi rời động phủ, Vương Lâm thấy thấp thoáng trong rừng trúc một công trình trông giống gì?",
+  "options": [
+   "Một tòa tháp chín tầng",
+   "Một tế đàn đá",
+   "Từ đường của phàm nhân",
+   "Một đình nghỉ bên hồ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Một góc lan can lộ ra trong rừng trúc, nhìn kỹ là căn lầu giống từ đường trong đình viện phàm nhân.",
+  "chapter": 560,
+  "source": "Tiên Nghịch ch.560",
+  "evidence": "Hắn thấy phía trước còn một căn lầu, \"giống như một từ đường trong đình viện của phàm nhân\"."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Vương Lâm dùng vật gì lấy từ túi trữ vật của Diêu Tích Tuyết để truyền tống ra khỏi động phủ?",
+  "options": [
+   "Một ngọc phù huyết sắc",
+   "Một chiếc gương đồng",
+   "Một la bàn huyết sắc",
+   "Một tượng đá nhỏ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn xóa thần thức của Diêu Tích Tuyết trong la bàn rồi mở trận pháp bên trong để truyền tống ra ngoài.",
+  "chapter": 561,
+  "source": "Tiên Nghịch ch.561",
+  "evidence": "La bàn toàn thân màu huyết sắc; Vương Lâm mở trận pháp trong la bàn, 'một đạo huyết quang lóe lên bao vây toàn thân'."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Vương Lâm dừng tay, không phá lạc ấn trên túi trữ vật thứ tư của Diêu Tích Tuyết vì phát hiện điều gì?",
+  "options": [
+   "Một vết nứt nhỏ trên miệng túi",
+   "Một đạo tử tuyến trong huyết quang",
+   "Huyết quang chợt chuyển màu đen",
+   "Phù văn vàng lóe trong huyết quang"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hắn thấy trong huyết quang có một đạo tử tuyến, nghi đó là thần thức của Huyết Tổ nên cất túi đi.",
+  "chapter": 561,
+  "source": "Tiên Nghịch ch.561",
+  "evidence": "Nhìn kỹ thì 'huyết quang trên túi trữ vật cuối cùng này có một đạo tử tuyến hiện lên'."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "kho",
+  "question": "Trong đống Huyết Hồn Đan ở túi trữ vật của Diêu Tích Tuyết, Vương Lâm đoán viên nào là thật?",
+  "options": [
+   "Viên nằm riêng một góc",
+   "Viên có phù văn sáng nhất",
+   "Viên nằm giữa đống đan",
+   "Viên có màu đỏ đậm nhất"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn cho rằng viên Huyết Hồn Đan đứng riêng một mình tám phần là thật, số còn lại có thể là giả.",
+  "chapter": 561,
+  "source": "Tiên Nghịch ch.561",
+  "evidence": "Một hoàn Huyết Hồn Đan đứng một mình ở góc túi; Vương Lâm nghĩ 'có tám phần là thật'."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Đô thống vạm vỡ mặc giáp đen ở quân doanh hóa yêu lực thành hư ảnh con thú gì sau lưng?",
+  "options": [
+   "Bạch Hổ",
+   "Hắc Long",
+   "Kim Bằng",
+   "Huyền Vũ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn phát yêu lực, sau lưng biến ảo thành một Huyền Vũ lớn chừng trăm trượng, lưng đầy gai nhọn.",
+  "chapter": 561,
+  "source": "Tiên Nghịch ch.561",
+  "evidence": "Người đàn ông vạm vỡ phát yêu lực, phía sau 'biến ảo hóa thành một thân hình Huyền Vũ' trăm trượng."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Theo Đô thống áo giáp đen, việc Vương Lâm mất tích lâu ngày đã dẫn tới hậu quả gì?",
+  "options": [
+   "Bị Yêu Tướng bãi chức thống lĩnh",
+   "Bị truy nã khắp Cổ Yêu thành",
+   "Quân doanh của hắn bị giải tán",
+   "Hai tùy tùng bị xử tử thay"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đô thống quát rằng Vương Lâm mất tích hơn một năm nên đã bị Yêu Tướng bãi miễn chức thống lĩnh.",
+  "chapter": 561,
+  "source": "Tiên Nghịch ch.561",
+  "evidence": "Đô thống: Vương Lâm mất tích hơn một năm, 'đã sớm bị Đại nhân Yêu Tướng bãi miễn chức vụ thống lĩnh'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Vương Lâm dùng thuật gì để xem toàn bộ ký ức hơn một năm qua của Tư Mã Viêm?",
+  "options": [
+   "Luyện Hồn thuật",
+   "Cửu Tự Chân Ngôn",
+   "Đoạt Xá thuật",
+   "Sưu hồn thuật"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn điểm kiếm chỉ vào mi tâm Tư Mã Viêm, thi triển sưu hồn thuật để lục ký ức.",
+  "chapter": 562,
+  "source": "Tiên Nghịch ch.562",
+  "evidence": "Song chỉ điểm vào mi tâm Tư Mã Viêm, 'sưu hồn thuật lại được Vương Lâm một lần nữa thi triển'."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Theo ký ức của Tư Mã Viêm, Hổ Bào bị bắt và ném vào hắc lao vì định làm gì?",
+  "options": [
+   "Rời quân doanh về bộ lạc",
+   "Ám sát Tư Mã Viêm",
+   "Trộm quân lệnh trốn đi",
+   "Đi tìm Vương Lâm"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hổ Bào không muốn chờ nữa, định rời quân doanh về bộ lạc thì bị Tư Mã Viêm bắt, phế tu vi.",
+  "chapter": 562,
+  "source": "Tiên Nghịch ch.562",
+  "evidence": "Hổ Bào 'chuẩn bị rời khỏi quân doanh trở lại bộ lạc'; Tư Mã Viêm lấy cớ vi phạm quân quy bắt hắn."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vì sao viên Đô thống chữa thương cho Thập Tam rồi dâng hắn lên Yêu Tướng?",
+  "options": [
+   "Hắn mang huyết mạch Cổ Yêu",
+   "Hắn biết Luyện Hồn Thuật",
+   "Thân thể hắn đủ cường độ",
+   "Để làm con tin ép Vương Lâm"
+  ],
+  "correctIndex": 2,
+  "explanation": "Yêu Tướng ra lệnh tìm người có thân thể đủ mạnh; Thập Tam luyện thể kỳ dị nên phù hợp yêu cầu.",
+  "chapter": 562,
+  "source": "Tiên Nghịch ch.562",
+  "evidence": "Yêu Tướng hạ lệnh 'tìm kiếm một ít người có đủ cường độ về thân thể'; Thập Tam phù hợp."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Giết Tư Mã Viêm bằng Sát Lục Tiên quyết, Vương Lâm thu được thứ gì đọng giữa kẽ tay?",
+  "options": [
+   "Nguyên thần của hắn",
+   "Một tia khí xám",
+   "Một khối yêu tinh",
+   "Một giọt tinh huyết"
+  ],
+  "correctIndex": 1,
+  "explanation": "Thân thể Tư Mã Viêm tan rã, một tia khí xám bay ra ngưng tụ ở kẽ tay phải Vương Lâm.",
+  "chapter": 562,
+  "source": "Tiên Nghịch ch.562",
+  "evidence": "Tư Mã Viêm tan rã, 'một tia khí xám từ huyết nhục phiêu tán ra' ngưng tụ ở kẽ tay phải Vương Lâm."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "kho",
+  "question": "Truyền tống trận bị khóa, Vương Lâm phải xông qua bao nhiêu cửa để từ quân doanh tới cung Yêu Tướng?",
+  "options": [
+   "Ba cửa",
+   "Chín cửa",
+   "Bốn cửa",
+   "Sáu cửa"
+  ],
+  "correctIndex": 3,
+  "explanation": "Từ quân doanh tới cung điện Yêu Tướng có sáu cửa, không có truyền tống thì phải phá từng cửa.",
+  "chapter": 562,
+  "source": "Tiên Nghịch ch.562",
+  "evidence": "Từ quân doanh đến cung điện nơi ở của Yêu Tướng 'có sáu cửa', thuấn di không thể thi triển."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Tại cửa thứ năm, pháp bảo nào hóa vô số cấm chế thành khí đen như du long xoay quanh Vương Lâm?",
+  "options": [
+   "Cấm Phiên",
+   "Tôn Hồn Phiên",
+   "Côn Cực Tiên",
+   "Khai Thiên Phủ"
+  ],
+  "correctIndex": 0,
+  "explanation": "Vương Lâm phất Cấm Phiên, vô số cấm chế hóa thành khí đen như con du long xoay quanh thân.",
+  "chapter": 563,
+  "source": "Tiên Nghịch ch.563",
+  "evidence": "Vương Lâm 'xuất ra Cấm Phiên, phất xuống một cái, vô số cấm chế hóa thành các luồng khí đen'."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Ba vỏ kiếm vô danh Vương Lâm tung ra để đối đầu yêu khí của mười vạn yêu binh có từ đâu?",
+  "options": [
+   "Thiên Vận tinh",
+   "Đại La tinh",
+   "Chu Tước tinh",
+   "Động phủ Huyết Tổ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Đó là ba vỏ kiếm vô danh hắn có được ở Chu Tước tinh, phóng ra ba đạo kiếm khí như rồng giận.",
+  "chapter": 563,
+  "source": "Tiên Nghịch ch.563",
+  "evidence": "Hắn vỗ túi trữ vật, 'ba vỏ kiếm vô danh ở Chu Tước Tinh' bay ra, phóng ba đạo kiếm khí."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Lão già đầu bạc chặn Vương Lâm ở cửa thứ tư hóa yêu lực xám bạc thành con gì?",
+  "options": [
+   "Hắc long",
+   "Mãng xà",
+   "Cự ưng",
+   "Bạch hổ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Lão già hóa yêu lực màu xám bạc thành con mãng xà lớn, rồi dung nhập vào nó để tấn công.",
+  "chapter": 563,
+  "source": "Tiên Nghịch ch.563",
+  "evidence": "Một luồng yêu lực màu xám bạc 'hóa thành một con mãng xà lớn' lao ra cắn nuốt Vương Lâm."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Bị mấy vạn yêu binh vây đánh, Vương Lâm bù lại tiên lực hao tổn bằng cách nào?",
+  "options": [
+   "Hấp thu tiên ngọc",
+   "Nuốt yêu tinh",
+   "Uống Huyết Hồn Đan",
+   "Hút hồn từ hồn phiên"
+  ],
+  "correctIndex": 0,
+  "explanation": "Hắn vỗ túi trữ vật lấy tiên ngọc ra hấp thu, tiên ngọc hóa tro, tiên lực được bù lại.",
+  "chapter": 563,
+  "source": "Tiên Nghịch ch.563",
+  "evidence": "Một lượng tiên ngọc bay ra, hắn hấp thu, 'các tiên ngọc này lập tức trở thành tro bụi'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Theo Vương Lâm, so với pháp bảo, Sát Lục Tiên quyết có ưu thế gì khi giết chóc kéo dài?",
+  "options": [
+   "Không hề tiêu hao chút tiên lực",
+   "Tự hồi phục thương thế cho mình",
+   "Biến yêu lực địch thành của mình",
+   "Mỗi kẻ bị giết lại tăng uy lực"
+  ],
+  "correctIndex": 3,
+  "explanation": "Mỗi khi giết một người, Sát Lục Tiên quyết lại mạnh thêm một tia uy lực.",
+  "chapter": 563,
+  "source": "Tiên Nghịch ch.563",
+  "evidence": "'Mỗi khi giết một người, Sát Lục Tiên quyết liền nhiều hơn một tia uy lực'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Con huyết long nghiền nát mãng xà của lão già ở cửa thứ tư được thúc bởi chỉ pháp nào?",
+  "options": [
+   "Tịch Diệt Chỉ",
+   "Hoàng Tuyền Chỉ",
+   "Hóa Ma Chỉ",
+   "Phá Không Chỉ"
+  ],
+  "correctIndex": 2,
+  "explanation": "Tiên huyết trên mặt đất hóa thành huyết long theo Hóa Ma Chỉ lao ra, lão già chết dưới chỉ này.",
+  "chapter": 564,
+  "source": "Tiên Nghịch ch.564",
+  "evidence": "Tiên huyết 'hóa thành một con huyết long theo Hóa Ma Chỉ lao ra'; lão già chết vì Hóa Ma Chỉ."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Khi Vương Lâm điểm Hoàng Tuyền Chỉ trước năm lão già, trên bầu trời hiện ra thứ gì?",
+  "options": [
+   "Cánh cổng âm phủ mở rộng",
+   "Bức tranh sơn thủy cực lớn",
+   "Dòng sông máu chảy ngược",
+   "Bàn tay khổng lồ che trời"
+  ],
+  "correctIndex": 1,
+  "explanation": "Hoàng Tuyền Chỉ gợi lên ý cảnh của hắn: bầu trời như bị đẩy ra, hiện một bức tranh sơn thủy cực lớn.",
+  "chapter": 564,
+  "source": "Tiên Nghịch ch.564",
+  "evidence": "Không trung như bị đẩy ra, 'một bức tranh sơn thủy cực lớn xuất hiện từ phía chân trời'."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Người thấp bé đỡ Hoàng Tuyền Chỉ ở cửa thứ hai tự xưng giữ chức gì?",
+  "options": [
+   "Phó soái Thiên Yêu quận",
+   "Quản sự tham quân",
+   "Thống lĩnh Hắc Giáp quân",
+   "Đệ nhất Đô Thống"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn tự giới thiệu là đệ nhất Đô Thống dưới trướng Yêu Tướng đại nhân.",
+  "chapter": 564,
+  "source": "Tiên Nghịch ch.564",
+  "evidence": "'Ta là đệ nhất Đô Thống dưới trướng của Yêu Tướng đại nhân'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Cánh cửa thứ nhất của cung Yêu Tướng sụp đổ do đâu?",
+  "options": [
+   "Người thấp bé bị đánh văng vào",
+   "Yêu Tướng đạp vỡ từ bên trong",
+   "Kiếm quang tiên kiếm chém trúng",
+   "Ba đạo kiếm khí từ vỏ kiếm"
+  ],
+  "correctIndex": 0,
+  "explanation": "Bị Hoàng Tuyền Chỉ đẩy lùi, người thấp bé xô thẳng vào cửa thứ nhất khiến nó sụp đổ.",
+  "chapter": 564,
+  "source": "Tiên Nghịch ch.564",
+  "evidence": "Thân hình hắn 'trực tiếp xô vào cánh cửa thứ nhất', cửa liền sụp đổ."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Theo Vương Lâm, mỗi luồng khí xám từ yêu binh nhập vào người hắn qua Hoàng Tuyền Chỉ là gì?",
+  "options": [
+   "Một tia yêu lực",
+   "Một sợi ma niệm",
+   "Một tính mạng",
+   "Một đạo sát khí"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hắn biết rõ mỗi luồng khí xám dung nhập vào cơ thể chính là một tính mạng.",
+  "chapter": 564,
+  "source": "Tiên Nghịch ch.564",
+  "evidence": "Từ đáy lòng hắn biết 'mỗi một luồng khí này chính là một tính mạng'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Thần thông Yêu Tướng dùng để hóa yêu lực vô hình thành biển cả thực thể gọi là gì?",
+  "options": [
+   "Thập Băng Quyền Ý",
+   "Yêu Hải Bách Lãng",
+   "Huyết sắc ngũ sát",
+   "Vạn Yêu Triều Tông"
+  ],
+  "correctIndex": 1,
+  "explanation": "Yêu Tướng vỗ một chưởng, yêu lực hóa thành biển lớn; hắn gọi chiêu này là Yêu Hải Bách Lãng.",
+  "chapter": 565,
+  "source": "Tiên Nghịch ch.565",
+  "evidence": "'Tiếp được chiêu Yêu Hải Bách Lãng của bổn tướng thì ngươi mới có tư cách cùng ta đối thoại.'"
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "vua",
+  "question": "Giữa trận với Yêu Tướng, phù văn vàng bất chợt hiện trong đầu Vương Lâm vốn hấp thu từ đâu?",
+  "options": [
+   "Tượng đá thứ hai",
+   "Ngọc giản của Tư Đồ Nam",
+   "Ký ức Cổ Thần Đồ Ti",
+   "Bia đá Địa Ma Bắc Giới"
+  ],
+  "correctIndex": 0,
+  "explanation": "Trong đầu hắn hiện ra tượng đá thứ hai và các phù văn vàng đã hấp thu bên trong, rồi hắn vẽ phù văn ba nét.",
+  "chapter": 565,
+  "source": "Tiên Nghịch ch.565",
+  "evidence": "Trong đầu 'lại hiện ra tượng đá thứ hai, hấp thu các phù văn màu vàng bên trong'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Chưởng ấn hư ảo khiến Yêu Tướng mất hết chiến ý được Vương Lâm cảm ngộ từ đâu?",
+  "options": [
+   "Tượng Cổ Yêu trong đại điện",
+   "Bức tranh Sinh Tử luân hồi",
+   "Ký ức của Cổ Thần Đồ Ti",
+   "Thủ ấn ở tiên giới vỡ nát"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn nhớ lại thủ ấn khổng lồ ở chốn tiên giới bị phá nát năm xưa, từng cảm ngộ và đánh ra khi đấu Hồng Điệp.",
+  "chapter": 565,
+  "source": "Tiên Nghịch ch.565",
+  "evidence": "Trong đầu 'quanh quẩn cái thủ ấn khổng lồ chỗ tiên giới bị phá nát năm đó'."
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "de",
+  "question": "Để bỏ qua chuyện Vương Lâm giết mấy vạn yêu binh, Yêu Tướng đòi hắn làm gì?",
+  "options": [
+   "Làm tùy tùng cho hắn mười năm",
+   "Nộp hết ngọc phù huyết sắc",
+   "Giúp hắn so đấu ở kinh đô",
+   "Dẫn quân dẹp các bộ lạc"
+  ],
+  "correctIndex": 2,
+  "explanation": "Ba tháng sau Yêu Tướng về Thiên Yêu thành dự một cuộc so đấu và muốn Vương Lâm trợ giúp.",
+  "chapter": 565,
+  "source": "Tiên Nghịch ch.565",
+  "evidence": "Yêu Tướng: về kinh đô 'sẽ có một hồi so đấu. Ngươi nếu đáp ứng trợ giúp ta' thì bỏ qua."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Sau khi Vương Lâm nhận lời giúp, Yêu Tướng phong cho hắn chức gì?",
+  "options": [
+   "Đệ nhất Đô Thống",
+   "Tả dực đệ nhất phó tướng",
+   "Phó soái Cổ Yêu thành",
+   "Thống lĩnh Hắc Giáp quân"
+  ],
+  "correctIndex": 1,
+  "explanation": "Yêu Tướng tuyên bố từ hôm nay Vương Lâm là Tả dực đệ nhất phó tướng của hắn.",
+  "chapter": 565,
+  "source": "Tiên Nghịch ch.565",
+  "evidence": "'Bắt đầu từ hôm nay người trở thành Tả dực đệ nhất phó tướng của Mạc Lệ Hải ta.'"
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "de",
+  "question": "Bộ công pháp luyện thể chín tầng Vương Lâm trao cho Thập Tam sau khi cứu hắn tên là gì?",
+  "options": [
+   "Cự Linh Cửu Tu",
+   "Cổ Thần Quyết",
+   "Diệt Thế Áp Nguyên Công",
+   "Kim Cương Luyện Thể"
+  ],
+  "correctIndex": 0,
+  "explanation": "Ngọc giản lấy từ túi của lão tổ Cự Ma tộc ghi Cự Linh Cửu Tu; hắn chỉ để lại sáu tầng rồi trao cho Thập Tam.",
+  "chapter": 566,
+  "source": "Tiên Nghịch ch.566",
+  "evidence": "Ngọc giản 'ghi lại một bộ công pháp thần thông có tên là Cự Linh Cửu Tu', chín tầng luyện thể."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Sau khi thoát hắc lao, Hổ Bào được lão già áo đen đưa tới đâu để luyện hóa linh hồn?",
+  "options": [
+   "Một sơn cốc hoang",
+   "Một hòn đảo giữa biển",
+   "Bộ lạc Thiên Thủy",
+   "Một chiến trường cổ"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hổ Bào ngồi luyện hồn trong chiến trường cổ ở phía tây, nơi đầy thi hài và linh hồn ngủ say.",
+  "chapter": 566,
+  "source": "Tiên Nghịch ch.566",
+  "evidence": "'Trong chiến trường cổ có một người thanh niên đang ngồi khoanh chân'; hắn tự xưng Hổ Bào."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Hổ Bào thề việc đầu tiên sẽ làm khi luyện hóa hết linh hồn ở chiến trường cổ là gì?",
+  "options": [
+   "Trở về bộ lạc Luyện Hồn",
+   "Đi cứu Thập Tam",
+   "Đi giết Vương Lâm",
+   "Báo đáp ân công"
+  ],
+  "correctIndex": 2,
+  "explanation": "Hổ Bào oán Vương Lâm vì bị bỏ mặc trong hắc lao, nên thề trước tiên sẽ đi giết hắn.",
+  "chapter": 566,
+  "source": "Tiên Nghịch ch.566",
+  "evidence": "Hổ Bào: luyện hóa hết linh hồn 'thì chuyện đầu tiên muốn làm là đi giết chết tên Vương Lâm kia'."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "vua",
+  "question": "Lão già áo đen quỳ báo tin trước vật gì ở tầng cao nhất tòa tháp đen?",
+  "options": [
+   "Một bức tượng Cổ Yêu",
+   "Một bộ áo giáp cổ",
+   "Một cỗ quan tài đá",
+   "Một chiếc mặt nạ đen"
+  ],
+  "correctIndex": 1,
+  "explanation": "Ở tầng cao nhất tháp đen có bộ áo giáp cực kỳ cổ xưa, trong mũ giáp lóe u quang như ánh mắt.",
+  "chapter": 566,
+  "source": "Tiên Nghịch ch.566",
+  "evidence": "Lão quỳ trên tầng cao nhất, 'Trước mặt lão có một bộ áo giáp!' cực kỳ cổ xưa."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Lão già áo đen định dùng Hổ Bào làm thí nghiệm để biến hắn thành gì?",
+  "options": [
+   "Một Yêu Vệ",
+   "Một Yêu Tướng",
+   "Một Yêu Soái",
+   "Một Thống lĩnh"
+  ],
+  "correctIndex": 0,
+  "explanation": "Lão định để Hổ Bào dồn hết thọ nguyên, tiềm lực bùng nổ trong một canh giờ, trở thành Yêu Vệ.",
+  "chapter": 566,
+  "source": "Tiên Nghịch ch.566",
+  "evidence": "Ngưng tụ tuổi thọ và tiềm lực rồi bùng nổ, 'như vậy hắn sẽ trở thành một Yêu Vệ!'"
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "de",
+  "question": "Theo quy tắc Vương Lâm đặt ra, mỗi câu Diêu Tích Tuyết trả lời sẽ đổi lấy điều gì?",
+  "options": [
+   "Được trả một viên Huyết Hồn Đan",
+   "Được trả lại một túi trữ vật",
+   "Gỡ bớt một tầng cấm chế",
+   "Giảm năm mươi năm phong ấn"
+  ],
+  "correctIndex": 3,
+  "explanation": "Vương Lâm nói trả lời một vấn đề thì hắn giảm phong ấn nàng năm mươi năm.",
+  "chapter": 567,
+  "source": "Tiên Nghịch ch.567",
+  "evidence": "'Trả lời ta một vấn đề, ta giảm phong ấn ngươi năm mươi năm!'"
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "vua",
+  "question": "Vương Lâm rút từ miệng Diêu Tích Tuyết ra thứ gì nàng định dùng để chặn sinh cơ của lạc ấn?",
+  "options": [
+   "Một cây châm đỏ",
+   "Một viên độc đan",
+   "Một mảnh ngọc phù",
+   "Một sợi tơ hồng"
+  ],
+  "correctIndex": 0,
+  "explanation": "Nàng dùng tia tinh khí cuối của nguyên thần hóa thành châm đỏ để tự chết; hắn bóp nát nó.",
+  "chapter": 567,
+  "source": "Tiên Nghịch ch.567",
+  "evidence": "Rút ra 'một cây châm nhỏ màu đỏ' hóa từ tia tinh khí cuối cùng trong nguyên thần nàng."
+ },
+ {
+  "topic": "nhan_vat",
+  "difficulty": "kho",
+  "question": "Vương Lâm vội dùng cấm chế phá tâm cảnh Diêu Tích Tuyết vì nàng suýt làm được điều gì?",
+  "options": [
+   "Truyền tin cầu cứu Huyết Tổ",
+   "Dùng hận ý để nhập đạo",
+   "Tự bạo nguyên thần",
+   "Phá vỡ quả cầu cấm chế"
+  ],
+  "correctIndex": 1,
+  "explanation": "Nàng chuyển nỗi căm hận thành minh ngộ, dùng hận nhập đạo; nếu thành, lạc ấn không phong ấn nổi nàng.",
+  "chapter": 567,
+  "source": "Tiên Nghịch ch.567",
+  "evidence": "Nàng 'dùng hận nhập đạo nên ánh mắt mới trở nên thanh tĩnh như vậy'."
+ },
+ {
+  "topic": "canh_gioi",
+  "difficulty": "vua",
+  "question": "Ngọc giản phần thứ hai của Luyện Hồn Thuật mà Vương Lâm trao Âu Dương Hoa ghi thần thông gì?",
+  "options": [
+   "Hồn Phách Thủ Thần",
+   "Linh Thang Loạn Thần",
+   "Rút phách",
+   "Ngưng hồn"
+  ],
+  "correctIndex": 2,
+  "explanation": "Luyện Hồn Thuật có hai phần; ngọc giản ghi thuật rút phách, chỉ được truyền cho chi chính.",
+  "chapter": 567,
+  "source": "Tiên Nghịch ch.567",
+  "evidence": "Ngọc giản ghi 'một thần thông khác, nó dùng để rút phách', không truyền cho người ngoài."
+ },
+ {
+  "topic": "phap_bao",
+  "difficulty": "de",
+  "question": "Trước khi đi kinh đô, Vương Lâm thu Tôn Hồn Phiên đang phủ trên bộ lạc vào đâu?",
+  "options": [
+   "Cất vào túi trữ vật",
+   "Giấu vào Nghịch Thiên châu",
+   "Gửi cho Âu Dương Hoa",
+   "Nuốt vào nguyên thần"
+  ],
+  "correctIndex": 3,
+  "explanation": "Hắn thu Tôn Hồn Phiên thành lá cờ ba trượng rồi nuốt vào nguyên thần, thay bằng hồn phiên thường.",
+  "chapter": 567,
+  "source": "Tiên Nghịch ch.567",
+  "evidence": "Tôn Hồn Phiên hóa thành lá cờ rộng ba trượng, 'Vương Lâm lập tức nuốt nó vào trong nguyên thần'."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Cổ Yêu Điện, biểu tượng tinh thần của Thiên Yêu quận, nằm trong đầm nước nào?",
+  "options": [
+   "Thiên Trì",
+   "Long Đàm",
+   "Hắc Thủy Đàm",
+   "Cửu Long Hồ"
+  ],
+  "correctIndex": 1,
+  "explanation": "Chín dải đồng bằng như chín con rồng chầu về một đầm lớn tên Long Đàm, trong đó có Cổ Yêu Điện.",
+  "chapter": 568,
+  "source": "Tiên Nghịch ch.568",
+  "evidence": "Chín miệng rồng hướng về 'một đầm nước lớn, có tên là Long Đàm'; Cổ Yêu Điện ở bên trong."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Thiên Yêu thành gồm chín thành nhỏ; thành nằm chính giữa, tẩm cung của Yêu Đế, là gì?",
+  "options": [
+   "Đế Đô",
+   "Hoàng thành",
+   "Huyền thành",
+   "Thiên thành"
+  ],
+  "correctIndex": 0,
+  "explanation": "Tám thành nhỏ xếp theo bát quái bao quanh, thành ở giữa là Đế Đô, nơi Yêu Đế ở.",
+  "chapter": 568,
+  "source": "Tiên Nghịch ch.568",
+  "evidence": "Tám thành bên ngoài theo hướng bát quái, 'thành ở giữa chính là Đế Đô', tẩm cung của Yêu Đế."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "vua",
+  "question": "Truyền tống trận thứ mười bốn ngoài Thiên Yêu thành được dành riêng cho ai?",
+  "options": [
+   "Dân chúng và thương nhân",
+   "Sứ giả các quận khác",
+   "Các Yêu tướng về kinh",
+   "Văn thần trong triều"
+  ],
+  "correctIndex": 2,
+  "explanation": "Trong mười tám truyền tống trận, trận thứ mười bốn chuyên dùng cho Yêu tướng các nơi vào kinh.",
+  "chapter": 568,
+  "source": "Tiên Nghịch ch.568",
+  "evidence": "'Truyền tống trận thứ mười bốn là trận pháp chuyên dụng để Yêu tướng ở khắp các nơi vào kinh'."
+ },
+ {
+  "topic": "dia_danh",
+  "difficulty": "de",
+  "question": "Phủ của Yêu tướng Mạc Lệ Hải ở Thiên Yêu thành nằm trong thành nhỏ nào?",
+  "options": [
+   "Huyền thành",
+   "Hoàng thành",
+   "Vũ thành",
+   "Hồng thành"
+  ],
+  "correctIndex": 3,
+  "explanation": "Qua cửa tây có Huyền thành và Hồng thành; Mạc Lệ Hải nói chỗ hắn ở là Hồng thành.",
+  "chapter": 568,
+  "source": "Tiên Nghịch ch.568",
+  "evidence": "Mạc Lệ Hải: 'Chỗ ta ở chính là Hồng thành!'"
+ },
+ {
+  "topic": "cot_truyen",
+  "difficulty": "kho",
+  "question": "Hai phó soái của Thiên Yêu quận đã tử trận trong cuộc chiến hai trăm năm trước với quận nào?",
+  "options": [
+   "Hỏa Yêu quận",
+   "Thủy Yêu quận",
+   "Kim Yêu quận",
+   "Cửu Tuyệt quận"
+  ],
+  "correctIndex": 0,
+  "explanation": "Đội trưởng kể chiến tranh với Hỏa Yêu quận làm hai phó soái chết, nên lần này sẽ chọn người thay.",
+  "chapter": 568,
+  "source": "Tiên Nghịch ch.568",
+  "evidence": "'Cuộc chiến vào hai trăm năm trước với Hỏa Yêu quận... bên ta thì có hai phó soái phải bỏ mạng.'"
+ }
+]

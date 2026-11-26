@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khi luyện thi thể Mạt Dương, Vương Lâm thấy ở mi tâm nguyên thần hắn có thứ gì gây cảm giác sinh tử?",
+    "options": [
+      "Đạo kiếm khí Lăng Thiên Hậu ban",
+      "Giọt máu do Huyết Tổ ban",
+      "Ấn thần thức của Thiên Vận Tử",
+      "Hồn ấn do Tham Lang để lại"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sợi chỉ lam ở mi tâm là đạo kiếm khí bảo mệnh Lăng Thiên Hậu ban cho mười hai đệ tử.",
+    "chapter": 581,
+    "source": "Tiên Nghịch ch.581",
+    "evidence": "Sợi chỉ lam nhỏ là thanh kiếm thu nhỏ; Vương Lâm nhận ra: \"Đường chỉ nhỏ màu lam này chính là đạo kiếm khí kia!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau khi luyện hóa xong Mạt Dương, Vương Lâm xử lý sợi chỉ lam còn sót lại thế nào?",
+    "options": [
+      "Phong ấn vào trong Cấm Phiên",
+      "Luyện vào thân tiên kiếm",
+      "Nuốt thẳng vào nguyên thần",
+      "Bóp nát giữa hai ngón tay"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nguyên thần Vương Lâm cắn răng nuốt sợi chỉ lam, rồi ngồi tĩnh tọa ba ngày.",
+    "chapter": 581,
+    "source": "Tiên Nghịch ch.581",
+    "evidence": "Nguyên thần Vương Lâm \"không chút do dự, trực tiếp nuốt sợi chỉ nhỏ kia vào\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trước đại hội Yêu Tướng, Mạc Lệ Hải đã thua trận giao đấu với ai?",
+    "options": [
+      "Thạch Tiêu",
+      "Mặc Phi",
+      "Vu Sâm",
+      "Ngao Địch"
+    ],
+    "correctIndex": 1,
+    "explanation": "Mạc Lệ Hải báo với Vương Lâm rằng hắn đã bại trong trận với Mặc Phi.",
+    "chapter": 581,
+    "source": "Tiên Nghịch ch.581",
+    "evidence": "Mạc Lệ Hải trầm giọng: \"Trận chiến với Mặc Phi, ta đã bại!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Mạc Lệ Hải thua trận trước đại hội chủ yếu vì thần thông nào của đối thủ?",
+    "options": [
+      "Thất Yêu Chi Thuật",
+      "Cửu Tử Cửu Sinh quyết",
+      "Phệ Hồn Sát Lục",
+      "Chuyển Luân thuật"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đối thủ đỡ được Thập Băng Quyền Ý và dùng Chuyển Luân thuật đẩy ngược Yêu Hải Bách Lãng.",
+    "chapter": 581,
+    "source": "Tiên Nghịch ch.581",
+    "evidence": "Mạc Lệ Hải nói: \"Ta thua chính là ở cái Chuyển Luân thuật kia!\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "kho",
+    "question": "Theo Mạc Lệ Hải, sau khi trở thành Yêu Tướng, Mặc Phi đã đến đâu tĩnh tu ba năm?",
+    "options": [
+      "Kiếm Các trong Đế Đô",
+      "Quảng trường Thiên Yêu Môn",
+      "Long Đàm Cổ Yêu Điện",
+      "Hồng Lao"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mạc Lệ Hải kể Mặc Phi tĩnh tu ba năm tại Long Đàm Cổ Yêu Điện.",
+    "chapter": 581,
+    "source": "Tiên Nghịch ch.581",
+    "evidence": "Mặc Phi \"sau khi trở thành Yêu Tướng đã đến Long Đàm Cổ Yêu Điện tĩnh tu\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Tuyệt chiêu Đế Quân đích thân truyền cho Mạc Lệ Hải khi hắn thành Yêu Tướng tên là gì?",
+    "options": [
+      "Yêu Nhiên",
+      "Chuyển Luân thuật",
+      "Thất Yêu Chi Thuật",
+      "Cửu Tử Cửu Sinh quyết"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mạc Lệ Hải cho biết thần thông Đế Quân truyền thụ tên là Yêu Nhiên.",
+    "chapter": 582,
+    "source": "Tiên Nghịch ch.582",
+    "evidence": "Thần thông \"đã được Đế Quân đích thân truyền thụ, tên là Yêu Nhiên\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Theo luật đại hội Yêu Tướng, nếu bên Yêu Tướng một trận thắng một trận bại thì sao?",
+    "options": [
+      "Được đấu thêm một trận phụ",
+      "Bên thắng trước được đi tiếp",
+      "Do các Yêu Soái phân xử",
+      "Cả hai đều mất tư cách"
+    ],
+    "correctIndex": 3,
+    "explanation": "Nam tử giáp vàng tuyên bố một thắng một bại thì cả hai người đều mất tư cách.",
+    "chapter": 582,
+    "source": "Tiên Nghịch ch.582",
+    "evidence": "Quy tắc: \"nếu như một thắng một bại thì cả hai người đều mất tư cách!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Hai Phó Soái đánh cược về Vương Lâm. Nếu hắn đứng đầu, Hoàng Phó Soái phải đưa ra vật gì?",
+    "options": [
+      "Phó Thiên Triệu Kỳ",
+      "Huyền Huyền Đan",
+      "Thiên Yêu Đan",
+      "Yêu Linh Đan"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hai bên cược: Huyền đưa Phó Thiên Triệu Kỳ nếu thua, Hoàng đưa Huyền Huyền Đan nếu Vương Lâm đứng đầu.",
+    "chapter": 582,
+    "source": "Tiên Nghịch ch.582",
+    "evidence": "Huyền Phó Soái: \"Nếu như người này đứng đầu, ngươi phải đưa cho ta Huyền Huyền Đan!\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Gã to lớn làm người trợ giúp cho Yêu Tướng Mộ Vân, bị Thạch Tiêu đánh nát thân, đến từ môn phái nào?",
+    "options": [
+      "Ngọc Kiếm Môn",
+      "Đại La Kiếm Tông",
+      "Huyền Uyên Phái",
+      "Cự Linh Môn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Gã tự xưng đến từ Cự Linh Môn, môn phái lớn trên Thiên Vận Tinh thiên về sức lực.",
+    "chapter": 582,
+    "source": "Tiên Nghịch ch.582",
+    "evidence": "Gã nói: \"gia gia của ngươi là Thiên Khôi Công Nhân từ Cự Linh Môn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Yêu Tướng nào bước ra khiêu chiến Vương Lâm, đắc ý vì không đồng liêu nào tranh với mình?",
+    "options": [
+      "Mộ Vân",
+      "Ngao Địch",
+      "Vu Sâm",
+      "Ma Văn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ngao Địch xuất hiện cách Vương Lâm trăm trượng, cười nói nhờ đồng liêu chiếu cố.",
+    "chapter": 582,
+    "source": "Tiên Nghịch ch.582",
+    "evidence": "Người xem: \"Yêu Tướng Ngao Địch! Ta đoán nhất định hắn sẽ xuất chiến!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Ở vòng một, kết cục của Yêu Tướng giao đấu với Vương Lâm ra sao?",
+    "options": [
+      "Thành phế nhân nhưng chưa chết",
+      "Bị chém lìa tay phải tại chỗ",
+      "Nhận thua ngay trước khi giao thủ",
+      "Hòa nhau, cả hai đều trọng thương"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm phá hết kinh mạch rồi chấn nát xương cốt đối thủ; hắn chưa chết nhưng thành phế nhân.",
+    "chapter": 583,
+    "source": "Tiên Nghịch ch.583",
+    "evidence": "Kinh mạch \"bị đứt thành từng khúc, toàn bộ xương cốt đều vỡ nát\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Ngụm máu Ngao Địch phun vào mặt Vương Lâm hóa thành hư ảnh con gì?",
+    "options": [
+      "Hắc xà",
+      "Kim điêu",
+      "Long quy",
+      "Huyết hổ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Máu tươi tỏa yêu khí, hóa thành hư ảnh một con long quy gầm lên nuốt Vương Lâm.",
+    "chapter": 583,
+    "source": "Tiên Nghịch ch.583",
+    "evidence": "Ngụm máu \"hóa thành hư ảnh một con long quy\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Thấy Vương Lâm không chịu dừng tay, nam tử giáp vàng tấn công hắn bằng gì?",
+    "options": [
+      "Thanh kim kiếm dài chín thước",
+      "Trường thương ngưng từ ánh nắng",
+      "Chiếc chuông đồng vàng khổng lồ",
+      "Tấm lưới lửa đen phủ trời"
+    ],
+    "correctIndex": 1,
+    "explanation": "Kim quang ngưng tụ thành cây trường thương vàng làm từ ánh mặt trời, phóng thẳng tới Vương Lâm.",
+    "chapter": 583,
+    "source": "Tiên Nghịch ch.583",
+    "evidence": "Cây thương \"thật sự được biến ra từ ánh sáng mặt trời\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Theo người xem, Yêu Tướng bị Vương Lâm phế chỉ hồi phục được nếu Yêu Đế ban thứ gì?",
+    "options": [
+      "Huyền Huyền Đan",
+      "Yêu Linh Đan",
+      "Cổ Yêu tinh huyết",
+      "Thiên Yêu Đan"
+    ],
+    "correctIndex": 3,
+    "explanation": "Người bị phế chỉ còn cách được Yêu Đế ban Thiên Yêu Đan cực kỳ trân quý.",
+    "chapter": 583,
+    "source": "Tiên Nghịch ch.583",
+    "evidence": "\"Trừ phi Yêu Đế bằng lòng ban cho hắn Thiên Yêu Đan cực kỳ trân quý.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Tại đại hội Yêu Tướng, ai đứng cạnh Thạch Tiêu và vốn là sư huynh của Vương Lâm?",
+    "options": [
+      "Côn Bằng Tử",
+      "Vận Đường",
+      "Trần Đào",
+      "Mạc Lệ Hải"
+    ],
+    "correctIndex": 2,
+    "explanation": "Trần Đào đứng bên Thạch Tiêu, nhìn sư đệ Vương Lâm nay đã mạnh đến đáng sợ.",
+    "chapter": 583,
+    "source": "Tiên Nghịch ch.583",
+    "evidence": "\"Trần Đào đứng bên cạnh Thạch Tiêu... Sư đệ này của hắn\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Nam tử giáp vàng chủ trì đại hội Yêu Tướng được Mạc Lệ Hải gọi là gì?",
+    "options": [
+      "Kim tổng quản",
+      "Kim Ma Tử",
+      "Thiên Soái",
+      "Hoàng Phó Soái"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mạc Lệ Hải nghĩ Kim tổng quản đã lấy lớn bức nhỏ khi ra tay với Vương Lâm.",
+    "chapter": 584,
+    "source": "Tiên Nghịch ch.584",
+    "evidence": "Mạc Lệ Hải nghĩ: \"Kim tổng quản lại có một chút lấy lớn bức nhỏ rồi\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Khi nam tử giáp vàng gọi người trợ giúp của Ngao Địch ra đấu, kẻ đó làm gì?",
+    "options": [
+      "Xin bỏ cuộc",
+      "Thách Vương Lâm tử chiến",
+      "Xin hoãn trận sang hôm sau",
+      "Đánh lén sau lưng Vương Lâm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sau một lúc im lặng, người trợ giúp yếu ớt nói mình bỏ cuộc.",
+    "chapter": 584,
+    "source": "Tiên Nghịch ch.584",
+    "evidence": "Một thanh âm yếu ớt truyền ra: \"Ta bỏ cuộc.\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Đế Kiếm do dự không lao đi tìm Vương Lâm vì Đế Quân từng dọa phạt nó thế nào?",
+    "options": [
+      "Nhốt nó vào Hồng Lao",
+      "Phong ấn trong Kiếm Các",
+      "Đưa nó tới Long Đàm",
+      "Bẻ gãy kiếm thể"
+    ],
+    "correctIndex": 2,
+    "explanation": "Đế Quân cấm nó ra ngoài trong lúc tranh đoạt Yêu Tướng, nếu không sẽ bị đưa tới Long Đàm.",
+    "chapter": 584,
+    "source": "Tiên Nghịch ch.584",
+    "evidence": "Trong cuộc tranh đoạt \"không được ra ngoài, nếu không sẽ bị đưa tới Long Đàm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Để lén đi nhìn mặt Vương Lâm, Đế Kiếm hóa thành hình dạng gì?",
+    "options": [
+      "Một con hạc trắng",
+      "Một thiếu nữ đôi mươi",
+      "Một lão bà tóc bạc",
+      "Một luồng khói xanh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Đế Kiếm hóa thành thiếu nữ xinh đẹp rồi bay tới ngồi trên mái cung điện cạnh quảng trường.",
+    "chapter": 584,
+    "source": "Tiên Nghịch ch.584",
+    "evidence": "Đế Kiếm hóa thành \"thiếu nữ đôi mươi... xinh đẹp tuyệt trần\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Hứa Lập Quốc nhìn thấy được Kiếm Linh của Đế Kiếm nhờ kỹ xảo học từ ai?",
+    "options": [
+      "Lão tổ Cự Ma Tộc",
+      "Thiên Vận Tử áo xám",
+      "Kiếm Tôn Lăng Thiên Hậu",
+      "Kiếm Linh loan đao đen"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hứa Lập Quốc nói kỹ xảo cảm nhận Kiếm Linh là do Tiểu Hắc Đao (kiếm linh của loan đao) dạy.",
+    "chapter": 584,
+    "source": "Tiên Nghịch ch.584",
+    "evidence": "Hứa Lập Quốc: \"ta đã học được một kỹ xảo của Kiếm Linh từ Tiểu Hắc Đao\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trong những ngày chờ vòng một kết thúc, Vương Lâm thường làm gì?",
+    "options": [
+      "Ngày ngày đến Đế Đô xem đấu",
+      "Bế quan luyện hóa đạo kiếm khí",
+      "Ngồi bờ sông nghe đàn uống rượu",
+      "Ra ngoài thành săn yêu thú"
+    ],
+    "correctIndex": 2,
+    "explanation": "Người thắng không phải đến tiếp nên hắn ngày ngày ngồi bờ sông nghe đàn uống rượu.",
+    "chapter": 585,
+    "source": "Tiên Nghịch ch.585",
+    "evidence": "Vương Lâm \"mỗi ngày đều như trước kia ngồi bên bờ sông nghe đàn uống rượu\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Mạc Lệ Hải giúp Vương Lâm chuẩn bị cho các vòng sau bằng cách nào?",
+    "options": [
+      "Ghi lại trận của đối thủ mạnh",
+      "Dâng đan dược hồi phục",
+      "Dò hỏi luật mới từ Yêu Soái",
+      "Mời cao thủ đến luyện cùng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn ngày ngày tới Đế Đô, dùng thần thông ghi lại trận đấu của người có thể uy hiếp Vương Lâm.",
+    "chapter": 585,
+    "source": "Tiên Nghịch ch.585",
+    "evidence": "Hắn \"dùng thần thông để ghi lại, ban đêm sau khi trở về đưa cho Vương Lâm xem\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "de",
+    "question": "Bên bờ sông, Vương Lâm trăn trở ý cảnh còn thiếu một bước để đạt cảnh giới nào?",
+    "options": [
+      "Anh Biến",
+      "Hóa Thần",
+      "Nguyên Anh",
+      "Vấn Đỉnh"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn đã lấy ý cảnh nhập thể nhưng vẫn chưa đủ để lên Vấn Đỉnh.",
+    "chapter": 585,
+    "source": "Tiên Nghịch ch.585",
+    "evidence": "\"Vấn Đỉnh, Vấn Đỉnh, làm thế nào để có thể làm cho ý cảnh đạt tới yêu cầu...\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Theo Vương Lâm, lòng trung thành của Hứa Lập Quốc có điều kiện tiên quyết nào?",
+    "options": [
+      "Được tự do đi gặp nữ nhân",
+      "Chủ nhân phải mạnh hơn hắn nhiều",
+      "Được trú mãi trong tiên kiếm",
+      "Chủ nhân không giết người vô cớ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hứa Lập Quốc chỉ trung thành khi Vương Lâm mạnh hơn hắn nhiều lần; gặp kẻ mạnh hơn sẽ bán đứng chủ.",
+    "chapter": 585,
+    "source": "Tiên Nghịch ch.585",
+    "evidence": "Điều kiện \"tiên quyết là Vương Lâm cần phải mạnh hơn hắn nhiều lần\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Bị cấm chế vây quanh, Hứa Lập Quốc phá vòng vây bỏ chạy bằng cách nào?",
+    "options": [
+      "Chui vào thanh loan đao đen",
+      "Tan thành vô số hồn ti",
+      "Nhập vào thân Kiếm Linh Đế Kiếm",
+      "Hóa thân thành một thanh kiếm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn hóa thành hình thanh kiếm, kiếm khí phá tan cấm chế; ở Chu Tước Tinh hắn chưa làm được điều này.",
+    "chapter": 585,
+    "source": "Tiên Nghịch ch.585",
+    "evidence": "Hứa Lập Quốc \"lập tức hóa thành hình một thanh kiếm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm bắt Hứa Lập Quốc, thứ gì tự phá cấm chế túi trữ vật lao ra tấn công hắn?",
+    "options": [
+      "Thanh tiên kiếm",
+      "Loan đao màu đen",
+      "Lá Cấm Phiên",
+      "Vỏ kiếm cổ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Một đạo hắc khí tự bay ra khỏi túi trữ vật đánh Vương Lâm; đó là loan đao đen muốn cứu Hứa Lập Quốc.",
+    "chapter": 586,
+    "source": "Tiên Nghịch ch.586",
+    "evidence": "Vương Lâm quyết \"hoàn toàn thu phục thanh loan đao màu đen này!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Hứa Lập Quốc làm cấm chế của Vương Lâm yếu đi vào lúc nào để không bị phát hiện?",
+    "options": [
+      "Lúc Vương Lâm đại chiến",
+      "Lúc Vương Lâm bế quan",
+      "Lúc Vương Lâm say rượu",
+      "Lúc Vương Lâm nghe đàn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vì nhát gan, hắn chọn lúc Vương Lâm đại chiến mới làm cấm chế suy yếu.",
+    "chapter": 586,
+    "source": "Tiên Nghịch ch.586",
+    "evidence": "\"Hắn nhằm lúc Vương Lâm đại chiến mới làm cho cấm chế yếu đi\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm vây bắt thanh loan đao bằng thứ gì co lại thành một quả cầu?",
+    "options": [
+      "Màn sương đen của Cấm Phiên",
+      "Ba nghìn Sinh Chi Lạc Ấn",
+      "Ba nghìn đạo sát lục chi khí",
+      "Lưới cấm chế từ tâm huyết"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ba nghìn đạo khí xám từ mi tâm bao vây rồi co lại thành quả cầu giam loan đao.",
+    "chapter": 586,
+    "source": "Tiên Nghịch ch.586",
+    "evidence": "\"Ba nghìn đạo sát lục chi khí nhanh chóng co rút lại, hình thành một quả cầu\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vương Lâm cảnh báo nếu Hứa Lập Quốc bị cao thủ Thiên Yêu Thành phát hiện thì hắn sẽ ra sao?",
+    "options": [
+      "Bị Yêu Đế nhốt vào Long Đàm",
+      "Bị luyện làm Kiếm Linh pháp bảo",
+      "Bị giam vào sâu trong Hồng Lao",
+      "Bị đánh cho hồn phi phách tán"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm nói nếu bị bắt, Hứa Lập Quốc sẽ bị luyện hóa thành Kiếm Linh của pháp bảo.",
+    "chapter": 586,
+    "source": "Tiên Nghịch ch.586",
+    "evidence": "\"sau đó sẽ bị luyện hóa trở thành Kiếm Linh pháp bảo\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vương Lâm thu phục thanh loan đao đen theo cách nào?",
+    "options": [
+      "Luyện hóa chậm rãi nhiều ngày",
+      "Nhờ Hứa Lập Quốc thuyết phục",
+      "Ngâm đao vào tâm huyết",
+      "Cưỡng ép in dấu ấn nguyên thần"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn không luyện lâu dài mà dùng thủ đoạn cứng rắn, in dấu ấn nguyên thần lên đao dù tổn hại linh thể.",
+    "chapter": 586,
+    "source": "Tiên Nghịch ch.586",
+    "evidence": "\"đem chính dấu ấn nguyên thần của mình in lên trên loan đao\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Nam tử áo trắng dẫn nhóm tu sĩ đến chào Vương Lâm trên phố có thân phận gì?",
+    "options": [
+      "Thiếu tông chủ Huyền Uyên phái",
+      "Đệ tử Đại La Kiếm Tông",
+      "Thiếu môn chủ Ngọc Kiếm Môn",
+      "Trưởng lão Cự Linh Môn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nam tử áo trắng tự giới thiệu là thiếu môn chủ Ngọc Kiếm Môn.",
+    "chapter": 587,
+    "source": "Tiên Nghịch ch.587",
+    "evidence": "\"Tại hạ là thiếu môn chủ của Ngọc Kiếm Môn\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Thấy tu sĩ chỉ như con hát mua vui ở Yêu Linh, nhóm tu sĩ ấy quyết định gì?",
+    "options": [
+      "Rời khỏi Thiên Yêu Thành",
+      "Liên thủ ám sát Yêu Tướng",
+      "Xin theo phò tá Vương Lâm",
+      "Đầu quân cho Mạc Lệ Hải"
+    ],
+    "correctIndex": 0,
+    "explanation": "Họ từ biệt Vương Lâm rồi hóa cầu vồng bay đi, rời khỏi Thiên Yêu Thành.",
+    "chapter": 587,
+    "source": "Tiên Nghịch ch.587",
+    "evidence": "\"Những đạo hữu đứng sau lưng ta đều chuẩn bị rời khỏi Thiên Yêu Thành.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Thanh niên trên thuyền tranh rủ Vương Lâm uống tới sáng để nghe tiếng đàn của ai?",
+    "options": [
+      "Minh Phí",
+      "Thiên Cầm",
+      "Liễu My",
+      "Tà Liên"
+    ],
+    "correctIndex": 0,
+    "explanation": "Thanh niên mời Vương Lâm uống tới bình minh, nghe đàn của Minh Phí cô nương.",
+    "chapter": 587,
+    "source": "Tiên Nghịch ch.587",
+    "evidence": "\"nghe tiếng đàn của Minh Phí cô nương.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Thanh niên trên thuyền tranh kể nhà mình có ai bướng bỉnh, lại đang bị một vị khách đáng ghét quấn lấy?",
+    "options": [
+      "Ba người con trai",
+      "Một tiểu thiếp",
+      "Bảy đứa cháu gái",
+      "Hai muội muội"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thanh niên nói có bảy đứa cháu gái bướng bỉnh, gần đây bị một vị khách đáng ghét quấn lấy.",
+    "chapter": 587,
+    "source": "Tiên Nghịch ch.587",
+    "evidence": "\"Có bảy đứa cháu gái, tuy nhiên chúng rất bướng bỉnh\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Ngắm bóng đêm bị ánh ban mai xua tan, Vương Lâm ngộ ra chữ nào là mấu chốt để đột phá?",
+    "options": [
+      "Thuận",
+      "Nghịch",
+      "Tránh",
+      "Nhẫn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn tự hỏi đêm bị ánh mặt trời quét đi có phải là nghịch, và thấy chữ nghịch là mấu chốt.",
+    "chapter": 587,
+    "source": "Tiên Nghịch ch.587",
+    "evidence": "\"Chữ nghịch này chính là mấu chốt có thể đưa ta đạt đến Vấn Đỉnh!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Yêu Tướng nào được gọi lên gõ Yêu Cổ đầu tiên ở vòng hai và không có người trợ giúp?",
+    "options": [
+      "Mặc Phi",
+      "Thạch Tiêu",
+      "Mộ Vân",
+      "Vu Sâm"
+    ],
+    "correctIndex": 3,
+    "explanation": "Kim giáp gọi Vu Sâm ra đầu tiên; gõ xong hắn nói mình không có người trợ giúp.",
+    "chapter": 588,
+    "source": "Tiên Nghịch ch.588",
+    "evidence": "Vu Sâm trầm giọng: \"Ta không có người trợ giúp!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Theo nam tử giáp vàng, Yêu Cổ do đời Đế Quân thứ nhất để lại được làm từ gì?",
+    "options": [
+      "Xương Yêu Long viễn cổ",
+      "Da Cự Ma thượng cổ",
+      "Da Cổ Yêu",
+      "Mai Yêu Quy ngàn năm"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn nói chiếc trống tương truyền làm bằng da của Cổ Yêu, huyết khí không đủ sẽ bị phản chấn.",
+    "chapter": 588,
+    "source": "Tiên Nghịch ch.588",
+    "evidence": "\"nghe đồn lấy da của Cổ Yêu làm thành\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Trước đây, ai mới được ban cho gõ vang Chiến Yêu Cổ?",
+    "options": [
+      "Phó Soái khi thăng Yêu Soái",
+      "Yêu Đế khi lên ngôi",
+      "Yêu Tướng đứng đầu mỗi kỳ",
+      "Người mở cửa Long Đàm"
+    ],
+    "correctIndex": 0,
+    "explanation": "Người bàn tán cho biết trống này trước đây chỉ dành cho Phó Soái được thăng cấp Yêu Soái.",
+    "chapter": 588,
+    "source": "Tiên Nghịch ch.588",
+    "evidence": "\"chỉ có Phó Soái khi được thăng cấp thành Yêu Soái mới được ban cho gõ vang trống này!\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo nam tử giáp vàng, người gõ vang Yêu Cổ sáu tiếng được xem là gì?",
+    "options": [
+      "Cường giả",
+      "Yêu Soái",
+      "Phó Soái",
+      "Thiên Kiêu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ba tiếng là cường giả, sáu tiếng là Thiên Kiêu.",
+    "chapter": 588,
+    "source": "Tiên Nghịch ch.588",
+    "evidence": "\"Đánh được ba tiếng là cường giả, đánh được sáu tiếng là Thiên Kiêu!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Yêu Tướng gõ Yêu Cổ đầu tiên đã thi triển chiêu nào để đánh vang tiếng thứ ba bằng chưởng phong?",
+    "options": [
+      "Thất Yêu Chi Thuật",
+      "Phệ Hồn Sát Lục",
+      "Cửu Tử Cửu Sinh",
+      "Thập Băng Quyền Ý"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn hô Phệ Hồn Sát Lục đệ nhất thức, các mặt người thống khổ nhập vào tay phải rồi chưởng phong đánh vang trống.",
+    "chapter": 588,
+    "source": "Tiên Nghịch ch.588",
+    "evidence": "\"Phệ Hồn Sát Lục đệ nhất thức!\" rồi tay phải hóa chưởng chụp tới Yêu Cổ."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Trước khi lui về, Mặc Phi tự mình gõ vang Yêu Cổ được bao nhiêu tiếng?",
+    "options": [
+      "Sáu tiếng",
+      "Bảy tiếng",
+      "Chín tiếng",
+      "Tám tiếng"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mặc Phi gõ sáu tiếng thong dong, rồi thêm tiếng thứ bảy và thứ tám trước khi bị đẩy lui.",
+    "chapter": 589,
+    "source": "Tiên Nghịch ch.589",
+    "evidence": "Đám đông hô: \"Hắn có thể gióng tám tiếng trống\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Khi mặt nạ Mặc Phi vỡ, Vương Lâm nhận ra hắn giống hệt ai?",
+    "options": [
+      "Thanh niên trên thuyền tranh",
+      "Nam tử tóc đen trong Hồng Lao",
+      "Thiên Vận Tử áo xám",
+      "Kiếm Tôn Lăng Thiên Hậu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gương mặt anh tuấn lộ ra giống hệt nam tử tóc đen ở chỗ sâu nhất của Hồng Lao.",
+    "chapter": 589,
+    "source": "Tiên Nghịch ch.589",
+    "evidence": "Hắn \"giống hệt nam tử tóc đen ở trong chỗ sâu nhất của Hồng lao\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Vì sao tu sĩ áo xanh trợ giúp Mặc Phi dừng lại sau ba tiếng trống?",
+    "options": [
+      "Thấy Mặc Phi đã chắc thắng",
+      "Bị phản chấn trọng thương",
+      "Bị nam tử giáp vàng ngăn",
+      "Thanh đại kiếm bị gãy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn nghĩ Mặc Phi thế đã tất thắng, liều mạng chịu trọng thương vì hắn là không đáng.",
+    "chapter": 589,
+    "source": "Tiên Nghịch ch.589",
+    "evidence": "\"Mặc Phi thế đã là tất thắng, ta vì hắn mà trọng thương thực sự không đáng!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Thấy thành tích của phe Mặc Phi, Mạc Lệ Hải khuyên Vương Lâm điều gì?",
+    "options": [
+      "Dốc toàn lực gõ mười tiếng",
+      "Nhờ Yêu Soái xin đổi luật",
+      "Chịu thua vòng thứ hai",
+      "Khiêu chiến thẳng Mặc Phi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mạc Lệ Hải tái mặt, than nhẹ và bảo Vương Lâm thôi thì chịu thua vòng này.",
+    "chapter": 589,
+    "source": "Tiên Nghịch ch.589",
+    "evidence": "\"Vương lão đệ, thôi, vòng thứ hai này chúng ta chịu thua đi.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Một Yêu Soái động lòng ái tài hứa gì nếu Mặc Phi gõ được sáu tiếng trống?",
+    "options": [
+      "Thu hắn làm đệ tử thân truyền của mình",
+      "Đề cử hắn dù không thành Phó Soái",
+      "Xin Yêu Đế ban Thiên Yêu Đan",
+      "Gả ái nữ của mình cho hắn"
+    ],
+    "correctIndex": 1,
+    "explanation": "Địa soái nói nếu Mặc Phi gõ được sáu tiếng thì dù không thành Phó Soái, y cũng sẽ đề cử hắn.",
+    "chapter": 589,
+    "source": "Tiên Nghịch ch.589",
+    "evidence": "Địa soái: \"dù có không trở thành phó soái ta cũng sẽ đề cử hắn!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi nhận lời cá cược với nam tử giáp vàng, Vương Lâm đòi lấy gì của hắn?",
+    "options": [
+      "Chức vị Yêu Tướng",
+      "Cây thương vàng của hắn",
+      "Một viên Thiên Yêu Đan",
+      "Một cánh tay của hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm không cần được tiến cử, mà muốn một cánh tay của đối phương.",
+    "chapter": 590,
+    "source": "Tiên Nghịch ch.590",
+    "evidence": "Vương Lâm: \"Ta muốn một cánh tay của ngươi!\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Tính cả nhát cuối khiến hắn bị đẩy lùi, Vương Lâm gõ vang Yêu Cổ tổng cộng mấy tiếng?",
+    "options": [
+      "Bảy tiếng",
+      "Tám tiếng",
+      "Chín tiếng",
+      "Mười tiếng"
+    ],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm gõ năm tiếng liền, rồi tiếng sáu, bảy, tám và cuối cùng tiếng thứ chín, vượt Mặc Phi.",
+    "chapter": 590,
+    "source": "Tiên Nghịch ch.590",
+    "evidence": "\"thành tích gõ được chín tiếng trống đã vượt qua đệ nhất Yêu tướng Mặc Phi\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Vương Lâm gõ năm tiếng liền mà thân không lay động, nhờ thứ gì hóa giải lực phản chấn?",
+    "options": [
+      "Sinh Chi Lạc Ấn",
+      "Sát lục chi khí",
+      "Cấm Phiên",
+      "Tiên kiếm hộ thể"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lực phản chấn bị hơn ba ngàn tầng Lạc Ấn Sinh Mệnh trên người hắn ngăn trở và tiêu tan dần.",
+    "chapter": 590,
+    "source": "Tiên Nghịch ch.590",
+    "evidence": "Lực phản chấn \"bị ngăn trở bởi Lạc Ấn Sinh Mệnh trên người Vương Lâm\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Khi lời nói của Vương Lâm hòa vào tiếng trống như tiếng trời đất, các Yêu Soái gọi đó là gì?",
+    "options": [
+      "Ngôn xuất pháp tùy",
+      "Thiên nhân hợp nhất",
+      "Tuế Nguyệt ý cảnh",
+      "Nhất niệm thành pháp"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bảy Yêu Soái kinh hãi nhìn nhau, thốt lên: Ngôn xuất pháp tùy.",
+    "chapter": 590,
+    "source": "Tiên Nghịch ch.590",
+    "evidence": "Các Yêu Soái: \"Ngôn xuất pháp tùy!\" (lời nói như mang khuôn phép)."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vương Lâm nhận thấy thần thông của nam tử giáp vàng liên quan tới thứ gì, nên đấu với hắn giữa trưa ắt thua?",
+    "options": [
+      "Âm Hàn",
+      "Lôi Điện",
+      "Dương Hỏa",
+      "Huyết Sát"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thần thông của hắn liên quan Dương Hỏa: giữa trưa thì mạnh nhất, nửa đêm âm khí nặng thì dễ đối phó hơn.",
+    "chapter": 590,
+    "source": "Tiên Nghịch ch.590",
+    "evidence": "Thần thông của người mặc kim giáp \"có liên quan đến Dương Hỏa\"."
+  }
+]

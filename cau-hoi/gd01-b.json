@@ -1,0 +1,90 @@
+[
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Sau khi hạt châu thần bí xuất hiện đám mây thứ mười, Vương Lâm phát hiện thời gian trong mộng cảnh của nó trôi nhanh hơn thực tế bao nhiêu lần?",
+    "options": ["Gấp hai lần", "Gấp năm lần", "Gấp mười lần", "Gấp một trăm lần"],
+    "correctIndex": 2,
+    "explanation": "Vương Lâm canh đèn dầu và đếm giờ trong mộng, kết luận thời gian trong mộng cảnh nhanh gấp mười lần bên ngoài.",
+    "chapter": 23,
+    "source": "Tiên Nghịch ch.23",
+    "evidence": "Ngọn đèn dầu cháy khoảng năm giờ trong khi hắn đếm được năm mươi giờ trong mộng; hắn reo lên: \"Thời gian trong giấc mộng trôi nhanh gấp mười lần\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Khi thử mang đồ vật vào mộng cảnh của hạt châu, Vương Lâm thấy túi trữ vật và mấy hồ lô cũ không theo vào được. Hắn suy ra nguyên nhân là gì?",
+    "options": ["Chúng quá nặng so với sức hắn", "Chúng có chứa linh khí", "Chúng chưa được nhỏ máu nhận chủ", "Chúng không phải do hắn tự làm ra"],
+    "correctIndex": 1,
+    "explanation": "Mộng cảnh không có linh khí, nên chỉ phàm vật không chứa linh khí mới mang vào được; hồ lô mới hái thì vào được.",
+    "chapter": 24,
+    "source": "Tiên Nghịch ch.24",
+    "evidence": "Đồ ăn, quần áo, mảnh bát đá vào được nhưng ba hồ lô thì không; hắn nghĩ những thứ vào được \"đều là phàm vật, là những thứ không có linh khí\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai là người đã dùng búa bổ chết Lưu sư huynh ở khu tạp vụ, rồi bỏ trốn khỏi Hằng Nhạc phái?",
+    "options": ["Trương Hổ", "Vương Lâm", "Vương Hạo", "Triệu tiểu nhị"],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm dùng Dẫn Lực thuật giữ Lưu sư huynh lại, nhưng chính Trương Hổ nhặt búa đốn củi bổ chết hắn rồi bỏ đi.",
+    "chapter": 26,
+    "source": "Tiên Nghịch ch.26",
+    "evidence": "Lưu sư huynh định đâm Trương Hổ; Trương Hổ nhặt cây búa đốn củi, nói \"Vô độc bất trượng phu\" rồi bổ xuống, sau đó rời khỏi môn phái."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Khi Vương Lâm quản lý khu tạp vụ và công khai nhận hối lộ, đám đệ tử ký danh gán cho hắn biệt danh gì?",
+    "options": ["Hoàng Thử lang", "Tân nhân vương", "Thiết Trụ ca", "Hắc Tâm vương"],
+    "correctIndex": 3,
+    "explanation": "Đệ tử ký danh gọi hắn là Hắc Tâm vương, danh hiệu còn \"cao hơn\" cái tên Hoàng Thử lang của tên họ Lưu trước đó.",
+    "chapter": 30,
+    "source": "Tiên Nghịch ch.30",
+    "evidence": "Trong mắt đệ tử ký danh, Vương Lâm bị gọi là Hắc Tâm vương, so với danh hiệu Hoàng Thử lang của tên họ Lưu thì còn hơn một bậc."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Ở giao dịch hội bí mật của đệ tử nội môn, Vương Lâm đã dùng thứ gì để đổi lấy khẩu quyết Ngưng Khí kỳ từ vị nhị sư huynh mặc tử y?",
+    "options": ["Một viên Tạo Hóa Đan", "Linh khí tuyền thủy (chất lỏng thần bí)", "Mấy trăm tấm Tham Thân tiên phù", "Cuộn tiên phù vàng của Lưu sư huynh"],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm đem chất lỏng thần bí (linh khí tuyền thủy) ra đổi, và nhị sư huynh mặc tử y đưa ngọc giản khẩu quyết tầng bốn đến tầng chín.",
+    "chapter": 33,
+    "source": "Tiên Nghịch ch.33",
+    "evidence": "Hắn rao một bình chất lỏng thần bí, một giọt sánh một viên Đoạt Linh Đan; nam tử tử y lấy toàn bộ số chất lỏng và đưa ngọc giản khẩu quyết."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Thanh phi kiếm mạ vàng, chuôi khảm kim cương mà Vương Lâm chọn ở Kiếm Linh các để mang ra so tài với Huyền Đạo Tông tên là gì?",
+    "options": ["Tử Nhạc", "Song Nguyệt", "Cự Phú", "Hoàng Long"],
+    "correctIndex": 2,
+    "explanation": "Tấm bảng ghi kiếm tên là Cự Phú, do một vị sư tổ bỏ nhiều tiền đúc ra; Vương Lâm thích vì sau này thiếu tiền có thể bán.",
+    "chapter": 39,
+    "source": "Tiên Nghịch ch.39",
+    "evidence": "Thân kiếm chỉ là được mạ một lớp hoàng kim, chuôi khảm hai viên kim cương lớn; tấm bảng ghi \"Kiếm này tên là cự phú\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Đoàn người của Huyền Đạo Tông đến Hằng Nhạc phái để so tài bằng cách nào?",
+    "options": ["Cưỡi một con rết khổng lồ dài khoảng trăm mét", "Cưỡi một con rồng tím", "Ngự phi kiếm thành đội hình", "Đi qua một trận truyền tống"],
+    "correctIndex": 0,
+    "explanation": "Họ cưỡi Thiên Túc Ngô Công, con rết đen dài chừng trăm mét; còn rồng tím là kiếm quang của chưởng môn Hoàng Long chân nhân.",
+    "chapter": 39,
+    "source": "Tiên Nghịch ch.39",
+    "evidence": "Trên trời hiện ra một con rết dài chừng trăm mét, toàn thân đen, bay tới giữa tiếng sấm; hơn mười người từ lưng nó nhảy xuống (ch.40)."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Ai đã đưa cho Vương Hạo bộ công pháp Lô Hỏa Khai Đình đại pháp, định biến hắn thành dược lô để luyện đan tăng thọ?",
+    "options": ["Trương Cuồng", "Tôn Đại Trụ", "Đạo Hư", "Lữ Vân Kiệt"],
+    "correctIndex": 3,
+    "explanation": "Tam sư huynh Lữ Vân Kiệt, chủ nhân của Vương Hạo, cho hắn Tạo Hóa Đan và bộ công pháp này để sau này luyện hắn thành đan dược.",
+    "chapter": 43,
+    "source": "Tiên Nghịch ch.43",
+    "evidence": "Vương Hạo kể Lữ Vân Kiệt đưa cho mình một quyển công pháp; tra ở Tàng kinh các mới biết đó là Lô Hỏa Khai Đình đại pháp và hắn \"muốn đem ta làm dược lô\"."
+  }
+]

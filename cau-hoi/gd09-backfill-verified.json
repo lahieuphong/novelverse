@@ -1,0 +1,249 @@
+[
+  {
+    "verdict": "ok",
+    "note": "Đúng văn bản ch.581, khác câu đã có về sợi chỉ lam.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Nguyên thần Mạt Dương bị luyện đến tan vỡ thành những điểm sáng. Vương Lâm dùng chúng vào việc gì?",
+      "options": [
+        "Thả cho tan vào trời đất",
+        "Hút vào để bù hao tổn",
+        "Luyện thành một ma đầu mới",
+        "Phong vào hồn phiên làm chủ hồn"
+      ],
+      "correctIndex": 1,
+      "explanation": "Nguyên thần Vương Lâm hút những điểm sáng do nguyên thần Mạt Dương hóa thành vào miệng, bù đắp nhanh hao tổn sau mấy ngày phun lửa nguyên thần luyện hóa.",
+      "chapter": 581,
+      "source": "Tiên Nghịch ch.581"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ cảnh giới Anh Biến hậu kỳ khỏi đề vì văn bản không nhất quán về cảnh giới lúc này.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Ở đại hội Yêu Tướng, phó soái nào chê tu vi của Vương Lâm chưa đủ để lọt vào nhóm dẫn đầu và nhận lời đánh cược?",
+      "options": [
+        "Thiên Phó Soái",
+        "Vũ Phó Soái",
+        "Hoàng Phó Soái",
+        "Trụ Phó Soái"
+      ],
+      "correctIndex": 2,
+      "explanation": "Huyền Phó Soái quả quyết Vương Lâm sẽ vào tam giáp, thậm chí đứng đầu; Hoàng Phó Soái cho rằng trong đám tu sĩ hắn chẳng có gì nổi bật, khó lọt vào nhóm dẫn đầu, nên nhận lời đánh cược.",
+      "chapter": 582,
+      "source": "Tiên Nghịch ch.582"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Sửa 'vừa ra tay' thành 'vừa giậm chân' cho đúng văn bản.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Ở vòng một, Yêu Tướng đối thủ vừa giậm chân đã biến mất bằng thuật gì, nhưng bị Vương Lâm ép lộ diện chỉ bằng một bước chân?",
+      "options": [
+        "Ẩn thân",
+        "Thuấn di",
+        "Hóa sương mù",
+        "Độn thổ"
+      ],
+      "correctIndex": 3,
+      "explanation": "Đối thủ dùng chiêu độn thổ phối hợp bổn mệnh yêu thú; Vương Lâm bước một bước khiến mặt đất vỡ, dung nham và kiếm tiên khí trồi lên, bức hắn lao ra khỏi lòng đất.",
+      "chapter": 583,
+      "source": "Tiên Nghịch ch.583"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Đúng văn bản ch.585, không trùng câu đã có.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Tuyên bố sẽ thu hồi tất cả những gì đã ban, Vương Lâm lập tức làm gì với Hứa Lập Quốc?",
+      "options": [
+        "Cắt mối liên hệ với tiên kiếm",
+        "Xóa sạch ma khí trong thân hắn",
+        "Phong ấn hắn vào Tôn Hồn phiên",
+        "Ép hắn nhập vào thanh loan đao"
+      ],
+      "correctIndex": 0,
+      "explanation": "Vương Lâm vuốt lên thân tiên kiếm, Hứa Lập Quốc kêu thảm và bị chặt đứt mối liên hệ với tiên kiếm; hắn cảm nhận lại sát khí năm xưa nên bỏ chạy.",
+      "chapter": 585,
+      "source": "Tiên Nghịch ch.585"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Đáp án cũ 'gột rửa nhẹ hơn' là diễn giải lỏng; đổi sang cảm giác sảng khoái tận xương được nêu thẳng.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Khi Vương Lâm đánh liền ba tiếng trống thứ mười hai đến mười bốn, những tiếng ầm ầm từ cơ thể hắn khiến người nghe cảm thấy thế nào?",
+      "options": [
+        "Bị chấn động tổn thương kinh mạch",
+        "Tu vi bị áp chế trong chốc lát",
+        "Sảng khoái tận xương cốt",
+        "Bất giác quỳ xuống bái lạy"
+      ],
+      "correctIndex": 2,
+      "explanation": "Âm thanh từ cơ thể Vương Lâm khiến mọi người cảm thấy sảng khoái từ trong xương cốt; người nghe tiếng tẩy tủy sẽ sinh ra một loại dao động tẩy tủy kém hơn một chút.",
+      "chapter": 592,
+      "source": "Tiên Nghịch ch.592"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Là suy nghĩ được nêu thẳng của kẻ mặc kim giáp, không lộ tên Kim Ô Húc.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "kho",
+      "question": "Vì sao kẻ mặc kim giáp tin rằng dù giết Vương Lâm trước tiếng trống thứ mười lăm, hắn cũng không bị phạt nặng?",
+      "options": [
+        "Hắn có công, Vương Lâm chỉ là tu sĩ",
+        "Đế Quân đã ngầm cho phép hắn ra tay",
+        "Các Yêu soái đều hứa sẽ che chở hắn",
+        "Vương Lâm đã vi phạm luật đại hội trước"
+      ],
+      "correctIndex": 0,
+      "explanation": "Hắn nghĩ Yêu Đế sẽ trách nhưng không phạt nặng, vì Vương Lâm chỉ là một tu sĩ, còn hắn là Yêu nhân từng lập công với Thiên Yêu quận.",
+      "chapter": 593,
+      "source": "Tiên Nghịch ch.593"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Câu ch.560 đã nêu tên Động Phủ Lệnh nên đáp án dễ đoán; đổi sang hỏi kết quả của lần thuấn di.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vừa đạt Vấn Đỉnh đã thấy vòng xoáy đen hiện trên động phủ, Vương Lâm lấy lệnh bài động phủ ra thuấn di thoát đi. Kết quả ra sao?",
+      "options": [
+        "Bị kéo ngược vào vòng xoáy đen",
+        "Truyền tống trục trặc, tới nơi lạ",
+        "Về thẳng quảng trường Thiên Yêu Môn",
+        "Kẹt lại trong hư vô suốt mấy ngày"
+      ],
+      "correctIndex": 1,
+      "explanation": "Vương Lâm thuấn di bằng lệnh bài động phủ nhưng truyền tống gặp vấn đề, đưa hắn tới một đồng bằng rộng lớn rất xa lạ ở Hỏa Yêu quận.",
+      "chapter": 599,
+      "source": "Tiên Nghịch ch.599"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Câu ch.602 đã có nói hắn 'điên cuồng phóng đi' và chữ 'lần này' gợi ý; đổi đề và nhiễu cho khỏi lộ.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "vua",
+      "question": "Vừa bị tiếng hừ lạnh từ hư vô đánh trọng thương tâm thần, Vương Lâm nuốt một vốc đan dược rồi làm gì?",
+      "options": [
+        "Thuấn di khỏi vùng đó ngay",
+        "Phóng về phía phát ra tiếng hừ",
+        "Quay về động phủ bế quan",
+        "Bay về Thiên Yêu thành cầu viện"
+      ],
+      "correctIndex": 1,
+      "explanation": "Bình thường hắn sẽ lập tức thuấn di chạy đi, nhưng lúc này chiến ý và sát tâm bùng phát; hắn nuốt đan dược rồi điên cuồng phóng về hướng phát ra tiếng hừ lạnh.",
+      "chapter": 602,
+      "source": "Tiên Nghịch ch.602"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Nêu thẳng trong ch.613, giải thích không nhắc chữ bá đạo đã bị loại.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Theo truyện, vì sao tông môn của Kiếm Tôn Lăng Thiên Hậu tuy rất gắn kết nhưng lại hiếm người cực mạnh?",
+      "options": [
+        "Công pháp thất truyền quá nửa",
+        "Đệ tử luôn được che chở",
+        "Bị Thiên Vận Tông chèn ép",
+        "Kiếm Tôn cấm đệ tử vượt mặt"
+      ],
+      "correctIndex": 1,
+      "explanation": "Lăng Thiên Hậu cực kỳ bao che môn hạ nên tông môn gắn kết, nhưng chim ưng cứ ở dưới sự bảo vệ thì khó thành hùng ưng, nên ít người cực mạnh; ngược lại Thiên Vận Tông có nhiều cao thủ.",
+      "chapter": 613,
+      "source": "Tiên Nghịch ch.613"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Kết luận 'chắc chắn không phải yêu nhân' được nêu thẳng trong lời Đằng Vân.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Thấy kẻ mặc giáp phun Nguyên thần tinh hỏa luyện đầu Tử Thử, gã tu sĩ đứng xem chắc mẩm điều gì về hắn?",
+      "options": [
+        "Không phải là yêu nhân",
+        "Là đệ tử của Kiếm Tôn",
+        "Là một Yêu soái cải trang",
+        "Đang bị thương rất nặng"
+      ],
+      "correctIndex": 0,
+      "explanation": "Gã tu sĩ (Đằng Vân) cho rằng người có Nguyên thần tinh hỏa chắc chắn không phải yêu nhân, mà là một kẻ tu ma lòng lang dạ sói.",
+      "chapter": 613,
+      "source": "Tiên Nghịch ch.613"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Rõ ràng, khác câu Huyết nhân và xương tay đã có ở ch.630.",
+    "question": {
+      "topic": "cot_truyen",
+      "difficulty": "kho",
+      "question": "Trong không gian kỳ dị hiện ra vô số hình ảnh Vương Lâm thi triển thần thông, cuối cùng hắn bước tới dung hợp với bóng dáng nào?",
+      "options": [
+        "Thiếu niên thi triển Dẫn Lực thuật",
+        "Thanh niên tóc dài mắt đầy sát khí",
+        "Bóng người thi triển Định Thân thuật",
+        "Bóng áo xám đầy Sát Lục khí"
+      ],
+      "correctIndex": 3,
+      "explanation": "Trong các hình ảnh có một Vương Lâm áo xám, mắt xám, hàng trăm vạn Sát Lục khí vờn quanh; cuối cùng hắn tâm thần đại khai, dung hợp với bóng dáng màu xám thi triển Sát lục tiên quyết.",
+      "chapter": 630,
+      "source": "Tiên Nghịch ch.630"
+    }
+  },
+  {
+    "verdict": "ok",
+    "note": "Nêu thẳng trong ch.637, khác các câu đã có về giáp, hồn phiên, Tán Ma.",
+    "question": {
+      "topic": "khac",
+      "difficulty": "kho",
+      "question": "Trước khi vào khe phong ấn, vì sao Vương Lâm giữ lại đạo khí giết chóc cuối cùng và dung nhập nó vào tâm thần?",
+      "options": [
+        "Để che giấu khí tức trước Kiếm Tôn",
+        "Để luyện thành nguyên thần thứ hai",
+        "Để Sinh ấn tự sinh không ngừng",
+        "Để chống lại ma khí của bộ giáp"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mười vạn khí giết chóc hóa thành Sinh ấn bao trùm thân; đạo cuối cùng dung vào tâm thần giúp Sinh ấn phát triển không ngừng, trừ phi nguyên thần bị đánh nát một lần.",
+      "chapter": 637,
+      "source": "Tiên Nghịch ch.637"
+    }
+  },
+  {
+    "verdict": "fix",
+    "note": "Bỏ chữ 'kiếm linh' trong đề để không trùng gốc 'linh' với đáp án; không nêu tên Hứa Lập Quốc vì là đáp án câu cũ.",
+    "question": {
+      "topic": "nhan_vat",
+      "difficulty": "vua",
+      "question": "Tự mình truyền thừa cho tên ma đầu ký thân trong thanh kiếm tiên của Vương Lâm, Chu Dật phải chịu tổn hại gì?",
+      "options": [
+        "Mất một đạo kiếm khí bản mệnh",
+        "Linh thể bị thương tổn",
+        "Tuổi thọ giảm mấy trăm năm",
+        "Bị Lăng Thiên Hậu lần ra dấu vết"
+      ],
+      "correctIndex": 1,
+      "explanation": "Tự thân truyền thừa cho người khác làm linh thể Chu Dật bị thương tổn, nét mặt uể oải; nhưng hắn không để ý vì Vương Lâm đã liều mình tới cứu hắn.",
+      "chapter": 639,
+      "source": "Tiên Nghịch ch.639"
+    }
+  }
+]

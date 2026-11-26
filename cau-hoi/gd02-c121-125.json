@@ -1,0 +1,402 @@
+[
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ba cỗ thần thức khổng lồ lao ra khi chiến trường ngoại vực sụp đổ hóa ra là ai đối với Vương Lâm?",
+    "options": [
+      "Ba trưởng lão Chiến Thần điện",
+      "Ba hàng xóm trong vết nứt không gian",
+      "Ba lão tổ Nguyên Anh Hằng Nhạc phái",
+      "Ba cao thủ của Cự Ma Tộc"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm nhận ra ba cỗ thần thức này chính là ba hàng xóm cũ của hắn trong vết nứt không gian.",
+    "chapter": 121,
+    "source": "Tiên Nghịch ch.121",
+    "evidence": "Vương Lâm thấy ba cổ thần thức rất quen, \"đúng là ba hàng xóm của hắn ở trong vết nứt không gian\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Chu Tử Hồng, người bị du hồn truy đuổi trong chiến trường ngoại vực, là đệ tử của môn phái nào?",
+    "options": [
+      "Hằng Nhạc phái",
+      "Huyền Đạo Tông",
+      "Chiến Thần điện",
+      "Thi Âm Tông"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nàng là đệ tử Chiến Thần điện thuộc tam cấp tu chân quốc Hỏa Phần.",
+    "chapter": 121,
+    "source": "Tiên Nghịch ch.121",
+    "evidence": "Truyện giới thiệu Chu Tử Hồng \"là đệ tử của Chiến Thần điện\" ở Hỏa Phần quốc."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Triệu quốc là tam cấp tu chân quốc, chịu sự quản lý trực tiếp của tứ cấp tu chân quốc nào?",
+    "options": [
+      "Thanh Long quốc",
+      "Chu Tước quốc",
+      "Cự Ma Tộc",
+      "Hỏa Phần quốc"
+    ],
+    "correctIndex": 0,
+    "explanation": "Triệu quốc chịu quản lý của Thanh Long quốc, còn Thanh Long quốc lại do ngũ cấp Cự Ma Tộc quản lý.",
+    "chapter": 121,
+    "source": "Tiên Nghịch ch.121",
+    "evidence": "Triệu quốc thuộc Chu Tước tinh, \"chịu sự quản lý của Thanh Long quốc là tứ cấp tu chân quốc\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Ba cỗ thần thức khổng lồ tự xưng là loại tồn tại gì, mang sứ mệnh cắn nuốt không gian sụp đổ?",
+    "options": [
+      "Du hồn",
+      "Ma đầu",
+      "Âm linh",
+      "Thôn hồn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Chúng tự nhận là thôn hồn, có sứ mệnh cắn nuốt không gian sụp đổ để nó không lan rộng.",
+    "chapter": 121,
+    "source": "Tiên Nghịch ch.121",
+    "evidence": "Một thần thức nói: \"chúng ta thân là thôn hồn, sứ mệnh là cắn nuốt nơi này\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Vương Lâm thỏa thuận với ba thôn hồn điều gì để kịp rời khỏi chiến trường ngoại vực?",
+    "options": [
+      "Ngừng hẳn việc cắn nuốt chiến trường",
+      "Hoãn lại lúc chiến trường sụp đổ hoàn toàn",
+      "Dẫn hắn tới truyền tống trận gần nhất",
+      "Cho hắn mượn một ngọc phù truyền tống"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn sợ chiến trường sụp hẳn thì truyền tống trận không mở được, nên xin trì hoãn thời điểm sụp đổ cuối cùng.",
+    "chapter": 121,
+    "source": "Tiên Nghịch ch.121",
+    "evidence": "Vương Lâm nói không muốn ngăn cản, chỉ mong thời gian sụp đổ cuối cùng \"có thể trì hoãn một chút\"; cả ba đồng ý."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Chu Tử Hồng nhớ lại mấy ngày trước Mã Lương từng tặng nàng thứ gì?",
+    "options": [
+      "Một thanh phi kiếm hạ phẩm",
+      "Một túi trữ vật đầy linh thạch",
+      "Một ngọc phù hộ thân",
+      "Một viên đan dược giữ nhan sắc"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mã Lương cho nàng một viên đan dược, nói ăn vào có thể giữ được nhan sắc.",
+    "chapter": 122,
+    "source": "Tiên Nghịch ch.122",
+    "evidence": "Nàng nhớ Mã Lương cho một viên đan dược, nói ăn vào \"có thể bảo trụ được nhan sắc\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Ai đã bóp nát các hồ lô linh lực dịch thể và nhiều bảo bối trong túi trữ vật của Vương Lâm?",
+    "options": [
+      "Đằng Hóa Nguyên",
+      "Hứa Hạo",
+      "Cát Dương",
+      "Lâm Đào"
+    ],
+    "correctIndex": 0,
+    "explanation": "Đồ trong túi trữ vật của Vương Lâm đều bị Đằng Hóa Nguyên bóp nát, hóa thành hư không.",
+    "chapter": 122,
+    "source": "Tiên Nghịch ch.122",
+    "evidence": "Hồ lô linh dịch cùng bảo bối trong túi trữ vật \"đều bị Đằng Hóa Nguyên bóp nát\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Vì sao Vương Lâm quyết tâm phải giết Hứa Hạo và Cát Dương?",
+    "options": [
+      "Hai kẻ đó từng hãm hại Chu Tử Hồng",
+      "Hai kẻ đó biết Mã Lương thật đã chết",
+      "Hai kẻ đó là tay sai của Đằng gia",
+      "Hai kẻ đó cướp Nghịch Thiên châu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Không phải để báo thù cho Mã Lương mà vì hai người biết Mã Lương đã chết, có thể lộ chuyện đoạt xá.",
+    "chapter": 122,
+    "source": "Tiên Nghịch ch.122",
+    "evidence": "Giết họ không vì Mã Lương mà vì họ \"biết rõ, Mã Lương thật sự đã chết rồi\", tránh hậu họa."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Ngoài chút cảm kích của Mã Lương với Chu Tử Hồng, Vương Lâm cứu nhóm nàng còn để có được thứ gì?",
+    "options": [
+      "Đan dược bổ sung linh lực",
+      "Bản đồ chiến trường ngoại vực",
+      "Một ngọc phù truyền tống",
+      "Công pháp của Chiến Thần điện"
+    ],
+    "correctIndex": 2,
+    "explanation": "Truyền tống trận chỉ đưa người có ngọc phù, nên hắn muốn đoạt một cái để về Hỏa Phần quốc.",
+    "chapter": 122,
+    "source": "Tiên Nghịch ch.122",
+    "evidence": "Ý đồ khác khi cứu ba người Chu Tử Hồng là \"nhằm đoạt một cái ngọc phù\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Con du hồn hai sừng mang túi trữ vật đến khiến Vương Lâm có cảm giác giống khi từng nhìn thấy gì?",
+    "options": [
+      "Hồn phách của Mã Lương",
+      "Thần thức của Đằng Hóa Nguyên",
+      "Ba thôn hồn hàng xóm",
+      "Nguyên Anh của Tư Đồ Nam"
+    ],
+    "correctIndex": 3,
+    "explanation": "Du hồn ấy cắn nuốt nhiều linh hồn chưa tiêu hóa, gợi cảm giác như Nguyên Anh Tư Đồ Nam trong Mộng Cảnh không gian.",
+    "chapter": 122,
+    "source": "Tiên Nghịch ch.122",
+    "evidence": "Hắn thấy ở du hồn này một tia cảm giác như từng thấy \"Nguyên Anh của Tư Đồ Nam\" trong Mộng Cảnh không gian."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Bị du hồn truy sát theo lệnh Vương Lâm, Lâm Đào đã làm gì để giữ mạng?",
+    "options": [
+      "Xin làm nô tài, dâng tinh huyết",
+      "Rút phi kiếm liều chết chống trả",
+      "Khai ra bí mật đoạt xá cho đồng môn",
+      "Lao vào truyền tống trận để trốn"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lâm Đào xin làm nô tài và ép ra một giọt bản mệnh tinh huyết dâng cho Vương Lâm.",
+    "chapter": 123,
+    "source": "Tiên Nghịch ch.123",
+    "evidence": "Lâm Đào xin tha, nguyện làm nô tài, rồi một giọt máu từ mi tâm bay về phía Vương Lâm."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trước khi dâng tinh huyết, Chu Tử Hồng hỏi Vương Lâm điều gì?",
+    "options": [
+      "Hắn đến từ tu chân quốc nào",
+      "Hắn có tha cho Lâm Đào không",
+      "Lúc bị đoạt xá Mã Lương sống hay chết",
+      "Hắn có bắt nàng hầu hạ không"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nàng chỉ muốn biết Mã Lương còn sống hay đã chết khi bị đoạt xá; Vương Lâm đáp là đã chết.",
+    "chapter": 123,
+    "source": "Tiên Nghịch ch.123",
+    "evidence": "Nàng hỏi: khi ngài đoạt xá, \"Mã Lương lúc đó là sống hay chết?\" Vương Lâm đáp: Chết."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Theo ba thôn hồn, nếu du hồn lọt vào không gian sinh linh thì chúng được gọi là gì?",
+    "options": [
+      "Thôn hồn",
+      "Ma đầu",
+      "Thi quỷ",
+      "Tà linh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thôn hồn cho biết ở bên trong không gian sinh linh, du hồn được gọi là ma đầu.",
+    "chapter": 123,
+    "source": "Tiên Nghịch ch.123",
+    "evidence": "\"Ở bên trong sinh linh không gian, du hồn được gọi là ma đầu.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Khi Vương Lâm đứng lặng hồi lâu, Dương Hùng lo sợ nhất điều gì?",
+    "options": [
+      "Bị giết đi để bịt miệng",
+      "Bị bỏ lại giữa đám du hồn",
+      "Bị ép giao nộp túi trữ vật",
+      "Bị hắn đoạt xá thân mình"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ngoài chuyện sống chết, Dương Hùng sợ Vương Lâm vứt thân Mã Lương mà đoạt lấy thân thể của hắn.",
+    "chapter": 123,
+    "source": "Tiên Nghịch ch.123",
+    "evidence": "Dương Hùng sợ đối phương \"vứt bỏ Mã Lương, mà đoạt lấy thân thể của mình\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "kho",
+    "question": "Ba thôn hồn tiết lộ sự thật gì khiến Vương Lâm thất thần đứng sững?",
+    "options": [
+      "Truyền tống trận sẽ không mở nữa",
+      "Thân là hồn, hắn không thể rời chốn này",
+      "Mã Lương vẫn còn tàn hồn trong thân",
+      "Triệu quốc đã bị Cự Ma Tộc diệt"
+    ],
+    "correctIndex": 1,
+    "explanation": "Chúng nói thân là hồn thì không thể rời khỏi đây, cuối cùng hắn phải theo chúng về không gian tịch diệt.",
+    "chapter": 123,
+    "source": "Tiên Nghịch ch.123",
+    "evidence": "\"Thân là hồn, thì không có cách nào rời khỏi chỗ này\"; rốt cuộc phải trở về không gian tịch diệt."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Vương Lâm dùng linh thạch bố trí trận pháp phòng ngự mang theo người có tên là gì?",
+    "options": [
+      "Thất Sát Tỏa Hồn trận",
+      "Qui Giáp Huyền Diệt trận",
+      "Cửu Cung Mê Tung trận",
+      "Huyết Luyện Khốn Linh trận"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn nhớ ra Qui Giáp Huyền Diệt trận, không có tính công kích nhưng phòng ngự rất cao.",
+    "chapter": 124,
+    "source": "Tiên Nghịch ch.124",
+    "evidence": "Trong trí nhớ hắn có \"trận pháp tên là Qui Giáp Huyền Diệt trận\", phòng ngự rất cao."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "vua",
+    "question": "Vương Lâm phát hiện thứ gì mới thật sự giết chết du hồn khi chúng chạm vào quầng sáng truyền tống trận?",
+    "options": [
+      "Ngọn lửa trắng thiêu đốt",
+      "Lôi điện của trận pháp",
+      "Sợi tơ đen chui vào cơ thể",
+      "Kiếm quang của các tu sĩ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mỗi khi du hồn chạm quầng sáng, một sợi tơ đen xuất hiện chui vào cơ thể nó, gây ra cái chết.",
+    "chapter": 124,
+    "source": "Tiên Nghịch ch.124",
+    "evidence": "Một sợi tơ đen chui vào du hồn, \"đây mới là nguyên nhân làm cho du hồn tử vong\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Con du hồn biến dị bị Vương Lâm ép xông vào quầng sáng truyền tống trận đã gây ra chuyện gì?",
+    "options": [
+      "Hút một tu sĩ thành thây khô",
+      "Phá vỡ hẳn quầng sáng bảo vệ",
+      "Nhập vào thân thể Dương Hùng",
+      "Cướp ngọc phù rồi bỏ chạy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nó cố nhào vào một tu sĩ, biến người đó thành thây khô, rồi bị hàng chục sợi tơ đen diệt thành tro bụi.",
+    "chapter": 124,
+    "source": "Tiên Nghịch ch.124",
+    "evidence": "Tu sĩ bị nhào trúng hóa thây khô; du hồn biến dị lao ra không xa \"liền hóa thành tro bụi\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Hứa Hạo và Cát Dương, kẻ giết Mã Lương, rốt cuộc chết như thế nào?",
+    "options": [
+      "Bị Vương Lâm tự tay giết",
+      "Bị không gian sụp đổ nuốt mất",
+      "Bị Lâm Đào ám sát lấy túi",
+      "Bị du hồn truy đuổi cắn nuốt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Du hồn ở đâu cũng nhắm vào hai người họ, nên chẳng bao lâu cả hai bị cắn nuốt.",
+    "chapter": 124,
+    "source": "Tiên Nghịch ch.124",
+    "evidence": "Du hồn hễ thấy hai người liền xông tới, nên họ \"kiên trì không được bao lâu liền bị du hồn cắn nuốt\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Vương Lâm dùng gì để vẽ từng ký hiệu của trận pháp phòng ngự lên không trung?",
+    "options": [
+      "Máu từ đầu ngón tay",
+      "Linh lực dịch thể trong hồ lô",
+      "Bột trung phẩm linh thạch bóp nát",
+      "Bản mệnh tinh huyết của ba nô tài"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn bóp nát trung phẩm linh thạch, chấm lên đầu ngón tay để vẽ; mỗi khối vẽ được một ký hiệu.",
+    "chapter": 124,
+    "source": "Tiên Nghịch ch.124",
+    "evidence": "Hắn lấy linh thạch ra bóp nát, dính lên đầu ngón tay vẽ ký hiệu; \"Một khối trung phẩm linh thạch có thể vẽ ra một ký hiệu\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Qua quan sát, Vương Lâm biết ngọc phù cần bao lâu để kết nối xong với truyền tống trận?",
+    "options": [
+      "Ba giây",
+      "Một nén nhang",
+      "Bảy hơi thở",
+      "Nửa canh giờ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hắn tính được ngọc phù kết nối với truyền tống trận chỉ mất ba giây, cũng là lúc nguy hiểm nhất.",
+    "chapter": 125,
+    "source": "Tiên Nghịch ch.125",
+    "evidence": "Ngọc phù kết nối truyền tống trận \"chỉ cần thời gian ba giây\", vượt qua là chắc chắn truyền đi được."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Khi các bộ trận phòng ngự gần cạn, Vương Lâm tung thứ gì ra quanh mình để cản tơ đen?",
+    "options": [
+      "Huyết luyện phi kiếm",
+      "Hơn một ngàn con du hồn",
+      "Ba giọt bản mệnh tinh huyết",
+      "Mấy trăm kiện pháp bảo"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn tung ba túi trữ vật, cho mấy trăm kiện pháp bảo bay ra bao quanh thân để chống đỡ.",
+    "chapter": 125,
+    "source": "Tiên Nghịch ch.125",
+    "evidence": "Từ ba túi trữ vật bay ra vô số pháp bảo, \"không dưới mấy trăm kiện pháp bảo\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Ở giây thứ ba, pháp tắc giới luật chộp tới Vương Lâm dưới hình dạng gì?",
+    "options": [
+      "Một con rồng sấm sét đen",
+      "Một bàn tay to kết từ tơ đen",
+      "Một cột sáng trắng khổng lồ",
+      "Một con mắt giữa hư không"
+    ],
+    "correctIndex": 1,
+    "explanation": "Một bàn tay to do vô số sợi tơ đen tạo thành thò ra từ hư vô chộp lấy hắn.",
+    "chapter": 125,
+    "source": "Tiên Nghịch ch.125",
+    "evidence": "\"Một bàn tay to do vô số sợi tơ đen tạo thành\" từ hư vô thò ra chộp tới Vương Lâm."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Trước lần này, Vương Lâm từng cảm nhận được cực cảnh ở nơi nào?",
+    "options": [
+      "Mộng Cảnh không gian",
+      "Đằng gia thành",
+      "Quyết Minh Cốc",
+      "Hằng Nhạc phái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lần thứ hai hắn cảm nhận cực cảnh là ở Quyết Minh Cốc; lần này là lần thứ tư.",
+    "chapter": 125,
+    "source": "Tiên Nghịch ch.125",
+    "evidence": "Lần đầu ở khu thành thị đổ nát, \"Lần thứ hai là ở trong Quyết Minh Cốc\", lần ba ở không gian tịch diệt."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Theo suy diễn của học giả thượng cổ, tu sĩ cực cảnh bị pháp tắc thiên địa chặn lại ở giới hạn nào?",
+    "options": [
+      "Không thể vượt quá Kết Đan kỳ",
+      "Không thể vượt quá Hóa Thần kỳ",
+      "Không thể vượt quá Trúc Cơ kỳ",
+      "Không thể vượt quá Nguyên Anh kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Họ cho rằng tu sĩ cực cảnh không thể đột phá Nguyên Anh kỳ vì sẽ bị pháp tắc thiên địa gạt bỏ.",
+    "chapter": 125,
+    "source": "Tiên Nghịch ch.125",
+    "evidence": "Tu sĩ cực cảnh \"không thể đột phá Nguyên Anh kỳ\", đột phá sẽ bị pháp tắc thiên địa gạt bỏ."
+  }
+]

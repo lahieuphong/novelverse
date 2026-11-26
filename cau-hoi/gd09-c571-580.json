@@ -1,0 +1,802 @@
+[
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vương Lâm nói với Mạc Lệ Hải rằng hắn muốn vào Hồng lao để làm gì?",
+    "options": [
+      "Cứu một trọng phạm",
+      "Giết chóc để tu luyện",
+      "Thẩm vấn một yêu tướng",
+      "Trốn tránh Đế Kiếm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Vương Lâm muốn giết chóc, sợ giết nhiều trong thành sẽ gây phiền toái.",
+    "chapter": 571,
+    "source": "Tiên Nghịch ch.571",
+    "evidence": "Vương Lâm xin vào Hồng lao và giải thích: \"Ta muốn giết chóc\", giết trong thành sẽ gây phiền toái."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Để Mạc Lệ Hải tin mình, Vương Lâm phóng năm đạo sát lục khí hóa thành thứ gì lao vào hắn?",
+    "options": [
+      "Năm con thương long",
+      "Năm thanh phi kiếm",
+      "Năm con mãnh hổ",
+      "Năm con hỏa xà"
+    ],
+    "correctIndex": 0,
+    "explanation": "Năm đạo sát lục khí hình thành năm con thương long lao về phía Mạc Lệ Hải.",
+    "chapter": 571,
+    "source": "Tiên Nghịch ch.571",
+    "evidence": "Trên tay Vương Lâm, năm đạo sát lục khí \"hình thành năm con thương long\" lao tới Mạc Lệ Hải."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Theo Mạc Lệ Hải, điều hắn không giải thích nổi ở khí xám của Vương Lâm là gì?",
+    "options": [
+      "Hút cạn yêu lực của hắn",
+      "Làm đông cứng kinh mạch hắn",
+      "Khiến hắn sinh ảo giác",
+      "Dẫn động sinh cơ của hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mạc Lệ Hải thấy khí xám có biến hóa lạ, có thể dẫn động sinh cơ trong cơ thể hắn.",
+    "chapter": 571,
+    "source": "Tiên Nghịch ch.571",
+    "evidence": "Mạc Lệ Hải nghĩ khí xám có biến hóa khó hiểu, \"có thể dẫn động sinh cơ trong cơ thể ta\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Trong ba ngày chờ Mạc Lệ Hải thu xếp, Vương Lâm dành thời gian thế nào?",
+    "options": [
+      "Bế quan luyện Sát lục tiên quyết",
+      "Dò xét quanh Hồng lao",
+      "Nghe đàn bên sông, uống rượu",
+      "Luyện hóa yêu tinh"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ba ngày ấy hắn không tu luyện, chỉ ngồi bên sông nghe tiếng đàn từ hoa thuyền và uống rượu.",
+    "chapter": 571,
+    "source": "Tiên Nghịch ch.571",
+    "evidence": "Ba ngày Vương Lâm không tu luyện, ngồi bờ sông chờ hoa thuyền qua để nghe đàn, uống rượu."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Nữ tử đánh đàn trên hoa thuyền mà Vương Lâm ngày ngày ngồi nghe tên là gì?",
+    "options": [
+      "Liễu Mi",
+      "Minh Huyên",
+      "Từ U",
+      "Hồng Điệp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Một giọng nói bên cạnh gọi nữ tử đánh đàn trên hoa thuyền là Minh Huyên.",
+    "chapter": 571,
+    "source": "Tiên Nghịch ch.571",
+    "evidence": "Trên hoa thuyền có tiếng hỏi nữ tử đánh đàn: \"Minh Huyên, ngươi nhìn gì vậy?\""
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Bị ép đổi bài, nữ tử trên hoa thuyền đàn khúc nhạc thế nào?",
+    "options": [
+      "Vui ngoài, buồn trong",
+      "Khúc chiến ca hùng tráng",
+      "Khúc ru trầm lắng",
+      "Khúc bi ai như cũ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tiếng đàn mới nghe như mùa xuân vui tươi nhưng ẩn chứa tiếng khóc vô thanh.",
+    "chapter": 572,
+    "source": "Tiên Nghịch ch.572",
+    "evidence": "Tiếng đàn thoạt nghe vui tươi nhưng bên trong \"ẩn chứa tiếng khóc vô thanh\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Gã cai ngục họ Hứa ra mở cửa Hồng lao cho Vương Lâm có tu vi gì?",
+    "options": [
+      "Anh Biến trung kỳ viên mãn",
+      "Hóa Thần hậu kỳ viên mãn",
+      "Anh Biến sơ kỳ",
+      "Anh Biến hậu kỳ viên mãn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm nhận ra gã mặt âm trầm này giống Mạc Lệ Hải, đều là Anh Biến hậu kỳ đại viên mãn.",
+    "chapter": 572,
+    "source": "Tiên Nghịch ch.572",
+    "evidence": "Nam tử sắc mặt âm trầm, giống Mạc Lệ Hải, \"đều có tu vi Anh Biến hậu kỳ đại viên mãn\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Mạc Lệ Hải đã trả giá gì để gã họ Hứa chịu cho Vương Lâm vào Hồng lao?",
+    "options": [
+      "Một bộ yêu giáp thượng phẩm",
+      "Một thanh yêu kiếm cổ",
+      "Ba tầng đầu Thập Băng Quyền Ý",
+      "Mười cây hồn phiên luyện sẵn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gã họ Hứa nói Mạc Lệ Hải tặng hắn công pháp ba tầng của Thập Băng Quyền Ý.",
+    "chapter": 572,
+    "source": "Tiên Nghịch ch.572",
+    "evidence": "Gã họ Hứa: \"Hắn tặng ta công pháp ba tầng của Thập Băng Quyền Ý\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Tên phạm nhân nhổ đờm vào Vương Lâm bị một đạo sát lục khí chui vào người, cuối cùng ra sao?",
+    "options": [
+      "Nổ tung thành sương máu",
+      "Héo rũ thành thây khô",
+      "Hóa thành tượng đá",
+      "Phát điên rồi tự sát"
+    ],
+    "correctIndex": 1,
+    "explanation": "Sát lục khí hút sinh cơ khiến thân thể hắn héo rũ, trở thành một cái thây khô.",
+    "chapter": 572,
+    "source": "Tiên Nghịch ch.572",
+    "evidence": "Phạm nhân co quắp, thân thể héo rũ, \"cuối cùng trở thành một cái thây khô\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Tia khí xám rời xác tên phạm nhân đầu tiên bay về với Vương Lâm có gì thay đổi?",
+    "options": [
+      "Đậm hơn một chút",
+      "Chuyển màu đỏ máu",
+      "Tách thành hai tia",
+      "Mang theo hồn phạm nhân"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tia khí xám quay về đã nồng đậm hơn lúc phóng ra một chút, nhưng vẫn chỉ là một tia.",
+    "chapter": 572,
+    "source": "Tiên Nghịch ch.572",
+    "evidence": "Tia khí xám quay về chỗ Vương Lâm, \"đã nồng đậm hơn vừa rồi một chút\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Hai phạm nhân ở hai phòng đối diện đều xin Vương Lâm giết kẻ kia. Hắn đã làm gì?",
+    "options": [
+      "Chỉ giết kẻ lên tiếng trước",
+      "Tha cho cả hai",
+      "Bắt họ đấu với nhau",
+      "Giết cả hai người"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm không nói gì, điểm hai cái, cả hai cùng ngã xuống với điểm đỏ trên mi tâm.",
+    "chapter": 573,
+    "source": "Tiên Nghịch ch.573",
+    "evidence": "Vương Lâm điểm hai cái, mi tâm hai người hiện điểm đỏ, cả hai ngã xuống cùng lúc."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Đi trong lồng giam, Vương Lâm phát hiện tử khí ở Hồng lao thật ra tỏa ra từ đâu?",
+    "options": [
+      "Từ xác người chết lâu năm",
+      "Từ trận pháp dưới đáy ngục",
+      "Từ chính đám phạm nhân",
+      "Từ các hồ máu dưới đất"
+    ],
+    "correctIndex": 2,
+    "explanation": "Hắn nhận ra tử khí phát ra từ phạm nhân, những kẻ một lòng tìm chết mà không dám tự kết liễu.",
+    "chapter": 573,
+    "source": "Tiên Nghịch ch.573",
+    "evidence": "Vương Lâm phát hiện \"tử khí này lại phát ra từ đám phạm nhân\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Theo gã cai ngục họ Hứa, vì sao Vương Lâm giết hơn nửa phạm nhân mà vẫn chưa ngộ ra?",
+    "options": [
+      "Phạm nhân bị cấm chế quá nhiều",
+      "Sát tâm của hắn chưa đủ",
+      "Tiên lực của hắn còn yếu",
+      "Phạm nhân ở đây tu vi quá thấp"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gã họ Hứa cho rằng Vương Lâm giết để nghiên cứu nên không sinh đủ sát tâm.",
+    "chapter": 573,
+    "source": "Tiên Nghịch ch.573",
+    "evidence": "Gã họ Hứa: \"Bởi vì ngươi giết không đủ, bởi lẽ sát tâm của ngươi không đủ!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Gã cai ngục họ Hứa ở Hồng lao tự nhận mình tu luyện đạo gì?",
+    "options": [
+      "Sát lục yêu đạo",
+      "Huyết sát ma đạo",
+      "Thiên huyễn ma đạo",
+      "Vô tình kiếm đạo"
+    ],
+    "correctIndex": 0,
+    "explanation": "Gã họ Hứa nói hắn là người duy nhất trong Hồng lao tu sát lục yêu đạo.",
+    "chapter": 573,
+    "source": "Tiên Nghịch ch.573",
+    "evidence": "Gã họ Hứa nói: \"Ta tu luyện chính là sát lục yêu đạo!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Đổi lại việc đưa Vương Lâm tới nơi lĩnh hội sát tâm, gã họ Hứa đòi điều gì?",
+    "options": [
+      "Đưa hắn thoát khỏi Hồng lao",
+      "Truyền cho hắn công pháp sát lục",
+      "Dâng cho hắn ba khối yêu tinh",
+      "Giết một yêu tướng hắn căm hận"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn muốn Vương Lâm dùng thần thông sát lục giết một yêu tướng mà hắn mang hận.",
+    "chapter": 573,
+    "source": "Tiên Nghịch ch.573",
+    "evidence": "Gã họ Hứa đặt điều kiện \"Giúp ta giết yêu tướng\", trong mắt hiện vẻ hận thù."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Mỗi ngày nhiều lần, những người trong hồ máu ở đáy Hồng lao đồng loạt làm gì?",
+    "options": [
+      "Quỳ lạy ngân long trên trời",
+      "Hợp sức phá lối ra",
+      "Lao lên chém giết lẫn nhau",
+      "Tế máu cho trận pháp"
+    ],
+    "correctIndex": 2,
+    "explanation": "Họ bay khỏi hồ máu, mắt đỏ bừng, tấn công người bên cạnh; mỗi ngày như vậy bốn lần.",
+    "chapter": 574,
+    "source": "Tiên Nghịch ch.574",
+    "evidence": "Mọi người trong hồ máu bay lên, \"lập tức hướng về người bên cạnh tấn công\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Ngồi trong hồ máu, lúc đầu Vương Lâm vận tiên lực chống sát khí. Sau đó hắn làm gì?",
+    "options": [
+      "Rời khỏi hồ máu ngay",
+      "Buông tiên lực, chỉ giữ tâm thần",
+      "Phong bế toàn bộ kinh mạch",
+      "Dùng pháp bảo hút cạn sát khí"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hắn thả lỏng tiên lực, chỉ vây giữ tâm thần, để sát niệm tùy ý chạy khắp người.",
+    "chapter": 574,
+    "source": "Tiên Nghịch ch.574",
+    "evidence": "Vương Lâm \"thả lỏng tiên lực, chỉ vây tâm thần bản thân lại\", để sát niệm tự do."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Sau các trận chém giết dưới đáy Hồng lao, ngân long hiện trên trời để làm gì?",
+    "options": [
+      "Hút sát vụ của kẻ trụ lại",
+      "Hút máu trong các hồ máu",
+      "Nuốt hồn những kẻ đã chết",
+      "Ban thưởng cho kẻ chiến thắng"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ngân long hút huyết sát vụ trên người kẻ sống sót; đó là thức ăn của nó.",
+    "chapter": 574,
+    "source": "Tiên Nghịch ch.574",
+    "evidence": "Sát vụ trên người thanh niên thoát khỏi thân thể, \"bị ác long kia hút vào bụng\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Theo lời người truyền công năm xưa, Vương Lâm tu được Sát lục tiên quyết là nhờ ý cảnh nào?",
+    "options": [
+      "Thiên huyễn vô tình",
+      "Trảm tình tuyệt ái",
+      "Sát phạt vô tận",
+      "Sinh tử luân hồi"
+    ],
+    "correctIndex": 3,
+    "explanation": "Người truyền công nói vì ý cảnh của hắn là sinh tử luân hồi nên tu được công pháp này.",
+    "chapter": 574,
+    "source": "Tiên Nghịch ch.574",
+    "evidence": "Người nọ từng nói \"bởi vì ý cảnh của ta là sinh tử luân hồi\" nên tu được."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Kẻ có sát vụ dày nhất lao lên đánh ngân long. Bị nó giết rồi hồi sinh, hắn mất đi thứ gì?",
+    "options": [
+      "Một nửa tu vi vốn có",
+      "Toàn bộ ký ức nơi này",
+      "Toàn bộ sát khí tích lũy",
+      "Cánh tay phải của hắn"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thanh niên tóc đen sống lại thì sát khí toàn thân biến mất, phải chiến đấu tích lại từ đầu.",
+    "chapter": 574,
+    "source": "Tiên Nghịch ch.574",
+    "evidence": "Thanh niên sống lại, \"sát khí toàn thân hắn biến mất, trở lại thành một kẻ bình thường\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Khi Vương Lâm đại ngộ Sát lục tiên quyết, đám người trong hồ máu quanh hắn ra sao?",
+    "options": [
+      "Quỳ rạp tôn hắn làm vương",
+      "Hóa khí xám, chết hẳn",
+      "Đồng loạt lao vào giết hắn",
+      "Bỏ chạy khỏi nơi đó"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thân thể họ tan nát thành khí xám vờn quanh Vương Lâm, lần này không sống lại nữa.",
+    "chapter": 575,
+    "source": "Tiên Nghịch ch.575",
+    "evidence": "Những người thân thể tan nát \"cũng không sống lại nữa. Lúc này bọn họ đã chính thức tử vong\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Gã thanh niên tóc đen trong thế giới huyết sắc dưới Hồng lao có tướng mạo giống hệt ai?",
+    "options": [
+      "Yêu tướng Mặc Phi",
+      "Yêu tướng Mạc Lệ Hải",
+      "Tư Mã Viêm",
+      "Tôn Đào"
+    ],
+    "correctIndex": 0,
+    "explanation": "Tướng mạo Mặc Phi giống y hệt nam tử tóc đen ở sâu trong Hồng lao.",
+    "chapter": 575,
+    "source": "Tiên Nghịch ch.575",
+    "evidence": "Tướng mạo Mặc Phi \"so với nam tử tóc đen ở sâu trong Hồng Lao không ngờ giống nhau y hệt\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Đế Kiếm lùng sục Thiên Yêu Thành suốt đêm mà không thấy Vương Lâm, một phần nhờ ai dùng yêu lực che giấu?",
+    "options": [
+      "Gã cai ngục họ Hứa",
+      "Thập Tam",
+      "Phó soái Huyền Thành",
+      "Mạc Lệ Hải"
+    ],
+    "correctIndex": 3,
+    "explanation": "Mạc Lệ Hải giấu hắn trong nơi bế quan và liên tục vận yêu lực bao trùm khí tức của hắn.",
+    "chapter": 575,
+    "source": "Tiên Nghịch ch.575",
+    "evidence": "Mạc Lệ Hải \"lấy yêu lực của mình để bao trùm lên khí tức trên người Vương Lâm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Không tìm ra kẻ làm mình mất mặt, Đế Kiếm trút giận thế nào trong suốt một tháng?",
+    "options": [
+      "Chém sập cổng Thiên Yêu Thành",
+      "Tàn sát quân doanh Hắc Giáp",
+      "Liên tục phá Hồng lao",
+      "Đốt trụi phủ các Yêu Soái"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cứ khi Hồng lao sắp sửa xong, Đế Kiếm lại tới phá phách để trút giận.",
+    "chapter": 575,
+    "source": "Tiên Nghịch ch.575",
+    "evidence": "Cứ khi Hồng Lao được sửa gần xong, \"nó liền lập tức lại phá phách để trút giận\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Theo luật đại hội Yêu Tướng, người được Yêu Tướng đề cử thay mình xuất chiến phải là ai?",
+    "options": [
+      "Thuộc hạ theo hắn trên trăm năm",
+      "Người từ bên ngoài đến",
+      "Người cùng thành với hắn",
+      "Người được Yêu Soái bảo lãnh"
+    ],
+    "correctIndex": 1,
+    "explanation": "Người thay thế không được là người bản địa mà phải từ bên ngoài đến; vì thế Mạc Lệ Hải chọn Vương Lâm.",
+    "chapter": 575,
+    "source": "Tiên Nghịch ch.575",
+    "evidence": "Người thay thế \"không thể là người bản địa, phải là người từ bên ngoài đến\"."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "vua",
+    "question": "Phó soái Huyền Thành có bản lĩnh tương đương tu sĩ cảnh giới nào?",
+    "options": [
+      "Vấn Đỉnh sơ kỳ",
+      "Anh Biến hậu kỳ",
+      "Hóa Thần hậu kỳ",
+      "Anh Biến trung kỳ"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm nhìn ra hắn tương đương Vấn Đỉnh sơ kỳ, đã tới đỉnh sơ kỳ.",
+    "chapter": 576,
+    "source": "Tiên Nghịch ch.576",
+    "evidence": "Người này \"bản lãnh tương đương với tu sĩ Vấn Đỉnh Sơ Kỳ\", đã tới đỉnh sơ kỳ."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Cả Thiên Yêu Thành đều biết phó soái Huyền Thành cả đời yêu thích nhất thứ gì?",
+    "options": [
+      "Rượu ủ lâu năm",
+      "Những thanh kiếm cổ",
+      "Các loài chim quý",
+      "Các loài hoa kỳ dị"
+    ],
+    "correctIndex": 3,
+    "explanation": "Phó soái thích và quý trọng hoa lạ; tôi tớ lỡ đụng phải hoa liền bị đuổi khỏi phủ.",
+    "chapter": 576,
+    "source": "Tiên Nghịch ch.576",
+    "evidence": "Phó soái Huyền Thành \"cả đời thích nhất là những loại hoa kỳ dị\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Bị sát lục khí của Vương Lâm tập kích, yêu khí trên người phó soái Huyền Thành ngưng thành hình gì?",
+    "options": [
+      "Một con giao long",
+      "Một con đại bàng",
+      "Một đầu mãnh hổ",
+      "Một con hắc báo"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yêu lực bạo phát hình thành một đầu mãnh hổ, nhưng lập tức bị sát lục khí xuyên thấu.",
+    "chapter": 576,
+    "source": "Tiên Nghịch ch.576",
+    "evidence": "Trên thân người \"yêu khí hình thành một đầu mãnh hổ\" rồi bị xuyên thấu."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Vừa tiễn Vương Lâm và Mạc Lệ Hải đi khỏi, phó soái Huyền Thành làm gì?",
+    "options": [
+      "Báo việc này lên Yêu Đế",
+      "Phun máu rồi bế quan",
+      "Sai người ám sát Vương Lâm",
+      "Tiến cử Vương Lâm làm phó soái"
+    ],
+    "correctIndex": 1,
+    "explanation": "Hai người vừa đi xa, hắn phun ra một ngụm máu và tuyên bố bế quan ba tháng.",
+    "chapter": 576,
+    "source": "Tiên Nghịch ch.576",
+    "evidence": "Phó soái phun máu, nói: \"Ba tháng tới, ta sẽ không tiếp bất cứ ai, ta muốn bế quan!\""
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Yêu Đế dọa sẽ đưa Đế Kiếm tới đâu nếu nó còn bướng bỉnh?",
+    "options": [
+      "Long Đàm",
+      "Hỏa Yêu Quận",
+      "Cửu Tuyệt quận",
+      "Đông Hải"
+    ],
+    "correctIndex": 0,
+    "explanation": "Người mặc hoàng bào dọa đưa Đế Kiếm tới Long Đàm khiến nó lập tức im tiếng.",
+    "chapter": 576,
+    "source": "Tiên Nghịch ch.576",
+    "evidence": "Người mặc hoàng bào nói: \"Nếu còn bướng bỉnh, ta sẽ đưa ngươi đến Long Đàm.\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Bị ngân long chặn đường thoát, gã tóc đen trong thế giới huyết sắc làm nó bị thương bằng cách nào?",
+    "options": [
+      "Phóng ra một đạo kiếm khí",
+      "Đâm thương vào mắt nó",
+      "Kéo nó xuống hồ máu",
+      "Tự bạo thân thể cùng sát vụ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Hắn khẽ hô 'Bạo', thân thể nổ tung, màn sương máu trăm trượng ập vào móng vuốt ngân long.",
+    "chapter": 577,
+    "source": "Tiên Nghịch ch.577",
+    "evidence": "Thân thể người này nổ ầm ầm, sương máu trăm trượng quay cuồng \"hướng về phía móng vuốt ngân long\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "de",
+    "question": "Trước đại hội Yêu Tướng, luật duy nhất trong cuộc đấu đá giữa các phe là gì?",
+    "options": [
+      "Không được thuê sát thủ",
+      "Không được rời Thiên Yêu Thành",
+      "Yêu Tướng không được đấu sinh tử",
+      "Không được giết người ngoài đến"
+    ],
+    "correctIndex": 2,
+    "explanation": "Yêu Tướng đấu sinh tử trong thời gian này sẽ bị hủy tư cách dự đại hội.",
+    "chapter": 577,
+    "source": "Tiên Nghịch ch.577",
+    "evidence": "Luật chỉ có một: \"Yêu Tướng trong thời gian này không được phép chiến đấu sinh tử\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trong cuộc đấu đá công khai trước đại hội Yêu Tướng, các phe chủ yếu nhắm giết ai?",
+    "options": [
+      "Các phó soái đương nhiệm",
+      "Người trợ giúp Yêu Tướng",
+      "Gián điệp của Yêu Đế",
+      "Gia quyến của Yêu Tướng"
+    ],
+    "correctIndex": 1,
+    "explanation": "Giết người trợ giúp như chặt đứt một tay Yêu Tướng, và đó là cuộc chiến công khai.",
+    "chapter": 577,
+    "source": "Tiên Nghịch ch.577",
+    "evidence": "\"Giết người trợ giúp của Yêu Tướng là một cuộc chiến công khai!\""
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Gã áo đen có phi kiếm quấn quanh người như rắn nước tới gây sự, bị Vương Lâm hạ bằng chiêu nào?",
+    "options": [
+      "Tịch Diệt Chỉ",
+      "Hóa Ma Chỉ",
+      "Hoàng Tuyền Chỉ",
+      "Cấm pháp chi mâu"
+    ],
+    "correctIndex": 0,
+    "explanation": "Vương Lâm không đứng dậy, điểm ngón cái phóng Tịch Diệt Chỉ, phá nát phi kiếm rồi đâm vào ngực gã.",
+    "chapter": 577,
+    "source": "Tiên Nghịch ch.577",
+    "evidence": "Vương Lâm điểm ngón cái, \"Tịch Diệt Chỉ xuất ra, một đạo hắc khí\" bắn tới."
+  },
+  {
+    "topic": "canh_gioi",
+    "difficulty": "kho",
+    "question": "Theo Vương Lâm, gã áo đen người Yêu Linh tới khiêu khích hắn bên sông có bản lĩnh tương đương cảnh giới nào?",
+    "options": [
+      "Hóa Thần trung kỳ",
+      "Hóa Thần sơ kỳ",
+      "Nguyên Anh hậu kỳ",
+      "Hóa Thần hậu kỳ"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm biết gã là người Yêu Linh, bản lĩnh chỉ tương đương Hóa Thần hậu kỳ.",
+    "chapter": 577,
+    "source": "Tiên Nghịch ch.577",
+    "evidence": "Người này \"bản lãnh chẳng qua chỉ tương đương với Hóa Thần Hậu Kỳ\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Gã sát thủ trung niên được phái đi đầu tiên lao về phía Vương Lâm trong hình dạng gì?",
+    "options": [
+      "Một đám mây đen",
+      "Một con hắc ưng",
+      "Một đạo cầu vồng",
+      "Một làn sương máu"
+    ],
+    "correctIndex": 2,
+    "explanation": "Gã trung niên rời tửu lầu, hóa thành một đạo cầu vồng bay thẳng về phía Vương Lâm.",
+    "chapter": 578,
+    "source": "Tiên Nghịch ch.578",
+    "evidence": "Người này \"cả người hóa thành một đạo cầu vồng, bay thẳng về hướng Vương Lâm\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Gã thanh niên áo đen hóa giải được đạo hắc khí của Vương Lâm bằng thứ gì?",
+    "options": [
+      "Một tấm yêu giáp",
+      "Hơn trăm quang cầu",
+      "Một tấm khiên băng",
+      "Một thanh phi kiếm"
+    ],
+    "correctIndex": 1,
+    "explanation": "Quang cầu đầu tiên bị hắc khí phá vỡ, hắn tạo thêm hơn trăm quang cầu mới tiêu hao hết hắc khí.",
+    "chapter": 578,
+    "source": "Tiên Nghịch ch.578",
+    "evidence": "\"Gần như trong chớp mắt liền có trên một trăm quang cầu xuất hiện\" chặn hắc khí."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Điều gì kỳ dị trong khí tức của gã thanh niên áo đen khi hắn tiến lại gần Vương Lâm?",
+    "options": [
+      "Yêu lực xen lẫn tiên lực",
+      "Yêu lực mang mùi tử thi",
+      "Không có chút khí tức nào",
+      "Mang khí tức Cổ Thần"
+    ],
+    "correctIndex": 0,
+    "explanation": "Trong yêu lực của hắn có kèm một tia tiên lực, tiên yêu dung hợp thành khí tức kỳ dị.",
+    "chapter": 578,
+    "source": "Tiên Nghịch ch.578",
+    "evidence": "Bên trong yêu lực của hắn \"không ngờ còn kèm theo một tia tiên lực\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Sau khi hắc khí bị hóa giải, Vương Lâm khiến gã thanh niên áo đen tê cứng chỉ bằng gì?",
+    "options": [
+      "Một tiếng quát",
+      "Một cái phất tay áo",
+      "Một đạo lôi điện",
+      "Một ánh mắt"
+    ],
+    "correctIndex": 3,
+    "explanation": "Vương Lâm quay lại nhìn, sát lục chi khí theo ánh mắt phá tan yêu khí, đánh vào tâm trí gã.",
+    "chapter": 578,
+    "source": "Tiên Nghịch ch.578",
+    "evidence": "Sát lục chi khí \"theo ánh mắt Vương Lâm giống như một thanh kiếm sắc bén phát tiết ra\"."
+  },
+  {
+    "topic": "khac",
+    "difficulty": "kho",
+    "question": "Gã áo đen lớn tuổi trên tửu lầu kinh hãi nhận ra đòn cuối của Vương Lâm thể hiện điều gì?",
+    "options": [
+      "Huyết sát chi tâm",
+      "Thiên ma ngoại vực",
+      "Sát lục đạo",
+      "Hủy diệt chi ý"
+    ],
+    "correctIndex": 2,
+    "explanation": "Lão nhận ra đó là sát lục đạo, tự hỏi Vương Lâm đã giết bao nhiêu người.",
+    "chapter": 578,
+    "source": "Tiên Nghịch ch.578",
+    "evidence": "Lão thốt lên: \"Sát lục đạo!! Đây là sát lục đạo!!\""
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Bị Vương Lâm chặn đường tháo chạy, gã áo đen lớn tuổi đã làm gì?",
+    "options": [
+      "Quỳ xuống xin tha mạng",
+      "Tự bạo tiên yêu lực",
+      "Thuấn di thoát đi",
+      "Khai ra kẻ chủ mưu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lão dẫn động phong ấn sâu trong cơ thể, khiến tiên yêu lực phát nổ thổi bay cả vùng trăm trượng.",
+    "chapter": 579,
+    "source": "Tiên Nghịch ch.579",
+    "evidence": "Lão dẫn động phong ấn, \"tiên yêu lực trong cơ thể bỗng nhiên phát nổ\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Mặc Phi dựa vào công trạng ở đâu để xin Yêu Đế cho đấu trước một trận với Mạc Lệ Hải?",
+    "options": [
+      "Hỏa Yêu Quận",
+      "Thiên Yêu Quận",
+      "Cửu Tuyệt quận",
+      "Đông Hải Yêu Linh"
+    ],
+    "correctIndex": 0,
+    "explanation": "Yêu Đế kể Mặc Phi quỳ xin, đem công trạng ở Hỏa Yêu Quận ra nên được chuẩn tấu.",
+    "chapter": 579,
+    "source": "Tiên Nghịch ch.579",
+    "evidence": "Mặc Phi xin đánh trước, \"lấy công trạng ở Hỏa Yêu Quận ra\" khiến Yêu Đế không thể cự tuyệt."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "de",
+    "question": "Trên đường vào Mạc phủ đưa chiến thư, Mạt Dương khiến những ai lại gần trong mười trượng ra sao?",
+    "options": [
+      "Đông cứng thành băng",
+      "Ngã quỵ bất tỉnh",
+      "Bị hút thành thây khô",
+      "Tan nát thành sương máu"
+    ],
+    "correctIndex": 3,
+    "explanation": "Ai tới gần hắn trong vòng mười trượng đều lặng lẽ tan nát, hóa thành sương máu.",
+    "chapter": 579,
+    "source": "Tiên Nghịch ch.579",
+    "evidence": "Người nào đến gần trong vòng mười trượng \"lập tức thân mình tan nát... hóa thành sương máu\"."
+  },
+  {
+    "topic": "dia_danh",
+    "difficulty": "vua",
+    "question": "Chiến thư Mạc Lệ Hải nhận được hẹn ba ngày sau quyết đấu ở đâu?",
+    "options": [
+      "Trước cổng Kiếm Các",
+      "Bên bờ sông Hồng Thành",
+      "Ngoài sảnh đường Cổ Đạo",
+      "Trong Huyền Thành soái phủ"
+    ],
+    "correctIndex": 2,
+    "explanation": "Người đưa chiến thư nói rõ hẹn ba ngày sau, bên ngoài sảnh đường Cổ Đạo.",
+    "chapter": 579,
+    "source": "Tiên Nghịch ch.579",
+    "evidence": "Người đưa chiến thư nói: \"Ba ngày sau, bên ngoài sảnh đường Cổ Đạo!\""
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Địa vị của Kiếm Tiếu Thập Nhị Tử ở Thiên Vận Tinh được ví ngang với ai?",
+    "options": [
+      "Trưởng lão Kiếm Các",
+      "Thiên Vận Thất Tử",
+      "Bát đại Yêu Soái",
+      "Tứ đại tông chủ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Thân là một trong Kiếm Tiếu Thập Nhị Tử, Mạt Dương có địa vị tương đương Thiên Vận Thất Tử.",
+    "chapter": 579,
+    "source": "Tiên Nghịch ch.579",
+    "evidence": "Kiếm Tiếu Thập Nhị Tử \"địa vị trong Thiên Vận Tinh tương đương với Thiên Vận Thất Tử\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "de",
+    "question": "Kiếm hồn hiện ra từ hoa văn trên cự kiếm màu tím của Mạt Dương có hình con gì?",
+    "options": [
+      "Một con dê màu tím",
+      "Một con hổ trắng",
+      "Một con sói xám",
+      "Một con giao long"
+    ],
+    "correctIndex": 0,
+    "explanation": "Từ hoa văn trên cự kiếm biến ảo ra hư ảnh một con dê tím to lớn, đầy khí bạo ngược.",
+    "chapter": 580,
+    "source": "Tiên Nghịch ch.580",
+    "evidence": "\"Hư ảnh một con dê màu tím lập tức từ bên trong hoa văn biến ảo ra\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Cảnh Vương Lâm khuất phục kiếm hồn của cự kiếm giống cảnh năm xưa ai một chỉ đánh tan Thú Hồn trong Xạ Thần Xa?",
+    "options": [
+      "Lăng Thiên Hậu",
+      "Tư Đồ Nam",
+      "Chu Tước Tử",
+      "Thiên Vận Tử"
+    ],
+    "correctIndex": 3,
+    "explanation": "Truyện so sánh hành động này giống hệt cảnh Thiên Vận Tử một chỉ làm Thú Hồn của Xạ Thần Xa tan vỡ.",
+    "chapter": 580,
+    "source": "Tiên Nghịch ch.580",
+    "evidence": "Giống cảnh \"Thiên Vận Tử một chỉ làm cho Thú Hồn bên trong Xạ Thần Xa tan vỡ\"."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "vua",
+    "question": "Bị đoạt kiếm bản mệnh, Mạt Dương định dùng sát chiêu bảo mệnh cuối cùng nào?",
+    "options": [
+      "Tự bạo nguyên anh",
+      "Phù truyền tống vạn dặm",
+      "Đạo kiếm khí do sư tôn ban",
+      "Huyết độn chi thuật"
+    ],
+    "correctIndex": 2,
+    "explanation": "Sát chiêu cuối của hắn là một đạo kiếm khí sư tôn Lăng Thiên Hậu ban; mười hai đệ tử mỗi người một đạo.",
+    "chapter": 580,
+    "source": "Tiên Nghịch ch.580",
+    "evidence": "Sát chiêu tối hậu là \"một đạo kiếm khí do sư tôn Lăng Thiên Hậu ban cho\"."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "de",
+    "question": "Tưởng đã thoát khỏi Mạc phủ an toàn, Mạt Dương bị giết bởi thứ gì?",
+    "options": [
+      "Tịch Diệt Chỉ phóng từ xa",
+      "Khí xám giấu trong cự kiếm",
+      "Đế Kiếm từ trên trời",
+      "Hồn thú của Xạ Thần Xa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Khí xám lặng lẽ tràn ra từ cự kiếm sau lưng, chui vào đầu khiến hắn hóa thây khô.",
+    "chapter": 580,
+    "source": "Tiên Nghịch ch.580",
+    "evidence": "Trên cự kiếm sau lưng, \"từng đạo khí màu xám lẳng lặng từ trong kiếm tràn ra\"."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Mạt Dương thầm nghĩ nếu vị tiền bối nào không vắng mặt hôm ấy thì Vương Lâm hẳn đã chết?",
+    "options": [
+      "Tham Lang",
+      "Lăng Thiên Hậu",
+      "Kim Ma Tử",
+      "Thiên Vận Tử"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mạt Dương nghĩ nếu Tham Lang không rời đi thì chỉ cần tiền bối ra tay, Vương Lâm chắc chắn chết.",
+    "chapter": 580,
+    "source": "Tiên Nghịch ch.580",
+    "evidence": "\"Nếu Tham Lang tiền bối hôm nay không đi Hỏa Yêu Quận\", Vương Lâm sẽ chết."
+  }
+]

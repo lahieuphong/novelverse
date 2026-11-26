@@ -1,0 +1,114 @@
+[
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Đệ tử Đại La Kiếm Tông lần lượt bay vào khoảng trống trên trời rồi biến mất. Thiên Vận Tử nói gì về nơi họ tới?",
+    "options": [
+      "Một tinh cầu hoang ngoài tinh không",
+      "Bên trong bảo tháp bảy màu",
+      "Chính lão cũng không biết",
+      "Một tiểu thế giới do lão tạo ra"
+    ],
+    "correctIndex": 2,
+    "explanation": "Thiên Vận Tử nói trung phẩm Tiên thuật của lão không có lực công kích, vẫn đưa được người đi, còn đi đến nơi nào thì chính lão cũng không biết.",
+    "chapter": 497,
+    "source": "Tiên Nghịch ch.497",
+    "evidence": "Trung phẩm Tiên thuật của lão phu tuy nói không có lực công kích nhưng sau khi Tiên giới không còn mà vẫn có thể đem người đưa đi, còn đi đến nơi nào thì lão phu cũng không biết!"
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vì sao Kiếm Tôn Lăng Thiên Hậu tin Thiên Vận Tử sẽ không dùng Tiên thuật để hại các đệ tử của mình?",
+    "options": [
+      "Lão sợ mất mặt trước quần hùng",
+      "Lão từng lập lời thề độc với Kiếm Tôn",
+      "Hồn đăng của các đệ tử vẫn còn sáng",
+      "Lão còn nợ Kiếm Tôn một món ân tình"
+    ],
+    "correctIndex": 0,
+    "explanation": "Lăng Thiên Hậu biết với thân phận của Thiên Vận Tử, lão không thể dùng thủ đoạn ấy trước mặt bao đạo hữu, nếu không sẽ mất hết mặt mũi; động thái đó chỉ nhằm làm nhục hắn.",
+    "chapter": 497,
+    "source": "Tiên Nghịch ch.497",
+    "evidence": "Trong lòng hắn biết rõ rằng với thân phận của Thiên Vận Tử quyết không thể làm trò trước mặt nhiều đạo hữu như thế, dùng thủ đoạn này để đối phó với đệ tử của mình. Nếu thật thế thì mặt mũi của Thiên Vận Tử sẽ mất hết."
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Trưởng lão sơn cốc ra lệnh cho thanh ảnh giết Vương Lâm, rồi lấy hồn phách hắn để làm gì?",
+    "options": [
+      "Luyện vào trận pháp sơn cốc",
+      "Làm tế phẩm cho yêu linh",
+      "Nuôi cho thanh ảnh lớn mạnh",
+      "Đổi lấy yêu tinh trong thành"
+    ],
+    "correctIndex": 1,
+    "explanation": "Âu Dương Hoa ra lệnh cho thanh ảnh giết Vương Lâm, lấy hồn phách hắn làm tế phẩm cho yêu linh đêm đó.",
+    "chapter": 522,
+    "source": "Tiên Nghịch ch.522",
+    "evidence": "Thanh ảnh, giết hắn! Lấy hồn phách của hắn làm tế phẩm cho yêu linh tối nay!"
+  },
+  {
+    "topic": "cot_truyen",
+    "difficulty": "vua",
+    "question": "Ngọn lửa đen 'địa diệt' mà gã hắc y nam tử họ La phóng ra, từ trên trời hóa thành thứ gì lao xuống Vương Lâm?",
+    "options": [
+      "Một con phượng lửa",
+      "Chín con rắn lửa",
+      "Một bàn tay lửa",
+      "Sáu con rồng lửa"
+    ],
+    "correctIndex": 3,
+    "explanation": "Đám thiên hỏa màu đen từ trên trời xuống hóa thành sáu con rồng lửa màu đen gào thét lao tới Vương Lâm.",
+    "chapter": 527,
+    "source": "Tiên Nghịch ch.527",
+    "evidence": "Nhất là đám thiên hỏa, trong nháy mắt từ trên trời xuống, chúng hóa thành sáu con rồng lửa màu đen."
+  },
+  {
+    "topic": "phap_bao",
+    "difficulty": "kho",
+    "question": "Môn 'huyết sắc ngũ sát' mà gã hắc y nam tử dùng để chộp lấy roi tiên của Vương Lâm vốn chuyên dùng để làm gì?",
+    "options": [
+      "Hút sạch tinh huyết của kẻ địch",
+      "Phong ấn pháp bảo của kẻ thù",
+      "Phá vỡ lớp hộ thể của đối thủ",
+      "Truy dấu kẻ địch đang bỏ chạy"
+    ],
+    "correctIndex": 1,
+    "explanation": "Huyết sắc ngũ sát chuyên dùng chống lại cấm pháp, phong ấn pháp bảo của kẻ thù; hắn dùng bao năm chưa từng sai, lần này là lần đầu thất bại.",
+    "chapter": 528,
+    "source": "Tiên Nghịch ch.528",
+    "evidence": "Hắn biết rằng, huyết sắc ngũ sát của mình chính là chuyên dùng để chống lại cấm pháp, một khi sử dụng, chuyên để phong ấn pháp bảo của kẻ thù."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "kho",
+    "question": "Vì sao Tư Đồ Nam không truyền hết những thần thông ẩn sau hai chỉ pháp đầu của tam sát chiêu cho Vương Lâm?",
+    "options": [
+      "Muốn giữ lại làm át chủ bài",
+      "Chính lão cũng chưa ngộ hết",
+      "Sợ đạo của hắn bị ảnh hưởng",
+      "Lo hắn tu vi chưa đủ chịu nổi"
+    ],
+    "correctIndex": 2,
+    "explanation": "Tư Đồ Nam không keo kiệt; vì ba sát chiêu nhiễm ma tính, nếu dạy toàn bộ, lâu ngày dùng sẽ khiến đạo của Vương Lâm bị biến đổi, ảnh hưởng.",
+    "chapter": 543,
+    "source": "Tiên Nghịch ch.543",
+    "evidence": "Không phải hắn keo kiệt mà là một khi dạy toàn bộ cho Vương Lâm, lâu ngày dùng sẽ bị biến đổi. Đạo của Vương Lâm, rất có thể sẽ bị ảnh hưởng."
+  },
+  {
+    "topic": "nhan_vat",
+    "difficulty": "vua",
+    "question": "Suốt ba ngày Vương Lâm chỉ ngồi im giữa quân doanh, điều khiến phó thống lĩnh Hắc Giáp quân sợ nhất là gì?",
+    "options": [
+      "Hắn bất ngờ ra tay giết người",
+      "Hắn tâu chuyện lên Yêu tướng",
+      "Hắn đoạt lại binh quyền",
+      "Không nhìn thấu được hắn"
+    ],
+    "correctIndex": 3,
+    "explanation": "Tư Mã Viêm không sợ Vương Lâm ra tay, tức giận hay quản lý quân doanh, vì đều có cách đối phó; thứ hắn sợ là cảm giác không nhìn thấu được vị thống lĩnh mới.",
+    "chapter": 548,
+    "source": "Tiên Nghịch ch.548",
+    "evidence": "Hắn không sợ đối phương ra tay, không sợ đối phương tức giận, không sợ đối phương quản lý quân doanh. Tất cả những chuyện đó, hắn đều có biện pháp khiến cho đối phương nản mà tự lăn ra khỏi đây. Cái mà hắn cảm thấy sợ chính là cảm giác nhìn không thấu này."
+  }
+]
