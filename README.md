@@ -25,7 +25,7 @@ npm run serve            # phục vụ dist/ như host tĩnh: http://127.0.0.1:4
 | `npm run build:fixture` / `npm run preview:fixture` | Bản thử có thêm truyện giả trong `tests/fixtures/novels` ra `dist-fixture/` |
 | `npm run test:e2e` | Playwright trên bản build (cần `build` + `build:fixture` trước) |
 | `npm run verify` | content:check → typecheck → test → build |
-| `node scripts/generate-icons.ts` | Sinh lại favicon (`public/favicon.ico`, `favicon-32x32.png`, `apple-touch-icon.png`) từ `src/assets/brand/logo.webp` |
+| `node scripts/generate-icons.ts` | Sinh lại favicon tròn nền trong suốt (`public/favicon.ico`, `favicon-32x32.png`) và `apple-touch-icon.png` (vuông, iOS tự bo góc) từ `src/assets/brand/logo.webp` |
 
 Logo ở header và favicon lấy từ `src/assets/brand/logo.webp` (ảnh vuông). Đổi logo: thay file đó rồi chạy `node scripts/generate-icons.ts`.
 

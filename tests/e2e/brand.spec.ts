@@ -21,6 +21,22 @@ test("favicon và logo header hiển thị được", async ({ page }) => {
   expect(decoded.png).toBe(32);
   expect(decoded.apple).toBe(180);
 
+  // Favicon tròn: góc trong suốt, tâm đặc (cả bản .ico lẫn .png).
+  for (const src of ["/favicon-32x32.png", "/favicon.ico"]) {
+    const alpha = await page.evaluate(async (url) => {
+      const img = new Image();
+      img.src = url;
+      await img.decode();
+      const canvas = document.createElement("canvas");
+      canvas.width = canvas.height = 32;
+      const ctx = canvas.getContext("2d")!;
+      ctx.drawImage(img, 0, 0, 32, 32);
+      return { corner: ctx.getImageData(0, 0, 1, 1).data[3], center: ctx.getImageData(16, 16, 1, 1).data[3] };
+    }, src);
+    expect(alpha.corner, `${src} góc`).toBe(0);
+    expect(alpha.center, `${src} tâm`).toBe(255);
+  }
+
   const logo = page.locator("header img").first();
   await expect(logo).toBeVisible();
   expect(await logo.evaluate((img: HTMLImageElement) => img.complete && img.naturalWidth > 0)).toBe(true);

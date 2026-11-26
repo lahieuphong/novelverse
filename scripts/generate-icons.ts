@@ -3,7 +3,8 @@
  *
  *   node scripts/generate-icons.ts [đường-dẫn-ảnh-vuông]
  *
- * Kết quả: favicon.ico (16/32/48, PNG bên trong), favicon-32x32.png, apple-touch-icon.png (180).
+ * Kết quả: favicon.ico (16/32/48) và favicon-32x32.png cắt tròn, nền trong suốt;
+ * apple-touch-icon.png (180) để vuông vì iOS tự bo góc và tô đen phần trong suốt.
  * Logo ở header lấy trực tiếp src/assets/brand/logo.webp qua astro:assets, không cần chạy script này.
  */
 import { writeFileSync } from "node:fs";
@@ -14,7 +15,23 @@ const root = path.resolve(import.meta.dirname, "..");
 const source = path.resolve(root, process.argv[2] ?? "src/assets/brand/logo.webp");
 const publicDir = path.join(root, "public");
 
-const png = (size: number) => sharp(source).resize(size, size, { fit: "cover" }).png({ compressionLevel: 9, palette: true, quality: 90, effort: 10 }).toBuffer();
+const PNG_OPTIONS = { compressionLevel: 9, palette: true, quality: 90, effort: 10 } as const;
+/** Vẽ ở kích thước gấp nhiều lần rồi thu nhỏ để mép tròn mịn (khử răng cưa) cả ở 16px. */
+const SUPERSAMPLE = 4;
+
+const square = (size: number) => sharp(source).resize(size, size, { fit: "cover" }).png(PNG_OPTIONS).toBuffer();
+
+async function round(size: number): Promise<Buffer> {
+  const big = size * SUPERSAMPLE;
+  const mask = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="${big}" height="${big}"><circle cx="${big / 2}" cy="${big / 2}" r="${big / 2}" fill="#fff"/></svg>`);
+  const masked = await sharp(source)
+    .resize(big, big, { fit: "cover" })
+    .ensureAlpha()
+    .composite([{ input: mask, blend: "dest-in" }])
+    .png()
+    .toBuffer();
+  return sharp(masked).resize(size, size, { kernel: "lanczos3" }).png(PNG_OPTIONS).toBuffer();
+}
 
 /** Đóng gói các ảnh PNG thành file .ico (định dạng ICO chứa PNG, mọi trình duyệt hiện đại đều đọc được). */
 function packIco(images: Array<{ size: number; data: Buffer }>): Buffer {
@@ -41,9 +58,9 @@ function packIco(images: Array<{ size: number; data: Buffer }>): Buffer {
 }
 
 const icoSizes = [16, 32, 48];
-const icoImages = await Promise.all(icoSizes.map(async (size) => ({ size, data: await png(size) })));
+const icoImages = await Promise.all(icoSizes.map(async (size) => ({ size, data: await round(size) })));
 writeFileSync(path.join(publicDir, "favicon.ico"), packIco(icoImages));
-writeFileSync(path.join(publicDir, "favicon-32x32.png"), await png(32));
-writeFileSync(path.join(publicDir, "apple-touch-icon.png"), await png(180));
+writeFileSync(path.join(publicDir, "favicon-32x32.png"), await round(32));
+writeFileSync(path.join(publicDir, "apple-touch-icon.png"), await square(180));
 
-console.log(`Đã sinh favicon.ico (${icoSizes.join("/")}), favicon-32x32.png, apple-touch-icon.png từ ${path.relative(root, source)}`);
+console.log(`Đã sinh favicon.ico (${icoSizes.join("/")}, tròn), favicon-32x32.png (tròn), apple-touch-icon.png từ ${path.relative(root, source)}`);
