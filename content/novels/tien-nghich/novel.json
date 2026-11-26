@@ -1,0 +1,19 @@
+{
+  "$schema": "../../novel.schema.json",
+  "slug": "tien-nghich",
+  "title": "Tiên Nghịch",
+  "altTitles": ["仙逆", "Renegade Immortal"],
+  "author": "Nhĩ Căn",
+  "genres": ["Tiên hiệp", "Tu chân"],
+  "status": "completed",
+  "description": "Vương Lâm là một thiếu niên bình thường ở vùng sơn thôn, tư chất không nổi bật nhưng mang khát vọng bước lên con đường tu tiên. Được gia tộc gửi tới Hằng Nhạc Phái, cậu đi từ những ngày làm tạp dịch đầy lạnh nhạt tới hành trình nghịch thiên cải mệnh, nơi mỗi bước tu luyện đều phải đổi bằng ý chí, máu và những lựa chọn không thể quay đầu.",
+  "cover": "cover.jpg",
+  "chaptersDir": "../../../chuong",
+  "featured": true,
+  "updatedAt": "2026-11-12",
+  "source": {
+    "name": "tamhoan.com",
+    "url": "https://tamhoan.com/truyen/tien-nghich",
+    "note": "Văn bản thu thập bằng scan_tien_nghich.py, mỗi chương một file trong chuong/."
+  }
+}

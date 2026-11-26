@@ -1,0 +1,77 @@
+---
+/** Phân trang mục lục bằng URL (/muc-luc/N/) – hoạt động không cần JS. */
+import Icon from "@/components/Icon.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { tocUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  slug: string;
+  current: number;
+  total: number;
+  /** Trang truyện hiển thị trang 1 nhưng không phải URL /muc-luc/1/. */
+  currentIsOverview?: boolean;
+}
+
+const { slug, current, total, currentIsOverview = false } = Astro.props;
+
+// Cửa sổ trang: 1 … (c-1) c (c+1) … total
+const pages: Array<number | "gap"> = [];
+const visible = new Set([1, total, current - 1, current, current + 1].filter((p) => p >= 1 && p <= total));
+let last = 0;
+for (const page of [...visible].sort((a, b) => a - b)) {
+  if (page - last > 1) pages.push("gap");
+  pages.push(page);
+  last = page;
+}
+const base = buttonVariants({ variant: "outline" });
+---
+
+{
+  total > 1 && (
+    <nav aria-label="Phân trang mục lục" class="flex flex-wrap items-center justify-center gap-1.5">
+      {current > 1 ? (
+        <a href={tocUrl(slug, current - 1)} class={cn(base, "h-11 px-3")} rel="prev">
+          <Icon name="chevron-left" class="size-4" />
+          <span>Trước</span>
+        </a>
+      ) : (
+        <span class={cn(base, "pointer-events-none h-11 border-dashed px-3 text-muted-foreground shadow-none")} aria-hidden="true">
+          <Icon name="chevron-left" class="size-4" />
+          <span>Trước</span>
+        </span>
+      )}
+      {pages.map((page) =>
+        page === "gap" ? (
+          <span class="px-1 text-muted-foreground" aria-hidden="true">
+            …
+          </span>
+        ) : page === current && !currentIsOverview ? (
+          <span
+            class={cn(buttonVariants(), "h-11 min-w-11 px-3 tabular-nums")}
+            aria-current="page"
+          >
+            <span class="sr-only">Trang </span>
+            {page}
+          </span>
+        ) : (
+          <a href={tocUrl(slug, page)} class={cn(base, "h-11 min-w-11 px-3 tabular-nums", page === current && "border-primary text-primary")}>
+            <span class="sr-only">Trang </span>
+            {page}
+          </a>
+        ),
+      )}
+      {current < total ? (
+        <a href={tocUrl(slug, current + 1)} class={cn(base, "h-11 px-3")} rel="next">
+          <span>Sau</span>
+          <Icon name="chevron-right" class="size-4" />
+        </a>
+      ) : (
+        <span class={cn(base, "pointer-events-none h-11 border-dashed px-3 text-muted-foreground shadow-none")} aria-hidden="true">
+          <span>Sau</span>
+          <Icon name="chevron-right" class="size-4" />
+        </span>
+      )}
+    </nav>
+  )
+}

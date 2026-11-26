@@ -1,0 +1,57 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import DataNotice from "@/components/novels/DataNotice.astro";
+import NovelHero from "@/components/novels/NovelHero.astro";
+import TocSection from "@/components/novels/TocSection.astro";
+import { getNovels } from "@/lib/content/catalog";
+import type { NovelRecord } from "@/lib/content/loader";
+import { excerpt } from "@/lib/content/text";
+import { libraryUrl } from "@/lib/urls";
+
+export const getStaticPaths = (() =>
+  getNovels().map((novel) => ({ params: { slug: novel.meta.slug }, props: { novel } }))) satisfies GetStaticPaths;
+
+interface Props {
+  novel: NovelRecord;
+}
+
+const { novel } = Astro.props;
+const { meta } = novel;
+const description = `${meta.title} – ${meta.author}. ${excerpt([meta.description], 130)}`;
+---
+
+<BaseLayout title={`${meta.title} – ${meta.author}`} description={description} ogType="book">
+  <main id="noi-dung" class="mx-auto w-full max-w-5xl space-y-8 px-4 pt-2 pb-10 sm:space-y-10 sm:px-6">
+    <nav aria-label="Vị trí trang" class="text-sm text-muted-foreground">
+      <ol class="flex flex-wrap items-center gap-x-1.5">
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={libraryUrl()}>Thư viện</a></li>
+        <li aria-hidden="true">/</li>
+        <li aria-current="page" class="text-foreground">{meta.title}</li>
+      </ol>
+    </nav>
+
+    <NovelHero novel={novel} headingLevel="h1" variant="detail" />
+
+    {
+      meta.source && (
+        <p class="text-sm text-muted-foreground">
+          Nguồn văn bản:{" "}
+          {meta.source.url ? (
+            <a href={meta.source.url} class="underline underline-offset-4 hover:text-foreground" rel="nofollow noopener" target="_blank">
+              {meta.source.name}
+            </a>
+          ) : (
+            meta.source.name
+          )}
+        </p>
+      )
+    }
+
+    <DataNotice novel={novel} />
+
+    <div id="muc-luc" class="scroll-mt-4">
+      <TocSection novel={novel} page={1} overview />
+    </div>
+  </main>
+</BaseLayout>

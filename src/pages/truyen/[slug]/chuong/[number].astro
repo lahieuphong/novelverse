@@ -1,0 +1,150 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Icon from "@/components/Icon.astro";
+import ReaderBar from "@/components/reader/ReaderBar.astro";
+import ReaderEndNav from "@/components/reader/ReaderEndNav.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { chapterLabel, chapterNeighbors, describeSkip, getNovels, novelStats, tocPageOf } from "@/lib/content/catalog";
+import { readChapter, type ChapterRecord, type NovelRecord } from "@/lib/content/loader";
+import { excerpt } from "@/lib/content/text";
+import { chapterAnchor, chapterUrl, libraryUrl, novelUrl, tocUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+/** Chỉ sinh trang cho chương có nội dung; chương thiếu/chưa cập nhật trả về 404 có lối về mục lục. */
+export const getStaticPaths = (() =>
+  getNovels().flatMap((novel) =>
+    novel.chapters
+      .filter((chapter) => chapter.status === "ok")
+      .map((chapter) => ({
+        params: { slug: novel.meta.slug, number: String(chapter.number) },
+        props: { novel, chapter },
+      })),
+  )) satisfies GetStaticPaths;
+
+interface Props {
+  novel: NovelRecord;
+  chapter: ChapterRecord;
+}
+
+const { novel, chapter } = Astro.props;
+const slug = novel.meta.slug;
+const { paragraphs } = readChapter(chapter);
+const label = chapterLabel(chapter.number, chapter.name);
+const stats = novelStats(novel);
+const { prev, next, skippedBefore, skippedAfter } = chapterNeighbors(novel, chapter.number);
+const prevHref = prev ? chapterUrl(slug, prev.number) : null;
+const nextHref = next ? chapterUrl(slug, next.number) : null;
+const tocHref = `${tocUrl(slug, tocPageOf(novel, chapter.number))}#${chapterAnchor(chapter.number)}`;
+const number = new Intl.NumberFormat("vi-VN");
+
+const prevLink = prev
+  ? { href: chapterUrl(slug, prev.number), label: chapterLabel(prev.number, prev.name), note: describeSkip(skippedBefore, "prev", prev.number) }
+  : null;
+const nextLink = next
+  ? { href: chapterUrl(slug, next.number), label: chapterLabel(next.number, next.name), note: describeSkip(skippedAfter, "next", next.number) }
+  : null;
+
+const description = `Đọc ${novel.meta.title} – ${label}. ${excerpt(paragraphs, 120)}`;
+const navButton = cn(buttonVariants({ variant: "outline" }), "h-11 px-3");
+---
+
+<BaseLayout title={`${label} – ${novel.meta.title}`} description={description} prevHref={prevHref} nextHref={nextHref} ogType="article" bodyClass="reader-page" compactFooter>
+  <main id="noi-dung" class="mx-auto w-full max-w-3xl px-4 pt-4 pb-6 sm:px-6">
+    <nav aria-label="Vị trí trang" class="text-sm text-muted-foreground">
+      <ol class="flex flex-wrap items-center gap-x-1.5">
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={libraryUrl()}>Thư viện</a></li>
+        <li aria-hidden="true">/</li>
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={novelUrl(slug)}>{novel.meta.title}</a></li>
+        <li aria-hidden="true">/</li>
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={tocHref}>Mục lục</a></li>
+      </ol>
+    </nav>
+
+    <header class="mx-auto mt-4 mb-6 max-w-[68ch] text-center sm:mt-6 sm:mb-8">
+      <p class="text-sm font-semibold tracking-wide text-primary">{novel.meta.title}</p>
+      <h1 class="mt-2 text-2xl leading-tight font-bold text-balance sm:text-3xl">{label}</h1>
+      <p class="mt-2 text-sm text-muted-foreground">Chương {number.format(chapter.number)} / {number.format(stats.lastNumber)}</p>
+    </header>
+
+    <nav aria-label="Điều hướng chương" class="mx-auto mb-8 hidden max-w-[68ch] items-center justify-between gap-2 md:flex">
+      {
+        prevHref ? (
+          <a href={prevHref} class={navButton} rel="prev">
+            <Icon name="chevron-left" class="size-4" />
+            Chương trước
+          </a>
+        ) : (
+          <span class={cn(navButton, "pointer-events-none border-dashed text-muted-foreground shadow-none")} aria-disabled="true">
+            <Icon name="chevron-left" class="size-4" />
+            Chương trước
+          </span>
+        )
+      }
+      <div class="flex items-center gap-2">
+        <a href={tocHref} class={cn(buttonVariants({ variant: "ghost" }), "h-11 px-3")}>
+          <Icon name="list" class="size-4" />
+          Mục lục
+        </a>
+        <button
+          type="button"
+          class={cn(buttonVariants({ variant: "ghost" }), "js-only h-11 px-3")}
+          data-open-settings
+          aria-haspopup="dialog"
+          aria-controls="reader-settings"
+        >
+          <Icon name="type" class="size-4" />
+          Cài đặt đọc
+        </button>
+      </div>
+      {
+        nextHref ? (
+          <a href={nextHref} class={navButton} rel="next">
+            Chương sau
+            <Icon name="chevron-right" class="size-4" />
+          </a>
+        ) : (
+          <span class={cn(navButton, "pointer-events-none border-dashed text-muted-foreground shadow-none")} aria-disabled="true">
+            Chương sau
+            <Icon name="chevron-right" class="size-4" />
+          </span>
+        )
+      }
+    </nav>
+
+    <article
+      class="reader-content mx-auto"
+      data-reader
+      data-slug={slug}
+      data-chapter={chapter.number}
+      data-label={label}
+      data-prev={prevHref ?? undefined}
+      data-next={nextHref ?? undefined}
+    >
+      {
+        paragraphs.map((paragraph) =>
+          paragraph.includes("\n") ? (
+            <p>
+              {paragraph.split("\n").map((line, index) => (
+                <Fragment>
+                  {index > 0 && <br />}
+                  {line}
+                </Fragment>
+              ))}
+            </p>
+          ) : (
+            <p>{paragraph}</p>
+          ),
+        )
+      }
+    </article>
+
+    <ReaderEndNav number={chapter.number} prev={prevLink} next={nextLink} tocHref={tocHref} novelHref={novelUrl(slug)} novelTitle={novel.meta.title} />
+  </main>
+
+  <ReaderBar prevHref={prevHref} nextHref={nextHref} tocHref={tocHref} />
+</BaseLayout>
+
+<script>
+  import "@/scripts/reader";
+</script>

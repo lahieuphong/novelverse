@@ -1,0 +1,19 @@
+# Không cần cho build website
+cau-hoi
+__pycache__
+*.py
+*.log
+progress.json
+tests
+test-results
+playwright-report
+
+# Sinh ra khi build / cài đặt
+node_modules
+dist
+dist-*
+.astro
+
+# Bí mật cục bộ
+.env*
+.vercel

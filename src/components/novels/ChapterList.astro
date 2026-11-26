@@ -1,0 +1,53 @@
+---
+/**
+ * Danh sách chương của một trang mục lục. Chương thiếu file và chương chưa có nội dung
+ * vẫn giữ vị trí nhưng không có liên kết, để không dẫn tới trang lỗi.
+ */
+import type { TocEntry } from "@/lib/content/catalog";
+import { chapterAnchor, chapterUrl } from "@/lib/urls";
+
+interface Props {
+  slug: string;
+  entries: TocEntry[];
+  /** Chương đang đọc dở (đánh dấu bằng script, không bắt buộc). */
+  headingId?: string;
+}
+
+const { slug, entries, headingId } = Astro.props;
+const statusText = { missing: "Chưa có dữ liệu", placeholder: "Chưa cập nhật", empty: "Chưa cập nhật" } as const;
+---
+
+<ol class="grid gap-x-6 md:grid-cols-2" aria-labelledby={headingId} data-chapter-list={slug}>
+  {
+    entries.map((entry) =>
+      entry.status === "ok" ? (
+        <li id={chapterAnchor(entry.number)} class="scroll-mt-20 border-b border-border/70 target:bg-accent">
+          <a
+            href={chapterUrl(slug, entry.number)}
+            class="flex min-h-12 items-baseline gap-3 rounded-sm py-3 text-[15px] leading-snug hover:text-primary"
+            data-chapter-number={entry.number}
+          >
+            <span class="w-[6.5rem] shrink-0 text-sm whitespace-nowrap text-muted-foreground tabular-nums">Chương {entry.number}</span>
+            <span class="min-w-0 flex-1">{entry.name ?? `Chương ${entry.number}`}</span>
+          </a>
+        </li>
+      ) : (
+        <li
+          id={chapterAnchor(entry.number)}
+          class="scroll-mt-20 border-b border-border/70 target:bg-accent"
+          data-chapter-unavailable={entry.status}
+        >
+          <div class="flex min-h-12 items-baseline gap-3 py-3 text-[15px] leading-snug text-muted-foreground">
+            <span class="w-[6.5rem] shrink-0 text-sm whitespace-nowrap tabular-nums">Chương {entry.number}</span>
+            <span class="min-w-0 flex-1">
+              {entry.name && <span class="mr-2">{entry.name}</span>}
+              <span class="inline-block rounded-full border border-dashed px-2 py-0.5 text-xs font-medium whitespace-nowrap">
+                {statusText[entry.status]}
+              </span>
+            </span>
+          </div>
+        </li>
+      ),
+    )
+  }
+</ol>

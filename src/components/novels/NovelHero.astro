@@ -1,0 +1,73 @@
+---
+/**
+ * Khối giới thiệu truyện: bìa + tên + thông tin + mô tả + nút đọc.
+ * Grid: trên mobile bìa và tên nằm cạnh nhau, mô tả và nút trải hết chiều ngang;
+ * từ sm trở lên mọi thứ nằm ở cột phải bìa. Không lặp nội dung giữa hai bố cục.
+ */
+import Icon from "@/components/Icon.astro";
+import ContinueButton from "@/components/novels/ContinueButton.astro";
+import NovelCover from "@/components/novels/NovelCover.astro";
+import NovelFacts from "@/components/novels/NovelFacts.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { chapterLabel, novelStats } from "@/lib/content/catalog";
+import type { NovelRecord } from "@/lib/content/loader";
+import { chapterUrl, novelUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  novel: NovelRecord;
+  headingLevel?: "h1" | "h2";
+  /** home: nút phụ "Xem mục lục"; detail: nút phụ "Chương mới nhất". */
+  variant?: "home" | "detail";
+  eyebrow?: string;
+}
+
+const { novel, headingLevel = "h1", variant = "detail", eyebrow } = Astro.props;
+const Heading = headingLevel;
+const stats = novelStats(novel);
+const descriptionParagraphs = novel.meta.description.split(/\n\s*\n/).filter(Boolean);
+const secondaryClass = cn(buttonVariants({ variant: "outline", size: "lg" }), "h-12 px-5 text-base");
+---
+
+<div class="grid grid-cols-[auto_minmax(0,1fr)] gap-x-4 gap-y-4 sm:gap-x-8">
+  <NovelCover novel={novel} size="lg" eager class="row-span-1 self-start sm:row-span-3" />
+
+  <div class="min-w-0 space-y-2 self-center sm:self-start sm:pt-1">
+    {eyebrow && <p class="text-sm font-semibold text-primary">{eyebrow}</p>}
+    <Heading class="text-2xl leading-tight font-extrabold tracking-tight text-balance sm:text-4xl">
+      {variant === "home" ? <a href={novelUrl(novel.meta.slug)} class="hover:text-primary">{novel.meta.title}</a> : novel.meta.title}
+    </Heading>
+    {
+      novel.meta.altTitles.length > 0 && (
+        <p class="text-sm text-muted-foreground">
+          <span class="sr-only">Tên khác: </span>
+          {novel.meta.altTitles.join(" · ")}
+        </p>
+      )
+    }
+    <NovelFacts novel={novel} class="pt-1" />
+  </div>
+
+  <div class:list={["col-span-2 space-y-3 text-[15px] leading-relaxed text-foreground/90 sm:col-span-1 sm:col-start-2 sm:text-base", variant === "home" && "line-clamp-5 sm:line-clamp-4"]}>
+    {descriptionParagraphs.map((paragraph) => <p>{paragraph}</p>)}
+  </div>
+
+  <div class="col-span-2 flex flex-wrap gap-3 sm:col-span-1 sm:col-start-2">
+    <ContinueButton novel={novel} class="flex-1 sm:flex-none" />
+    {
+      variant === "home" ? (
+        <a href={`${novelUrl(novel.meta.slug)}#muc-luc`} class={cn(secondaryClass, "flex-1 sm:flex-none")}>
+          <Icon name="list" class="size-5" />
+          Xem mục lục
+        </a>
+      ) : (
+        stats.lastReadable && (
+          <a href={chapterUrl(novel.meta.slug, stats.lastReadable.number)} class={cn(secondaryClass, "flex-1 sm:flex-none")} title={chapterLabel(stats.lastReadable.number, stats.lastReadable.name)}>
+            <Icon name="bookmark" class="size-5" />
+            Chương mới nhất
+          </a>
+        )
+      )
+    }
+  </div>
+</div>

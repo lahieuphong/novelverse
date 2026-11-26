@@ -1,0 +1,88 @@
+---
+/** Điều hướng cuối chương: nổi bật "Chương sau", kèm giải thích khi nhảy qua chương thiếu. */
+import Icon from "@/components/Icon.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
+
+interface Link {
+  href: string;
+  label: string;
+  note: string | null;
+}
+
+interface Props {
+  number: number;
+  prev: Link | null;
+  next: Link | null;
+  tocHref: string;
+  novelHref: string;
+  novelTitle: string;
+}
+
+const { number, prev, next, tocHref, novelHref, novelTitle } = Astro.props;
+---
+
+<nav aria-label="Chương trước và chương sau" class="mx-auto mt-12 max-w-[68ch] border-t pt-8">
+  <p class="mb-5 text-center text-sm text-muted-foreground">Hết chương {number}</p>
+  <div class="grid gap-3 sm:grid-cols-2">
+    {
+      next ? (
+        <a
+          href={next.href}
+          rel="next"
+          class={cn(
+            buttonVariants({ size: "lg" }),
+            "h-auto min-h-16 justify-between gap-3 px-5 py-3 text-left whitespace-normal sm:order-2",
+          )}
+        >
+          <span class="grid gap-0.5">
+            <span class="text-xs font-medium opacity-85">Chương sau</span>
+            <span class="text-base leading-snug font-semibold">{next.label}</span>
+          </span>
+          <Icon name="arrow-right" class="size-5 shrink-0" />
+        </a>
+      ) : (
+        <div class="grid min-h-16 content-center gap-1 rounded-md border border-dashed px-5 py-3 text-sm sm:order-2">
+          <span class="font-semibold">Bạn đã đọc tới chương cuối hiện có.</span>
+          <a href={novelHref} class="text-primary underline underline-offset-4">
+            Về trang {novelTitle}
+          </a>
+        </div>
+      )
+    }
+    {
+      prev ? (
+        <a
+          href={prev.href}
+          rel="prev"
+          class={cn(
+            buttonVariants({ variant: "outline", size: "lg" }),
+            "h-auto min-h-16 justify-start gap-3 px-5 py-3 text-left whitespace-normal sm:order-1",
+          )}
+        >
+          <Icon name="chevron-left" class="size-5 shrink-0" />
+          <span class="grid gap-0.5">
+            <span class="text-xs font-medium text-muted-foreground">Chương trước</span>
+            <span class="text-base leading-snug font-semibold">{prev.label}</span>
+          </span>
+        </a>
+      ) : (
+        <div class="hidden sm:order-1 sm:block" />
+      )
+    }
+  </div>
+  {
+    (next?.note || prev?.note) && (
+      <div class="mt-4 space-y-1 rounded-lg bg-muted px-4 py-3 text-sm text-muted-foreground" role="note">
+        {next?.note && <p>{next.note}</p>}
+        {prev?.note && <p>{prev.note}</p>}
+      </div>
+    )
+  }
+  <div class="mt-4 flex justify-center">
+    <a href={tocHref} class={cn(buttonVariants({ variant: "ghost" }), "h-11 px-4")}>
+      <Icon name="list" class="size-4" />
+      Mục lục
+    </a>
+  </div>
+</nav>

@@ -1,0 +1,133 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Icon from "@/components/Icon.astro";
+import NovelCard from "@/components/novels/NovelCard.astro";
+import NovelHero from "@/components/novels/NovelHero.astro";
+import { chapterLabel, getNovels, novelStats, readableChapters } from "@/lib/content/catalog";
+import type { ChapterRecord } from "@/lib/content/loader";
+import { chapterUrl, libraryUrl, novelUrl } from "@/lib/urls";
+
+const novels = getNovels();
+const featured = novels[0];
+const others = novels.slice(1);
+const number = new Intl.NumberFormat("vi-VN");
+const totalReadable = novels.reduce((sum, novel) => sum + novelStats(novel).readable, 0);
+
+// Một truyện: hiện chương mới nhất + chương mở đầu. Nhiều truyện: thư viện + mới cập nhật.
+const readable = featured ? readableChapters(featured) : [];
+const latest: ChapterRecord[] = readable.slice(-5).reverse();
+const opening: ChapterRecord[] = readable.slice(0, 5);
+const updated = [...novels]
+  .filter((novel) => novel.meta.updatedAt)
+  .sort((a, b) => ((a.meta.updatedAt ?? "") < (b.meta.updatedAt ?? "") ? 1 : -1))
+  .slice(0, 6);
+const dateFormat = new Intl.DateTimeFormat("vi-VN", { day: "2-digit", month: "2-digit", year: "numeric", timeZone: "UTC" });
+
+const description = featured
+  ? `Đọc ${novels.map((n) => n.meta.title).join(", ")} trên NovelVerse – mục lục rõ ràng, đọc mượt trên điện thoại, tablet và máy tính.`
+  : "NovelVerse – thư viện truyện chữ tiếng Việt.";
+const listLink = "flex min-h-12 items-baseline gap-3 border-b border-border/70 py-3 text-[15px] leading-snug hover:text-primary";
+---
+
+<BaseLayout description={description}>
+  <main id="noi-dung" class="mx-auto w-full max-w-6xl space-y-10 px-4 py-6 sm:space-y-14 sm:px-6 sm:py-10">
+    <div>
+      <h1 class="text-xl font-bold tracking-tight sm:text-2xl">Đọc truyện chữ tiếng Việt</h1>
+      <p class="mt-1 text-sm text-muted-foreground">
+        {number.format(novels.length)} truyện · {number.format(totalReadable)} chương đọc được
+      </p>
+    </div>
+
+    {
+      featured ? (
+        <section aria-label="Truyện nổi bật" class="rounded-2xl border bg-card p-4 text-card-foreground shadow-xs sm:p-8">
+          <NovelHero novel={featured} headingLevel="h2" variant="home" eyebrow="Truyện nổi bật" />
+        </section>
+      ) : (
+        <section class="rounded-2xl border border-dashed p-8 text-center">
+          <h2 class="text-lg font-semibold">Thư viện chưa có truyện</h2>
+          <p class="mt-2 text-muted-foreground">Thêm thư mục truyện vào content/novels để bắt đầu (xem README).</p>
+        </section>
+      )
+    }
+
+    {
+      others.length > 0 && (
+        <section aria-labelledby="library-heading" class="space-y-5">
+          <div class="flex items-end justify-between gap-4">
+            <h2 id="library-heading" class="text-xl font-bold sm:text-2xl">Thư viện</h2>
+            <a href={libraryUrl()} class="inline-flex min-h-11 items-center gap-1 text-sm font-medium text-primary hover:underline">
+              Xem tất cả <Icon name="arrow-right" class="size-4" />
+            </a>
+          </div>
+          <div class="grid gap-4 md:grid-cols-2">
+            {others.slice(0, 6).map((novel) => (
+              <NovelCard novel={novel} />
+            ))}
+          </div>
+        </section>
+      )
+    }
+
+    {
+      others.length > 0 && updated.length > 0 && (
+        <section aria-labelledby="updated-heading" class="space-y-4">
+          <h2 id="updated-heading" class="text-xl font-bold sm:text-2xl">Mới cập nhật</h2>
+          <ul>
+            {updated.map((novel) => {
+              const last = novelStats(novel).lastReadable;
+              return (
+                <li class="flex flex-wrap items-baseline justify-between gap-x-4 border-b border-border/70 py-3">
+                  <a href={novelUrl(novel.meta.slug)} class="inline-flex min-h-11 items-center font-semibold hover:text-primary">
+                    {novel.meta.title}
+                  </a>
+                  <span class="text-sm text-muted-foreground">
+                    {last && (
+                      <a href={chapterUrl(novel.meta.slug, last.number)} class="hover:text-primary hover:underline">
+                        {chapterLabel(last.number, last.name)}
+                      </a>
+                    )}
+                    {novel.meta.updatedAt && <span> · {dateFormat.format(new Date(`${novel.meta.updatedAt}T00:00:00Z`))}</span>}
+                  </span>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      )
+    }
+
+    {
+      featured && others.length === 0 && readable.length > 0 && (
+        <div class="grid gap-10 md:grid-cols-2">
+          <section aria-labelledby="opening-heading">
+            <h2 id="opening-heading" class="mb-2 text-xl font-bold">Đọc từ đầu</h2>
+            <ol>
+              {opening.map((chapter) => (
+                <li>
+                  <a href={chapterUrl(featured.meta.slug, chapter.number)} class={listLink}>
+                    <span class="w-[6.5rem] shrink-0 text-sm whitespace-nowrap text-muted-foreground tabular-nums">Chương {chapter.number}</span>
+                    <span>{chapter.name ?? chapterLabel(chapter.number, null)}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+          <section aria-labelledby="latest-heading">
+            <h2 id="latest-heading" class="mb-2 text-xl font-bold">Chương mới nhất</h2>
+            <ol>
+              {latest.map((chapter) => (
+                <li>
+                  <a href={chapterUrl(featured.meta.slug, chapter.number)} class={listLink}>
+                    <span class="w-[6.5rem] shrink-0 text-sm whitespace-nowrap text-muted-foreground tabular-nums">Chương {chapter.number}</span>
+                    <span>{chapter.name ?? chapterLabel(chapter.number, null)}</span>
+                  </a>
+                </li>
+              ))}
+            </ol>
+          </section>
+        </div>
+      )
+    }
+  </main>
+</BaseLayout>

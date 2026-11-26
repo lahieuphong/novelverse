@@ -1,0 +1,39 @@
+---
+/** Ghi chú ngắn về chương thiếu/chưa cập nhật – tính từ dữ liệu, không liệt kê cứng. */
+import Icon from "@/components/Icon.astro";
+import type { NovelRecord } from "@/lib/content/loader";
+import { novelStats } from "@/lib/content/catalog";
+import { formatRanges } from "@/lib/content/text";
+
+interface Props {
+  novel: NovelRecord;
+}
+
+const { novel } = Astro.props;
+const stats = novelStats(novel);
+const number = new Intl.NumberFormat("vi-VN");
+const hasGaps = stats.missing.length > 0 || stats.unavailable.length > 0;
+---
+
+{
+  hasGaps && (
+    <aside class="flex gap-3 rounded-lg border bg-card p-4 text-sm leading-relaxed text-card-foreground" aria-label="Ghi chú dữ liệu">
+      <Icon name="info" class="mt-0.5 size-5 shrink-0 text-primary" />
+      <div class="space-y-1">
+        <p>
+          Đọc được <strong>{number.format(stats.readable)}</strong> / {number.format(stats.lastNumber)} chương.
+        </p>
+        {stats.missing.length > 0 && (
+          <p class="text-muted-foreground">
+            Chưa có trong dữ liệu nguồn: chương {formatRanges(stats.missing)}.
+          </p>
+        )}
+        {stats.unavailable.length > 0 && (
+          <p class="text-muted-foreground">
+            Chưa cập nhật nội dung: chương {formatRanges(stats.unavailable)}.
+          </p>
+        )}
+      </div>
+    </aside>
+  )
+}

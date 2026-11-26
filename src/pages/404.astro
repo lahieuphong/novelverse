@@ -1,0 +1,50 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import Icon from "@/components/Icon.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { getNovels, novelStats, TOC_PAGE_SIZE } from "@/lib/content/catalog";
+import { compressRanges } from "@/lib/content/text";
+import { BASE, chapterBaseUrl, homeUrl, libraryUrl, novelUrl, tocBaseUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+// Dữ liệu gọn để script nhận ra URL chương thiếu và đưa người đọc về đúng trang mục lục.
+const hints = getNovels().map((novel) => {
+  const stats = novelStats(novel);
+  return {
+    slug: novel.meta.slug,
+    title: novel.meta.title,
+    first: stats.firstNumber,
+    last: stats.lastNumber,
+    missing: compressRanges(stats.missing),
+    unavailable: compressRanges(stats.unavailable),
+    novelUrl: novelUrl(novel.meta.slug),
+    tocBase: tocBaseUrl(novel.meta.slug),
+    chapterBase: chapterBaseUrl(novel.meta.slug),
+  };
+});
+const data = JSON.stringify({ base: BASE, pageSize: TOC_PAGE_SIZE, novels: hints }).replace(/</g, "\\u003c");
+---
+
+<BaseLayout title="Không tìm thấy trang" description="Trang bạn tìm không tồn tại trên NovelVerse." noindex>
+  <main id="noi-dung" class="mx-auto flex w-full max-w-2xl flex-col items-center px-4 py-16 text-center sm:py-24">
+    <p class="text-6xl font-extrabold tracking-tight text-primary">404</p>
+    <h1 class="mt-4 text-2xl font-bold sm:text-3xl" data-nf-title>Không tìm thấy trang</h1>
+    <p class="mt-3 text-muted-foreground" data-nf-message>Trang bạn mở không tồn tại hoặc đã được chuyển đi.</p>
+    <div class="mt-8 flex flex-wrap justify-center gap-3">
+      <a href={libraryUrl()} class={cn(buttonVariants({ size: "lg" }), "h-12 px-5")} data-nf-primary>
+        <Icon name="library" class="size-5" />
+        <span data-nf-primary-label>Vào thư viện</span>
+      </a>
+      <a href={homeUrl()} class={cn(buttonVariants({ variant: "outline", size: "lg" }), "h-12 px-5")}>
+        <Icon name="home" class="size-5" />
+        Trang chủ
+      </a>
+    </div>
+  </main>
+  <script is:inline type="application/json" id="nv-404-data" set:html={data} />
+</BaseLayout>
+
+<script>
+  import { initNotFound } from "@/scripts/not-found";
+  initNotFound();
+</script>

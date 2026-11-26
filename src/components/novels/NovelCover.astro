@@ -1,0 +1,59 @@
+---
+import { Image } from "astro:assets";
+import type { NovelRecord } from "@/lib/content/loader";
+import { loadCover } from "@/lib/content/covers";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  novel: NovelRecord;
+  size?: "sm" | "md" | "lg";
+  /** Ảnh ở đầu trang (LCP) thì tải ngay, còn lại lazy-load. */
+  eager?: boolean;
+  class?: string;
+}
+
+const { novel, size = "md", eager = false, class: className } = Astro.props;
+const cover = await loadCover(novel);
+
+const widthClass = {
+  sm: "w-20 sm:w-24",
+  md: "w-28 sm:w-36",
+  lg: "w-28 sm:w-44 lg:w-52",
+}[size];
+const sizes = {
+  sm: "(min-width: 640px) 96px, 80px",
+  md: "(min-width: 640px) 144px, 112px",
+  lg: "(min-width: 1024px) 208px, (min-width: 640px) 176px, 112px",
+}[size];
+---
+
+<div
+  class={cn(
+    "@container relative aspect-[2/3] shrink-0 overflow-hidden rounded-md border border-black/10 shadow-sm",
+    widthClass,
+    className,
+  )}
+>
+  {
+    cover ? (
+      <Image
+        src={cover}
+        alt=""
+        widths={[96, 144, 208, 288, 416]}
+        sizes={sizes}
+        loading={eager ? "eager" : "lazy"}
+        fetchpriority={eager ? "high" : "auto"}
+        decoding="async"
+        class="absolute inset-0 size-full object-cover"
+      />
+    ) : (
+      <div class="text-cover absolute inset-0 flex flex-col justify-between p-[9cqw]" aria-hidden="true">
+        <span class="h-[1.5cqw] w-[22cqw] rounded-full bg-current opacity-60" />
+        <span class="text-[15cqw] leading-[1.08] font-extrabold tracking-tight text-balance break-words">
+          {novel.meta.title}
+        </span>
+        <span class="text-[7.5cqw] leading-tight font-medium opacity-85">{novel.meta.author}</span>
+      </div>
+    )
+  }
+</div>

@@ -1,0 +1,50 @@
+---
+import { Image } from "astro:assets";
+import logo from "@/assets/brand/logo.webp";
+import Icon from "@/components/Icon.astro";
+import { buttonVariants } from "@/components/ui/button";
+import { cn } from "@/lib/utils";
+import { homeUrl, libraryUrl } from "@/lib/urls";
+
+const path = Astro.url.pathname;
+const inLibrary = path.startsWith(libraryUrl());
+---
+
+<header class="border-b border-border/80 bg-background">
+  <div class="mx-auto flex h-14 max-w-6xl items-center gap-2 px-4 sm:px-6">
+    <a
+      href={homeUrl()}
+      class="-ml-2 inline-flex min-h-11 items-center gap-2 rounded-md px-2 text-lg font-bold tracking-tight text-foreground"
+    >
+      <Image
+        src={logo}
+        alt=""
+        width={32}
+        height={32}
+        densities={[1, 2, 3]}
+        loading="eager"
+        decoding="async"
+        class="size-8 shrink-0 rounded-md object-cover ring-1 ring-black/10"
+      />
+      NovelVerse
+    </a>
+    <nav aria-label="Điều hướng chính" class="ml-auto flex items-center gap-1">
+      <a
+        href={libraryUrl()}
+        aria-current={inLibrary && path === libraryUrl() ? "page" : undefined}
+        class={cn(buttonVariants({ variant: "ghost" }), "h-11 px-3 text-[15px]")}
+      >
+        <Icon name="library" class="size-[18px]" />
+        Thư viện
+      </a>
+      <a
+        href={`${libraryUrl()}#tim-kiem`}
+        class={cn(buttonVariants({ variant: "outline", size: "icon" }), "size-11 rounded-full")}
+        aria-label="Tìm truyện"
+        title="Tìm truyện"
+      >
+        <Icon name="search" class="size-[18px]" />
+      </a>
+    </nav>
+  </div>
+</header>

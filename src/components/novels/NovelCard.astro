@@ -1,0 +1,35 @@
+---
+import NovelCover from "@/components/novels/NovelCover.astro";
+import NovelFacts from "@/components/novels/NovelFacts.astro";
+import type { NovelRecord } from "@/lib/content/loader";
+import { novelUrl } from "@/lib/urls";
+
+interface Props {
+  novel: NovelRecord;
+  eager?: boolean;
+  headingLevel?: "h2" | "h3";
+}
+
+const { novel, eager = false, headingLevel = "h3" } = Astro.props;
+const Heading = headingLevel;
+---
+
+<article
+  class="group relative flex gap-4 rounded-xl border bg-card p-3 text-card-foreground transition-colors focus-within:border-ring hover:border-primary/50 sm:p-4"
+  data-novel-card
+  data-slug={novel.meta.slug}
+>
+  <NovelCover novel={novel} size="sm" eager={eager} />
+  <div class="min-w-0 flex-1 space-y-2">
+    <Heading class="text-lg leading-snug font-bold">
+      <a
+        href={novelUrl(novel.meta.slug)}
+        class="outline-none group-hover:text-primary after:absolute after:inset-0 after:rounded-xl focus-visible:after:outline-3 focus-visible:after:outline-offset-2 focus-visible:after:outline-ring"
+      >
+        {novel.meta.title}
+      </a>
+    </Heading>
+    <NovelFacts novel={novel} />
+    <p class="line-clamp-2 text-sm text-muted-foreground">{novel.meta.description}</p>
+  </div>
+</article>

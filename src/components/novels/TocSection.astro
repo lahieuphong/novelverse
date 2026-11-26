@@ -1,0 +1,52 @@
+---
+/** Khối mục lục dùng chung cho trang truyện (trang 1) và các trang /muc-luc/N/. */
+import ChapterJump from "@/components/novels/ChapterJump.astro";
+import ChapterList from "@/components/novels/ChapterList.astro";
+import TocPagination from "@/components/novels/TocPagination.astro";
+import { tocEntries, tocPageCount, tocPageRange } from "@/lib/content/catalog";
+import type { NovelRecord } from "@/lib/content/loader";
+
+interface Props {
+  novel: NovelRecord;
+  page: number;
+  /** Đang hiển thị trên trang truyện (trang tổng quan). */
+  overview?: boolean;
+  headingLevel?: "h1" | "h2";
+}
+
+const { novel, page, overview = false, headingLevel = "h2" } = Astro.props;
+const Heading = headingLevel;
+const total = tocPageCount(novel);
+const [from, to] = tocPageRange(novel, page);
+const entries = tocEntries(novel, page);
+const headingId = `toc-heading-${novel.meta.slug}`;
+---
+
+<section aria-labelledby={headingId} class="space-y-5">
+  <div class="flex flex-wrap items-end justify-between gap-4">
+    <div>
+      <Heading id={headingId} class:list={["font-bold", headingLevel === "h1" ? "text-2xl sm:text-3xl" : "text-xl sm:text-2xl"]}>
+        Mục lục{headingLevel === "h1" && <span class="sr-only"> {novel.meta.title}</span>}
+      </Heading>
+      {
+        total > 0 && (
+          <p class="mt-1 text-sm text-muted-foreground">
+            Chương {from}–{to}
+            {total > 1 && <span> · Trang {page}/{total}</span>}
+          </p>
+        )
+      }
+    </div>
+  </div>
+  {
+    total === 0 ? (
+      <p class="rounded-xl border border-dashed p-8 text-center text-muted-foreground">Truyện chưa có chương nào.</p>
+    ) : (
+      <Fragment>
+        <ChapterJump novel={novel} currentPage={overview ? undefined : page} />
+        <ChapterList slug={novel.meta.slug} entries={entries} headingId={headingId} />
+        <TocPagination slug={novel.meta.slug} current={page} total={total} currentIsOverview={overview} />
+      </Fragment>
+    )
+  }
+</section>

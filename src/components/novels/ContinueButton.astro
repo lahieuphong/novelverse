@@ -1,0 +1,41 @@
+---
+/**
+ * Nút "Bắt đầu đọc" – nếu trình duyệt đã lưu tiến độ của truyện này thì script đổi thành "Đọc tiếp".
+ * Không có JS: luôn là "Bắt đầu đọc" (đi tới chương đầu có nội dung).
+ */
+import Icon from "@/components/Icon.astro";
+import { buttonVariants } from "@/components/ui/button";
+import type { NovelRecord } from "@/lib/content/loader";
+import { novelStats, tocPageCount } from "@/lib/content/catalog";
+import { chapterBaseUrl, chapterUrl, novelUrl, tocUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  novel: NovelRecord;
+  class?: string;
+}
+
+const { novel, class: className } = Astro.props;
+const { firstReadable } = novelStats(novel);
+// Chưa có chương đọc được: dẫn về mục lục (hoặc trang truyện nếu chưa có file chương nào).
+const href = firstReadable
+  ? chapterUrl(novel.meta.slug, firstReadable.number)
+  : tocPageCount(novel) > 0
+    ? tocUrl(novel.meta.slug, 1)
+    : `${novelUrl(novel.meta.slug)}#muc-luc`;
+---
+
+<a
+  href={href}
+  class={cn(buttonVariants({ size: "lg" }), "h-12 min-w-44 px-5 text-base", className)}
+  data-continue-slug={novel.meta.slug}
+  data-continue-base={chapterBaseUrl(novel.meta.slug)}
+>
+  <Icon name="book-open" class="size-5" />
+  <span data-continue-label>Bắt đầu đọc</span>
+</a>
+
+<script>
+  import { initContinueButtons } from "@/scripts/continue-reading";
+  initContinueButtons();
+</script>

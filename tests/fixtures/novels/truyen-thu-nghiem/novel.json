@@ -1,0 +1,12 @@
+{
+  "$schema": "../../../../content/novel.schema.json",
+  "slug": "truyen-thu-nghiem",
+  "title": "Truyện Thử Nghiệm",
+  "altTitles": ["Fixture Novel"],
+  "author": "Người Kiểm Thử",
+  "genres": ["Thử nghiệm"],
+  "status": "ongoing",
+  "description": "Truyện giả chỉ dùng trong test và bản build thử, không xuất hiện trong danh mục chính.\n\nCó đủ các trường hợp: BOM, CRLF, chương thiếu, chương chưa cập nhật, tiêu đề lệch số và ảnh bìa.",
+  "cover": "cover.png",
+  "updatedAt": "2026-11-20"
+}

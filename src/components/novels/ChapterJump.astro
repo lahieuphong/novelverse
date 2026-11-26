@@ -1,0 +1,92 @@
+---
+/**
+ * Đi tới chương theo số (cần JS) + danh sách khoảng chương (liên kết thường, không cần JS).
+ */
+import { buttonVariants } from "@/components/ui/button";
+import type { NovelRecord } from "@/lib/content/loader";
+import { novelStats, TOC_PAGE_SIZE, tocPageCount, tocPageRange } from "@/lib/content/catalog";
+import { compressRanges } from "@/lib/content/text";
+import { chapterBaseUrl, tocBaseUrl, tocUrl } from "@/lib/urls";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  novel: NovelRecord;
+  currentPage?: number;
+}
+
+const { novel, currentPage } = Astro.props;
+const slug = novel.meta.slug;
+const stats = novelStats(novel);
+const pageCount = tocPageCount(novel);
+const unavailable = compressRanges([...stats.missing, ...stats.unavailable])
+  .map(([a, b]) => (a === b ? `${a}` : `${a}-${b}`))
+  .join(",");
+const inputId = `jump-${slug}`;
+const messageId = `jump-msg-${slug}`;
+---
+
+<div class="space-y-3">
+  <form
+    class="js-only flex flex-wrap items-end gap-2"
+    data-chapter-jump
+    data-first={stats.firstNumber}
+    data-last={stats.lastNumber}
+    data-unavailable={unavailable}
+    data-chapter-base={chapterBaseUrl(slug)}
+    data-toc-base={tocBaseUrl(slug)}
+    data-page-size={TOC_PAGE_SIZE}
+    novalidate
+  >
+    <div class="grid gap-1.5">
+      <label for={inputId} class="text-sm font-medium">Đi tới chương</label>
+      <input
+        id={inputId}
+        name="chuong"
+        type="number"
+        inputmode="numeric"
+        min={stats.firstNumber}
+        max={stats.lastNumber}
+        placeholder={`${stats.firstNumber}–${stats.lastNumber}`}
+        aria-describedby={messageId}
+        class="h-11 w-36 rounded-md border border-input bg-card px-3 text-base tabular-nums shadow-xs outline-none focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50"
+      />
+    </div>
+    <button type="submit" class={cn(buttonVariants(), "h-11 px-4")}>Đi</button>
+    <p id={messageId} class="w-full min-h-5 text-sm text-muted-foreground" aria-live="polite" data-jump-message></p>
+  </form>
+
+  {
+    pageCount > 1 && (
+      <details class="group rounded-lg border bg-card">
+        <summary class="flex min-h-11 cursor-pointer items-center px-4 text-sm font-medium select-none">
+          Chọn khoảng chương ({pageCount} trang)
+        </summary>
+        <ul class="grid grid-cols-3 gap-1.5 border-t p-3 sm:grid-cols-5 lg:grid-cols-6">
+          {Array.from({ length: pageCount }, (_, i) => {
+            const page = i + 1;
+            const [from, to] = tocPageRange(novel, page);
+            return (
+              <li>
+                <a
+                  href={tocUrl(slug, page)}
+                  aria-current={page === currentPage ? "page" : undefined}
+                  class={cn(
+                    buttonVariants({ variant: page === currentPage ? "default" : "ghost", size: "sm" }),
+                    "h-11 w-full px-1 text-[13px] tabular-nums",
+                  )}
+                >
+                  {from}–{to}
+                </a>
+              </li>
+            );
+          })}
+        </ul>
+      </details>
+    )
+  }
+</div>
+
+<script>
+  import { initChapterJump } from "@/scripts/chapter-jump";
+  document.querySelectorAll<HTMLFormElement>("form[data-chapter-jump]").forEach(initChapterJump);
+</script>

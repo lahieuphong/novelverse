@@ -1,0 +1,35 @@
+---
+import type { NovelRecord } from "@/lib/content/loader";
+import { novelStats, statusLabel } from "@/lib/content/catalog";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  novel: NovelRecord;
+  class?: string;
+  /** Hiện thể loại dạng nhãn. */
+  showGenres?: boolean;
+}
+
+const { novel, class: className, showGenres = true } = Astro.props;
+const stats = novelStats(novel);
+const number = new Intl.NumberFormat("vi-VN");
+---
+
+<div class={cn("space-y-2 text-sm", className)}>
+  <p class="text-muted-foreground">
+    <span class="sr-only">Tác giả: </span><span class="font-medium text-foreground">{novel.meta.author}</span>
+    <span aria-hidden="true"> · </span>
+    <span>{statusLabel(novel)}</span>
+    <span aria-hidden="true"> · </span>
+    <span>{number.format(stats.lastNumber)} chương</span>
+  </p>
+  {
+    showGenres && (
+      <ul class="flex flex-wrap gap-1.5" aria-label="Thể loại">
+        {novel.meta.genres.map((genre) => (
+          <li class="rounded-full bg-secondary px-2.5 py-0.5 text-xs font-medium text-secondary-foreground">{genre}</li>
+        ))}
+      </ul>
+    )
+  }
+</div>

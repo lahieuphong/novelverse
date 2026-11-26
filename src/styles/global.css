@@ -1,0 +1,228 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Không quét dữ liệu truyện/câu hỏi để tìm class (hàng chục MB văn bản). */
+@source not "../../chuong";
+@source not "../../cau-hoi";
+@source not "../../content";
+@source not "../../tests/fixtures";
+
+/* Theme đặt bằng data-theme trên <html> (script đầu trang). Không có JS: theo hệ thống. */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+:root {
+  --radius: 0.625rem;
+  --font-stack: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, system-ui, sans-serif;
+
+  /* Sáng – nền giấy ấm, chữ than, nhấn xanh ngọc đậm */
+  --background: #f8f5ee;
+  --foreground: #1e2124;
+  --card: #fffdf8;
+  --card-foreground: #1e2124;
+  --popover: #fffdf8;
+  --popover-foreground: #1e2124;
+  --primary: #0b5e57;
+  --primary-foreground: #ffffff;
+  --secondary: #e8f0ec;
+  --secondary-foreground: #0a4a44;
+  --muted: #efe9dd;
+  --muted-foreground: #585d61;
+  --accent: #e6eee9;
+  --accent-foreground: #0a4a44;
+  --destructive: #b42318;
+  --border: #e1dacb;
+  --input: #cfc6b3;
+  --ring: #0b5e57;
+  --cover-from: #0b5e57;
+  --cover-to: #12423d;
+  --cover-ink: #f4efe2;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --background: #141617;
+    --foreground: #e7e3d9;
+    --card: #1b1e20;
+    --card-foreground: #e7e3d9;
+    --popover: #1b1e20;
+    --popover-foreground: #e7e3d9;
+    --primary: #5cc4b4;
+    --primary-foreground: #06201d;
+    --secondary: #1d2a28;
+    --secondary-foreground: #c9ece5;
+    --muted: #22272a;
+    --muted-foreground: #a6abae;
+    --accent: #1f2b2a;
+    --accent-foreground: #cdeee8;
+    --border: #2d3235;
+    --input: #3b4246;
+    --ring: #5cc4b4;
+    --cover-from: #134e48;
+    --cover-to: #0c2b28;
+    --cover-ink: #e9e4d6;
+    color-scheme: dark;
+  }
+}
+
+[data-theme="dark"] {
+  --background: #141617;
+  --foreground: #e7e3d9;
+  --card: #1b1e20;
+  --card-foreground: #e7e3d9;
+  --popover: #1b1e20;
+  --popover-foreground: #e7e3d9;
+  --primary: #5cc4b4;
+  --primary-foreground: #06201d;
+  --secondary: #1d2a28;
+  --secondary-foreground: #c9ece5;
+  --muted: #22272a;
+  --muted-foreground: #a6abae;
+  --accent: #1f2b2a;
+  --accent-foreground: #cdeee8;
+  --border: #2d3235;
+  --input: #3b4246;
+  --ring: #5cc4b4;
+  --cover-from: #134e48;
+  --cover-to: #0c2b28;
+  --cover-ink: #e9e4d6;
+  color-scheme: dark;
+}
+
+[data-theme="sepia"] {
+  --background: #f3e8d0;
+  --foreground: #3a2e21;
+  --card: #f8efdb;
+  --card-foreground: #3a2e21;
+  --popover: #f8efdb;
+  --popover-foreground: #3a2e21;
+  --primary: #0b5a53;
+  --primary-foreground: #ffffff;
+  --secondary: #e6dcc1;
+  --secondary-foreground: #3a2e21;
+  --muted: #e8dbbd;
+  --muted-foreground: #64513c;
+  --accent: #e4d8ba;
+  --accent-foreground: #2f251a;
+  --border: #d9c8a3;
+  --input: #c6b38b;
+  --ring: #0b5a53;
+  --cover-from: #6b4a2b;
+  --cover-to: #3f2a17;
+  --cover-ink: #f6ecd6;
+  color-scheme: light;
+}
+
+@theme inline {
+  --font-sans: var(--font-stack);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    font-family: var(--font-stack);
+  }
+  /* Footer luôn ở đáy màn hình khi nội dung ngắn (footer dùng mt-auto). */
+  body {
+    @apply bg-background text-foreground antialiased;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    min-height: 100dvh;
+    font-family: var(--font-stack);
+    text-rendering: optimizeLegibility;
+  }
+  :focus-visible {
+    outline: 3px solid var(--ring);
+    outline-offset: 2px;
+  }
+  a {
+    -webkit-tap-highlight-color: transparent;
+  }
+}
+
+/* Phần chỉ có tác dụng khi có JS: ẩn khi chưa chạy script (html.no-js). */
+.no-js .js-only {
+  display: none !important;
+}
+
+/* Bìa chữ khi truyện chưa có ảnh bìa – cùng tỷ lệ 2:3 với bìa thật. */
+.text-cover {
+  background:
+    radial-gradient(120% 80% at 100% 0%, rgb(255 255 255 / 0.14), transparent 60%),
+    linear-gradient(160deg, var(--cover-from), var(--cover-to));
+  color: var(--cover-ink);
+}
+
+/* ------------------------------------------------------------------ */
+/* Trang đọc */
+
+.reader-content {
+  font-size: var(--reader-font-size, clamp(1.125rem, 1.06rem + 0.32vw, 1.25rem));
+  line-height: var(--reader-line-height, 1.75);
+  max-width: 68ch;
+  overflow-wrap: break-word;
+  hyphens: manual;
+}
+.reader-content p {
+  margin: 0 0 1em;
+}
+.reader-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Thanh điều hướng cố định trên mobile: chừa safe area và không che đoạn cuối. */
+.reader-page {
+  --reader-bar-height: 3.5rem;
+}
+@media (max-width: 767.98px) {
+  .reader-page {
+    padding-bottom: calc(var(--reader-bar-height) + env(safe-area-inset-bottom, 0px) + 0.5rem);
+  }
+}
+.reader-bar {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+  padding-left: env(safe-area-inset-left, 0px);
+  padding-right: env(safe-area-inset-right, 0px);
+}
+
+dialog.reader-settings::backdrop {
+  background: rgb(0 0 0 / 0.4);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

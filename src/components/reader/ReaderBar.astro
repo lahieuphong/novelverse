@@ -1,0 +1,54 @@
+---
+/** Thanh điều hướng cố định cuối màn hình trên mobile. Trang chừa padding để không che đoạn cuối. */
+import Icon from "@/components/Icon.astro";
+import { cn } from "@/lib/utils";
+
+interface Props {
+  prevHref: string | null;
+  nextHref: string | null;
+  tocHref: string;
+}
+
+const { prevHref, nextHref, tocHref } = Astro.props;
+const item =
+  "flex min-h-11 flex-1 flex-col items-center justify-center gap-0.5 rounded-lg text-xs font-medium text-foreground hover:bg-accent";
+---
+
+<nav aria-label="Điều hướng chương (thanh dưới)" class="reader-bar fixed inset-x-0 bottom-0 z-40 border-t bg-background/95 backdrop-blur-sm md:hidden">
+  <div class="mx-auto flex h-14 max-w-lg items-stretch gap-1 px-2 py-1">
+    {
+      prevHref ? (
+        <a href={prevHref} class={item} rel="prev">
+          <Icon name="chevron-left" class="size-5" />
+          Trước
+        </a>
+      ) : (
+        <span class={cn(item, "pointer-events-none text-muted-foreground")} aria-disabled="true">
+          <Icon name="chevron-left" class="size-5" />
+          Trước
+        </span>
+      )
+    }
+    <a href={tocHref} class={item}>
+      <Icon name="list" class="size-5" />
+      Mục lục
+    </a>
+    <button type="button" class={cn(item, "js-only")} data-open-settings aria-haspopup="dialog" aria-controls="reader-settings">
+      <Icon name="type" class="size-5" />
+      Cài đặt
+    </button>
+    {
+      nextHref ? (
+        <a href={nextHref} class={item} rel="next">
+          <Icon name="chevron-right" class="size-5" />
+          Sau
+        </a>
+      ) : (
+        <span class={cn(item, "pointer-events-none text-muted-foreground")} aria-disabled="true">
+          <Icon name="chevron-right" class="size-5" />
+          Sau
+        </span>
+      )
+    }
+  </div>
+</nav>

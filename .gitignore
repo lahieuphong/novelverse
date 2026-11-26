@@ -2,3 +2,17 @@ __pycache__/
 *.pyc
 *.log
 progress.json
+
+# Node / Astro
+node_modules/
+dist/
+dist-*/
+.astro/
+test-results/
+playwright-report/
+.env
+.env.*
+!.env.example
+
+# Vercel CLI (thư mục liên kết project + .env.local chứa token)
+.vercel/

@@ -1,0 +1,57 @@
+---
+import type { GetStaticPaths } from "astro";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import ContinueButton from "@/components/novels/ContinueButton.astro";
+import NovelFacts from "@/components/novels/NovelFacts.astro";
+import TocSection from "@/components/novels/TocSection.astro";
+import { getNovels, tocPageCount, tocPageRange } from "@/lib/content/catalog";
+import type { NovelRecord } from "@/lib/content/loader";
+import { libraryUrl, novelUrl } from "@/lib/urls";
+
+export const getStaticPaths = (() =>
+  getNovels().flatMap((novel) =>
+    Array.from({ length: tocPageCount(novel) }, (_, index) => ({
+      params: { slug: novel.meta.slug, page: String(index + 1) },
+      props: { novel, page: index + 1 },
+    })),
+  )) satisfies GetStaticPaths;
+
+interface Props {
+  novel: NovelRecord;
+  page: number;
+}
+
+const { novel, page } = Astro.props;
+const { meta } = novel;
+const [from, to] = tocPageRange(novel, page);
+const total = tocPageCount(novel);
+---
+
+<BaseLayout
+  title={`Mục lục ${meta.title} – chương ${from}–${to}`}
+  description={`Mục lục ${meta.title} của ${meta.author}: danh sách chương ${from} đến ${to} (trang ${page}/${total}).`}
+>
+  <main id="noi-dung" class="mx-auto w-full max-w-5xl space-y-8 px-4 pt-2 pb-10 sm:px-6">
+    <nav aria-label="Vị trí trang" class="text-sm text-muted-foreground">
+      <ol class="flex flex-wrap items-center gap-x-1.5">
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={libraryUrl()}>Thư viện</a></li>
+        <li aria-hidden="true">/</li>
+        <li><a class="inline-flex min-h-11 items-center hover:text-foreground hover:underline" href={novelUrl(meta.slug)}>{meta.title}</a></li>
+        <li aria-hidden="true">/</li>
+        <li aria-current="page" class="text-foreground">Mục lục</li>
+      </ol>
+    </nav>
+
+    <div class="flex flex-wrap items-center justify-between gap-4 rounded-xl border bg-card p-4 text-card-foreground">
+      <div class="min-w-0 space-y-1">
+        <p class="text-lg font-bold">
+          <a href={novelUrl(meta.slug)} class="hover:text-primary">{meta.title}</a>
+        </p>
+        <NovelFacts novel={novel} showGenres={false} />
+      </div>
+      <ContinueButton novel={novel} />
+    </div>
+
+    <TocSection novel={novel} page={page} headingLevel="h1" />
+  </main>
+</BaseLayout>

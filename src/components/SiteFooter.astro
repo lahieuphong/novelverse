@@ -1,0 +1,21 @@
+---
+import { homeUrl, libraryUrl } from "@/lib/urls";
+
+interface Props {
+  compact?: boolean;
+}
+const { compact = false } = Astro.props;
+---
+
+<footer class:list={["mt-auto border-t border-border/80 text-sm text-muted-foreground", compact ? "py-6" : "py-10"]}>
+  <div class="mx-auto flex max-w-6xl flex-col gap-3 px-4 sm:flex-row sm:items-center sm:justify-between sm:px-6">
+    <p>
+      <span class="font-semibold text-foreground">NovelVerse</span> · Thư viện truyện chữ tiếng Việt. Bản quyền nội dung
+      thuộc về tác giả và người dịch.
+    </p>
+    <nav aria-label="Liên kết cuối trang" class="flex shrink-0 gap-4 whitespace-nowrap">
+      <a class="inline-flex min-h-11 items-center underline-offset-4 hover:text-foreground hover:underline" href={homeUrl()}>Trang chủ</a>
+      <a class="inline-flex min-h-11 items-center underline-offset-4 hover:text-foreground hover:underline" href={libraryUrl()}>Thư viện</a>
+    </nav>
+  </div>
+</footer>
